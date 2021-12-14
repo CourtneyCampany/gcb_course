@@ -1,0 +1,426 @@
+---
+title: "Plagiarism (and citing)"
+output: 
+  ioslides_presentation:
+    css: custom.css
+    widescreen: true
+    smaller: true
+---
+
+## You’ve been told about plagiarism for a long time…
+<hr>
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:20px; WIDTH:700px; HEIGHT:400px" SRC="images/plagarism.jpg">
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:750px; WIDTH:300px; HEIGHT:400px" SRC="images/plagarism2.jpg">
+
+## Brainstorm: What does it actually mean to plagarize?
+<hr>
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:10px; WIDTH:700px; HEIGHT:400px" SRC="images/plagarism3.jpg">
+
+<IMG STYLE="position:absolute; TOP:275px; LEFT:730px; WIDTH:350px; HEIGHT:200px" SRC="images/brain.png">
+
+## Definition of plagiarism
+<hr>
+<br/>
+<br/>
+
+<div style="float: left; width: 60%;">
+
+* **plagiarism:  (pla·gia·rism | \ˈplā-jə-ˌri-zəm\)**:
+    + To steal and pass off the words and ideas of another as one’s own
+    + Use another’s production without crediting the source
+    + To commit literary theft
+    + Present as new or original an idea or product derived from an existing source
+
+<br/>
+
+* **There are two types of plagiarism:**
+    + Intentional
+    + Unintentional
+
+</div>
+
+<IMG STYLE="position:absolute; TOP:275px; LEFT:675px; WIDTH:350px; HEIGHT:250px" SRC="images/plagarism4.png">
+
+## What are some common examples of student plagiarism?
+<hr>
+<br/>
+
+<div style="float: left; width: 50%;">
+
+* **Copy pasting from a source**
+
+<br/>
+
+* **Copy sentence structure or words from a source**
+
+<br/>
+
+* **Not citing a source**
+
+<br/>
+
+* **Using a citation inappropriately**
+
+</div>
+
+<IMG STYLE="position:absolute; TOP:480px; LEFT:150px; WIDTH:325px; HEIGHT:200px" SRC="images/copy.jpg">
+
+<IMG STYLE="position:absolute; TOP:180px; LEFT:650px; WIDTH:400px; HEIGHT:450px" SRC="images/copy2.png">
+
+## Intentional plagiarism
+<hr>
+<br/>
+<br/>
+<br/>
+
+<div style="float: right; width: 48%;">
+
+* **Submitting pre-written papers downloaded or purchased from the Internet.**
+
+<br/>
+
+* **Cutting and pasting from more than one source without quoting or citing the sources.**
+
+<br/>
+
+* **Borrowing words or ideas from others without giving credit.**
+
+
+</div>
+
+<IMG STYLE="position:absolute; TOP:250px; LEFT:20px; WIDTH:550px; HEIGHT:300px" SRC="images/cheat.png">
+
+## Unintentional plagiarism = Misuse of sources
+<hr>
+<br/>
+
+<div style="float: left; width: 55%;">
+
+* **Accidental appropriation of the ideas and materials of others due to a lack of understanding of the conventions of citation and documentation**
+    + More common than intentional plagiarism
+    + Is NOT a defense! 
+
+
+<br/>
+
+* **Factors that contribute to unintentional plagiarism:**
+    + Lazy paraphrasing and quoting
+    + Haphazard citations
+    + Lack of understanding of the research process
+    + Disengagement from the research process
+
+
+</div>
+
+<IMG STYLE="position:absolute; TOP:220px; LEFT:620px; WIDTH:450px; HEIGHT:350px" SRC="images/opps.png">
+
+## Is plagiarism really a problem?  
+<hr>
+<br/>
+
+
+* **A survey of over 63,700 US undergraduate students over the course of three years (2002-2005) revealed: (McCabe, 2005)**
+    + 36% admit to “paraphrasing/copying few sentences from Internet source without citing it.”
+    + 38% admit to “paraphrasing/copying few sentences from written source without citing it.”
+    + 14% of students admit to “fabricating/falsifying a bibliography”
+    + 7% self report copying materials “almost word for word from a written source without citation.”
+
+<br/>
+<br/>
+<br/>
+<br/>
+
+* **These trends have increased with growth of the internet!**
+
+ 
+<IMG STYLE="position:absolute; TOP:385px; LEFT:675px; WIDTH:350px; HEIGHT:300px" SRC="images/cheat2.png">
+
+## What are the consequences of plagiarism?
+<hr>
+<br/>
+
+
+* **At Shepherd, plagiarism is handled at the discretion of the professor**
+    + The penalty can be anything up to and including assigning the student a failing grade for the class 
+    + Examples: requiring work to be rewritten and resubmitted; lowering a grade; reducing the grade on the assignment; advising the withdrawal of a student from a class
+
+<br/>
+
+* **Cases are reported to the Student Affairs office—at the second offense**
+    + Suspension or expulsion is likely
+
+<br/>
+<br/>
+
+* **In the “real world:”**
+    + Loss of employment
+    + Destruction of reputation
+
+
+<IMG STYLE="position:absolute; TOP:375px; LEFT:780px; WIDTH:300px; HEIGHT:300px" SRC="images/similarity.png">
+
+## Intentional plagiarism is easy to catch
+<hr>
+<br/>
+<br/>
+
+<div style="float: left; width: 45%;">
+
+* **Professor’s core knowledge**
+
+<br/>
+
+* **Familiarity with student abilities**
+
+<br/>
+
+* **Search engines**
+
+<br/>
+
+* **Plagiarism-preventive websites (like Turnitin used at Shepherd)**
+
+<br/>
+
+* **Internet paper mills**
+
+</div>
+
+<IMG STYLE="position:absolute; TOP:275px; LEFT:550px; WIDTH:500px; HEIGHT:300px" SRC="images/report.png">
+
+## Avoiding unintentional plagiarism requires effort on your part
+<hr>
+<br/>
+<br/>
+
+<div style="float: right; width: 63%;">
+
+* **Good research involves:**
+    + Finding an answer to a question by first looking at what others have written in various sources
+    + THEN the researcher asserts himself into the project and creates a conversation between the different sources
+
+<br/>
+
+* **The more you read, strive to understand, and integrate your sources, the less likely to plagiarize you are**
+
+<br/>
+
+* **SURFACE RESEARCHING encourages unintentional plagiarism.**
+
+
+</div>
+
+<IMG STYLE="position:absolute; TOP:230px; LEFT:10px; WIDTH:400px; HEIGHT:300px" SRC="images/effort.jpg">
+
+
+## Key Skills: Citing appropriately
+<hr>
+
+**We  always strive to produce publication quality papers, so try to emulate their use of references**
+
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+
+* **Do not directly quote from other papers except under rare circumstances**
+    + very different from non-science academic writing
+
+
+<IMG STYLE="position:absolute; TOP:220px; LEFT:300px; WIDTH:400px; HEIGHT:350px" SRC="images/citing.png">
+
+## Citing appropriately: Let's try
+<hr>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+
+<font size="5">**Source:** “Our results provide the first estimate of population size for invasive blue catfish in the Chesapeake Bay region. In July–August 2013, tidal habitats along a 12-km stretch of the James River near Claremont, VA, supported about 1.6 million invasive blue catfish (95% CI 0.9 to 2.9 million), or about 544 blue catfish/ha.The population size estimate applies to the portion of the blue catfish population that ranges in size from 240 to 460 mm FL and which is vulnerable to capture by the commercial hoop-net fishery.”</font>
+
+
+<IMG STYLE="position:absolute; TOP:160px; LEFT:50px; WIDTH:1000px; HEIGHT:175px" SRC="images/readercite.png">
+
+## Citing appropriately: Let's try
+<hr>
+<br/>
+<br/>
+
+<font size="5">**Source:** “Our results provide the first estimate of population size for invasive blue catfish in the Chesapeake Bay region. In July–August 2013, tidal habitats along a 12-km stretch of the James River near Claremont, VA, supported about 1.6 million invasive blue catfish (95% CI 0.9 to 2.9 million), or about 544 blue catfish/ha.The population size estimate applies to the portion of the blue catfish population that ranges in size from 240 to 460 mm FL and which is vulnerable to capture by the commercial hoop-net fishery.”</font>
+
+<br/>
+<br/>
+
+<font size="5">**Dr. C:** In the summer of 2013, the population size of invasive blue catfish in the James River (Virginia) large enough to be caught in commercial fishery nets was >500 fish/ha.</font>
+
+</div>
+
+## Key Skills: Effective paraphrasing / summarizing in your notes
+<hr>
+<br/>
+
+<div style="float: left; width: 70%;">
+
+* **Put the article away when writing!!**
+    + Use your notes and outline 
+
+<br/>
+
+1. Reread the original passage until you understand its full meaning.
+<br/>
+2. Set the original aside.
+<br/>
+3. Write your paraphrase. The goal is to express the same meaning but introduce fresh words and sentence structure.  
+<br/>
+4. Check your rendition with the original to make sure that your version accurately expresses all the essential information in a new form.
+<br/>
+5. Cite the reference at the end of your sentence.
+
+</div>
+
+<IMG STYLE="position:absolute; TOP:300px; LEFT:795px; WIDTH:250px; HEIGHT:200px" SRC="images/paraphrase.png">
+
+## Paraphrazing Example
+<hr>
+
+**ORIGINAL PASSAGE:**  Students frequently overuse direct quotation in taking notes, and as a result they overuse quotations in the final [research] paper. Probably only about 10% of your final manuscript should appear as directly quoted matter. Therefore, you should strive to limit the amount of exact transcribing of source materials while taking notes. Lester, James D. Writing Research Papers. 2nd ed., 1976, pp. 46-47.
+
+<br/>
+
+**LEGITIMATE PARAPHRASE**:  In research papers, students often quote excessively, failing to keep quoted material down to a desirable level. Since the problem usually originates during note taking, it is essential to minimize the material recorded verbatim (Lester 46-47).
+
+<br/>
+
+**ACCEPTABLE SUMMARY:**  Students should take just a few notes in direct quotation from sources to help minimize the amount of quoted material in a research paper (Lester 46-47).
+
+<br/>
+
+**PLAGIARIZED VERSION:**  Students often use too many direct quotations when they take notes, resulting in too many of them in the final research paper. In fact, probably only about 10% of the final copy should consist of directly quoted material. So it is important to limit the amount of source material copied while taking notes.
+
+</div>
+
+## Citing vs Common Knowledge
+<hr>
+<br/>
+
+<div style="float: right; width: 72%;">
+
+* **Citations are not needed when information can be considered 'common knowledge"**
+
+<br/>
+
+* **What is common knowledge ?? == Can be tricky:**
+    + Depends on your intended audience
+    + Not everyone knows the same things
+
+<br/>
+
+* **For the capstone, we are going to assume that common knowledge is information most biology majors would know:**
+    + Neurons conduct electrical activity
+    + DNA replication occurs before mitosis
+    + A population is a group of individuals from the same species
+    + Cancer is caused by misregulation of cell growth and division
+
+</div>
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:35px; WIDTH:250px; HEIGHT:400px" SRC="images/commonknow.jpg">
+    
+## Examples: What is not common knowledge?
+<hr>
+<br/>
+
+**Inhibition of glutamatergic neurons causes a decrease in hippocampal neuronal activity**
+
+<br/>
+
+**The checkpoint kinase ATM1 phosphorylates cyclin B**
+
+<br/>
+
+**Dutch elm disease has drastically changed the community structure in eastern forests**
+
+<br/>
+
+**A majority of intestinal cancers are caused by a disruption in the Wnt pathway**
+
+<br/>
+
+**ANY references to studies done by another scientist**
+
+## Key Skills: The Source Formula
+<hr>
+<br/>
+
+<div style="float: left; width: 65%;">
+
+* **Use this flow when introducing paraphrased or summarized material into the text of your paper:**
+    + Intro &rightarrow; Source Material &rightarrow; Citation &rightarrow;Interpretation
+
+<br/>
+
+
+* **Introducing the source material allows you to create transition between ideas.**
+
+<br/>
+
+*  **Interpretation of the material certifies that your own ideas develop and take center stage in your research writing.**
+
+<br/>
+
+* **Thinking through the formula engages you in the research process.**
+</div>
+
+<IMG STYLE="position:absolute; TOP:300px; LEFT:725px; WIDTH:300px; HEIGHT:200px" SRC="images/puzzle.jpg">
+
+
+## Key Skills: Anti-plagiarism checklist
+<hr>
+<br/>
+
+<div style="float: left; width: 66%;">
+
+* **When paraphrasing, translate the original into your own words using your own sentence structure & correctly cite the source**
+
+<br/>
+
+* **Understand that if you’ve summarized a section of material, you still need to provide a citation.**
+
+<br/>
+
+* **Ensure that you haven’t mistaken material that should be documented for “common knowledge.”**
+
+<br/>
+
+* **Make sure your paper isn’t a patchwork of other people’s ideas strung together with a few transitions.**
+
+<br/>
+
+* **Proofread your paper for plagiarism errors.**
+</div>
+
+ <IMG STYLE="position:absolute; TOP:300px; LEFT:730px; WIDTH:375px; HEIGHT:250px" SRC="images/bart.png">
+ 
+##
+ 
+<IMG STYLE="position:absolute; TOP:100px; LEFT:250px; WIDTH:600px; HEIGHT:500px" SRC="images/citeit.jpg">
+

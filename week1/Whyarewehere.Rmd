@@ -1,0 +1,142 @@
+---
+title: "Why are we here?"
+output: 
+  ioslides_presentation:
+    css: custom2.css
+    widescreen: true
+    smaller: true
+---
+
+## Why are we here?
+<hr>
+<br/>
+<font size="5">*Because...Big Bang?*</font>
+ 
+<IMG STYLE="position:absolute; TOP:220px; LEFT:0px; WIDTH:1100px; HEIGHT:400px" SRC="images/universe.png">
+
+## Why are we here?
+<hr>
+<br/>
+<font size="5">*Because...evolution*</font>
+
+<IMG STYLE="position:absolute; TOP:220px; LEFT:50px; WIDTH:1000px; HEIGHT:375px" SRC="images/treeoflife.jpg">
+
+## Why are we here?
+<hr>
+<br/>
+<font size="5">*Because...human adaptability*</font>
+
+<IMG STYLE="position:absolute; TOP:300px; LEFT:15px; WIDTH:500px; HEIGHT:200px" SRC="images/humanevol.png">
+
+<IMG STYLE="position:absolute; TOP:250px; LEFT:600px; WIDTH:450px; HEIGHT:300px" SRC="images/skulls.jpg">
+
+## Why are we here?
+<hr>
+<br/>
+<font size="5">*Because...choices of humans societies*</font>
+
+<IMG STYLE="position:absolute; TOP:220px; LEFT:150px; WIDTH:850px; HEIGHT:400px" SRC="images/landscape.png">
+
+## Why are we here? 
+<hr>
+<br/>
+<font size="5">*Because...those choices have changed the world*</font>
+ 
+<IMG STYLE="position:absolute; TOP:220px; LEFT:150px; WIDTH:800px; HEIGHT:450px" SRC="images/trade.jpg">
+
+## Why are we here?
+<hr>
+<br/>
+<font size="5">*Because...the very limiting stories we have told*</font>
+
+<IMG STYLE="position:absolute; TOP:250px; LEFT:200px; WIDTH:700px; HEIGHT:300px" SRC="images/screwedup.png">
+
+## Why are we here?
+<hr>
+<br/>
+ <font size="5">*Because...we need to be*</font>
+
+<IMG STYLE="position:absolute; TOP:220px; LEFT:100px; WIDTH:400px; HEIGHT:400px" SRC="images/hero.png">
+
+<IMG STYLE="position:absolute; TOP:220px; LEFT:650px; WIDTH:300px; HEIGHT:400px" SRC="images/hero2.jpg">
+
+## Why are we here?
+<hr>
+<br/>
+ <font size="5">*Because...we are at a threshold*</font>
+
+<IMG STYLE="position:absolute; TOP:220px; LEFT:100px; WIDTH:900px; HEIGHT:400px" SRC="images/tip.jpg">
+
+## Why are we here?
+<hr>
+<br/>
+ <font size="5">*Because...we are ready to tell a new story*</font>
+
+<IMG STYLE="position:absolute; TOP:220px; LEFT:100px; WIDTH:900px; HEIGHT:400px" SRC="images/book.jpg">
+
+## Why are we here?
+<hr>
+<br/>
+<font size="5">*Because...each one of you is part of the story*</font>
+
+<IMG STYLE="position:absolute; TOP:220px; LEFT:350px; WIDTH:450px; HEIGHT:400px" SRC="images/group.png">
+
+## Why are we here?
+<hr>
+<br/>
+<font size="5">*Because...each one of you must make a decision*</font>
+
+<IMG STYLE="position:absolute; TOP:220px; LEFT:150px; WIDTH:800px; HEIGHT:400px" SRC="images/ecoego.jpg">
+
+## 
+
+<IMG STYLE="position:absolute; TOP:50px; LEFT:200px; WIDTH:700px; HEIGHT:600px" SRC="images/pew.png">
+
+## 
+
+<IMG STYLE="position:absolute; TOP:50px; LEFT:150px; WIDTH:800px; HEIGHT:600px" SRC="images/problem.png">
+
+## 
+
+<IMG STYLE="position:absolute; TOP:50px; LEFT:200px; WIDTH:700px; HEIGHT:600px" SRC="images/trustscience.png">
+
+## 
+
+<IMG STYLE="position:absolute; TOP:50px; LEFT:200px; WIDTH:700px; HEIGHT:600px" SRC="images/doingenough.png">
+
+##  Why are we here?
+<hr>
+<br/>
+ <font size="5">*Because...why?*</font>
+
+<br/>
+<br/>
+<br/>
+<br/>
+
+**<span style="color:blue">Why did *you* sign up for this class?</span>**
+
+<br/>
+
+**<span style="color:blue">What are *you* hoping to get out if it?</span>**
+
+## Next up: Friday open-discussion based on student survey
+<hr>
+<br/>
+
+**Survey now available on Brightspace**
+<br/>
+**Due Thursday @ 5pm**
+
+<br/>
+
+**<span style="color:green">THREE: </span>What three things about global change (that you know now) are the most important for a non-scientist to know?**
+
+<br/>
+
+**<span style="color:green">TWO: </span>What two things about global change would you like to learn more about in this class?**
+
+<br/>
+
+**<span style="color:green">ONE: </span>What inspired you to take this course?**
+<br/>*Please submit an answer that is not... #Dr.C or #needelective*
