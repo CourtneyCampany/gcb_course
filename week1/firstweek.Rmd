@@ -11,7 +11,6 @@ output:
 <hr>
 <br/>
 <br/>
-<br/>
 
 
 <div style="float: left; width: 40%;">
@@ -29,7 +28,8 @@ output:
 <br/>
 
 **Professor: Dr. Campany**
-
+<br/>
+**Byrd 215, Office Hours:**
 </div>
 
 <IMG STYLE="position:absolute; TOP:180px; LEFT:400px; WIDTH:600px; HEIGHT:450px" SRC="images/earth1.jpg">
@@ -271,6 +271,44 @@ output:
 </div>
 
 <IMG STYLE="position:absolute; TOP:160px; LEFT:625px; WIDTH:400px; HEIGHT:500px" SRC="images/textbook.jpg">
+
+## 3-2-1 reading assignments
+<hr>
+
+* **Dive deep on everything you read in this class!**
+    + <span style="color:blue">Track what excites you, bores you, and confuses you!</span>
+
+<br/>
+
+* **Beginning of chapter features - Pre-asses what you think you know**
+    + Blank Page & Learning Outcomes
+
+<br/>
+
+* **Middle chapter features - Wednesday topics**
+    + Meet the Data & Take a Closer Look
+
+<br/>
+
+* **End of chapter features - Organize your studying**
+    + Key Concepts and Consolidate your Knowledge
+
+
+
+## 3-2-1 reading assignments
+<hr>
+<br/>
+<br/>
+<br/>
+
+* **3-2-1 reading assignments submitted before class on Brightspace (essence of a flipped class)**
+    + Three take home messages from the chapter
+    + Two things you did not understand or would like more information on
+    + One way something in the chapter relates to your personal experience.
+
+<br/>
+
+* **<span style="color:red">If you are not interesting in reading - quit now</span>**
 
 ## Brightspace will be your go to for all course info
 <hr>

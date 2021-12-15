@@ -1,0 +1,309 @@
+---
+title: "Approaches in Global Change Biology"
+output: 
+  ioslides_presentation:
+    css: custom.css
+    widescreen: true
+    smaller: true
+---
+
+## Chapter 1: Group Consensus
+<hr>
+<br/>
+<br/>
+
+* **What are the key chapter elements (take home messages) that I should test you on?**
+
+<br/>
+<br/>
+
+* **What new things are you curious about and/or did not fully understand**
+
+<br/>
+<br/>
+
+* **What is the coolest thing you learned?**
+
+## Get your global change biologist vibe on
+<hr>
+<br/>
+<br/>
+
+<div style="float: left; width: 60%;">
+
+* **Global Change Biology is a new-ish formal field of biology**
+
+<br/>
+
+* **Focused on understanding environmental change and its effects on (and interactions with) life on Earth**
+
+<br/>
+
+* **Represents a pressing need from early career young biologists**
+
+<br/>
+
+* **Communicated many times a day in the news**
+    + science and non-science communication
+
+</div>
+
+<IMG STYLE="position:absolute; TOP:160px; LEFT:660px; WIDTH:400px; HEIGHT:500px" SRC="images/seafood.png">
+
+## Humans are an unprecendented force on natural systems
+<hr>
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:5px; WIDTH:500px; HEIGHT:350px" SRC="images/lungs.jpg">
+
+<div style="float: right; width: 55%;">
+
+* **This is largely a numbers and size game**
+    + 7.9 billion individuals and growing
+    + we are no small organisms
+
+<br/>
+
+* **Environmental change, largely driven by human forcings, impacts most systems across time and space**
+    + impacts microbes to mammals
+    + impacts marine to mountain ecosystems
+    
+<br/>
+
+* **GCB scientists must:**
+    + understand past environmental change (for context)
+    + evaluate current pressures from humans (for degree)
+    + predict trends into the future (for decision making)
+    
+<br/>
+
+* **Today: How does GCB biology work?**
+
+</div>
+
+## The makings of the field of Global Change Biology
+<hr>
+<div style="float: left; width: 63%;">
+
+* **“On the Influence of Carbonic Acid in the Air upon the Temperature of the Ground.” published by Arrhenius in 1895 while studying ice ages**
+    + argued that variations in trace atmosphere components (CO~2~) could greatly influence the heat budget of the Earth
+    + Later, he published equations and argued that burning fossil fuels could impact surface temperature
+
+<br/>
+
+* **Alexander von Humboldt noted that areas surrounding land transformed by agriculture had altered climate (late 1800's)**
+
+<br/>
+
+* **Guy Callendar published first data linking CO~2~ and surfaces temperatures in 1938**
+
+<br/>
+
+* **Soon after, studies of the biological impacts of environmental change exploded**
+</div>
+
+<IMG STYLE="position:absolute; TOP:250px; LEFT:710px; WIDTH:350px; HEIGHT:330px" SRC="images/arrenhius.gif">
+
+## What does the field of GCB look like now?
+<hr>
+<br/>
+<br/>
+
+<div style="float: left; width: 60%;">
+
+* **Scientific publications are the building blocks of science**
+
+<br/>
+
+* **GCB studies are a key component of the permanent wall of science**
+    + Now dedicated journals to the field 
+    + Several high impact journals (Global Change Biology, Nature Climate Change)
+    + dedicated books and textbooks
+
+<br/>
+
+
+* **<span style="color:darkorange">Note: communicating science outside of formal publishing is essential</span>**
+    + indigenous ecological knowledge
+
+</div>
+
+<IMG STYLE="position:absolute; TOP:160px; LEFT:700px; WIDTH:375px; HEIGHT:500px" SRC="images/gcbphoto.jpg">
+
+## 
+
+<IMG STYLE="position:absolute; TOP:50px; LEFT:160px; WIDTH:800px; HEIGHT:600px" SRC="images/books.jpg">
+
+## GCB scientists face/d an uphill battle
+<hr>
+
+<IMG STYLE="position:absolute; TOP:360px; LEFT:225px; WIDTH:600px; HEIGHT:350px" SRC="images/doubt.png">
+
+<IMG STYLE="position:absolute; TOP:160px; LEFT:50px; WIDTH:1000px; HEIGHT:250px" SRC="images/doubt2.png">
+
+## GCB science is interdisciplinary by necessity
+<hr>
+
+<IMG STYLE="position:absolute; TOP:160px; LEFT:225px; WIDTH:600px; HEIGHT:500px" SRC="images/linkage.jpg">
+
+## 
+<br/>
+
+<div style="float: right; width: 44%;">
+<font size="4">**GCB embraces diverse perspectives by necessity**</font>
+
+</div>
+
+<IMG STYLE="position:absolute; TOP:25px; LEFT:10px; WIDTH:600px; HEIGHT:600px" SRC="images/diverseperspectives.jpg">
+
+<IMG STYLE="position:absolute; TOP:220px; LEFT:620px; WIDTH:450px; HEIGHT:350px" SRC="images/circle.jpg">
+
+
+## Scientific bias in GCB can have vast socio-economic consequences
+<hr>
+
+<IMG STYLE="position:absolute; TOP:160px; LEFT:50px; WIDTH:900px; HEIGHT:500px" SRC="images/map.png">
+
+## Targes, investment, policy and consequences do not align
+<hr>
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:10px; WIDTH:500px; HEIGHT:400px" SRC="images/africa.png">
+
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:510px; WIDTH:600px; HEIGHT:400px" SRC="images/sealevel.jpg">
+
+
+## GCB is diverse but utilizes same scientific principles
+<hr>
+<br/>
+
+<div style="float: left; width: 50%;">
+
+* **Vast array of methods due to diversity of fields**
+    + ecology, evolution, conservation, physiology, etc.
+  
+<br/>
+
+* **Data generated is super diverse**
+    + observational study &#8594; genomics &#8594; climate modeling
+
+<br/>
+
+* **Stressors to be studied are many**
+
+<br/>
+
+* **Time frames needed are not the same**
+</div>
+
+<div style="float: right; width: 50%;">
+
+* **All these studies utilize the same design principles**
+    + Independent and dependent variables
+    + Treatments and controls
+    + Main effects and interactions
+    
+<br/>
+
+* **Studies must have replication**
+    + modeling or genomics may be exceptions
+    
+<br/>
+
+* **Studies should have randomization**
+
+</div>
+
+## Review and critical thinking of experimental design
+<hr>
+<br/>
+<br/>
+
+**Simply define *independent* and *dependent* variables**
+
+<br/>
+
+**Why is a *control* treatment absolutely necessary?**
+
+<br/>
+
+**Why does *replication* matter for statistics?**
+
+<br/>
+
+**If there is an *interaction effect* between 2 variables (say warming and drought) are you allowed to talk about a *main effect* by itself (say warming)?**
+
+## GCB science varies in approach
+<hr>
+
+* **Observe and record natural systems undergoing change without manipulation**
+    + tuskless elephants, length of butterfly tongues, etc.
+
+<br/>
+
+* **Search for mechanisms by manipulation (treatments)**
+    + field or laboratory
+    + focus on key variables
+    
+<br/>
+
+* **Use math and computers to predict**
+    + use measured trends to project forward with some level of uncertainity
+    + species interactions to global climate
+ 
+ <br/>
+ 
+* **Combine many single studies to understand if broad patterns exist**
+    + may ignore unexpected or negative results
+
+ <br/>
+ 
+* **Use citizen participation to increase scope**
+
+## GCB science uses the entire cool science toolkit
+<hr>
+<br/>
+ 
+* **Environmental monitoring must be expansive**
+    + ocean &#8594; atmosphere &#859
+    + satellites &#8594; lasers &#8594; submarines
+
+ <br/>
+ 
+* **Lots of different organisms to monitor**
+    + microbes &#8594; plants &#8594; whales
+    + human observation &#8594; satellites
+ 
+  <br/>
+  
+* **Biodiversity and species responses are key**
+    + soil microbiome &#8594; adaptation &#8594; allele diversity
+    + molecular biology tools are vital
+
+ <br/>
+ 
+* **Many experiments or approached generate large datasets**
+    + climate monitoring to genomics
+    + advanced computing is often necessary
+
+ <br/>
+ 
+## How is GCB data often visualized? Let's review and practice
+<hr>
+<br/>
+
+* **How could we show a *significant* relationship between 2 key variables?**
+
+<br/>
+
+* **What is the difference between a linear and exponential function (relationship)?**
+    + draw a weak exponential relationship between atmopsheric CO~2~ and ocean pH
+    
+<br/>
+
+* **How could you show the results of an experiment with treatments?**
+
+<br/>
+
+* **Why does both the center and the spread of data matter**?
+    + draw a comparison of control and warming treatments that are likely biologically different
+
