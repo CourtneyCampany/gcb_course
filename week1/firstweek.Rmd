@@ -184,7 +184,7 @@ output:
 
 <br/>
 
-**Courses knowledge checks:** every few weeks
+**Exams:** one per unit (4 chapters)
 
 <br/>
 
@@ -222,28 +222,28 @@ output:
 
 **Lets take a look**
 
-## Lets get started: New sheet of paper or electronic notes...
-<hr>
-<br/>
-<br/>
+<!-- ## Lets get started: New sheet of paper or electronic notes... -->
+<!-- <hr> -->
+<!-- <br/> -->
+<!-- <br/> -->
 
-<div style="float: left; width: 58%;">
-* **On the top of your page right: Interests Inventory**
+<!-- <div style="float: left; width: 58%;"> -->
+<!-- * **On the top of your page right: Interests Inventory** -->
 
-<br/>
+<!-- <br/> -->
 
-* **Free write about about any topics you are naturally drawn toward in the Global Change Biology arena**
-    + brainstorm with your neighbor
+<!-- * **Free write about about any topics you are naturally drawn toward in the Global Change Biology arena** -->
+<!--     + brainstorm with your neighbor -->
 
-<br/>
+<!-- <br/> -->
 
-* **What issues 'get you fired up'?**
-    + critter or part of the tree of life
-    + biome or region of the world    
-    + environmental issue or human stressor
-</div>
+<!-- * **What issues 'get you fired up'?** -->
+<!--     + critter or part of the tree of life -->
+<!--     + biome or region of the world     -->
+<!--     + environmental issue or human stressor -->
+<!-- </div> -->
 
-<IMG STYLE="position:absolute; TOP:200px; LEFT:650px; WIDTH:400px; HEIGHT:450px" SRC="images/keepcalm.jpg">
+<!-- <IMG STYLE="position:absolute; TOP:200px; LEFT:650px; WIDTH:400px; HEIGHT:450px" SRC="images/keepcalm.jpg"> -->
 
     
 ## Textbook and reading load
