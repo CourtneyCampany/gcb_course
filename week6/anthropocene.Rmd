@@ -1,0 +1,309 @@
+---
+title: "The Anthropocene"
+output: 
+  ioslides_presentation:
+    css: custom.css
+    widescreen: true
+    smaller: true
+---
+
+## The Geologic Time Scale
+<hr>
+
+- **Humans subdivide time into useable units such as our calendar year, months, weeks, and days** 
+
+<br/>
+
+- **Geologists also subdivide time- breaking it into useable, understandable segments**
+    + based on major geologic events
+    + based on appearance (and disappearance) of significant life-forms
+    + starts with formation of Earth’s crust followed by the appearance of ever-changing forms of life
+
+</div>
+
+<IMG STYLE="position:absolute; TOP:370px; LEFT:50px; WIDTH:1000px; HEIGHT:300px" SRC="images/old.jpg">
+
+##
+
+<IMG STYLE="position:absolute; TOP:0px; LEFT:150px; WIDTH:800px; HEIGHT:700px" SRC="images/recent.jpg">
+
+## Key Periods of Human History
+<hr>
+<br/>
+
+<div style="float: left; width: 50%;">
+
+- **We know that humans influence the biosphere - just by being humans**
+    + local vs regional vs global
+
+<br/>
+
+- **On geologic times scales humans have existed in the Cenozoic era**
+    + our evolutionary trajectory takes us through the Pleistocene and Holocene
+    + we are potentially in a new time period: *Anthropocene*
+
+<br/>
+
+- **Understanding human impacts requires historical knowledge of each time period**
+
+</div>
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:550px; WIDTH:550px; HEIGHT:400px" SRC="images/clock.jpg">
+
+## Pleistocene Ice Age (1.8-0.1 mya)
+<hr>
+
+<div style="float: left; width: 65%;">
+
+- **Glaciers repeatedly advance from the Arctic over Europe and North America**
+    + ice up to a mile thick
+    + temperatures ahead of the flow drop significantly.
+    
+<br/>
+
+- **Animal life evolved (or not) to handle temperature change**
+    + new species, range shifts, population declines
+    
+<br/>
+
+- **Hominid line continues to evolve during the Pleistocene**
+    + anatomically modern humans first appear during late stages
+
+<br/>
+
+- **More than 200 genera of very large herbivores go extinct**
+    + 95% in North America
+    + humans and climate
+
+</div>
+
+<IMG STYLE="position:absolute; TOP:160px; LEFT:700px; WIDTH:360px; HEIGHT:500px" SRC="images/megafauna.png">
+
+
+## Holocene (12,000 -)
+<hr>
+<br/>
+<br/>
+<br/>
+
+<div style="float: left; width: 50%;">
+
+- **Begins after last glacial period, including glacial retreat**
+    + Earth experienced a warming trend
+    
+<br/>
+
+- **Climate change and megafauna extinction drive massive change in human behaviors**
+    
+<br/>
+
+- **Rapid proliferation, growth and impacts of the human species worldwide**
+
+</div>
+
+<IMG STYLE="position:absolute; TOP:180px; LEFT:560px; WIDTH:500px; HEIGHT:500px" SRC="images/cartoon.jpg">
+
+## Holocene (12,000 -)
+<hr>
+<br/>
+
+<div style="float: right; width: 50%;">
+
+- **Begins after last glacial period, including glacial retreat**
+    + Earth experienced a warming trend
+    
+<br/>
+
+- **Climate change and megafauna extinction drive massive change in human behaviors**
+    
+<br/>
+
+- **Rapid proliferation, growth and impacts of the human species worldwide**
+
+<br/>
+
+- **Significant advancements in technology and 'urbanization'**
+    + resultant increases in human impacts
+    
+</div>
+
+<IMG STYLE="position:absolute; TOP:220px; LEFT:10px; WIDTH:520px; HEIGHT:400px" SRC="images/change.png">
+
+## Neolithic period (12,000-6,000ya)
+<hr>
+<br/>
+
+<div style="float: left; width: 60%;">
+
+- **Set of developments that appeared in several places independently!**
+
+<br/>
+
+- **Development of agricultural crucial human landmark**
+    + plant cultivation and animals domestication
+    + spread from several centers of origin
+    
+<br/>
+
+- **Origin of agriculture... necessity or opportunity?**
+
+<br/>
+
+- **Whether from migrating farmers or indigenous development, most continents were transformed**
+
+</div>
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:600px; WIDTH:550px; HEIGHT:400px" SRC="images/fertile.jpg">
+
+## Neolithic period: Humans transitioned to permanent settlements
+<hr>
+
+<IMG STYLE="position:absolute; TOP:160px; LEFT:75px; WIDTH:350px; HEIGHT:500px" SRC="images/irrigation.jpg">
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:550px; WIDTH:500px; HEIGHT:400px" SRC="images/settle.jpg">
+
+## Neolithic period: Urbanization and Population growth 
+<hr>
+
+<IMG STYLE="position:absolute; TOP:160px; LEFT:5px; WIDTH:600px; HEIGHT:500px" SRC="images/humanpop.jpg">
+
+<IMG STYLE="position:absolute; TOP:220px; LEFT:620px; WIDTH:450px; HEIGHT:350px" SRC="images/rome.jpg">
+
+
+## Neolithic period: Consequences of Urbanization
+<hr>
+
+<IMG STYLE="position:absolute; TOP:240px; LEFT:25px; WIDTH:450px; HEIGHT:300px" SRC="images/sick.png">
+
+<IMG STYLE="position:absolute; TOP:160px; LEFT:500px; WIDTH:650px; HEIGHT:500px" SRC="images/sick2.jpg">
+
+
+## Industrial Age (1760 -)
+<hr>
+<br/>
+
+<div style="float: left; width: 50%;">
+
+- **Economic and social organization that began around 1760 in Great Britain** 
+    + factors of production (trade, farming, natural resources) allowed it to happen
+    
+<br/>
+
+- **Replacement of hand tools with power-driven machines**
+    + power loom, steam engine, iron making
+
+<br/>
+
+- **Concentration of industry in large establishments**
+    + fueled by coal mining
+    + creation of 'factories'
+ 
+ </div>
+ 
+<IMG STYLE="position:absolute; TOP:220px; LEFT:560px; WIDTH:500px; HEIGHT:375px" SRC="images/factory.jpeg">
+
+
+## Industrial Revolution marks a major turning point in history
+<hr>
+<br/>
+<br/>
+
+<div style="float: left; width: 45%;">
+
+- **Every aspect of daily life was influenced in some way**
+
+<br/>
+
+- **Average income and population began to exhibit unprecedented sustained growth**
+    + creation of middle class
+    
+<br/>
+
+- **Represents the starting point for serious atmospheric change**
+    + based on fossil fuel emissions
+    
+ </div>
+ 
+<IMG STYLE="position:absolute; TOP:220px; LEFT:530px; WIDTH:600px; HEIGHT:400px" SRC="images/airpoll.jpg">
+
+## Key Periods of Human History: The Anthropocene Epoch
+<hr>
+<div style="float: left; width: 50%;">
+
+- **New geologic era?**
+    + proposal submitted
+    + would mark end of the Holocene
+    
+<br/>
+
+- **Many geologist criticize the idea**
+    + hard to define a period when you are in it
+    
+</div>
+
+<div style="float: right; width: 50%;">
+- **Interval of time where humans dominate key processes on Earth**
+    + anthropo, for “man,” and cene, for “new”
+
+
+ </div>
+<IMG STYLE="position:absolute; TOP:390px; LEFT:250px; WIDTH:600px; HEIGHT:300px" SRC="images/epoch.png">
+
+
+## Does the Anthropocene begin in the Industrial Age?
+<hr>
+
+<IMG STYLE="position:absolute; TOP:160px; LEFT:150px; WIDTH:800px; HEIGHT:500px" SRC="images/emissions2.png">
+
+## Does the Anthropocene begin in the Industrial Age?
+<hr>
+
+<IMG STYLE="position:absolute; TOP:160px; LEFT:150px; WIDTH:800px; HEIGHT:500px" SRC="images/temp.png">
+
+## Does the Anthropocene begin in the Industrial Age?
+<hr>
+
+<IMG STYLE="position:absolute; TOP:160px; LEFT:150px; WIDTH:750px; HEIGHT:500px" SRC="images/population.jpg">
+
+## The Great Acceleration: Post 1950
+<hr>
+<br/>
+
+<div style="float: left; width: 55%;">
+
+- **Dramatic, continuous surge in growth rate across a large range of measures of human activity**
+
+<br/>
+
+- **Socioeconomic parameters:  population, economics, water usage, food production, transportation, technology**
+
+<br/>
+
+- **Earth system parameters: green house gases, surface temperature, and natural resource usage**
+
+<br/>
+
+- **Post-war revival age**
+    + fossil energy and new technology flooding the markets
+
+ </div>
+ 
+<IMG STYLE="position:absolute; TOP:180px; LEFT:600px; WIDTH:550px; HEIGHT:450px" SRC="images/box.png">
+
+
+## 
+
+<IMG STYLE="position:absolute; TOP:50px; LEFT:50px; WIDTH:1000px; HEIGHT:600px" SRC="images/great.png">
+
+## What happended? Haber Bosch happened!
+<hr>
+<br/>
+
+<IMG STYLE="position:absolute; TOP:255px; LEFT:50px; WIDTH:350px; HEIGHT:300px" SRC="images/haber2.jpg">
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:500px; WIDTH:450px; HEIGHT:450px" SRC="images/nitrohaber.png">
+    
+## Exponential human growth puts pressures on Earth's systems
+<hr>
+
+<IMG STYLE="position:absolute; TOP:180px; LEFT:0px; WIDTH:1100px; HEIGHT:450px" SRC="images/landuse.png">

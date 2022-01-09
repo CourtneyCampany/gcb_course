@@ -1,0 +1,238 @@
+---
+title: "History of Life on Earth"
+output: 
+  ioslides_presentation:
+    css: custom.css
+    widescreen: true
+    smaller: true
+---
+
+## Chapter 2: Group Consensus
+<hr>
+<br/>
+<br/>
+
+- **What are the key chapter elements (take home messages) that I should test you on?**
+
+<br/>
+<br/>
+
+- **What new things are you curious about and/or did not fully understand**
+
+<br/>
+<br/>
+
+- **What is the coolest thing you learned?**
+
+## We are on leading edge of the space time continuum
+<hr>
+
+<IMG STYLE="position:absolute; TOP:160px; LEFT:0px; WIDTH:1100px; HEIGHT:500px" SRC="images/spacetime.png">
+
+## How do you view the timeline of the history of life on Earth?
+<hr>
+<br/>
+
+<IMG STYLE="position:absolute; TOP:220px; LEFT:375px; WIDTH:500px; HEIGHT:80px" SRC="images/timeline.png">
+
+<IMG STYLE="position:absolute; TOP:375px; LEFT:775px; WIDTH:250px; HEIGHT:200x" SRC="images/dreamtime.jpg">
+
+- **Starts at early life?**
+    + where is that?
+    
+<br/>
+
+- **Biased towards human existence?**
+
+<br/>
+
+- **What processes are key? Is tempo (time between events) important?**
+
+<br/>
+
+- **Something non-science based?**
+
+<br/>
+
+- **<span style="color:darkorange">Perspective matters: Understanding the history of biodiversity and critical landmarks in life on Earth help us analyze current changes on Earth</span>**
+
+## The Earth is old...and it took a while for life to form.
+<hr>
+<br/>
+<br/>
+<div style="float: left; width: 64%;">
+
+- **Surface was way too hot to start**
+    - cooled enough to make a solid crust
+    - cooled enough sustain liquid water
+
+<br/>
+
+- **An atmosphere needed to form**
+    - Without an ozone layer, radiation from sun was too intense
+    - Oxygen needed to accumulate for animals
+    
+<br/>
+
+- **Lots of inorganic molecules but no organic molecules**
+    + early atmosphere was reducing
+    
+</div>
+
+<IMG STYLE="position:absolute; TOP:160px; LEFT:680px; WIDTH:400px; HEIGHT:500px" SRC="images/earlyatmos.jpg">
+
+## Miller & Urey experiments
+<hr>
+
+<IMG STYLE="position:absolute; TOP:190px; LEFT:50px; WIDTH:400px; HEIGHT:450px" SRC="images/miller_urey.gif">
+
+<IMG STYLE="position:absolute; TOP:250px; LEFT:550px; WIDTH:500px; HEIGHT:300px" SRC="images/volcano_amino.jpg">
+
+## Origin of herdity was key for contempoary life
+<hr>
+
+
+* **RNA probably came first**
+    + ~3.8 billion years ago
+
+<br/>
+
+* **Somewhere between the formation of RNA and cellular life a mechanisms to pass genetic information from partent to offspring emerged (heredity)**
+    
+<br/>
+
+* **Heredity is the key for evolution of life and biodiversity**
+    + replication &#8594; variation &#8594; competition &#8594; natural selection
+    + mutations (replication mistakes) are the unit of variation
+
+<br/>
+
+* **Heredity likely took place in early 'protocells' with compartmentalized RNA**
+    + have not been re-created in the lab
+  
+
+<IMG STYLE="position:absolute; TOP:180px; LEFT:70px; WIDTH:225px; HEIGHT:2250px" SRC="images/protocell.jpg">
+
+## Cellular life begins ~3.5 billion years ago (key events)
+<hr>
+
+<IMG STYLE="position:absolute; TOP:160px; LEFT:0px; WIDTH:700px; HEIGHT:500px" SRC="images/timeline3.png">
+
+<IMG STYLE="position:absolute; TOP:170px; LEFT:710px; WIDTH:400px; HEIGHT:470px" SRC="images/endo.png">
+
+## Single-celled organisms altered the evolutionary landscape
+<hr>
+
+<IMG STYLE="position:absolute; TOP:160px; LEFT:200px; WIDTH:700px; HEIGHT:500px" SRC="images/oxygen.jpg">
+
+##
+
+<IMG STYLE="position:absolute; TOP:50px; LEFT:150px; WIDTH:800px; HEIGHT:600px" SRC="images/cambrian.jpg">
+
+## Why did the Cambrian period explode?
+<hr>
+
+<IMG STYLE="position:absolute; TOP:160px; LEFT:50px; WIDTH:475px; HEIGHT:500px" SRC="images/cambrian3.jpg">
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:575x; WIDTH:500px; HEIGHT:400px" SRC="images/cambrian4.jpg">
+
+## Most groups of organims (still in ocean) evolve around Cambrian
+
+<IMG STYLE="position:absolute; TOP:160px; LEFT:200px; WIDTH:700px; HEIGHT:500px" SRC="images/cambrian2.jpg">
+
+## Next rapid diversification occurred on land (400 MYA)
+<hr>
+<br/>
+<br/>
+<div style="float: left; width: 64%;">
+
+**Starts with transition of fungi and plant ancestor**
+
+<br/>
+
+**Generated new habits/resources for land animals to evolve**
+
+<br/>
+
+**Insects  &#8594; amphibian/reptiles  &#8594; mammals  &#8594; humans**
+
+<br/>
+
+**Animal life you are most familiar with are only recent additions**
+</div>
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:650px; WIDTH:400px; HEIGHT:400px" SRC="images/landplants.jpg"
+
+## The diversity of life on earth is shaped by evolution
+<hr>
+
+<IMG STYLE="position:absolute; TOP:160px; LEFT:0px; WIDTH:1100px; HEIGHT:500px" SRC="images/natselect.png">
+
+## The diversity of life on earth is shaped by creation and removal
+<hr>
+
+<IMG STYLE="position:absolute; TOP:160px; LEFT:150px; WIDTH:800px; HEIGHT:500px" SRC="images/speciation.png">
+
+## Speciation events (and thus diversification) can happen quickly
+<hr>
+
+<IMG STYLE="position:absolute; TOP:160px; LEFT:200px; WIDTH:500px; HEIGHT:500px" SRC="images/mammals.jpg">
+
+## 
+
+<IMG STYLE="position:absolute; TOP:0px; LEFT:0px; WIDTH:1100px; HEIGHT:700px" SRC="images/cosmic.png">
+
+## Telling the story of life on Earth: Your inclusive identity
+<hr>
+**<span style="color:darkred">draw aspects of your current identity</span>**
+
+<IMG STYLE="position:absolute; TOP:220px; LEFT:300px; WIDTH:500px; HEIGHT:400px" SRC="images/circle.png">
+
+## Telling the story of life on Earth: Your inclusive identity
+<hr>
+
+>- **<span style="color:darkred">Expand outward from your identity</span>**
+
+<IMG STYLE="position:absolute; TOP:220px; LEFT:300px; WIDTH:500px; HEIGHT:400px" SRC="images/circle2.png">
+
+## Telling the story of life on Earth: Your inclusive identity
+<hr>
+
+- **<span style="color:darkred">Identity as...</span>**
+
+<IMG STYLE="position:absolute; TOP:220px; LEFT:300px; WIDTH:500px; HEIGHT:400px" SRC="images/circle3.png">
+
+## Telling the story of life on Earth: Your inclusive identity
+<hr>
+
+- **<span style="color:darkred">Identity as...</span>**
+
+<IMG STYLE="position:absolute; TOP:220px; LEFT:300px; WIDTH:500px; HEIGHT:400px" SRC="images/circle4.png">
+
+## Telling the story of life on Earth: Your inclusive identity
+<hr>
+
+- **<span style="color:darkred">Identity as...</span>**
+
+<IMG STYLE="position:absolute; TOP:220px; LEFT:300px; WIDTH:500px; HEIGHT:400px" SRC="images/circle5.png">
+
+## Telling the story of life on Earth: Your inclusive identity
+<hr>
+
+- **<span style="color:darkred">Identity as...</span>**
+
+<IMG STYLE="position:absolute; TOP:220px; LEFT:300px; WIDTH:500px; HEIGHT:400px" SRC="images/circle6.png">
+
+## Stops on the tree of life: Reflection
+<hr>
+
+- **<span style="color:darkred">Identity as...</span>**
+
+<IMG STYLE="position:absolute; TOP:220px; LEFT:300px; WIDTH:500px; HEIGHT:400px" SRC="images/circle3.png">
+
+## Stops on the tree of life: Reflection
+<hr>
+
+- **<span style="color:darkred">Identity as...</span>**
+
+<IMG STYLE="position:absolute; TOP:220px; LEFT:300px; WIDTH:500px; HEIGHT:400px" SRC="images/circle3.png">

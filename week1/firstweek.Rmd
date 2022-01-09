@@ -11,7 +11,7 @@ output:
 <hr>
 <br/>
 <br/>
-
+<br/>
 
 <div style="float: left; width: 40%;">
 
@@ -29,7 +29,9 @@ output:
 
 **Professor: Dr. Campany**
 <br/>
-**Byrd 215, Office Hours:**
+**Byrd 215**
+<br/>
+**Office Hours: W,F 2-5pm**
 </div>
 
 <IMG STYLE="position:absolute; TOP:180px; LEFT:400px; WIDTH:600px; HEIGHT:450px" SRC="images/earth1.jpg">
@@ -40,7 +42,7 @@ output:
 <IMG STYLE="position:absolute; TOP:160px; LEFT:100px; WIDTH:900px; HEIGHT:500px" SRC="images/me.png">
 
 
-## Todays Objective 
+## Today's Objective 
 <hr>
 
 **Understand course goals**
@@ -105,7 +107,7 @@ output:
 <br/>
 
 
-<IMG STYLE="position:absolute; TOP:200px; LEFT:10px; WIDTH:600px; HEIGHT:400px" SRC="images/course3.png">
+<IMG STYLE="position:absolute; TOP:200px; LEFT:10px; WIDTH:600px; HEIGHT:400px" SRC="images/course4.png">
 
 
 <div style="float: right; width: 40%;">
@@ -139,7 +141,7 @@ output:
 <br/>
 <br/>
 
-<IMG STYLE="position:absolute; TOP:200px; LEFT:10px; WIDTH:600px; HEIGHT:400px" SRC="images/course4.png">
+<IMG STYLE="position:absolute; TOP:200px; LEFT:10px; WIDTH:600px; HEIGHT:400px" SRC="images/course3.png">
 
 
 <div style="float: right; width: 40%;">
@@ -149,8 +151,14 @@ output:
 
 *Conservation in the era of global change (CH11)*
 <br/>
+
 *Aligning the interests of biodiversity and humans society (CH12)*
 </div>
+
+## This class is way more than just CO~2~ and warming!!
+<hr>
+
+<IMG STYLE="position:absolute; TOP:160px; LEFT:150px; WIDTH:800px; HEIGHT:500px" SRC="images/gaseffect.png">
 
 ## Course Format
 <hr>
@@ -177,14 +185,15 @@ output:
 <br/>
 
 **Participation:** in lecture and section
+    + snap assignments submitted for participation points
 
 <br/>
 
-**Courses chapter reflections:** 3-2-1 assignments due Mondays by noon
+**Courses chapter reflections:** 3-2-1 reading assignments due Mondays by noon
 
 <br/>
 
-**Exams:** one per unit (4 chapters)
+**Exams:** aprrox. one per unit (4 chapters each)
 
 <br/>
 
@@ -194,7 +203,7 @@ output:
 
 **Final Exam:** cumulative final
 
-## Term project
+## Term project (Lots of details next week)
 <hr>
 <br/>
 
@@ -217,35 +226,6 @@ output:
 * **Writing resources are available of Brightspace**
     + Ask me for help!
     
-## Term project on Brightspace
-<hr>
-
-**Lets take a look**
-
-<!-- ## Lets get started: New sheet of paper or electronic notes... -->
-<!-- <hr> -->
-<!-- <br/> -->
-<!-- <br/> -->
-
-<!-- <div style="float: left; width: 58%;"> -->
-<!-- * **On the top of your page right: Interests Inventory** -->
-
-<!-- <br/> -->
-
-<!-- * **Free write about about any topics you are naturally drawn toward in the Global Change Biology arena** -->
-<!--     + brainstorm with your neighbor -->
-
-<!-- <br/> -->
-
-<!-- * **What issues 'get you fired up'?** -->
-<!--     + critter or part of the tree of life -->
-<!--     + biome or region of the world     -->
-<!--     + environmental issue or human stressor -->
-<!-- </div> -->
-
-<!-- <IMG STYLE="position:absolute; TOP:200px; LEFT:650px; WIDTH:400px; HEIGHT:450px" SRC="images/keepcalm.jpg"> -->
-
-    
 ## Textbook and reading load
 <hr>
 <br/>
@@ -261,6 +241,7 @@ output:
 <br/>
 
 * **One chapter per week for lecture**
+    + starts week 3
     + read and reflect (graded) before lecture
     
 <br/>
@@ -274,6 +255,7 @@ output:
 
 ## 3-2-1 reading assignments
 <hr>
+<br/>
 
 * **Dive deep on everything you read in this class!**
     + <span style="color:blue">Track what excites you, bores you, and confuses you!</span>
@@ -292,8 +274,6 @@ output:
 
 * **End of chapter features - Organize your studying**
     + Key Concepts and Consolidate your Knowledge
-
-
 
 ## 3-2-1 reading assignments
 <hr>
@@ -334,6 +314,18 @@ output:
 * **Reminders = turn notification on**
     + due dates, content created, announcements, etc. 
     
+## Brightspace course page
+<hr>
+<br/>
+<br/>
+
+**Lets take a look**
+
+<br/>
+<br/>
+
+**https://brightspace.shepherd.edu/d2l/home**
+    
 ## Next up: Why are we here?
 <hr>
 <br/>
@@ -350,4 +342,16 @@ output:
 * **For class on Wednesday: Write a few sentences about the concept "Why are we here"**
     + think like a scientist or global studies major!
     + you may be asked to read it aloud!
-    + hiaku will be greatly appreciated
+    + Hiaku will be greatly appreciated
+
+<br/>
+
+* **Submit on Brightspace for participation**
+
+## BIOL 414: Seminar in Biology (GCB Journal Club)
+<hr>
+<br/>
+
+**If you are in the seminar course there is a reading and participation assignment due before class**
+
+<IMG STYLE="position:absolute; TOP:260px; LEFT:350px; WIDTH:350px; HEIGHT:400px" SRC="images/journal-club.png">

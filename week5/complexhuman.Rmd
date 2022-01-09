@@ -1,0 +1,257 @@
+---
+title: "The Complexity of Being Human"
+output: 
+  ioslides_presentation:
+    css: custom2.css
+    widescreen: true
+    smaller: true
+---
+## What else is wrong with this representation?
+<hr>
+<br/>
+
+**In addition to other harmful fallacies this cartoon propagates, it makes “being human” seem very simple, very separate, and very independent**
+
+<IMG STYLE="position:absolute; TOP:240px; LEFT:150px; WIDTH:800px; HEIGHT:400px" SRC="images/humanevolv2.png">
+
+## The complexity of being human
+<hr>
+<br/>
+
+**In addition to other harmful fallacies this cartoon propagates, it makes “being human” seem very simple, very separate, and very independent**
+
+<IMG STYLE="position:absolute; TOP:240px; LEFT:150px; WIDTH:800px; HEIGHT:400px" SRC="images/humanevolv3.png">
+
+## The complexity of being human
+<hr>
+<br/>
+
+**In reality, *Homo sapiens* wouldn’t exist without our complex evolutionary and ecological associations**
+
+<IMG STYLE="position:absolute; TOP:240px; LEFT:150px; WIDTH:800px; HEIGHT:400px" SRC="images/associate.png">
+
+## The complexity of being human
+<hr>
+<br/>
+
+**This isn’t only “external” but also internal**
+
+<IMG STYLE="position:absolute; TOP:240px; LEFT:150px; WIDTH:800px; HEIGHT:400px" SRC="images/associate.png">
+
+<IMG STYLE="position:absolute; TOP:160px; LEFT:880px; WIDTH:200px; HEIGHT:200px" SRC="images/lens.png">
+
+
+## What does it mean to be *Homo sapiens*?
+<hr>
+<br/>
+
+<div style="float: left; width: 45%;">
+
+- **<span style="color:blue">Example 1: your inner ecosystem</span>**
+    + >10,000 species occupy human body
+    + 80-100 genera
+
+<br/>
+
+- **39 trillion microbial cells including bacteria, viruses and fungi live on-in us**
+    + 'cell-wise' the human body is 43% human
+    
+<br/>
+
+- **Human microbiome has 500x more genes than human**
+
+</div>
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:500px; WIDTH:600px; HEIGHT:400px" SRC="images/microbiome.png">
+
+## How independent are we?
+<hr>
+<br/>
+
+<IMG STYLE="position:absolute; TOP:160px; LEFT:150px; WIDTH:800px; HEIGHT:500px" SRC="images/microbiome2.gif">
+
+## What does it mean to be *Homo sapiens*?
+<hr>
+<br/>
+<br/>
+
+<IMG STYLE="position:absolute; TOP:220px; LEFT:50px; WIDTH:400px; HEIGHT:400px" SRC="images/virus.jpg">
+
+<div style="float: right; width: 55%;">
+
+- **<span style="color:blue">Example 2: (barely) hidden in your DNA</span>**
+
+<br/>
+
+- **~8% human genome is viral remnants**
+
+<br/>
+
+- **~40% human genome is repetitive DNA which also likely has a viral origin**
+
+<br/>
+
+- **100,000 pieces of ancient viral DNA live among our genes**
+    + function, if any, has long been unclear
+    
+</div>
+    
+## What does it mean to be *Homo sapiens*?
+<hr>
+<br/>
+<br/>
+<br/>
+
+<IMG STYLE="position:absolute; TOP:160px; LEFT:50px; WIDTH:325px; HEIGHT:500px" SRC="images/neand.png">
+
+<div style="float: right; width: 65%;">
+
+- **<span style="color:blue">Example 2: (barely) hidden in your DNA</span>**
+
+<br/>
+
+- **Most humans have 2% Neanderthal DNA**
+    + remember - both species co-existed and mated
+
+<br/>
+
+- **Neanderthal allele variants range in diverse expression of skin and hair color to immune function and neuropsychiatric disease**
+    + may gave left us prone to allergies!
+
+</div>
+
+## Review: Lots of overlap in hominins is space and time
+<hr>
+
+<IMG STYLE="position:absolute; TOP:160px; LEFT:150px; WIDTH:800px; HEIGHT:500px" SRC="images/overlap2.png">
+
+## *H.sapiens* overlapped with 2 others for 1,000s of years
+<hr>
+
+<IMG STYLE="position:absolute; TOP:160px; LEFT:150px; WIDTH:800px; HEIGHT:500px" SRC="images/geneflow.jpg">
+
+## H. neanderthalensis are our closest extinct relative
+<hr>
+<br/>
+<br/>
+<br/>
+
+- **Modern molecular tools have been able to sequence Neanderthal and Denisovan genomes**
+
+<br/>
+
+
+- **Denisovans left genetic traces in oceanic and Asian regions**
+    + genomes of Australian aborigines, New Guineans and Pacific Islanders ~6% Denisovan
+
+<br/>
+
+- **87 specific genes in modern humans are different from related genes in Neanderthals and Denisovan**           + potential clues for our survival?
+
+## Meet the Data: Has proportion of shared ancestry changed?
+<hr>
+**Fu et al. (2016) The genetic history of Ice Age Europe. Nature 534: 7606-7616**
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:200px; WIDTH:700px; HEIGHT:450px" SRC="images/iceage.png">
+
+## Key questions from Fu et al. 2016
+<hr>
+<br/>
+
+
+**<span style="color:blue">Is there a particular part of the world where you would predict Neanderthal ancestry in modern human genomes would be particularly high? Why?</span>**
+
+<br/>
+
+**<span style="color:blue">Do you expect the proportion of Neanderthal ancestry to increase, decrease, or stay constant over the last 50,000 years? Why?</span>**
+
+<br/>
+
+- **Data: genomes of 51 modern humans over a time series of Europe migration**
+    + 45,000 - 7,000 years ago
+    + taken from archaeological cites
+
+<br/>
+
+- **Compared SNP's (single nucleutodie polymorphisms) to find variations across the genomes**
+    + about 1 or out 1000 letters of code is a SNP
+
+<IMG STYLE="position:absolute; TOP:700px; LEFT:250px; WIDTH:450px; HEIGHT:450px" SRC="images/snp.jpg">
+
+
+## What do the data show?
+<hr>
+
+<IMG STYLE="position:absolute; TOP:160px; LEFT:50px; WIDTH:1000px; HEIGHT:500px" SRC="images/fuetal.png">
+
+## Why would ancestral Neanderthal DNA be decreasing in modern humans?
+<hr>
+
+<IMG STYLE="position:absolute; TOP:160px; LEFT:50px; WIDTH:1000px; HEIGHT:500px" SRC="images/compare.jpg">
+
+## Why did humans win the survival race?
+<hr>
+<div style="float: left; width: 55%;">
+- **Was it key 'human' traits?**
+    + many of these were shared (bi-pedalism, tools)
+
+<br/>
+
+- **Was it evolution of larger brains?**
+    + our we that different than Neanderthals?
+
+<br/>
+
+- **Was it fire?**
+    + H.erectus may have used fire before we evolved
+
+<br/>
+
+- **Was is related to social aspects**
+    + survival of the friendliest
+
+<br/>
+
+- **Was it related to our adaptability**?
+    + climate was unpredictable
+    
+<br/>
+
+- **Was it something non-human?**
+    + superior microbiome
+
+ </div>
+ 
+<div style="float: right; width: 45%;">
+ 
+- **Was it luck?**
+    
+ </div>   
+ 
+<IMG STYLE="position:absolute; TOP:260px; LEFT:600px; WIDTH:500px; HEIGHT:375px" SRC="images/brainsize.jpg">
+
+
+## Next up: Friday open-discussion of human impacts
+<hr>
+<br/>
+
+- **Humans have existed for ~300,000 years**
+
+<br/>
+
+- **For how long and in how many ways have *H.sapiens* altered Earth's systems and landscapes**
+
+<br/>
+
+- **Find as many examples as you can**
+    + Be creative in your search (scholarly or not)
+    + think beyond Industrial Revolution and CO~2~
+
+<br/>
+
+- **We will create a time line of influence on the board**
+    + each of you will add something
+
+<br/>    
+
+- **We will then discuss what it all means**
