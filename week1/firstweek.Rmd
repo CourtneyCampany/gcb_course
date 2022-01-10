@@ -76,6 +76,8 @@ output:
 <hr>
 
 <IMG STYLE="position:absolute; TOP:200px; LEFT:10px; WIDTH:600px; HEIGHT:400px" SRC="images/course.png">
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:700px; WIDTH:350px; HEIGHT:400px" SRC="images/bree.jpg">
   
 ## What is this course about?
 <hr>
@@ -193,8 +195,8 @@ output:
 
 <br/>
 
-**Exams:** aprrox. one per unit (4 chapters each)
-
+**Exams:** approx. one per unit (4 chapters each)
+    
 <br/>
 
 **Term Project:** with lots of intermediate benchmarks
@@ -223,7 +225,7 @@ output:
 
 <br/>
 
-* **Writing resources are available of Brightspace**
+* **Writing resources are available on Brightspace**
     + Ask me for help!
     
 ## Textbook and reading load
@@ -282,9 +284,9 @@ output:
 <br/>
 
 * **3-2-1 reading assignments submitted before class on Brightspace (essence of a flipped class)**
-    + Three take home messages from the chapter
-    + Two things you did not understand or would like more information on
-    + One way something in the chapter relates to your personal experience.
+    + <span style="color:blue">**3**</span> take home messages from the chapter (in your own words)
+    + <span style="color:blue">**2**</span> things you did not understand or would like more information on
+    + <span style="color:blue">**1**</span>way something in the chapter relates to your personal experience.
 
 <br/>
 
@@ -302,12 +304,12 @@ output:
 
 <br/>
 
-* **Grades = gradebook will be updates as fast as possible**
+* **Grades = gradebook will be updated as fast as possible**
     + always double check 
 
 <br/>
 
-* **Assignments = always submissions through Brightspace**
+* **Assignments = always submit through Brightspace**
 
 <br/>
 
@@ -340,7 +342,7 @@ output:
 <br/>
 
 * **For class on Wednesday: Write a few sentences about the concept "Why are we here"**
-    + think like a scientist or global studies major!
+    + think like a scientist, global studies major or just a human!
     + you may be asked to read it aloud!
     + Hiaku will be greatly appreciated
 
