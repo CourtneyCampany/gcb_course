@@ -6,6 +6,8 @@ output:
     widescreen: true
     smaller: true
 ---
+## Why are we here? Your thoughts.....
+<hr>
 
 ## Why are we here?
 <hr>
@@ -19,7 +21,9 @@ output:
 <br/>
 <font size="5">*Because...evolution*</font>
 
-<IMG STYLE="position:absolute; TOP:220px; LEFT:50px; WIDTH:1000px; HEIGHT:375px" SRC="images/treeoflife.jpg">
+<!-- <IMG STYLE="position:absolute; TOP:240px; LEFT:20px; WIDTH:600px; HEIGHT:300px" SRC="images/treeoflife.jpg"> -->
+
+<IMG STYLE="position:absolute; TOP:180px; LEFT:275px; WIDTH:600px; HEIGHT:450px" SRC="images/treeoflife2.jpg">
 
 ## Why are we here?
 <hr>
@@ -90,11 +94,11 @@ output:
 
 ## 
 
-<IMG STYLE="position:absolute; TOP:50px; LEFT:200px; WIDTH:700px; HEIGHT:600px" SRC="images/pew.png">
+<IMG STYLE="position:absolute; TOP:50px; LEFT:150px; WIDTH:800px; HEIGHT:600px" SRC="images/problem.png">
 
 ## 
 
-<IMG STYLE="position:absolute; TOP:50px; LEFT:150px; WIDTH:800px; HEIGHT:600px" SRC="images/problem.png">
+<IMG STYLE="position:absolute; TOP:50px; LEFT:200px; WIDTH:700px; HEIGHT:600px" SRC="images/pew.png">
 
 ## 
 
@@ -103,6 +107,25 @@ output:
 ## 
 
 <IMG STYLE="position:absolute; TOP:50px; LEFT:200px; WIDTH:700px; HEIGHT:600px" SRC="images/doingenough.png">
+
+## Scientists are traditionally not the best communicators
+<hr>
+
+<IMG STYLE="position:absolute; TOP:160px; LEFT:50px; WIDTH:520px; HEIGHT:500px" SRC="images/trust2.jpg">
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:600px; WIDTH:450px; HEIGHT:400px" SRC="images/trust.jpg">
+
+## Scientists are traditionally not the best communicators
+<hr>
+
+<IMG STYLE="position:absolute; TOP:160px; LEFT:50px; WIDTH:520px; HEIGHT:500px" SRC="images/trust2.jpg">
+
+<IMG STYLE="position:absolute; TOP:160px; LEFT:650px; WIDTH:350px; HEIGHT:500px" SRC="images/politics.jpg">
+
+## We need each other, but is that even possible?
+<hr>
+
+<IMG STYLE="position:absolute; TOP:160px; LEFT:150px; WIDTH:800px; HEIGHT:500px" SRC="images/trust3.png">
 
 ##  Why are we here?
 <hr>
@@ -126,11 +149,11 @@ output:
 
 **Survey now available on Brightspace**
 <br/>
-**Due Thursday @ 5pm**
+**Due Thursday @ midnight**
 
 <br/>
 
-**<span style="color:green">THREE: </span>What three things about global change (that you know now) are the most important for a non-scientist to know?**
+**<span style="color:green">THREE: </span>What three things about global change (that you believe) are the most important for a non-scientist to know?**
 
 <br/>
 
@@ -139,4 +162,4 @@ output:
 <br/>
 
 **<span style="color:green">ONE: </span>What inspired you to take this course?**
-<br/>*Please submit an answer that is not... #Dr.C or #needelective*
+<br/>*Please submit an answer that is not... #needelective*
