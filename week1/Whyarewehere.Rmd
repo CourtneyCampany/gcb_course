@@ -6,8 +6,9 @@ output:
     widescreen: true
     smaller: true
 ---
-## Why are we here? Your thoughts.....
-<hr>
+##
+
+<IMG STYLE="position:absolute; TOP:75px; LEFT:0px; WIDTH:1100px; HEIGHT:550px" SRC="images/whyhere2.png">
 
 ## Why are we here?
 <hr>

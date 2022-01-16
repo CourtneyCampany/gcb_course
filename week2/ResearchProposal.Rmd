@@ -1,0 +1,274 @@
+---
+title: "Global Change Biology Term Project"
+output: 
+  ioslides_presentation:
+    css: custom.css
+    widescreen: true
+    smaller: true
+---
+
+## Term project
+<hr>
+<br/>
+
+* **GCB discovery grant proposal (5 pages) meant to inspire your own independent, creative direction.**
+
+<br/>
+
+* **Submission windows:**
+    + Project topic selection: week of February 15
+    + Term project rough drafts: week of March 15
+    + Term project peer reviews: week of April 5
+    + Final term project: week of April 26
+
+<br/>
+
+* **Start thinking about what sparks your interest!**
+
+<br/>
+
+* **Writing resources are available of Brightspace**
+    + Ask me for help!
+    
+## Term project components: Choose a catchy title
+<hr>
+<br/>
+
+**Titles represent first impressions. We all know what can happen when that goes wrong...**
+
+<IMG STYLE="position:absolute; TOP:260px; LEFT:50px; WIDTH:1000px; HEIGHT:400px" SRC="images/abjectives.jpg">
+
+## Term project components: Introduction
+<hr>   
+
+**Your introduction will be the substance of your literature review (2-3 pages)**
+
+<br/>
+
+* **Provide background information about your topic and describe why it is important.**
+    + describe the current state of knowledge 
+    + describe the unresolved questions are in the field
+
+<br/>
+
+**The best introductions read like a "story" or "argument" where you lead the reader to understand why you are going to study what you want to study**
+
+<br/>
+
+**You need to reference a minimum of 10 scientific articles.**
+    + primary literature articles and review articles in scientific journals
+    + cannot be websites or popular press articles.
+    
+## Term project components: Objectives
+<hr>      
+<br/>
+
+<div style="float: left; width: 60%;">
+
+**Here is where you very explicitly state your question and summarize what you will do to answer that question (~1/2 page)**
+
+<br/>
+
+* **Research question should be clearly stated**
+    + provide enough specifics that one's audience can easily understand its purpose without needing additional explanation
+
+<br/>
+
+**The level of detail may vary from project to project but you need to make sure that your readers understand the scope of your question and your general approach to answering it**
+
+</div>
+
+<IMG STYLE="position:absolute; TOP:240px; LEFT:650px; WIDTH:400px; HEIGHT:300px" SRC="images/abjectives.jpg">
+
+## Term project components: Research approach
+<hr>
+<br/>
+<br/>
+<br/>
+
+<div style="float: left; width: 60%;">
+
+
+**Here is where you describe what you will do for your study (~1-2 pages). **
+
+<br/>
+
+* **This will be a more fleshed out version of the "research synopsis" in your objectives section.**
+    + you don't need to propose overly complex methods
+    + focus on developing a realistic study that could be implemented 
+    
+## How do you design a real scientific study?
+<hr>    
+
+* **Approach #1: Find a well-designed study and adapt that study to a different system?**
+    + study that was done in the arctic that you could adapt to answer a questions about the tropics 
+    + socio-economics of certain regions/countries applied to untested regions
+
+<br/>
+
+* **Approach #1: Find a study in a system you are interested in and propose a follow-up study**
+    + design a study to answer a new question that was raised in the Discussion section of a primary research article
+    + you **CANNOT** just copy someone else's study but uou can be inspired by other researchers
+    + ultimately your work needs to be creative and needs to be your own!
+
+<br/>
+
+* **Approach #3: Just go for it and embrace your creativity to design something novel and forward thinking**
+
+## Term project components: Significance
+<hr>
+<br/>
+
+**You should conclude your proposal up with a discussion of why your research is important (~1/2 page)**
+
+<br/>
+
+**You need to convince your reviewers/funding agency that your idea will have an impact and that you are worth funding!**
+
+<br/>
+
+**National Science Foundations evaluates this on 2 criteria**
+    + *Intellectual merit*: potential to advance knowledge
+    + *Broader Impacts*: potential to benefit society and contribute to the achievement of specific, desired societal outcomes.
+
+<IMG STYLE="position:absolute; TOP:500px; LEFT:0px; WIDTH:1100px; HEIGHT:100px" SRC="images/broad.png">
+
+## Term project components: Figure
+<hr>
+
+* **Prepare one figure that will help your readers understand your project proposal**
+    + not counted in page limit
+
+<br/>
+
+**It can be a diagram of your experimental design, images to help bring the proposal to life, etc.**
+
+## Term project components: References
+<hr>
+<br/>
+
+* **Your references should be cited using APA format**
+    + not counted in page limit
+
+<br/>
+
+* **Lots of available guides for APA (what we are using in all Biology)**
+    + I will post some but they are everywhere
+
+<br/>
+
+* **If you would like to learn to use free citation software (Zotero/Mendeley) let me teach you during office hours**
+    + It will make your writing life soooooooooo much easier
+
+<br/>
+
+* **Typical in-text APA citations (commonly at end of sentence):**
+    + (Campany 2012)
+    + (Campany & Skywalker 2022)
+    + (Campny et al., 2019) *3 or more authors*
+    + you can sparingly use: Campany et al. (2022) showed that ....
+
+<br/>
+
+* **Typical citation for you bibliography**:
+    + Greer, C. F., & Ferguson, D. A. (2011). Using Twitter for promotion and
+branding: A content analysis of local television Twitter sites. Journal of
+Broadcasting & Electronic Media, 55(2), 198-214. 
+
+## How to avoid plagrism like the plague...
+<hr>
+<br/>
+
+* **Always cite any information that is not common knowledge**
+    + If you are unsures, just cite it!!!
+
+<br/>
+
+* **Paraphrase, parapharse, paraphrase**
+    + you must write everything in your language
+    + I will know if you don't
+    + If you cite another citation, you must find the orginal source
+    + NO "QUOTATIONS"
+
+<br/>
+
+* **Paragraphs (i.e. Introduction) should be composed of multiple citations around a central theme**
+    + topic sentence
+    + citations from several sources
+    + closing and/or transition
+    + overuse of one citaion is a form of plagarism
+    
+## Lets practice: Paraphrase these findings into one sentence...
+<hr>
+<br/>
+
+
+We find that cumulative food system GHG emissions from 2020 to 2100 can be reduced by 14 to 48% through changes in dietary composition and healthier caloric consumption, through increased crop yields, through decreased food loss and waste, or through increased emissions efficiency of food production,provided that these strategies are adopted individually and gradually such that they are fully adopted by 2050 (Fig. 1). If all five strategies were to be partially implemented together (50% adoption of each), cumulative emissions through 2100 could be reduced by 63% relative to business-as-usual. Full adoption of all five strategies could result in a food system with marginally negative net cumulative emissions because of lowered emissions and net carbon sequestration on abandoned croplands
+    
+## Term project on Brightspace
+<hr>
+<br/>
+
+**Lets take a look**
+
+<br/>
+
+**Writing Resources will be added as needed (and if requested)**
+
+<br/>
+
+**Pay attention to grading rubric**
+
+<br/>
+
+**Each of you will blind peer review 2 papers**
+
+## Review (or not) on accessing scientific papers
+<hr>
+<br/>
+
+**https://www.shepherd.edu/library**
+
+<br/>
+
+**How to setup your personal computer to have Shepherd's subscription access:**
+<br/>
+**https://shepherd.ask.libraryh3lp.com/questions/42571**
+
+<br/>
+
+* **Interlibrary Loan: have a librarian use external resources to find papers you cannot access**
+    + free service
+    + easier request is through Worldcat search on library page
+
+## Take Home Message: You have an identity in your writing
+<hr>
+<br/>
+
+<div style="float: left; width: 60%;">
+
+**What topic should you choose?!?!?**
+
+<br/>
+
+* **Global change is now views through both the *natural world* and *socio-economic* linkages**
+    + feel free to explore eithe or both
+
+<br/>
+
+* **Pick a system, species, regions, group, concept and get going**
+
+<br/>
+
+* **Only explore a topic that means something to you**
+
+<div>
+
+<IMG STYLE="position:absolute; TOP:220px; LEFT:650px; WIDTH:400px; HEIGHT:350px" SRC="images/climate.jpg">
+
+## How to get inspired...
+
+## Friday: Evaluating examples as a NSF panel member
+
+<IMG STYLE="position:absolute; TOP:240px; LEFT:0px; WIDTH:1100px; HEIGHT:350px" SRC="images/panel.jpg">
+
