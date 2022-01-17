@@ -36,10 +36,11 @@ output:
 
 **Titles represent first impressions. We all know what can happen when that goes wrong...**
 
-<IMG STYLE="position:absolute; TOP:260px; LEFT:50px; WIDTH:1000px; HEIGHT:400px" SRC="images/abjectives.jpg">
+<IMG STYLE="position:absolute; TOP:260px; LEFT:50px; WIDTH:1000px; HEIGHT:400px" SRC="images/titles.jpg">
 
 ## Term project components: Introduction
 <hr>   
+<br/>
 
 **Your introduction will be the substance of your literature review (2-3 pages)**
 
@@ -55,7 +56,7 @@ output:
 
 <br/>
 
-**You need to reference a minimum of 10 scientific articles.**
+* **You need to reference a minimum of 10 scientific articles.**
     + primary literature articles and review articles in scientific journals
     + cannot be websites or popular press articles.
     
@@ -63,9 +64,11 @@ output:
 <hr>      
 <br/>
 
-<div style="float: left; width: 60%;">
+<div style="float: left; width: 62%;">
 
-**Here is where you very explicitly state your question and summarize what you will do to answer that question (~1/2 page)**
+**Here is where you very explicitly state your question and summarize what you will do to answer that question**
+<br/>
+**~1/2 page**
 
 <br/>
 
@@ -78,7 +81,7 @@ output:
 
 </div>
 
-<IMG STYLE="position:absolute; TOP:240px; LEFT:650px; WIDTH:400px; HEIGHT:300px" SRC="images/abjectives.jpg">
+<IMG STYLE="position:absolute; TOP:240px; LEFT:670px; WIDTH:400px; HEIGHT:300px" SRC="images/abjectives.jpg">
 
 ## Term project components: Research approach
 <hr>
@@ -86,19 +89,23 @@ output:
 <br/>
 <br/>
 
-<div style="float: left; width: 60%;">
+<div style="float: left; width: 52%;">
 
-
-**Here is where you describe what you will do for your study (~1-2 pages). **
+**Here is where you describe what you will do for your study (~1-2 pages)**
 
 <br/>
 
 * **This will be a more fleshed out version of the "research synopsis" in your objectives section.**
-    + you don't need to propose overly complex methods
+    + do not need to propose overly complex methods
     + focus on developing a realistic study that could be implemented 
-    
+
+</div> 
+
+<IMG STYLE="position:absolute; TOP:160px; LEFT:580px; WIDTH:500px; HEIGHT:500px" SRC="images/methods.jpg">
+
 ## How do you design a real scientific study?
 <hr>    
+<br/>
 
 * **Approach #1: Find a well-designed study and adapt that study to a different system?**
     + study that was done in the arctic that you could adapt to answer a questions about the tropics 
@@ -119,7 +126,9 @@ output:
 <hr>
 <br/>
 
-**You should conclude your proposal up with a discussion of why your research is important (~1/2 page)**
+**You should conclude your proposal up with a discussion of why your research is important**
+<br/>
+**~1/2 page**
 
 <br/>
 
@@ -127,11 +136,11 @@ output:
 
 <br/>
 
-**National Science Foundations evaluates this on 2 criteria**
+* **National Science Foundations evaluates this on 2 criteria**
     + *Intellectual merit*: potential to advance knowledge
     + *Broader Impacts*: potential to benefit society and contribute to the achievement of specific, desired societal outcomes.
 
-<IMG STYLE="position:absolute; TOP:500px; LEFT:0px; WIDTH:1100px; HEIGHT:100px" SRC="images/broad.png">
+<IMG STYLE="position:absolute; TOP:550px; LEFT:0px; WIDTH:1100px; HEIGHT:100px" SRC="images/broad.png">
 
 ## Term project components: Figure
 <hr>
@@ -143,9 +152,14 @@ output:
 
 **It can be a diagram of your experimental design, images to help bring the proposal to life, etc.**
 
+<IMG STYLE="position:absolute; TOP:310px; LEFT:225px; WIDTH:650px; HEIGHT:375px" SRC="images/concept.png">
+
 ## Term project components: References
 <hr>
 <br/>
+<br/>
+
+<div style="float: right; width: 52%;">
 
 * **Your references should be cited using APA format**
     + not counted in page limit
@@ -160,6 +174,13 @@ output:
 * **If you would like to learn to use free citation software (Zotero/Mendeley) let me teach you during office hours**
     + It will make your writing life soooooooooo much easier
 
+</div> 
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:20px; WIDTH:500px; HEIGHT:400px" SRC="images/oprah.jpg">
+
+## APA References examples
+<hr>
+<br/>
 <br/>
 
 * **Typical in-text APA citations (commonly at end of sentence):**
@@ -168,6 +189,7 @@ output:
     + (Campny et al., 2019) *3 or more authors*
     + you can sparingly use: Campany et al. (2022) showed that ....
 
+<br/>
 <br/>
 
 * **Typical citation for you bibliography**:
@@ -184,10 +206,10 @@ Broadcasting & Electronic Media, 55(2), 198-214.
 
 <br/>
 
-* **Paraphrase, parapharse, paraphrase**
+* **Paraphrase, paraphrase, paraphrase**
     + you must write everything in your language
     + I will know if you don't
-    + If you cite another citation, you must find the orginal source
+    + If you cite another citation, you must find the original source
     + NO "QUOTATIONS"
 
 <br/>
@@ -196,24 +218,20 @@ Broadcasting & Electronic Media, 55(2), 198-214.
     + topic sentence
     + citations from several sources
     + closing and/or transition
-    + overuse of one citaion is a form of plagarism
+    + overuse of one citation is a form of plagiarism
     
-## Lets practice: Paraphrase these findings into one sentence...
-<hr>
-<br/>
-
-
-We find that cumulative food system GHG emissions from 2020 to 2100 can be reduced by 14 to 48% through changes in dietary composition and healthier caloric consumption, through increased crop yields, through decreased food loss and waste, or through increased emissions efficiency of food production,provided that these strategies are adopted individually and gradually such that they are fully adopted by 2050 (Fig. 1). If all five strategies were to be partially implemented together (50% adoption of each), cumulative emissions through 2100 could be reduced by 63% relative to business-as-usual. Full adoption of all five strategies could result in a food system with marginally negative net cumulative emissions because of lowered emissions and net carbon sequestration on abandoned croplands
+<IMG STYLE="position:absolute; TOP:200px; LEFT:690px; WIDTH:300px; HEIGHT:170px" SRC="images/citation.jpg">
     
+## 
+**We find that cumulative food system greenhouse gas emission emissions from 2020 to 2100 can be reduced by 14 to 48% through changes in dietary composition and healthier caloric consumption, through increased crop yields, through decreased food loss and waste, or through increased emissions efficiency of food production,provided that these strategies are adopted individually and gradually such that they are fully adopted by 2050 (Fig. 1). If all five strategies were to be partially implemented together (50% adoption of each), cumulative emissions through 2100 could be reduced by 63% relative to business-as-usual. Full adoption of all five strategies could result in a food system with marginally negative net cumulative emissions because of lowered emissions and net carbon sequestration on abandoned croplands.**
+
+<IMG STYLE="position:absolute; TOP:290px; LEFT:200px; WIDTH:650px; HEIGHT:425px" SRC="images/food.png">
+
 ## Term project on Brightspace
 <hr>
 <br/>
 
-**Lets take a look**
-
-<br/>
-
-**Writing Resources will be added as needed (and if requested)**
+**Writing Resources will be added as needed (and requested)**
 
 <br/>
 
@@ -222,6 +240,14 @@ We find that cumulative food system GHG emissions from 2020 to 2100 can be reduc
 <br/>
 
 **Each of you will blind peer review 2 papers**
+
+<br/>
+
+**Ask questions along the way**
+
+<br/>
+
+**Topic selection examples now posted**
 
 ## Review (or not) on accessing scientific papers
 <hr>
@@ -240,7 +266,8 @@ We find that cumulative food system GHG emissions from 2020 to 2100 can be reduc
 * **Interlibrary Loan: have a librarian use external resources to find papers you cannot access**
     + free service
     + easier request is through Worldcat search on library page
-
+    + do searches now, so you have time to find the papers you need
+    
 ## Take Home Message: You have an identity in your writing
 <hr>
 <br/>
@@ -256,19 +283,40 @@ We find that cumulative food system GHG emissions from 2020 to 2100 can be reduc
 
 <br/>
 
-* **Pick a system, species, regions, group, concept and get going**
+**Pick a system, species, regions, group, concept and get going**
 
 <br/>
 
-* **Only explore a topic that means something to you**
+**Only explore a topic that means something to you**
 
 <div>
 
 <IMG STYLE="position:absolute; TOP:220px; LEFT:650px; WIDTH:400px; HEIGHT:350px" SRC="images/climate.jpg">
 
-## How to get inspired...
+## Lets get started: New sheet of paper or electronic notes...
+<hr>
+<br/>
+<br/>
+
+<div style="float: left; width: 58%;">
+* **On the top of your page right: Interests Inventory**
+
+<br/>
+
+* **Free write about about any topics you are naturally drawn toward in the Global Change Biology arena**
+    + brainstorm with your neighbor
+
+<br/>
+
+* **What issues 'get you fired up'?**
+    + critter or part of the tree of life
+    + biome or region of the world
+    + environmental issue or human stressor
+</div>
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:650px; WIDTH:400px; HEIGHT:450px" SRC="images/keepcalm.jpg">
 
 ## Friday: Evaluating examples as a NSF panel member
-
+<hr>
 <IMG STYLE="position:absolute; TOP:240px; LEFT:0px; WIDTH:1100px; HEIGHT:350px" SRC="images/panel.jpg">
 
