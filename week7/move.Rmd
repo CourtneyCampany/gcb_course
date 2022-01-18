@@ -1,5 +1,5 @@
 ---
-title: "Responding to Change: Move"
+title: "Organismal Responses to Change"
 output: 
   ioslides_presentation:
     css: custom.css
@@ -255,7 +255,7 @@ output:
 
 **Move: movement of *individuals* (dispersal, migration), *populations* or *species* (range changes)**
 <br/>
-<span style="color:darkorange">**QUESTION</span>: How would cou categorize different types of movement?**
+<span style="color:darkorange">**QUESTION</span>: How would you categorize different types of movement?**
 <IMG STYLE="position:absolute; TOP:210px; LEFT:150px; WIDTH:800px; HEIGHT:475px" SRC="images/moving.png">
 
 ## The adjacent possible for the move response
