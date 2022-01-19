@@ -16,10 +16,10 @@ output:
 <br/>
 
 * **Submission windows:**
-    + Project topic selection: week of February 15
-    + Term project rough drafts: week of March 15
-    + Term project peer reviews: week of April 5
-    + Final term project: week of April 26
+    + Project topic selection: February 4^th^
+    + Term project rough drafts: March 25^th^
+    + Term project peer reviews: April 15^st^
+    + Final term project: April 15^th^
 
 <br/>
 
@@ -27,14 +27,17 @@ output:
 
 <br/>
 
-* **Writing resources are available of Brightspace**
+* **Writing resources are available on Brightspace**
     + Ask me for help!
+    
+<IMG STYLE="position:absolute; TOP:260px; LEFT:650px; WIDTH:350px; HEIGHT:400px" SRC="images/term.png">
+
     
 ## Term project components: Choose a catchy title
 <hr>
 <br/>
 
-**Titles represent first impressions. We all know what can happen when that goes wrong...**
+**<span style="color:blue">Titles represent first impressions.</span> We all know what can happen when that goes wrong...**
 
 <IMG STYLE="position:absolute; TOP:260px; LEFT:50px; WIDTH:1000px; HEIGHT:400px" SRC="images/titles.jpg">
 
@@ -77,7 +80,8 @@ output:
 
 <br/>
 
-**The level of detail may vary from project to project but you need to make sure that your readers understand the scope of your question and your general approach to answering it**
+* **The level of detail will vary from project to project**
+    + make sure that your readers understand the scope of your question and your general approach to answering it
 
 </div>
 
@@ -108,25 +112,26 @@ output:
 <br/>
 
 * **Approach #1: Find a well-designed study and adapt that study to a different system?**
-    + study that was done in the arctic that you could adapt to answer a questions about the tropics 
+    + study in the arctic that you could adapt to answer a questions about the tropics 
     + socio-economics of certain regions/countries applied to untested regions
 
 <br/>
 
 * **Approach #1: Find a study in a system you are interested in and propose a follow-up study**
     + design a study to answer a new question that was raised in the Discussion section of a primary research article
-    + you **CANNOT** just copy someone else's study but uou can be inspired by other researchers
+    + you **CANNOT** just copy someone else's study but you can be inspired by other researchers
     + ultimately your work needs to be creative and needs to be your own!
 
 <br/>
 
-* **Approach #3: Just go for it and embrace your creativity to design something novel and forward thinking**
-
+* **Approach #3: Just go for it!**
+    + Embrace your creativity to design something novel and forward thinking
+    
 ## Term project components: Significance
 <hr>
 <br/>
 
-**You should conclude your proposal up with a discussion of why your research is important**
+**You should conclude your proposal with a discussion of why your research is important**
 <br/>
 **~1/2 page**
 
@@ -136,7 +141,7 @@ output:
 
 <br/>
 
-* **National Science Foundations evaluates this on 2 criteria**
+* **National Science Foundation evaluates significance on 2 criteria**
     + *Intellectual merit*: potential to advance knowledge
     + *Broader Impacts*: potential to benefit society and contribute to the achievement of specific, desired societal outcomes.
 
@@ -186,7 +191,7 @@ output:
 * **Typical in-text APA citations (commonly at end of sentence):**
     + (Campany 2012)
     + (Campany & Skywalker 2022)
-    + (Campny et al., 2019) *3 or more authors*
+    + (Campany et al., 2019) *3 or more authors*
     + you can sparingly use: Campany et al. (2022) showed that ....
 
 <br/>
@@ -225,7 +230,7 @@ Broadcasting & Electronic Media, 55(2), 198-214.
 ## 
 **We find that cumulative food system greenhouse gas emission emissions from 2020 to 2100 can be reduced by 14 to 48% through changes in dietary composition and healthier caloric consumption, through increased crop yields, through decreased food loss and waste, or through increased emissions efficiency of food production,provided that these strategies are adopted individually and gradually such that they are fully adopted by 2050 (Fig. 1). If all five strategies were to be partially implemented together (50% adoption of each), cumulative emissions through 2100 could be reduced by 63% relative to business-as-usual. Full adoption of all five strategies could result in a food system with marginally negative net cumulative emissions because of lowered emissions and net carbon sequestration on abandoned croplands.**
 
-<IMG STYLE="position:absolute; TOP:290px; LEFT:200px; WIDTH:650px; HEIGHT:425px" SRC="images/food.png">
+<IMG STYLE="position:absolute; TOP:300px; LEFT:200px; WIDTH:650px; HEIGHT:400px" SRC="images/food.png">
 
 ## Term project on Brightspace
 <hr>
@@ -279,7 +284,7 @@ Broadcasting & Electronic Media, 55(2), 198-214.
 <br/>
 
 * **Global change is now views through both the *natural world* and *socio-economic* linkages**
-    + feel free to explore eithe or both
+    + feel free to explore either or both
 
 <br/>
 
@@ -299,7 +304,7 @@ Broadcasting & Electronic Media, 55(2), 198-214.
 <br/>
 
 <div style="float: left; width: 58%;">
-* **On the top of your page right: Interests Inventory**
+* **On the top of your page write: Interests Inventory**
 
 <br/>
 
@@ -316,6 +321,29 @@ Broadcasting & Electronic Media, 55(2), 198-214.
 
 <IMG STYLE="position:absolute; TOP:200px; LEFT:650px; WIDTH:400px; HEIGHT:450px" SRC="images/keepcalm.jpg">
 
+## Topic Selection: due February 4^th^
+<hr>
+<br/>
+
+* **Evaluate your 'Interest Inventory**
+    + see which ones have juice. 
+
+<br/>
+
+* **Explore narrowing your focus until you have an idea for a specific project that will answer a specific question**
+
+<br/>
+
+* **<span style="color:blue">Submit a short project topic proposal that answers three questions:</span>**
+    + What is the problem or question that you want to study in more detail?
+    + What approaches might you use to tackle your question?
+    + Why is addressing this problem or question important?
+
+<br/>
+
+* **Submit on Brightspace (about 1/2 page)**
+    + high quality examples posted already
+    
 ## Friday: Evaluating examples as a NSF panel member
 <hr>
 <IMG STYLE="position:absolute; TOP:240px; LEFT:0px; WIDTH:1100px; HEIGHT:350px" SRC="images/panel.jpg">
