@@ -39,7 +39,7 @@ output:
 
 <br/>
 
-* **Represents a pressing need from early career young biologists**
+* **Represents a pressing need from early career young biologists and recent graduates of any field**
 
 <br/>
 
@@ -129,9 +129,17 @@ output:
 
 <IMG STYLE="position:absolute; TOP:160px; LEFT:700px; WIDTH:375px; HEIGHT:500px" SRC="images/gcbphoto.jpg">
 
+
 ## 
 
 <IMG STYLE="position:absolute; TOP:50px; LEFT:160px; WIDTH:800px; HEIGHT:600px" SRC="images/books.jpg">
+
+##
+
+<IMG STYLE="position:absolute; TOP:100px; LEFT:15px; WIDTH:525px; HEIGHT:500px" SRC="images/google.png">
+
+<IMG STYLE="position:absolute; TOP:150px; LEFT:555px; WIDTH:550px; HEIGHT:400px" SRC="images/google2.png">
+
 
 ## GCB scientists face/d an uphill battle
 <hr>
@@ -158,12 +166,12 @@ output:
 <IMG STYLE="position:absolute; TOP:220px; LEFT:620px; WIDTH:450px; HEIGHT:350px" SRC="images/circle.jpg">
 
 
-## Scientific bias in GCB can have vast socio-economic consequences
+## Scientific bias an have vast socio-economic consequences
 <hr>
 
-<IMG STYLE="position:absolute; TOP:160px; LEFT:50px; WIDTH:900px; HEIGHT:500px" SRC="images/map.png">
+<IMG STYLE="position:absolute; TOP:160px; LEFT:100px; WIDTH:900px; HEIGHT:500px" SRC="images/map.png">
 
-## Targes, investment, policy and consequences do not align
+## Targets, investment, policy and consequences do not align
 <hr>
 
 <IMG STYLE="position:absolute; TOP:200px; LEFT:10px; WIDTH:500px; HEIGHT:400px" SRC="images/africa.png">
@@ -261,17 +269,15 @@ output:
 
 ## GCB science uses the entire cool science toolkit
 <hr>
-<br/>
  
 * **Environmental monitoring must be expansive**
-    + ocean &#8594; atmosphere &#859
+    + land &#8594; atmosphere &#859; oceans
     + satellites &#8594; lasers &#8594; submarines
 
  <br/>
  
 * **Lots of different organisms to monitor**
-    + microbes &#8594; plants &#8594; whales
-    + human observation &#8594; satellites
+    + microbes &#8594; plants &#8594; whales &#8594; humans
  
   <br/>
   
