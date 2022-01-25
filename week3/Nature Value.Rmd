@@ -30,7 +30,7 @@ output:
 
 <IMG STYLE="position:absolute; TOP:160px; LEFT:250px; WIDTH:650px; HEIGHT:400px" SRC="images/biodiverse.png">
 
-**<span style="color:red">What are three big picture reasons humans might care about biological diversity in the first place? </span>**
+**<span style="color:red">What are some big picture reasons humans might care about biological diversity in the first place? </span>**
 
 ## Chapter 1: The value of biological diversity
 <hr>
@@ -38,27 +38,33 @@ output:
 <br/>
 <IMG STYLE="position:absolute; TOP:145px; LEFT:100px; WIDTH:850px; HEIGHT:60px" SRC="images/takealook.png">
 
-- **Scientific Value**: Factors that lead to gain or loss of species
+- **Scientific Value**: 
+<!-- Factors that lead to gain or loss of species -->
 
 <br/>
 
-- **Value to Human Health**: We rely on natural systems
+- **Value to Human Health**: 
+<!-- We rely on natural systems -->
 
 <br/>
 
-- **Economic Value**: Biodiversity has infinite commercial value
+- **Economic Value**: 
+<!-- Biodiversity has infinite commercial value -->
 
 <br/>
 
-- **Cultural Value**: Natural world anchors human culture
+- **Cultural Value**: 
+<!-- Natural world anchors human culture -->
 
 <br/>
 
-- **Ethical Value**: Moral role in conservation and stewardship
+- **Ethical Value**: 
+<!-- Moral role in conservation and stewardship -->
 
 <br/>
 
-- **Intrinsic Value**: Value of life
+- **Intrinsic Value**: 
+<!-- Value of life -->
 
 ## The value of biological diversity: frogs case study
 <hr>
@@ -110,7 +116,7 @@ output:
 
 <div style="float: left; width: 55%;">
 
-- **Provide ecosystem services like biomedicines (scientific value)**
+- **Provide human health services as biomedicines**
 
 <br/>
 
@@ -143,7 +149,8 @@ output:
 
 - **Widely used pesticide Atrazine can turn male frogs into females**
     + known to cause cancer in humans
-    + dedicated above EPA levels in drinking water of 1 million humans
+    + sterilizes frogs at levels below EPA drink water guidelines
+    + currently above EPA levels in drinking water for >1 million humans
 
 </div>
 
@@ -193,6 +200,9 @@ output:
 <br/>
 
 - Healthy ecosystems provide benefits for all life on earth, but valuing them for what the provide humans is a key management tool
+    + which ones are the most vulberable to global change?
+    + which ones are the most essential to humans?
+    + globally? regionall? locally?
 
 ## The value of biological diversity
 <hr>
@@ -243,8 +253,6 @@ output:
 ## The value of biological diversity: Where is the $ at?
 <hr>
 <br/>
-<br/>
-<br/>
 
 <IMG STYLE="position:absolute; TOP:160px; LEFT:10px; WIDTH:650px; HEIGHT:500px" SRC="images/groot.jpg">
 
@@ -260,7 +268,10 @@ output:
 
 - **Which biomes are most abundant**
     - What does this mean for the future?
-    
+
+<br/>
+
+- **A recent study predicts that values can shift by trillions every year based on global change and decision making**
 </div>
 
 ## The value of biological diversity
@@ -277,7 +288,7 @@ output:
 
 <br/>
 
-**<span style="color:red">Are there potential down-sides of valuing ecosystem services monetarily</span>**
+**<span style="color:red">Are there potential down-sides of valuing ecosystem services monetarily?</span>**
 
 <br/>
 
@@ -325,7 +336,7 @@ output:
 - **Prepare a 'legal brief' to present to a small group**
     + summarize your argument into a few key points
     + provide real tangible evidence
-    + show Dr. C your brief before we start
+    + submit your brief on Brightspace (can be rough)
     
 <br/>
  
@@ -333,4 +344,4 @@ output:
 
 <br/>
 
-- **Your group will need to come to a decision based on everyone's breifs**
+- **Your group will need to come to a decision based on everyone's briefs**

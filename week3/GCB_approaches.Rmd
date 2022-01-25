@@ -11,18 +11,20 @@ output:
 <hr>
 <br/>
 <br/>
+<br/>
 
 * **What are the key chapter elements (take home messages) that I should test you on?**
 
 <br/>
 <br/>
+<br/>
 
 * **What new things are you curious about and/or did not fully understand**
 
-<br/>
-<br/>
+<!-- <br/> -->
+<!-- <br/> -->
 
-* **What is the coolest thing you learned?**
+<!-- * **What is the coolest thing you learned?** -->
 
 ## Get your global change biologist vibe on
 <hr>
@@ -45,7 +47,7 @@ output:
 
 * **Communicated many times a day in the news**
     + science and non-science communication
-
+    + '*code-switching*' will be key
 </div>
 
 <IMG STYLE="position:absolute; TOP:160px; LEFT:660px; WIDTH:400px; HEIGHT:500px" SRC="images/seafood.png">
@@ -53,17 +55,17 @@ output:
 ## Humans are an unprecendented force on natural systems
 <hr>
 
-<IMG STYLE="position:absolute; TOP:200px; LEFT:5px; WIDTH:500px; HEIGHT:350px" SRC="images/lungs.jpg">
+<IMG STYLE="position:absolute; TOP:200px; LEFT:1px; WIDTH:500px; HEIGHT:350px" SRC="images/lungs.jpg">
 
 <div style="float: right; width: 55%;">
 
 * **This is largely a numbers and size game**
     + 7.9 billion individuals and growing
-    + we are no small organisms
+    + we are not small organisms
 
 <br/>
 
-* **Environmental change, largely driven by human forcings, impacts most systems across time and space**
+* **Environmental change, largely driven by human forcings, impacts most systems across time & space**
     + impacts microbes to mammals
     + impacts marine to mountain ecosystems
     
@@ -121,13 +123,18 @@ output:
 
 <br/>
 
-
 * **<span style="color:darkorange">Note: communicating science outside of formal publishing is essential</span>**
     + indigenous ecological knowledge
 
 </div>
 
 <IMG STYLE="position:absolute; TOP:160px; LEFT:700px; WIDTH:375px; HEIGHT:500px" SRC="images/gcbphoto.jpg">
+
+##
+
+<IMG STYLE="position:absolute; TOP:150px; LEFT:50px; WIDTH:500px; HEIGHT:500px" SRC="images/calendar.gif">
+
+<IMG STYLE="position:absolute; TOP:50px; LEFT:600px; WIDTH:450px; HEIGHT:600px" SRC="images/calendar2.png">
 
 
 ## 
@@ -271,7 +278,7 @@ output:
 <hr>
  
 * **Environmental monitoring must be expansive**
-    + land &#8594; atmosphere &#859; oceans
+    + land &#8594; atmosphere &#8594; oceans
     + satellites &#8594; lasers &#8594; submarines
 
  <br/>
@@ -287,13 +294,13 @@ output:
 
  <br/>
  
-* **Many experiments or approached generate large datasets**
+* **Many experiments or approaches generate large datasets**
     + climate monitoring to genomics
     + advanced computing is often necessary
 
  <br/>
  
-## How is GCB data often visualized? Let's review and practice
+## How is GCB data often visualized? Let's practice
 <hr>
 <br/>
 
@@ -302,7 +309,7 @@ output:
 <br/>
 
 * **What is the difference between a linear and exponential function (relationship)?**
-    + draw a weak exponential relationship between atmopsheric CO~2~ and ocean pH
+    + draw weak exponential relationships for atmospheric CO~2~ and ocean pH through time
     
 <br/>
 
