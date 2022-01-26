@@ -72,15 +72,16 @@ output:
 
 <div style="float: left; width: 55%;">
 
-- **Provide ecosystem functions**
-
+- **Support ecosystem functions**
+    + *scientific value*
+    
 <br/>
 
 - **Amphibians are critical in food webs as both predators and prey and keep invertebrate populations in check**
 
 <br/>
 
-- **Provide ecosystem services like pest control**
+- **Provide value as pest control**
 
 </div>
 
@@ -93,7 +94,7 @@ output:
 <div style="float: left; width: 55%;">
 
 
-- **Provide ecosystem services like nutrition**
+- **Provide health/economic value as nutrition**
 
 <br/>
 
@@ -126,6 +127,10 @@ output:
 <br/>
 
 - **Australian red-eyed tree-frog (*Litoria chloris*) and relatives give us a compound capable of preventing HIV infection, the cause of AIDS**
+
+<br/>
+
+- **Over 5,000 species to explore....**
 
 </div>
 
@@ -167,6 +172,7 @@ output:
 <br/>
 
 - **Amphibians are revered around the world, they are viewed as agents of rain, fertility, and luck**
+    + Kermit is a protagonist for American children
     
 <br/>
 
@@ -180,7 +186,7 @@ output:
 
 <IMG STYLE="position:absolute; TOP:220px; LEFT:615px; WIDTH:450px; HEIGHT:425px" SRC="images/coolfrog.png">
 
-## Chapter 1: Meet the Data - Value of Nature
+## Value of Nature = assigning importance
 <hr>
 
 <IMG STYLE="position:absolute; TOP:160px; LEFT:200px; WIDTH:700px; HEIGHT:500px" SRC="images/valueadded.png">
@@ -195,14 +201,14 @@ output:
 
 <br/>
 
-- *Ecosystem services* = varied benefits to humans provided by the natural environment and from healthy ecosystems
+- *Ecosystem services* = varied benefits to humans provided by the natural environment from healthy ecosystems
 
 <br/>
 
-- Healthy ecosystems provide benefits for all life on earth, but valuing them for what the provide humans is a key management tool
-    + which ones are the most vulberable to global change?
+- Healthy ecosystems provide benefits for all life on earth, but valuing them for what the provide humans is a key management and policy tool (*especially for global change*)
+    + which ones are the most vulnerable?
     + which ones are the most essential to humans?
-    + globally? regionall? locally?
+    + globally? regionally? locally?
 
 ## The value of biological diversity
 <hr>
@@ -247,6 +253,8 @@ output:
 
 - **Total monetary or market value of all the finished goods and services produced (GDP) in 2020 was $85 trillion.**
     - What does this comparison mean to you?
+    - Look up the GDP of major countries
+    - What is the worth of the largest companies?
     
 </div>
 
@@ -329,7 +337,7 @@ output:
 
 <br/>
 
-- **Can you make a persuasive argument for which value aspect of biodiversity is the most important?**
+- **Make a persuasive argument for which value aspect of biodiversity is the most important?**
 
 <br/>
 
