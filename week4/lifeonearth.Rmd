@@ -54,7 +54,7 @@ output:
 
 <br/>
 
-- **<span style="color:darkorange">Perspective matters: Understanding the history of biodiversity and critical landmarks in life on Earth help us analyze current changes on Earth</span>**
+- **<span style="color:darkred">Perspective matters: Understanding the history of biodiversity and critical landmarks in life on Earth help us analyze current changes on Earth</span>**
 
 ## The Earth is old...and it took a while for life to form.
 <hr>
@@ -88,16 +88,15 @@ output:
 
 <IMG STYLE="position:absolute; TOP:250px; LEFT:550px; WIDTH:500px; HEIGHT:300px" SRC="images/volcano_amino.jpg">
 
-## Origin of herdity was key for contempoary life
+## Origin of heredity was key for contempoary life
 <hr>
-
 
 * **RNA probably came first**
     + ~3.8 billion years ago
 
 <br/>
 
-* **Somewhere between the formation of RNA and cellular life a mechanisms to pass genetic information from partent to offspring emerged (heredity)**
+* **Somewhere between the formation of RNA and cellular life a mechanism to pass genetic information from parent to offspring emerged (heredity)**
     
 <br/>
 
@@ -111,14 +110,14 @@ output:
     + have not been re-created in the lab
   
 
-<IMG STYLE="position:absolute; TOP:180px; LEFT:70px; WIDTH:225px; HEIGHT:2250px" SRC="images/protocell.jpg">
+<IMG STYLE="position:absolute; TOP:300px; LEFT:700px; WIDTH:225px; HEIGHT:225px" SRC="images/protocel.jpg">
 
 ## Cellular life begins ~3.5 billion years ago (key events)
 <hr>
 
-<IMG STYLE="position:absolute; TOP:160px; LEFT:0px; WIDTH:700px; HEIGHT:500px" SRC="images/timeline3.png">
+<IMG STYLE="position:absolute; TOP:180px; LEFT:20px; WIDTH:630px; HEIGHT:450px" SRC="images/timeline3.png">
 
-<IMG STYLE="position:absolute; TOP:170px; LEFT:710px; WIDTH:400px; HEIGHT:470px" SRC="images/endo.png">
+<IMG STYLE="position:absolute; TOP:170px; LEFT:650px; WIDTH:400px; HEIGHT:470px" SRC="images/endo.png">
 
 ## Single-celled organisms altered the evolutionary landscape
 <hr>
@@ -134,19 +133,22 @@ output:
 
 <IMG STYLE="position:absolute; TOP:160px; LEFT:50px; WIDTH:475px; HEIGHT:500px" SRC="images/cambrian3.jpg">
 
-<IMG STYLE="position:absolute; TOP:200px; LEFT:575x; WIDTH:500px; HEIGHT:400px" SRC="images/cambrian4.jpg">
+<IMG STYLE="position:absolute; TOP:200px; LEFT:525px; WIDTH:500px; HEIGHT:400px" SRC="images/cambrian4.jpg">
 
-## Most groups of organims (still in ocean) evolve around Cambrian
+## Most major animal groups exist by Cambrian
+<hr>
 
-<IMG STYLE="position:absolute; TOP:160px; LEFT:200px; WIDTH:700px; HEIGHT:500px" SRC="images/cambrian2.jpg">
+<IMG STYLE="position:absolute; TOP:180px; LEFT:200px; WIDTH:700px; HEIGHT:450px" SRC="images/cambrian2.jpg">
 
 ## Next rapid diversification occurred on land (400 MYA)
 <hr>
 <br/>
 <br/>
+<br/>
+
 <div style="float: left; width: 64%;">
 
-**Starts with transition of fungi and plant ancestor**
+**Starts with colonization by fungi and plant ancestors**
 
 <br/>
 
@@ -158,15 +160,15 @@ output:
 
 <br/>
 
-**Animal life you are most familiar with are only recent additions**
+**Animal life you are most familiar with are recent additions**
 </div>
 
-<IMG STYLE="position:absolute; TOP:200px; LEFT:650px; WIDTH:400px; HEIGHT:400px" SRC="images/landplants.jpg"
+<IMG STYLE="position:absolute; TOP:200px; LEFT:650px; WIDTH:400px; HEIGHT:400px" SRC="images/landplants.jpg">
 
 ## The diversity of life on earth is shaped by evolution
 <hr>
 
-<IMG STYLE="position:absolute; TOP:160px; LEFT:0px; WIDTH:1100px; HEIGHT:500px" SRC="images/natselect.png">
+<IMG STYLE="position:absolute; TOP:200px; LEFT:50px; WIDTH:1000px; HEIGHT:400px" SRC="images/natselect.png">
 
 ## The diversity of life on earth is shaped by creation and removal
 <hr>
@@ -176,7 +178,9 @@ output:
 ## Speciation events (and thus diversification) can happen quickly
 <hr>
 
-<IMG STYLE="position:absolute; TOP:160px; LEFT:200px; WIDTH:500px; HEIGHT:500px" SRC="images/mammals.jpg">
+<IMG STYLE="position:absolute; TOP:160px; LEFT:35px; WIDTH:500px; HEIGHT:500px" SRC="images/flowering.jpg">
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:575px; WIDTH:500px; HEIGHT:400px" SRC="images/mammals.jpg">
 
 ## 
 
@@ -191,48 +195,34 @@ output:
 ## Telling the story of life on Earth: Your inclusive identity
 <hr>
 
->- **<span style="color:darkred">Expand outward from your identity</span>**
+**<span style="color:darkred">Expand outward from your identity</span>**
 
-<IMG STYLE="position:absolute; TOP:220px; LEFT:300px; WIDTH:500px; HEIGHT:400px" SRC="images/circle2.png">
-
-## Telling the story of life on Earth: Your inclusive identity
-<hr>
-
-- **<span style="color:darkred">Identity as...</span>**
-
-<IMG STYLE="position:absolute; TOP:220px; LEFT:300px; WIDTH:500px; HEIGHT:400px" SRC="images/circle3.png">
+<IMG STYLE="position:absolute; TOP:220px; LEFT:300px; WIDTH:550px; HEIGHT:400px" SRC="images/circle2.png">
 
 ## Telling the story of life on Earth: Your inclusive identity
 <hr>
 
-- **<span style="color:darkred">Identity as...</span>**
+**<span style="color:darkred">Identity as...</span>**
 
-<IMG STYLE="position:absolute; TOP:220px; LEFT:300px; WIDTH:500px; HEIGHT:400px" SRC="images/circle4.png">
+<IMG STYLE="position:absolute; TOP:220px; LEFT:250px; WIDTH:600px; HEIGHT:400px" SRC="images/circle3.png">
 
 ## Telling the story of life on Earth: Your inclusive identity
 <hr>
 
-- **<span style="color:darkred">Identity as...</span>**
+**<span style="color:darkred">Identity as...</span>**
+
+<IMG STYLE="position:absolute; TOP:220px; LEFT:250px; WIDTH:600px; HEIGHT:400px" SRC="images/circle4.png">
+
+## Telling the story of life on Earth: Your inclusive identity
+<hr>
+
+**<span style="color:darkred">Identity as...</span>**
 
 <IMG STYLE="position:absolute; TOP:220px; LEFT:300px; WIDTH:500px; HEIGHT:400px" SRC="images/circle5.png">
 
 ## Telling the story of life on Earth: Your inclusive identity
 <hr>
 
-- **<span style="color:darkred">Identity as...</span>**
+**<span style="color:darkred">Identity as...</span>**
 
 <IMG STYLE="position:absolute; TOP:220px; LEFT:300px; WIDTH:500px; HEIGHT:400px" SRC="images/circle6.png">
-
-## Stops on the tree of life: Reflection
-<hr>
-
-- **<span style="color:darkred">Identity as...</span>**
-
-<IMG STYLE="position:absolute; TOP:220px; LEFT:300px; WIDTH:500px; HEIGHT:400px" SRC="images/circle3.png">
-
-## Stops on the tree of life: Reflection
-<hr>
-
-- **<span style="color:darkred">Identity as...</span>**
-
-<IMG STYLE="position:absolute; TOP:220px; LEFT:300px; WIDTH:500px; HEIGHT:400px" SRC="images/circle3.png">
