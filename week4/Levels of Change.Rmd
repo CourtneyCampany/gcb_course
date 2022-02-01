@@ -10,20 +10,21 @@ output:
 ## Chapter 2: Taking a closer look
 <hr>
 
-<IMG STYLE="position:absolute; TOP:160px; LEFT:100px; WIDTH:900px; HEIGHT:500px" SRC="images/phytlotree.jpg">
+<IMG STYLE="position:absolute; TOP:160px; LEFT:50px; WIDTH:1000px; HEIGHT:500px" SRC="images/phytlotree.jpg">
 
 ## Unpacking diversity: How to read a evolutionary tree
 <hr>
 
-<IMG STYLE="position:absolute; TOP:200px; LEFT:550px; WIDTH:550px; HEIGHT:400px" SRC="images/phylo.png">
+<IMG STYLE="position:absolute; TOP:220px; LEFT:550px; WIDTH:550px; HEIGHT:400px" SRC="images/phylo.png">
 
-<div style="float: left; width: 55%;">
 
 - **Depicts evolutionary relationships amongst a selected taxa**
     - hypothetical
     - taxon (singular) can be species or groups
 
 <br/>
+
+<div style="float: left; width: 55%;">
 
 - **Taxa at ends of tree are usually living (extant)**
     - taxa not at the end are extinct
@@ -84,7 +85,7 @@ output:
 ## Evolution keep rolling, so species are not fixed in a hierarchy
 <hr>
 
-<IMG STYLE="position:absolute; TOP:160px; LEFT:50px; WIDTH:375px; HEIGHT:500px" SRC="images/scala.jpg">
+<IMG STYLE="position:absolute; TOP:150px; LEFT:75px; WIDTH:375px; HEIGHT:500px" SRC="images/scala.jpg">
 
 <IMG STYLE="position:absolute; TOP:180px; LEFT:500px; WIDTH:600px; HEIGHT:450px" SRC="images/ladder.jpg">
 
@@ -102,11 +103,11 @@ output:
 
 <br/>
 
-- **Are are interconnected and thus all are influenced by environmental change**
+- **All are interconnected and thus all are influenced by environmental change**
 
-<IMG STYLE="position:absolute; TOP:300px; LEFT:100px; WIDTH:400px; HEIGHT:300px" SRC="images/mutationrate.png">
+<IMG STYLE="position:absolute; TOP:300px; LEFT:100px; WIDTH:400px; HEIGHT:350px" SRC="images/mutationrate.png">
 
-<IMG STYLE="position:absolute; TOP:300px; LEFT:600px; WIDTH:400px; HEIGHT:300px" SRC="images/mutationrate2.png">
+<IMG STYLE="position:absolute; TOP:300px; LEFT:600px; WIDTH:400px; HEIGHT:350px" SRC="images/mutationrate2.png">
 
 ## 
 
@@ -125,7 +126,9 @@ output:
 ## Natural selection in the wild
 <hr>
 
-<IMG STYLE="position:absolute; TOP:160px; LEFT:225px; WIDTH:650px; HEIGHT:500px" SRC="images/dune.jpg">
+<IMG STYLE="position:absolute; TOP:200px; LEFT:25px; WIDTH:550px; HEIGHT:450px" SRC="images/dune.jpg">
+
+<IMG STYLE="position:absolute; TOP:240px; LEFT:600px; WIDTH:550px; HEIGHT:350px" SRC="images/desert.jpg">
 
 
 ## Natural selection in the wild
@@ -207,3 +210,25 @@ output:
 
 
 <IMG STYLE="position:absolute; TOP:160px; LEFT:525px; WIDTH:550px; HEIGHT:500px" SRC="images/extinction.png">
+
+## Friday Discussion: Does my project idea have JUICE?!?
+<hr>
+<br/>
+
+**Bring a shareable version of your topic selection to class**
+
+<br/>
+
+**In small groups, you will present your topic and collect feedback**
+
+<br/>
+
+**Groups will also review your writing (length should be ~1/2 page**)
+
+<br/>
+
+**If you can't convince your peers, you wont convince me!**
+
+<br/>
+
+**Use your peers wondderful advice to clean up your submission (due at end of day)**

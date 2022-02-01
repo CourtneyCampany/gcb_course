@@ -69,12 +69,12 @@ output:
 <br/>
 
 - **An atmosphere needed to form**
-    - Without an ozone layer, radiation from sun was too intense
-    - Oxygen needed to accumulate for animals
+    - without an ozone layer, radiation from sun was too intense
+    - oxygen needed to accumulate for animals
     
 <br/>
 
-- **Lots of inorganic molecules but no organic molecules**
+- **Lots of inorganic molecules but few organic molecules**
     + early atmosphere was reducing
     
 </div>
@@ -128,17 +128,17 @@ output:
 
 <IMG STYLE="position:absolute; TOP:50px; LEFT:150px; WIDTH:800px; HEIGHT:600px" SRC="images/cambrian.jpg">
 
-## Why did the Cambrian period explode?
+## Why did the Cambrian period explode? (*still marine life*)
 <hr>
 
 <IMG STYLE="position:absolute; TOP:160px; LEFT:50px; WIDTH:475px; HEIGHT:500px" SRC="images/cambrian3.jpg">
 
 <IMG STYLE="position:absolute; TOP:200px; LEFT:525px; WIDTH:500px; HEIGHT:400px" SRC="images/cambrian4.jpg">
 
-## Most major animal groups exist by Cambrian
+## All major phyla exist by Cambrian
 <hr>
 
-<IMG STYLE="position:absolute; TOP:180px; LEFT:200px; WIDTH:700px; HEIGHT:450px" SRC="images/cambrian2.jpg">
+<IMG STYLE="position:absolute; TOP:160px; LEFT:150px; WIDTH:775px; HEIGHT:500px" SRC="images/cambrian2.jpg">
 
 ## Next rapid diversification occurred on land (400 MYA)
 <hr>
