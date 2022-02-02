@@ -153,7 +153,7 @@ output:
 
 <IMG STYLE="position:absolute; TOP:160px; LEFT:00px; WIDTH:1100px; HEIGHT:500px" SRC="images/dune4.png">
 
-## Genetic drift
+## Genetic drift (non-adaptive evolution)
 <hr>
 **More gametes are produced than seed the next generation**
 
@@ -166,7 +166,7 @@ output:
 
 <IMG STYLE="position:absolute; TOP:220px; LEFT:250px; WIDTH:600px; HEIGHT:400px" SRC="images/gametes2.png">
 
-## Genetic drift can have rapid effects during a “bottleneck
+## Genetic drift can have rapid effects during a “bottleneck"
 <hr>
 
 <IMG STYLE="position:absolute; TOP:180px; LEFT:100px; WIDTH:900px; HEIGHT:500px" SRC="images/bottle.png">
@@ -231,4 +231,4 @@ output:
 
 <br/>
 
-**Use your peers wondderful advice to clean up your submission (due at end of day)**
+**Use your peers wonderful advice to clean up your submission (due at end of day)**
