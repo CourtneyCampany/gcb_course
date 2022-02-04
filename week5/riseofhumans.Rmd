@@ -41,7 +41,7 @@ output:
 
 **<span style="color:red">What are the consequences of common misconceptions about human evolution past, present & future? </span>**
 
-<IMG STYLE="position:absolute; TOP:280px; LEFT:400px; WIDTH:250px; HEIGHT:250px" SRC="images/eco.png">
+<IMG STYLE="position:absolute; TOP:255px; LEFT:375px; WIDTH:350px; HEIGHT:350px" SRC="images/eco.png">
 
 ## Human evolution fact and fallacies
 <hr>
