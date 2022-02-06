@@ -7,6 +7,25 @@ output:
     smaller: true
 ---
 
+## Chapter 3: What is important?
+<hr>
+<br/>
+
+- **What are the key chapter elements (take home messages) that I should test you on?**
+
+<br/>
+<br/>
+
+- **What new things are you curious about and/or did not fully understand**
+
+<br/>
+
+- **This week, let's focus on what it means to be human**
+
+<br/>
+
+**The meaning of the term "humanism" has changed according to the successive intellectual movements that have identified with it. Generally, the term refers to a focus on human well-being and advocates for human freedom, autonomy, and progress. It views humanity as responsible for the promotion and development of individuals, espouses the equal and inherent dignity of all human beings, and <span style="color:blue">emphasizes a concern for humans in relation to the world.</span>**
+
 ##
 
 **What are (at least three) key reasons this cartoon lacks accuracy and is deeply problematic?**
@@ -135,7 +154,7 @@ output:
 
 <IMG STYLE="position:absolute; TOP:220px; LEFT:50px; WIDTH:1000px; HEIGHT:400px" SRC="images/taxonomy.jpg">
 
-## There have been many species in the genus *Homo*
+## Hominin tribe includes several genera, including *Homo*
 <hr>
 <br/>
 <br/>
@@ -152,9 +171,11 @@ output:
 - **Fossil record is very incomplete**
     + common ancestor to *Pan* is unknown
     + total number of ancestral humans may change
+    + *Toumai* fossil (Chad) dated 6-7 mya
+    + *Ardi* fossil (Ethiopia) dated 4.4 mya
 
 
-<IMG STYLE="position:absolute; TOP:280px; LEFT:700px; WIDTH:300px; HEIGHT:250px" SRC="images/skulls.jpg">
+<IMG STYLE="position:absolute; TOP:200px; LEFT:650px; WIDTH:400px; HEIGHT:450px" SRC="images/ardi.png">
 
 
 ## 
@@ -172,7 +193,7 @@ output:
 
 <br/>
 
-**H.sapient evolved appro. 300,00 - 200,00- years ago**
+**H.sapiens evolved appro. 300,00 - 200,00 years ago**
 
 <br/>
 
@@ -182,21 +203,19 @@ output:
 <IMG STYLE="position:absolute; TOP:360px; LEFT:150px; WIDTH:700px; HEIGHT:300px" SRC="images/homo.png">
 
 
-## 
-**Different species of *Homo* very likely interacted**
-
+## Different species of *Homo* very likely interacted
+<hr>
 <!-- <IMG STYLE="position:absolute; TOP:220px; LEFT:5px; WIDTH:400px; HEIGHT:350px" SRC="images/geography.png"> -->
 
-<IMG STYLE="position:absolute; TOP:120px; LEFT:150px; WIDTH:800px; HEIGHT:550px" SRC="images/overlap.png">
+<IMG STYLE="position:absolute; TOP:160px; LEFT:150px; WIDTH:800px; HEIGHT:530px" SRC="images/overlap.png">
 
 ## Out of Africa and beyond
 <hr>
 <br/>
-<br/>
 
 <div style="float: left; width: 45%;">
 
-- **H. sapien evolved on African continent**
+- **H. sapiens evolved on African continent**
     + massive migration ~100,000 ya
     + not the first to leave
 
@@ -204,7 +223,14 @@ output:
 
 - **H. erectus probably left first**
     + or H. egaster
-    + then H. neanderthalensis
+
+<br/>
+
+- **H. neanderthalensis evolved in Europe/Asia**
+
+<br/>
+
+- **Our species left in a 2^nd^ migration**
 
 <br/>
 
@@ -212,7 +238,7 @@ output:
 
 </div>
 
-<IMG STYLE="position:absolute; TOP:160px; LEFT:480px; WIDTH:620px; HEIGHT:500px" SRC="images/lopez.jpg">
+<IMG STYLE="position:absolute; TOP:170px; LEFT:480px; WIDTH:620px; HEIGHT:500px" SRC="images/africa.png">
 
 ## Different species of *Homo* may have interbred
 <hr>
