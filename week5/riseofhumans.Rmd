@@ -58,7 +58,25 @@ output:
 <hr>
 <br/>
 
-**<span style="color:red">What are the consequences of common misconceptions about human evolution past, present & future? </span>**
+**<span style="color:red">What are the consequences of misconceptions about human evolution past, present & future? </span>**
+
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+
+**<span style="color:red">Is egocentrism at the root of the environmental crisis? </span>**
 
 <IMG STYLE="position:absolute; TOP:255px; LEFT:375px; WIDTH:350px; HEIGHT:350px" SRC="images/eco.png">
 
@@ -67,7 +85,8 @@ output:
 <br/>
 
 - **Humans are a part of the tree of life, not above it**
-
+    + Aristotle and Scala Natura
+    
 <br/>
 
 - **Are humans the most complex organism on Earth?**
@@ -149,7 +168,7 @@ output:
 </div>
 
 
-## Whats in a name - Relatedness through taxonmy
+## Whats in a name - Relatedness through taxonomy
 <hr>
 
 <IMG STYLE="position:absolute; TOP:220px; LEFT:50px; WIDTH:1000px; HEIGHT:400px" SRC="images/taxonomy.jpg">
@@ -169,7 +188,7 @@ output:
 <br/>
 
 - **Fossil record is very incomplete**
-    + common ancestor to *Pan* is unknown
+    + common ancestor with *Pan* is unknown
     + total number of ancestral humans may change
     + *Toumai* fossil (Chad) dated 6-7 mya
     + *Ardi* fossil (Ethiopia) dated 4.4 mya
@@ -189,15 +208,15 @@ output:
 ## The *Homo* genus is all that is left
 <hr>
 
-**H.habilis was probably first (most primitive) &#8594; 2.3-1.4mya**
+- **H.habilis was probably first (most primitive) &#8594; 2.3-1.4mya**
 
 <br/>
 
-**H.sapiens evolved appro. 300,00 - 200,00 years ago**
+- **H.sapiens evolved approx. 300,00 - 200,00 years ago**
 
 <br/>
 
-**The evolution of the *Homo* genus was not a ladder!**
+- **The evolution of the *Homo* genus was not a ladder!**
 
 
 <IMG STYLE="position:absolute; TOP:360px; LEFT:150px; WIDTH:700px; HEIGHT:300px" SRC="images/homo.png">
@@ -265,7 +284,7 @@ output:
 
 <IMG STYLE="position:absolute; TOP:160px; LEFT:625px; WIDTH:480px; HEIGHT:500px" SRC="images/interbred.png">
 
-## Is human evolution, dispersal and climate related?
+## Is human evolution, dispersal, and climate related?
 <hr>
 
 <IMG STYLE="position:absolute; TOP:220px; LEFT:50px; WIDTH:550px; HEIGHT:400px" SRC="images/climate.jpg">

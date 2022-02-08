@@ -6,6 +6,30 @@ output:
     widescreen: true
     smaller: true
 ---
+
+## The agriculture revolution was a game changer..
+<hr>
+
+<IMG STYLE="position:absolute; TOP:160px; LEFT:150px; WIDTH:800px; HEIGHT:500px" SRC="images/humanpop.jpg">
+
+## Why does this matter for global change?
+<hr>
+ <br/>
+  <br/>
+   
+<IMG STYLE="position:absolute; TOP:250px; LEFT:600px; WIDTH:500px; HEIGHT:300px" SRC="images/now.png">
+
+<div style="float: left; width: 50%;">
+
+- **Over human history...**
+    + **Biomass of terrestrial vegetation has halved**
+    + **More than 20% reduction in biodiversity**
+    + **At least one million species threatened with extinction**
+    + **More than 70% of the Earths land surface has been altered by humans**
+    + **Total global biomass of wild animals today is < 25% of what it was during the Late Pleistocene**
+    + **Terrestrial vertebrates biomass today is represented by livestock (59%) and living human beings (36%)**.
+</div>
+
 ## What else is wrong with this representation?
 <hr>
 <br/>
@@ -146,7 +170,26 @@ output:
 
 <br/>
 
-- **87 specific genes in modern humans are different from related genes in Neanderthals and Denisovan**           + potential clues for our survival?
+- **How separate or independent our we?**
+    + perhaps.....just enough.....
+    
+## H. neanderthalensis are our closest extinct relative
+<hr>
+<br/>
+<br/>
+<br/>
+
+- **Modern molecular tools have been able to sequence Neanderthal and Denisovan genomes**
+
+<br/>
+
+
+- **Denisovans left genetic traces in oceanic and Asian regions**
+    + genomes of Australian aborigines, New Guineans and Pacific Islanders ~6% Denisovan
+
+<br/>
+
+- **87 specific genes in modern humans are different from related genes in Neanderthals and Denisovan**      + potential clues for our survival?
 
 ## Meet the Data: Has proportion of shared ancestry changed?
 <hr>
