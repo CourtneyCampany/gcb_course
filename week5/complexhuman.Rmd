@@ -7,7 +7,7 @@ output:
     smaller: true
 ---
 
-## The agriculture revolution was a game changer..
+## The agricultural revolution was a game changer..
 <hr>
 
 <IMG STYLE="position:absolute; TOP:160px; LEFT:150px; WIDTH:800px; HEIGHT:500px" SRC="images/humanpop.jpg">
@@ -54,7 +54,7 @@ output:
 
 <IMG STYLE="position:absolute; TOP:240px; LEFT:150px; WIDTH:800px; HEIGHT:400px" SRC="images/associate.png">
 
-## The complexity of being human
+## Is independence just another human fallacy?
 <hr>
 <br/>
 
@@ -140,7 +140,7 @@ output:
 <br/>
 
 - **Neanderthal allele variants range in diverse expression of skin and hair color to immune function and neuropsychiatric disease**
-    + may gave left us prone to allergies!
+    + may have left us prone to allergies!
 
 </div>
 
@@ -189,7 +189,10 @@ output:
 
 <br/>
 
-- **87 specific genes in modern humans are different from related genes in Neanderthals and Denisovan**      + potential clues for our survival?
+- **87 specific genes in modern humans are different from related genes in Neanderthals and Denisovans**
+<br/>
+
+- **<span style="color:blue">Potential clues for our survival?</span>**
 
 ## Meet the Data: Has proportion of shared ancestry changed?
 <hr>
@@ -221,16 +224,18 @@ output:
 
 <IMG STYLE="position:absolute; TOP:700px; LEFT:250px; WIDTH:450px; HEIGHT:450px" SRC="images/snp.jpg">
 
-
 ## What do the data show?
 <hr>
 
 <IMG STYLE="position:absolute; TOP:160px; LEFT:50px; WIDTH:1000px; HEIGHT:500px" SRC="images/fuetal.png">
 
-## Why would ancestral Neanderthal DNA be decreasing in modern humans?
+## Why would ancestral Neanderthal DNA be decreasing?
 <hr>
 
-<IMG STYLE="position:absolute; TOP:160px; LEFT:50px; WIDTH:1000px; HEIGHT:500px" SRC="images/compare.jpg">
+**Natural selection against Neanderthal DNA is likely responsible for the change, but some will likely persist**
+
+<IMG STYLE="position:absolute; TOP:220px; LEFT:100px; WIDTH:900px; HEIGHT:450px" SRC="images/compare.jpg">
+
 
 ## Why did humans win the survival race?
 <hr>
@@ -276,7 +281,6 @@ output:
 
 ## Next up: Friday open-discussion of human impacts
 <hr>
-<br/>
 
 - **Humans have existed for ~300,000 years**
 
@@ -292,9 +296,10 @@ output:
 
 <br/>
 
-- **We will create a time line of influence on the board**
+- **We will create a timeline of influence on the board**
     + each of you will add something
 
 <br/>    
 
 - **We will then discuss what it all means**
+    + Submit your evidence (link or aritcle) on Brightspace

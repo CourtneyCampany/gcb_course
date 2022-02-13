@@ -40,7 +40,7 @@ output:
 
 - **On geologic times scales humans have existed in the Cenozoic era**
     + our evolutionary trajectory takes us through the Pleistocene and Holocene
-    + we are potentially in a new time period: *Anthropocene*
+    + we are unofficially in a new epoch: *Anthropocene*
 
 <br/>
 
@@ -105,29 +105,18 @@ output:
 
 ## Holocene (12,000 -)
 <hr>
-<br/>
-
-<div style="float: right; width: 50%;">
-
-- **Begins after last glacial period, including glacial retreat**
-    + Earth experienced a warming trend
-    
-<br/>
-
-- **Climate change and megafauna extinction drive massive change in human behaviors**
-    
-<br/>
-
-- **Rapid proliferation, growth and impacts of the human species worldwide**
-
-<br/>
 
 - **Significant advancements in technology and 'urbanization'**
     + resultant increases in human impacts
     
-</div>
 
-<IMG STYLE="position:absolute; TOP:220px; LEFT:10px; WIDTH:520px; HEIGHT:400px" SRC="images/change.png">
+<IMG STYLE="position:absolute; TOP:220px; LEFT:250px; WIDTH:620px; HEIGHT:450px" SRC="images/change.png">
+
+## Holocene (12,000 -) Were humans lucky?
+<hr>
+
+<IMG STYLE="position:absolute; TOP:180px; LEFT:0px; WIDTH:1100px; HEIGHT:450px" SRC="images/plants.png">
+
 
 ## Neolithic period (12,000-6,000ya)
 <hr>
@@ -140,7 +129,8 @@ output:
 <br/>
 
 - **Development of agricultural crucial human landmark**
-    + plant cultivation and animals domestication
+    + plant cultivation and animal domestication
+    + irrigation in areas with insufficient rainfall
     + spread from several centers of origin
     
 <br/>
@@ -176,6 +166,11 @@ output:
 <IMG STYLE="position:absolute; TOP:240px; LEFT:25px; WIDTH:450px; HEIGHT:300px" SRC="images/sick.png">
 
 <IMG STYLE="position:absolute; TOP:160px; LEFT:500px; WIDTH:650px; HEIGHT:500px" SRC="images/sick2.jpg">
+
+## Neolithic period: Consequences of Urbanization
+<hr>
+
+<IMG STYLE="position:absolute; TOP:180px; LEFT:100px; WIDTH:900px; HEIGHT:450px" SRC="images/microbiome.png">
 
 
 ## Industrial Age (1760 -)
@@ -221,6 +216,7 @@ output:
 
 - **Represents the starting point for serious atmospheric change**
     + based on fossil fuel emissions
+    + https://www.youtube.com/watch?v=kCmwKbVFbWg (bar chart race)
     
  </div>
  
