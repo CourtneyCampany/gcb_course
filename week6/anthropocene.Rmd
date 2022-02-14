@@ -45,7 +45,8 @@ output:
 <br/>
 
 - **Understanding human impacts requires historical knowledge of each time period**
-
+    + what we tried to do on Friday!
+    
 </div>
 
 <IMG STYLE="position:absolute; TOP:200px; LEFT:550px; WIDTH:550px; HEIGHT:400px" SRC="images/clock.jpg">
@@ -107,7 +108,7 @@ output:
 <hr>
 
 - **Significant advancements in technology and 'urbanization'**
-    + resultant increases in human impacts
+    + resultant increases in human impacts (>local?)
     
 
 <IMG STYLE="position:absolute; TOP:220px; LEFT:250px; WIDTH:620px; HEIGHT:450px" SRC="images/change.png">
@@ -115,7 +116,7 @@ output:
 ## Holocene (12,000 -) Were humans lucky?
 <hr>
 
-<IMG STYLE="position:absolute; TOP:180px; LEFT:0px; WIDTH:1100px; HEIGHT:450px" SRC="images/plants.png">
+<IMG STYLE="position:absolute; TOP:160px; LEFT:300px; WIDTH:500px; HEIGHT:500px" SRC="images/plants2.gif">
 
 
 ## Neolithic period (12,000-6,000ya)
