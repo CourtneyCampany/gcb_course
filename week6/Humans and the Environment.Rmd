@@ -79,7 +79,7 @@ output:
  
 ##
 
-<IMG STYLE="position:absolute; TOP:0px; LEFT:0px; WIDTH:1100px; HEIGHT:700px" SRC="images/cali.png">
+<IMG STYLE="position:absolute; TOP:50px; LEFT:25px; WIDTH:1050px; HEIGHT:600px" SRC="images/cali.png">
  
 ##
 
@@ -131,7 +131,7 @@ output:
 
 </div>
 
-<IMG STYLE="position:absolute; TOP:200px; LEFT:600px; WIDTH:550px; HEIGHT:400px" SRC="images/shipping.jpg">
+<IMG STYLE="position:absolute; TOP:200px; LEFT:615px; WIDTH:550px; HEIGHT:400px" SRC="images/shipping.jpg">
 
 ##
 
