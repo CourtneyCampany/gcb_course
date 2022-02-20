@@ -166,6 +166,10 @@ output:
 
 <IMG STYLE="position:absolute; TOP:160px; LEFT:50px; WIDTH:1000px; HEIGHT:500px" SRC="images/match.png">
 
+##
+
+<IMG STYLE="position:absolute; TOP:50px; LEFT:0px; WIDTH:1100px; HEIGHT:600px" SRC="images/greenhouse.png">
+
 ## If balance interupted, Earth warms or cools
 <hr>
 <br/>
@@ -196,10 +200,6 @@ output:
 <IMG STYLE="position:absolute; TOP:180px; LEFT:10px; WIDTH:600px; HEIGHT:450px" SRC="images/gases.png">
 
 <IMG STYLE="position:absolute; TOP:220px; LEFT:600px; WIDTH:480px; HEIGHT:400px" SRC="images/loa.png">
-
-##
-
-<IMG STYLE="position:absolute; TOP:50px; LEFT:0px; WIDTH:1100px; HEIGHT:600px" SRC="images/greenhouse.png">
 
 ## Climate change is not new
 <hr>
@@ -268,7 +268,7 @@ output:
 
 <IMG STYLE="position:absolute; TOP:180px; LEFT:10px; WIDTH:550px; HEIGHT:450px" SRC="images/precip.png">
 
-<IMG STYLE="position:absolute; TOP:2000px; LEFT:580px; WIDTH:500px; HEIGHT:400px" SRC="images/weather.jpg">
+<IMG STYLE="position:absolute; TOP:200px; LEFT:580px; WIDTH:500px; HEIGHT:400px" SRC="images/weather.jpg">
 
 ## Next up: Friday Exam
 <hr>

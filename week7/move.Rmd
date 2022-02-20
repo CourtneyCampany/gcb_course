@@ -216,7 +216,7 @@ output:
         + developmental, physical, behavioral
     + Environmental features
     + Dynamics of change
-    + etc.
+
 
 </div>
 
@@ -263,11 +263,28 @@ output:
 
 <IMG STYLE="position:absolute; TOP:240px; LEFT:100px; WIDTH:300px; HEIGHT:300px" SRC="images/leaf.png">
 
-<IMG STYLE="position:absolute; TOP:160px; LEFT:550px; WIDTH:350px; HEIGHT:500px" SRC="images/distribution.png">
+<IMG STYLE="position:absolute; TOP:160px; LEFT:650px; WIDTH:350px; HEIGHT:500px" SRC="images/distribution.png">
 
 ## The adjacent possible for the move response
 <hr>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
 
-<IMG STYLE="position:absolute; TOP:240px; LEFT:100px; WIDTH:300px; HEIGHT:300px" SRC="images/leaf.png">
+<div style="float: left; width: 60%;">
 
-<IMG STYLE="position:absolute; TOP:160px; LEFT:550px; WIDTH:350px; HEIGHT:500px" SRC="images/distribution.png">
+**100 years from now where could species survive and how could it get there?**
+
+<br/>
+
+**Can it disperse far enough fast enough over a fragmented landscape? **
+
+<br/>
+
+**What is the role of the interaction with species and the environment?**
+
+</div>
+
+<IMG STYLE="position:absolute; TOP:160px; LEFT:650px; WIDTH:350px; HEIGHT:500px" SRC="images/distribution.png">
