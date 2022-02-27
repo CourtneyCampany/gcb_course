@@ -14,9 +14,7 @@ output:
 
 <br/>
 
-<div style="float: left; width: 50%;">
-
-<br/>
+<div style="float: left; width: 55%;">
 
 **In physical space -> <span style="color:blue">move</span>**
 
@@ -37,16 +35,18 @@ output:
 **<span style="color:darkred">Responses are not mutually exclusive</span>**
 </div>
 
-<IMG STYLE="position:absolute; TOP:250px; LEFT:520px; WIDTH:550px; HEIGHT:400px" SRC="images/polar.jpg">
+<IMG STYLE="position:absolute; TOP:180px; LEFT:600px; WIDTH:400px; HEIGHT:500px" SRC="images/possible.jpg">
 
 ## The Adjacent Possible for other species
 <hr>
-<br/>
+
+<div align="center">**If environmental conditions are changing…**</div>
 <br/>
 
-**If environmental conditions are changing…**
+<div style="float: right; width: 43%;">
 <br/>
-**what are the adjacent possible options for survival?**
+
+* **What are the adjacent possible options for survival?**
 
 <br/>
 
@@ -55,30 +55,35 @@ output:
     + Environmental features
     + Dynamics of change
 
+<br/>
 
-<IMG STYLE="position:absolute; TOP:160px; LEFT:180px; WIDTH:750px; HEIGHT:500px" SRC="images/lizards.jpg">
+* **Can a trait adjust?** 
 
-## The adjust response
+</div>
+
+<IMG STYLE="position:absolute; TOP:230px; LEFT:15px; WIDTH:600px; HEIGHT:400px" SRC="images/lizards.jpg">
+
+##
+
+<IMG STYLE="position:absolute; TOP:50px; LEFT:125px; WIDTH:825px; HEIGHT:600px" SRC="images/traitsplastic.png">
+
+## Organismal responses to change: Adjust
 <hr>
 
-**Adjust: non-genetic shifts in organismal traits in different environments**
+* **Adjust: non-genetic shifts in organismal traits in different environments**
     + *phenotypic plasticity*
 
 <br/>
 
-**The adjust response happens at the level of the *individual* and happens within a *single* generation**
+* **Adjust response happens at the *individual* level and within a *single* generation**
+    + What does this mean?
 
-<br/>
+<IMG STYLE="position:absolute; TOP:360px; LEFT:0px; WIDTH:1100px; HEIGHT:300px" SRC="images/wings.png">
 
-**What does this mean?!?**
-
-<IMG STYLE="position:absolute; TOP:380px; LEFT:150px; WIDTH:800px; HEIGHT:400px" SRC="images/plastic.jpg">
-
-## The adjust response
+## Organismal responses to change: Adjust
 <hr>
 <br/>
 
-<div style="float: left; width: 45%;">
 
 **Genotype: inherited genetic information **
 
@@ -87,25 +92,31 @@ output:
 **Phenotype: observable traits or characteristics**
 
 <br/>
+<br/>
 
 **What is the connection between genotype & phenotype?**
 
 <br/>
 
-**Genotype x Environment = Phenotype**
+**Genotype x Environment = Phenotype variation?**
 
 <br/>
 
 **G x E interactions are the foundation of phenotypic plasiticity**
 
-</div>
 
-<IMG STYLE="position:absolute; TOP:180px; LEFT:500px; WIDTH:650px; HEIGHT:400px" SRC="images/insectsthermal.jpg">
+<IMG STYLE="position:absolute; TOP:200px; LEFT:650px; WIDTH:400px; HEIGHT:300px" SRC="images/genopheno.png">
+
+
+## 
+
+<IMG STYLE="position:absolute; TOP:50px; LEFT:200px; WIDTH:700px; HEIGHT:600px" SRC="images/gbyE.png">
 
 ## What is phenotypic plasticity?
 <hr>
+<br/>
 
-<div align="center">**When a single genotype can produce multiple phenotypes depending on environmental conditions**</div>
+**When a single genotype can produce multiple phenotypes depending on environmental conditions**
 
 <br/>
 <br/>
@@ -124,23 +135,25 @@ output:
 **Daphnia produce horns and neck teeth in presense of predators**
 </div>
 
-<IMG STYLE="position:absolute; TOP:200px; LEFT:600px; WIDTH:400px; HEIGHT:450px" SRC="images/daphnia2.png">
+<IMG STYLE="position:absolute; TOP:250px; LEFT:600px; WIDTH:450px; HEIGHT:400px" SRC="images/daphnia2.png">
 
 
 ## Density-induced grasshopper plasticity
 <hr>
 
-<IMG STYLE="position:absolute; TOP:160px; LEFT:50px; WIDTH:1000px; HEIGHT:500px" SRC="images/grasshopper.jpg>
+<IMG STYLE="position:absolute; TOP:220px; LEFT:0px; WIDTH:1100px; HEIGHT:400px" SRC="images/grasshopper.jpg">
 
 ## Some shore crabs shift colors diurnally!
 <hr>
 <br/>
 <br/>
 <br/>
+<br/>
 
-<IMG STYLE="position:absolute; TOP:160px; LEFT:250px; WIDTH:600px; HEIGHT:500px" SRC="images/shorecrabs.jpg>
+<IMG STYLE="position:absolute; TOP:160px; LEFT:400px; WIDTH:600px; HEIGHT:500px" SRC="images/shorecrabs.jpg">
 
 **Camouflage**
+
 <br/>
 
 **Thermoregulation**
@@ -151,17 +164,21 @@ output:
 
 <br/>
 
-**Protection from ultraviolet (UV) light**
+**UV light protection**
 
 ## What is phenotypic plasticity?
 <hr>
-<div align="center">**When a single genotype can produce multiple phenotypes depending on environmental conditions**</div>
+<br/>
+**When a single genotype can produce multiple phenotypes depending on environmental conditions**
 
 <div style="float: left; width: 55%;">
 
+
+<br/>
+<br/>
 <br/>
 
-* **Plasticity doesn’t only have to be for morphological traits.**
+* **Plasticity doesn’t have to be for morphological traits.**
 
 <br/>
 
@@ -169,49 +186,85 @@ output:
 
 <br/>
 
-* **Behaviour has long been considered the 'most plastic' phenotypic trait** 
+* **Behavior has long been considered the 'most plastic' phenotypic trait** 
     + quickest response to temporal changes 
 
 </div>
 
-<IMG STYLE="position:absolute; TOP:220px; LEFT:650px; WIDTH:400px; HEIGHT:400px" SRC="images/world.jpg">
+<IMG STYLE="position:absolute; TOP:210px; LEFT:625px; WIDTH:400px; HEIGHT:450px" SRC="images/behavior.png">
 
 ## What is phenotypic plasticity?
 <hr>
-<div align="center">**When a single genotype can produce multiple phenotypes depending on environmental conditions**</div>
+<br/>
+**When a single genotype can produce multiple phenotypes depending on environmental conditions**
 
-* **Developmental plasticity, the ability of an individual to modify its development in response to environmental conditions, might facilitate the evolution of novel traits**
+<br/>
+<br/>
+<br/>
 
-* **How developmental flexibility promotes innovations that persist over evolutionary time remains unclear**
+* **Developmental plasticity: the ability of an individual to modify its development in response to environmental conditions**
+    + might facilitate the evolution of novel traits
 
+<br/>
 
-<IMG STYLE="position:absolute; TOP:160px; LEFT:675px; WIDTH:333px; HEIGHT:500px" SRC="images/origins.jpg">
+* **How developmental flexibility promotes innovations that persist over evolutionary time is unclear**
+
+<br/>
+
+* **However, exposure to environmental variation is a characteristic feature of normal development**
+
+##
+
+<IMG STYLE="position:absolute; TOP:50px; LEFT:125px; WIDTH:850px; HEIGHT:600px" SRC="images/insectsthermal.jpg">
+
+## Are all traits plastic? 
+<hr>
+<br/>
+<br/>
+
+* **Optimal responses to environmental challenges would include perfect plasticity**
+    + organism possesses perfect information on its current environment
+    + mechanisms to produce an appropriate phenotypic response at all points in development
+
+<br/>
+
+* **Instead, traits exist on a spectrum that are determined exclusively by genetics and those influenced mostly by the environment**
+    + no organisms is entirely or infinitely plastic
+    
+<br/>
+
+* **Interesting point: Organisms in heterogeneous (variable) environments are more likely to have selection of traits that can be plastic**
+    + low genetic diversity can limit selection of plastic traits
+    
+## How do you test for phenotypic plasticity?
+<hr>
+<br/>
+**How do you figure out if a trait is controlled by genes, the environment or both?**
+
+<IMG STYLE="position:absolute; TOP:250px; LEFT:100px; WIDTH:800px; HEIGHT:400px" SRC="images/commongarden.png">
 
 ## How do you test for phenotypic plasticity?
 <hr>
+<br/>
+**Effect of genotype only (not phenotypically plastic under these conditions)**
 
-<div align="center">How do you figure out if a trait is controlled by genes, the environment or both?</div>
-
-<IMG STYLE="position:absolute; TOP:200px; LEFT:100px; WIDTH:800px; HEIGHT:400px" SRC="images/commongarden.png">
-
-## How do you test for phenotypic plasticity?
-<hr>
-
-<div align="center">Effect of genotype only (not phenotypically plastic under these conditions)</div>
-
-<IMG STYLE="position:absolute; TOP:200px; LEFT:100px; WIDTH:800px; HEIGHT:400px" SRC="images/commongarden2.png">
+<IMG STYLE="position:absolute; TOP:250px; LEFT:100px; WIDTH:800px; HEIGHT:400px" SRC="images/commongarden2.png">
 
 ## How do you test for phenotypic plasticity?
 <hr>
+<br/>
+**Effect of environment only (YES phenotypically plastic under these conditions)**
 
-<div align="center">Effect of environment only (YES phenotypically plastic under these conditions)</div>
-
-<IMG STYLE="position:absolute; TOP:200px; LEFT:100px; WIDTH:800px; HEIGHT:400px" SRC="images/commongarden3.png">
+<IMG STYLE="position:absolute; TOP:250px; LEFT:100px; WIDTH:800px; HEIGHT:400px" SRC="images/commongarden3.png">
 
 ## How do you test for phenotypic plasticity?
 <hr>
+<br/>
+**Effect of both environment and genotype (genotype by environment interaction)**
 
-<div align="center">Effect of both environment and genotype (genotype by environment interaction)</div>
+<IMG STYLE="position:absolute; TOP:250px; LEFT:100px; WIDTH:800px; HEIGHT:400px" SRC="images/commongarden4.png">
 
-<IMG STYLE="position:absolute; TOP:200px; LEFT:100px; WIDTH:800px; HEIGHT:400px" SRC="images/commongarden4.png">
+## Are global change and the adjust response compatible?
+<hr>
 
+<IMG STYLE="position:absolute; TOP:160px; LEFT:300px; WIDTH:500px; HEIGHT:500px" SRC="images/nextup.png">
