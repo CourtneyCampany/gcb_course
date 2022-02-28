@@ -65,13 +65,13 @@ output:
 
 ##
 
-<IMG STYLE="position:absolute; TOP:50px; LEFT:125px; WIDTH:825px; HEIGHT:600px" SRC="images/traitsplastic.png">
+<IMG STYLE="position:absolute; TOP:50px; LEFT:125px; WIDTH:825px; HEIGHT:600px" SRC="images/traitplastic.png">
 
 ## Organismal responses to change: Adjust
 <hr>
 
 * **Adjust: non-genetic shifts in organismal traits in different environments**
-    + *phenotypic plasticity*
+    + *phenotypic plasticity*, acclimation, acclimitization
 
 <br/>
 
@@ -102,15 +102,14 @@ output:
 
 <br/>
 
-**G x E interactions are the foundation of phenotypic plasiticity**
+**G x E interactions are the foundation of phenotypic plasticity**
 
 
 <IMG STYLE="position:absolute; TOP:200px; LEFT:650px; WIDTH:400px; HEIGHT:300px" SRC="images/genopheno.png">
 
-
 ## 
 
-<IMG STYLE="position:absolute; TOP:50px; LEFT:200px; WIDTH:700px; HEIGHT:600px" SRC="images/gbyE.png">
+<IMG STYLE="position:absolute; TOP:50px; LEFT:50px; WIDTH:1000px; HEIGHT:600px" SRC="images/plastic2.jpg">
 
 ## What is phenotypic plasticity?
 <hr>
@@ -126,13 +125,13 @@ output:
 
 * **Inducible defenses are classic example**
     + animals and plants
-    + oftern fast
+    + often fast
     + stabilize population dynamics
     + dedicated sensory systems to interpret the environment
 
 <br/>
 
-**Daphnia produce horns and neck teeth in presense of predators**
+**Daphnia produce horns and neck teeth in presence of predators**
 </div>
 
 <IMG STYLE="position:absolute; TOP:250px; LEFT:600px; WIDTH:450px; HEIGHT:400px" SRC="images/daphnia2.png">
@@ -141,7 +140,7 @@ output:
 ## Density-induced grasshopper plasticity
 <hr>
 
-<IMG STYLE="position:absolute; TOP:220px; LEFT:0px; WIDTH:1100px; HEIGHT:400px" SRC="images/grasshopper.jpg">
+<IMG STYLE="position:absolute; TOP:250px; LEFT:0px; WIDTH:1100px; HEIGHT:300px" SRC="images/grasshopper3.png">
 
 ## Some shore crabs shift colors diurnally!
 <hr>
