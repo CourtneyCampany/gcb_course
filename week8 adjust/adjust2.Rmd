@@ -1,5 +1,5 @@
 ---
-title: "Responding to Change: Move"
+title: "Organismal Responses to Change: Adjust"
 output: 
   ioslides_presentation:
     css: custom2.css
@@ -7,277 +7,306 @@ output:
     smaller: true
 ---
 
-## The really BIG question
+## How does phenotypic plasticity happen?
+<hr>
+<br/>
+<br/>
+
+* **Instantaneous / instinctual responses**
+
+<br/>
+
+* **Gene expression responses**
+    + DNA -> RNA
+
+<br/>
+
+* **Epigenetic responses**
+    + whet
+    + study of how your behaviors and environment can cause changes that affect the way your genes work
+
+
+<IMG STYLE="position:absolute; TOP:160px; LEFT:650px; WIDTH:400px; HEIGHT:400px" SRC="images/puzzle.jpg">
+
+## How does phenotypic plasticity happen?
 <hr>
 <br/>
 
-<div align="center">**How do biological systems respond to human impacts on planet Earth?**</div>
+* **Instantaneous / instinctual responses**
 
-<IMG STYLE="position:absolute; TOP:240px; LEFT:200px; WIDTH:700px; HEIGHT:400px" SRC="images/connect.jpg">
+<IMG STYLE="position:absolute; TOP:240px; LEFT:200px; WIDTH:700px; HEIGHT:400px" SRC="images/birdinstant.png">
 
-## Range changes
+## How does phenotypic plasticity happen?
 <hr>
 <br/>
 
-**<span style="color:green">Geographic range</span>= total spatial area in which a species is found**
+* **Instantaneous / instinctual responses**
 
+<IMG STYLE="position:absolute; TOP:240px; LEFT:200px; WIDTH:700px; HEIGHT:400px" SRC="images/birdinstant2.png">
+
+## How does phenotypic plasticity happen?
+<hr>
+<br/>
+
+* **Gene expression responses**
+
+<IMG STYLE="position:absolute; TOP:240px; LEFT:50px; WIDTH:1000px; HEIGHT:400px" SRC="images/gene.png">
+
+## How does phenotypic plasticity happen?
+<hr>
+<br/>
+
+* **Epigenetic responses**
+
+<IMG STYLE="position:absolute; TOP:240px; LEFT:200px; WIDTH:700px; HEIGHT:400px" SRC="images/epigenetic.png">
+
+## Different types of genetic changes
+<hr>
+
+<IMG STYLE="position:absolute; TOP:160px; LEFT:100px; WIDTH:900px; HEIGHT:500px" SRC="images/dna.png">
+
+## Changes to DNA sequence underlie adaptation
+<hr>
+
+<IMG STYLE="position:absolute; TOP:160px; LEFT:100px; WIDTH:900px; HEIGHT:500px" SRC="images/dna2.png">
+
+## Changes to DNA sequence underlie plasticity
+<hr>
+
+<IMG STYLE="position:absolute; TOP:160px; LEFT:100px; WIDTH:900px; HEIGHT:500px" SRC="images/dna3.png">
+
+## Changes to DNA sequence underlie plasticity
+<hr>
+
+<IMG STYLE="position:absolute; TOP:160px; LEFT:100px; WIDTH:900px; HEIGHT:500px" SRC="images/dna4.png">
+
+## Changes to DNA sequence underlie plasticity
+<hr>
+<br/>
+
+**Traditionally it was thought that changes to the sequence of DNA were heritable while changes to the expression patterns of DNA were not**
+
+<br/>
+
+**That made it easy to define adaptation as “heritable genetic change” and plasticity as “non-genetic”**
+
+<br/>
+
+**But those lines are becoming blurred as we learn about mechanisms (like histone modification) that can make gene expression changes heritable**
+
+<IMG STYLE="position:absolute; TOP:360px; LEFT:100px; WIDTH:600px; HEIGHT:300px" SRC="images/epigenetics2.jpg">
+
+## The problem of concepts…
+<hr>
+
+<IMG STYLE="position:absolute; TOP:160px; LEFT:125px; WIDTH:850px; HEIGHT:500px" SRC="images/whale.png">
+
+## The adjust response
+<hr>
+<br/>
+
+**Adjust: non-genetic shifts in organismal traits in different environments (phenotypic plasticity)**
+
+<br/>
+
+**The adjust response happens at the level of the individual and happens within a single generation**
+
+<br/>
+
+**The adapt response happens at the level of the population and happens across generations**
+
+## Case Study: Limpopo National Park
+<hr>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
 <br/>
 
 <div style="float: left; width: 50%;">
 
-**Range changes can be facilitated by individuals themselves moving**
+**Village communities used the region before the establishment of Limpopo National Park **
 
 <br/>
 
-**For example: individuals following food resources, altering migratory pathways, etc.**
+**After the park’s establishment, village communities live within the park buffer zone**
 
 <br/>
 
-**Can occur (1) naturally (competition) or (2) via move response or (3) changes in survival rate**
+**The buffer zone is an important area for wildlife **
 </div>
 
-<IMG STYLE="position:absolute; TOP:240px; LEFT:575px; WIDTH:500px; HEIGHT:400px" SRC="images/birdsmigrate.jpg">
+<IMG STYLE="position:absolute; TOP:160px; LEFT:200px; WIDTH:800px; HEIGHT:200px" SRC="images/park.png">
 
-## Confronted with a changing world: organisms can *move*
+<IMG STYLE="position:absolute; TOP:300px; LEFT:600px; WIDTH:300px; HEIGHT:350px" SRC="images/park2.png">
+
+## People, Parks, and Climate Change
 <hr>
 <br/>
 
-<span style="color:blue">**Move**</span>= 
+**Strategies Dealing with Drought before the National Park**
 
 <br/>
+<br/>
 
-**What are the reasons for an organism to move?**
+* **Small plots in multiple areas**
+<br/>
+* **Sharing plots**
+<br/>
+* **Seeding at every rainfall**
+<br/>
+* **Temporary migration**
+<br/>
+* **Crop mixing**
 
-<IMG STYLE="position:absolute; TOP:320px; LEFT:225px; WIDTH:6; HEIGHT:350px" SRC="images/arrow.jpg">
+<IMG STYLE="position:absolute; TOP:250px; LEFT:550px; WIDTH:350px; HEIGHT:300px" SRC="images/drought.jpg">
 
-## Why Move? Organisms are adapted to environments
-<hr>
-
-<IMG STYLE="position:absolute; TOP:160px; LEFT:125px; WIDTH:850px; HEIGHT:500px" SRC="images/birdsextinct.png">
-
-<!-- ## Adaptations are very complex -->
-<!-- <hr> -->
-
-<!-- <IMG STYLE="position:absolute; TOP:160px; LEFT:150px; WIDTH:750px; HEIGHT:500px" SRC="images/owl2.jpg"> -->
-
-<!-- ## Adaptations are complex and took a long time time to develop -->
-<!-- <hr> -->
-
-<!-- <IMG STYLE="position:absolute; TOP:25px; LEFT:0px; WIDTH:1100px; HEIGHT:650px" SRC="images/downslope.jpg"> -->
-
-##
-
-<IMG STYLE="position:absolute; TOP:50px; LEFT:25px; WIDTH:400px; HEIGHT:600px" SRC="images/owl.jpg">
-
-<IMG STYLE="position:absolute; TOP:100px; LEFT:430px; WIDTH:650px; HEIGHT:500px" SRC="images/owl2.png">
-
-## Koality not Quantity
-<hr>
-
-<IMG STYLE="position:absolute; TOP:160px; LEFT:200px; WIDTH:650px; HEIGHT:500px" SRC="images/koala.png">
-
-##
-
-<IMG STYLE="position:absolute; TOP:25px; LEFT:0px; WIDTH:1100px; HEIGHT:650px" SRC="images/upslope.jpg">
-
-## Broadly, where are species marching?
-<hr>
-
-<IMG STYLE="position:absolute; TOP:160px; LEFT:200px; WIDTH:750px; HEIGHT:500px" SRC="images/march.png">
-
-##
-
-<IMG STYLE="position:absolute; TOP:25px; LEFT:0px; WIDTH:1100px; HEIGHT:650px" SRC="images/elevation.jpg">
-
-## 
-
-<IMG STYLE="position:absolute; TOP:25px; LEFT:25px; WIDTH:500px; HEIGHT:300px" SRC="images/migrate2.jpeg">
-
-<IMG STYLE="position:absolute; TOP:25px; LEFT:600px; WIDTH:500px; HEIGHT:300px" SRC="images/boreal.png">
-
-<IMG STYLE="position:absolute; TOP:355px; LEFT:250px; WIDTH:650px; HEIGHT:325px" SRC="images/flee2.jpg">
-
-## In order to persist, species range changes are predictable
-<hr>
-
-<IMG STYLE="position:absolute; TOP:160px; LEFT:125px; WIDTH:850px; HEIGHT:500px" SRC="images/movementrate.jpg">
-
-## The 'Move Response' is limited
+## People, Parks, and Climate Change
 <hr>
 <br/>
 
-**<span style="color:blue">Move</span>: movement of individuals (dispersal, migration), populations or species (range changes).**
+**Strategies Dealing with Drought before the National Park**
 
-<br/>
-
-**<span style="color:red">Move</span>: movement away from natal territory (typically before or during reproduction - can be gametes not individuals)**
-
-<br/>
-
-**Dispersal is a key trait that influences move response. Can be short or long distance -  All species (even sessile ones) can disperse, but species differ in their dispersal ability.**
-
-<br/>
-
-**Dispersal links/limits individual movement with range shifts**
-
-<IMG STYLE="position:absolute; TOP:420px; LEFT:800px; WIDTH:200px; HEIGHT:250px" SRC="images/dispersal.jpg">
-
-## Range changes are usually slow
-<hr>
-
-**Many species are limited by gamete dispersal**
-
-<br/>
-
-**Plants are excellent disperses across generations, however..**
-
-
-<IMG STYLE="position:absolute; TOP:300px; LEFT:200px; WIDTH:650px; HEIGHT:350px" SRC="images/tree.jpg">
-
-<!-- ## In order to persist, species range changes are predictable -->
-<!-- <hr> -->
-
-<!-- <IMG STYLE="position:absolute; TOP:240px; LEFT:0px; WIDTH:1100px; HEIGHT:300px" SRC="images/rangechange.jpg"> -->
-
-## Factors that influence the move response
-<hr>
-
-**Whether or not species can “move” as a response to global change stressors depends on many things…**
-
-<br/>
-
-**<span style="color:green">Organismal traits</span>: Ability to move in response to changing conditions can be affected by many intrinsic traits like dispersal ability, generation time, etc.**
-
-<IMG STYLE="position:absolute; TOP:360px; LEFT:50px; WIDTH:1000px; HEIGHT:300px" SRC="images/animalmove.png">
-
-## Factors that influence the move response
-<hr>
-
-**Whether or not species can “move” as a response to global change stressors depends on many things…**
-
-<br/>
-
-**<span style="color:green">Landscape features</span>: Ability to move in response to changing conditions can be affected by many *characteristics of the environment* like habitat matrix (connectedness)**
-
-<IMG STYLE="position:absolute; TOP:360px; LEFT:50px; WIDTH:1000px; HEIGHT:300px" SRC="images/landscape.png">
-
-## Factors that influence the move response
-<hr>
-
-**Whether or not species can “move” as a response to global change stressors depends on many things…**
-
-<br/>
-
-**<span style="color:green">Dynamics of change</span>: Ability to move in response to changing conditions can be affected by many *global change stressors* like pace of change. Can they keep up?**
-
-<!-- <IMG STYLE="position:absolute; TOP:380px; LEFT:50px; WIDTH:1000px; HEIGHT:300px" SRC="images/landscape.png"> -->
-
-<IMG STYLE="position:absolute; TOP:360px; LEFT:100px; WIDTH:300px; HEIGHT:300px" SRC="images/vagile.png">
-
-<IMG STYLE="position:absolute; TOP:360px; LEFT:475px; WIDTH:500px; HEIGHT:300px" SRC="images/warming.jpg">
-
-
-## Factors that influence the move response
-<hr>
-
-**Whether or not species can “move” as a response to global change stressors depends on many things…**
-
-<br/>
-
-**<span style="color:green">Globalization</span>: Our transport systems change prior constraints on organismal movement for some species, which can lead to biotic homogenization**
-
-<IMG STYLE="position:absolute; TOP:335px; LEFT:50px; WIDTH:1000px; HEIGHT:325px" SRC="images/transport.jpg">
-
-## Factors that influence the move response: Invasion
-<hr>
-
-<IMG STYLE="position:absolute; TOP:200px; LEFT:0px; WIDTH:1100px; HEIGHT:400px" SRC="images/invasion.jpg">
-
-
-## Projecting the move response into the future...
-<hr>
-<br/>
-<br/>
 <br/>
 
 <div style="float: left; width: 55%;">
 
-**Ultimately ability to “move” will be determined by an interaction between the species and the environment**
+**WILDLIFE: As drought intensifies, elephants compensate by increasing usage of areas nearest the river, including crop fields**
 
 <br/>
 
-**100 years from now where could species survive and how could it get there?**
+**HUMAN: Village communities respond by using fencing and altering cropping practices **
 
-<br/>
-
-**Can it disperse far enough fast enough over a fragmented landscape?**
 </div>
 
-<IMG STYLE="position:absolute; TOP:160px; LEFT:650px; WIDTH:350px; HEIGHT:500px" SRC="images/pending.png">
+<IMG STYLE="position:absolute; TOP:220px; LEFT:670px; WIDTH:300px; HEIGHT:400px" SRC="images/park3.png">
 
-## Friday: Open discussion - Humans and the 'move response'
+## People, Parks, and Climate Change
 <hr>
 
-* **Investigate how/when/if humans may have to move due to global change factors**
+<IMG STYLE="position:absolute; TOP:160px; LEFT:100px; WIDTH:800px; HEIGHT:500px" SRC="images/park4.png">
 
-<div style="float: left; width: 45%;">
+
+## Meet the Data: Shifts with global warming
+<hr>
+
+<IMG STYLE="position:absolute; TOP:220px; LEFT:0px; WIDTH:1100px; HEIGHT:400px" SRC="images/papers.png">
+
+## Meet the Data: Shifts with global warming
+<hr>
+<br/>
+
+**What shifts (in space and time) do we see most commonly for organisms with global warming?**
+
+<br/>
+<br/>
+
+* **Geographic shifts toward the poles**
+<br/>
+
+* **Geographic shifts up in elevation**
+<br/>
+
+* **Seasonal shifts earlier in the year**
+
+
+<IMG STYLE="position:absolute; TOP:240px; LEFT:600px; WIDTH:400px; HEIGHT:400px" SRC="images/seasons.jpg">
+
+## Phenotypic plasticity in development
+<hr>
+**Example from insects: As ecotherms, temperature matters a lot for insect survival, development, dispersal, etc.**
+<br/>
+**Insect life histories are very tied to environmental factors **
+
+
+<IMG STYLE="position:absolute; TOP:240px; LEFT:50px; WIDTH:1000px; HEIGHT:400px" SRC="images/locusts.png">
+
+## Phenotypic plasticity in development
+<hr>
+
+* **For example, a major effect of global warming on insects is to speed up developmental rates**
+    + can lead to faster maturity
+
+<br/>
+<br/>
+
+<div style="float: left; width: 55%;">
+**In the UK >70% of butterfly species studies have earlier “first flight”**
 
 <br/>
 
-* **Utilize any form of communication you want**
-    + Be creative! 
-    
+**First flight is predicted to occur 2-10 days earlier for every 1°C**
+</div>
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:650px; WIDTH:400px; HEIGHT:450px" SRC="images/butterfly.jpg">
+
+## Phenotypic plasticity in development
+<hr>
+
+* **For example, a major effect of global warming on insects is to speed up developmental rates**
+    + can lead to more generations per year
+
+<br/>
+<br/>
+<br/>
+<div style="float: left; width: 55%;">
+**increase of temperatures by 2°C is predicted to allow some aphid species to produce an additional 4–5generations per year.**
+
+</div>
+
+<IMG STYLE="position:absolute; TOP:240px; LEFT:650px; WIDTH:400px; HEIGHT:350px" SRC="images/aphids.png">
+
+## Phenotypic plasticity in development
+<hr>
 <br/>
 
-* **Submit an article on Brightspace**
-    + as proof of your work**
+**Temperature-induced advancement in development is common and relates to a broader pattern…**
+
+<br/>
+
+**Phenological changes: changes in periodic biological phenomena (like flowering, breeding, migration, etc.)**
+
+<IMG STYLE="position:absolute; TOP:280px; LEFT:150px; WIDTH:800px; HEIGHT:350px" SRC="images/phenology.png">
+
+## Phenotypic plasticity in development
+<hr>
+<br/>
+
+**2003 meta-analyses found an advancement of an average of 2.3 days per decade**
+<br/>
+**Remarkably consistent across groups (and that was 20 years ago!!!)**
+
+<IMG STYLE="position:absolute; TOP:280px; LEFT:150px; WIDTH:800px; HEIGHT:350px" SRC="images/phenology2.png">
+
+## Phenotypic plasticity in development
+<hr>
+
+**With global warming we expect many temperature dependent processes to occur earlier in the year**
+    + Even a few days matters…**
+    + Phenological mismatch: When interacting species are no longer temporally or spatially aligned (we will return to this in Chap 9)**
+
+<IMG STYLE="position:absolute; TOP:240px; LEFT:0px; WIDTH:1100px; HEIGHT:450px" SRC="images/bloom.jpg">
+
+## Friday Discussion: Can Humans Adjust to Global Change?
+<hr>
+<br/>
+
+* **Journal Club message: Humans have high adatptive capacity..**
+    + what about short term change?
+
+<br/>
+
+* **What evidence exists? Past, present and/or future**
+    + can we acclimate to .....
+    + what traits are plastic (or not)
 
 <br/>
 
 * **Be prepared to discuss what you found as well as your opinion on if it is possible**
 
-<IMG STYLE="position:absolute; TOP:200px; LEFT:500px; WIDTH:600px; HEIGHT:400px" SRC="images/florida.png">
+<br/>
 
-<!-- ##  -->
+* **Submit an article/finding on Brightspace for participation**
 
-<!-- <div style="float: left; width: 55%;"> -->
-
-<!-- **Pacific Islands threatened by sea level rise caused by climate change** -->
-
-<!-- <br/> -->
-
-<!-- **Water availability and overcrowding may become an issue in the next 50 years** -->
-
-<!-- <br/> -->
-
-<!-- **29% of US population lives on the coast** -->
-
-<!-- <br/> -->
-
-<!-- **40% of world populations live within 100km of coast** -->
-
-<!-- <br/> -->
-
-<!-- **1 in 10 people live in low-elevation coastal risk zone (<30 ft above sea level)** -->
-<!-- </div> -->
-
-<!-- <IMG STYLE="position:absolute; TOP:160px; LEFT:650px; WIDTH:350px; HEIGHT:500px" SRC="images/florida.png"> -->
-
-<!-- ## Are climate reguess in the near future? -->
-<!-- <hr> -->
-
-<!-- **New Zealand is one of the first countries to propose program for climate refugees** -->
-
-<!-- <br/> -->
-
-<!-- **Pacific Islanders only want refugee visas as a last resort ** -->
-
-<!-- <br/> -->
-
-<!-- **Instead, island communities advocate for climate adaptation, emission reduction, and pathways for legal migration beforehand** -->
-
-<!-- <IMG STYLE="position:absolute; TOP:460px; LEFT:50px; WIDTH:100px; HEIGHT:100px" SRC="images/newzea.png"> -->
-
-<!-- ## Chapter reading -->
-
-<!-- **Information on Invasive species** -->
