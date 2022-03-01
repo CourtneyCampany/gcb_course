@@ -10,23 +10,29 @@ output:
 ## How does phenotypic plasticity happen?
 <hr>
 <br/>
-<br/>
+
+<div style="float: left; width: 50%;">
 
 * **Instantaneous / instinctual responses**
-
+    + behavior or physiology
+    
 <br/>
 
 * **Gene expression responses**
     + DNA -> RNA
+    + increase or decrease production of RNA/proteins
 
 <br/>
 
 * **Epigenetic responses**
-    + whet
-    + study of how your behaviors and environment can cause changes that affect the way your genes work
+    + mechanisms where DNA is not accessible for transcription
+    + DNA still does not change
+    + possibly inherited
 
 
-<IMG STYLE="position:absolute; TOP:160px; LEFT:650px; WIDTH:400px; HEIGHT:400px" SRC="images/puzzle.jpg">
+</div>
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:620px; WIDTH:400px; HEIGHT:400px" SRC="images/puzzle.jpg">
 
 ## How does phenotypic plasticity happen?
 <hr>
@@ -36,29 +42,51 @@ output:
 
 <IMG STYLE="position:absolute; TOP:240px; LEFT:200px; WIDTH:700px; HEIGHT:400px" SRC="images/birdinstant.png">
 
-## How does phenotypic plasticity happen?
+## Phenotypic plasticity: Instantaneous / instinctual response
+<hr>
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:50px; WIDTH:1000px; HEIGHT:450px" SRC="images/frequency.jpg">
+
+## Phenotypic plasticity: Instantaneous / instinctual response
+<hr>
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:50px; WIDTH:1000px; HEIGHT:450px" SRC="images/light3.png">
+
+## Phenotypic plasticity: Gene expression responses
+<hr>
+
+<IMG STYLE="position:absolute; TOP:220px; LEFT:50px; WIDTH:1000px; HEIGHT:400px" SRC="images/gene.png">
+
+## Phenotypic plasticity: Gene expression responses
+<hr>
+
+<IMG STYLE="position:absolute; TOP:220px; LEFT:100px; WIDTH:900px; HEIGHT:400px" SRC="images/stomata3.png">
+
+## Phenotypic plasticity: Epigenetic response
 <hr>
 <br/>
 
-* **Instantaneous / instinctual responses**
+<div style="float: left; width: 50%;">
 
-<IMG STYLE="position:absolute; TOP:240px; LEFT:200px; WIDTH:700px; HEIGHT:400px" SRC="images/birdinstant2.png">
 
-## How does phenotypic plasticity happen?
-<hr>
+**Vinclozolin is a fungicide used by farmers to stop rot, mold and blight**
+
 <br/>
 
-* **Gene expression responses**
+**Vinclozolin linked to great granddaughter's stress via DNA methylation**
 
-<IMG STYLE="position:absolute; TOP:240px; LEFT:50px; WIDTH:1000px; HEIGHT:400px" SRC="images/gene.png">
-
-## How does phenotypic plasticity happen?
-<hr>
+<br/>
 <br/>
 
-* **Epigenetic responses**
+**DDT, the first modern pesticide, has been banned in USA since 1972**
 
-<IMG STYLE="position:absolute; TOP:240px; LEFT:200px; WIDTH:700px; HEIGHT:400px" SRC="images/epigenetic.png">
+<br/>
+
+**Pregnant female mice fed DDT and their female offspring had a lower tolerance for cold temperature and were more obsese**
+
+</div>
+
+<IMG STYLE="position:absolute; TOP:220px; LEFT:580px; WIDTH:500px; HEIGHT:400px" SRC="images/mice.jpeg">
 
 ## Different types of genetic changes
 <hr>
@@ -70,50 +98,199 @@ output:
 
 <IMG STYLE="position:absolute; TOP:160px; LEFT:100px; WIDTH:900px; HEIGHT:500px" SRC="images/dna2.png">
 
-## Changes to DNA sequence underlie plasticity
+## Changes to gene expression underlie plasticity
 <hr>
 
 <IMG STYLE="position:absolute; TOP:160px; LEFT:100px; WIDTH:900px; HEIGHT:500px" SRC="images/dna3.png">
 
-## Changes to DNA sequence underlie plasticity
+## Changes to gene expression underlie plasticity
 <hr>
 
 <IMG STYLE="position:absolute; TOP:160px; LEFT:100px; WIDTH:900px; HEIGHT:500px" SRC="images/dna4.png">
 
-## Changes to DNA sequence underlie plasticity
+## Changes to gene expression underlie plasticity
 <hr>
-<br/>
 
-**Traditionally it was thought that changes to the sequence of DNA were heritable while changes to the expression patterns of DNA were not**
+**Traditionally, it was thought that changes to the sequence of DNA were heritable while changes to the expression patterns of DNA were not**
 
 <br/>
 
 **That made it easy to define adaptation as “heritable genetic change” and plasticity as “non-genetic”**
-
 <br/>
 
-**But those lines are becoming blurred as we learn about mechanisms (like histone modification) that can make gene expression changes heritable**
+**<span style="color:red">Epigenetics blurs those lines</span>**
 
-<IMG STYLE="position:absolute; TOP:360px; LEFT:100px; WIDTH:600px; HEIGHT:300px" SRC="images/epigenetics2.jpg">
-
-## The problem of concepts…
-<hr>
-
-<IMG STYLE="position:absolute; TOP:160px; LEFT:125px; WIDTH:850px; HEIGHT:500px" SRC="images/whale.png">
+<IMG STYLE="position:absolute; TOP:360px; LEFT:200px; WIDTH:600px; HEIGHT:300px" SRC="images/epigenetics2.jpg">
 
 ## The adjust response
 <hr>
-<br/>
 
-**Adjust: non-genetic shifts in organismal traits in different environments (phenotypic plasticity)**
-
-<br/>
-
-**The adjust response happens at the level of the individual and happens within a single generation**
+**<span style="color:blue">Adjust</span>: non-genetic shifts in organismal traits in different environments (phenotypic plasticity)**
 
 <br/>
 
-**The adapt response happens at the level of the population and happens across generations**
+**The <span style="color:blue">adjust</span> response happens at the level of the individual and happens within a single generation (MOSTLY)**
+
+<br/>
+
+**The <span style="color:green">adapt</span> response (Chapter 7) happens at the level of the population and happens across generations**
+
+<br/>
+
+* **Can plasticity and adaption be connected?**
+    + can plasticity buy time: YES
+    + can plasticity promote adaptive genetic change:?
+        + phenotype produced with enhanced survival...
+        + loss of plasticity after environmental change...
+        + selection of more or less plasticity...
+
+<!-- ## Meet the Data: Shifts with global warming -->
+<!-- <hr> -->
+
+<!-- <IMG STYLE="position:absolute; TOP:220px; LEFT:50px; WIDTH:1000px; HEIGHT:350px" SRC="images/papers.png"> -->
+
+## Meet the Data: Shifts with global warming
+<hr>
+<br/>
+
+**What shifts (in space and time) do we see most commonly for organisms with global warming?**
+
+<br/>
+<br/>
+
+* **Geographic shifts toward the poles**
+
+<br/>
+
+* **Geographic shifts up in elevation**
+
+<br/>
+
+* **Geographic shifts deeper in oceans**
+
+<br/>
+
+* **<span style="color:blue">Seasonal shifts earlier in the year</span>**
+
+
+<IMG STYLE="position:absolute; TOP:260px; LEFT:500px; WIDTH:550px; HEIGHT:300px" SRC="images/season2.png">
+
+## Phenotypic plasticity in development: Examples from insects
+<hr>
+**<span style="color:darkred">As ecotherms, temperature matters a lot for insect survival, development, dispersal, etc.</span>**
+
+<br/>
+**Insect life histories are tied to environmental factors **
+
+
+<IMG STYLE="position:absolute; TOP:260px; LEFT:50px; WIDTH:1000px; HEIGHT:400px" SRC="images/locusts.png">
+
+## Phenotypic plasticity in development: Examples from insects
+<hr>
+<br/>
+
+* **Major effect of global warming on insects is to speed up developmental rates**
+    + can lead to faster maturity
+
+<br/>
+<br/>
+
+<div style="float: left; width: 55%;">
+**In the UK >70% of butterfly species studies have earlier “first flight”**
+
+<br/>
+
+**First flight is predicted to occur 2-10 days earlier for every 1°C**
+</div>
+
+<IMG STYLE="position:absolute; TOP:220px; LEFT:650px; WIDTH:400px; HEIGHT:450px" SRC="images/butterfly.jpg">
+
+## Phenotypic plasticity in development: Examples from insects
+<hr>
+<br/>
+
+* **Major effect of global warming on insects is to speed up developmental rates**
+    + can lead to more generations per year
+
+<br/>
+<br/>
+
+<div style="float: left; width: 55%;">
+**Increase of temperatures by 2°C is predicted to allow some aphid species to produce an additional 4–5 generations per year.**
+
+<br/>
+
+**Aphids are among the most destructive insect pests on cultivated plants**
+
+</div>
+
+<IMG STYLE="position:absolute; TOP:280px; LEFT:630px; WIDTH:450px; HEIGHT:300px" SRC="images/aphid.jpg">
+
+## Phenotypic plasticity in development
+<hr>
+<br/>
+
+**Temperature-induced advancement in development is common and relates to a broader pattern…**
+
+<br/>
+
+**Phenological changes: changes in periodic biological phenomena (like flowering, breeding, migration)**
+
+<IMG STYLE="position:absolute; TOP:340px; LEFT:0px; WIDTH:1100px; HEIGHT:250px" SRC="images/phenology.png">
+
+## Phenotypic plasticity in development
+<hr>
+<br/>
+
+**2003 meta-analyses found an advancement of an average of 2.3 days per decade**
+<br/>
+
+**Remarkably consistent across groups (and that was 20 years ago!!!)**
+
+<IMG STYLE="position:absolute; TOP:280px; LEFT:125px; WIDTH:850px; HEIGHT:375px" SRC="images/phenology2.png">
+
+## Phenotypic plasticity in development
+<hr>
+<br/>
+
+<div style="float: left; width: 55%;">
+
+* **With global warming we expect many temperature dependent processes to occur earlier in the year**
+    + Even a few days matters
+
+<br/>
+
+<span style="color:darkgreen">**Phenological mismatch: When interacting species are no longer temporally or spatially aligned</span> (Chapter 9)**
+
+<br/>
+
+* **Biodiversity loss is linked with Phenological mismatches**
+    + no organisms is infinitely plastic
+    + mismatches impact many species in food webs
+
+<IMG STYLE="position:absolute; TOP:170px; LEFT:620px; WIDTH:500px; HEIGHT:500px" SRC="images/mismatch.png">
+
+## Friday Discussion: Can Humans *Adjust* to Global Change?
+<hr>
+<br/>
+
+* **Previous journal club message: Humans have high adaptive capacity..**
+    + what about short-term change?
+
+<br/>
+
+* **What evidence exists? Past, present and/or future**
+    + can we acclimate to .....
+    + what traits are plastic (or not)
+    + human behaviorial shifts...
+
+<br/>
+
+* **Be prepared to discuss what you found as well as your opinion on if it is possible**
+
+<br/>
+
+* **Submit an article/finding on Brightspace for participation**
 
 ## Case Study: Limpopo National Park
 <hr>
@@ -124,8 +301,10 @@ output:
 <br/>
 <br/>
 <br/>
+<br/>
+<br/>
 
-<div style="float: left; width: 50%;">
+<div style="float: left; width: 55%;">
 
 **Village communities used the region before the establishment of Limpopo National Park **
 
@@ -140,7 +319,7 @@ output:
 
 <IMG STYLE="position:absolute; TOP:160px; LEFT:200px; WIDTH:800px; HEIGHT:200px" SRC="images/park.png">
 
-<IMG STYLE="position:absolute; TOP:300px; LEFT:600px; WIDTH:300px; HEIGHT:350px" SRC="images/park2.png">
+<IMG STYLE="position:absolute; TOP:260px; LEFT:625px; WIDTH:350px; HEIGHT:400px" SRC="images/park2.png">
 
 ## People, Parks, and Climate Change
 <hr>
@@ -170,14 +349,15 @@ output:
 **Strategies Dealing with Drought before the National Park**
 
 <br/>
+<br/>
 
 <div style="float: left; width: 55%;">
 
-**WILDLIFE: As drought intensifies, elephants compensate by increasing usage of areas nearest the river, including crop fields**
+**<span style="color:darkgreen">WILDLIFE</span>: As drought intensifies, elephants compensate by increasing usage of areas nearest the river, including crop fields**
 
 <br/>
 
-**HUMAN: Village communities respond by using fencing and altering cropping practices **
+**<span style="color:darkgreen">HUMAN</span>: Village communities respond by using fencing and altering cropping practices **
 
 </div>
 
@@ -188,125 +368,4 @@ output:
 
 <IMG STYLE="position:absolute; TOP:160px; LEFT:100px; WIDTH:800px; HEIGHT:500px" SRC="images/park4.png">
 
-
-## Meet the Data: Shifts with global warming
-<hr>
-
-<IMG STYLE="position:absolute; TOP:220px; LEFT:0px; WIDTH:1100px; HEIGHT:400px" SRC="images/papers.png">
-
-## Meet the Data: Shifts with global warming
-<hr>
-<br/>
-
-**What shifts (in space and time) do we see most commonly for organisms with global warming?**
-
-<br/>
-<br/>
-
-* **Geographic shifts toward the poles**
-<br/>
-
-* **Geographic shifts up in elevation**
-<br/>
-
-* **Seasonal shifts earlier in the year**
-
-
-<IMG STYLE="position:absolute; TOP:240px; LEFT:600px; WIDTH:400px; HEIGHT:400px" SRC="images/seasons.jpg">
-
-## Phenotypic plasticity in development
-<hr>
-**Example from insects: As ecotherms, temperature matters a lot for insect survival, development, dispersal, etc.**
-<br/>
-**Insect life histories are very tied to environmental factors **
-
-
-<IMG STYLE="position:absolute; TOP:240px; LEFT:50px; WIDTH:1000px; HEIGHT:400px" SRC="images/locusts.png">
-
-## Phenotypic plasticity in development
-<hr>
-
-* **For example, a major effect of global warming on insects is to speed up developmental rates**
-    + can lead to faster maturity
-
-<br/>
-<br/>
-
-<div style="float: left; width: 55%;">
-**In the UK >70% of butterfly species studies have earlier “first flight”**
-
-<br/>
-
-**First flight is predicted to occur 2-10 days earlier for every 1°C**
-</div>
-
-<IMG STYLE="position:absolute; TOP:200px; LEFT:650px; WIDTH:400px; HEIGHT:450px" SRC="images/butterfly.jpg">
-
-## Phenotypic plasticity in development
-<hr>
-
-* **For example, a major effect of global warming on insects is to speed up developmental rates**
-    + can lead to more generations per year
-
-<br/>
-<br/>
-<br/>
-<div style="float: left; width: 55%;">
-**increase of temperatures by 2°C is predicted to allow some aphid species to produce an additional 4–5generations per year.**
-
-</div>
-
-<IMG STYLE="position:absolute; TOP:240px; LEFT:650px; WIDTH:400px; HEIGHT:350px" SRC="images/aphids.png">
-
-## Phenotypic plasticity in development
-<hr>
-<br/>
-
-**Temperature-induced advancement in development is common and relates to a broader pattern…**
-
-<br/>
-
-**Phenological changes: changes in periodic biological phenomena (like flowering, breeding, migration, etc.)**
-
-<IMG STYLE="position:absolute; TOP:280px; LEFT:150px; WIDTH:800px; HEIGHT:350px" SRC="images/phenology.png">
-
-## Phenotypic plasticity in development
-<hr>
-<br/>
-
-**2003 meta-analyses found an advancement of an average of 2.3 days per decade**
-<br/>
-**Remarkably consistent across groups (and that was 20 years ago!!!)**
-
-<IMG STYLE="position:absolute; TOP:280px; LEFT:150px; WIDTH:800px; HEIGHT:350px" SRC="images/phenology2.png">
-
-## Phenotypic plasticity in development
-<hr>
-
-**With global warming we expect many temperature dependent processes to occur earlier in the year**
-    + Even a few days matters…**
-    + Phenological mismatch: When interacting species are no longer temporally or spatially aligned (we will return to this in Chap 9)**
-
-<IMG STYLE="position:absolute; TOP:240px; LEFT:0px; WIDTH:1100px; HEIGHT:450px" SRC="images/bloom.jpg">
-
-## Friday Discussion: Can Humans Adjust to Global Change?
-<hr>
-<br/>
-
-* **Journal Club message: Humans have high adatptive capacity..**
-    + what about short term change?
-
-<br/>
-
-* **What evidence exists? Past, present and/or future**
-    + can we acclimate to .....
-    + what traits are plastic (or not)
-
-<br/>
-
-* **Be prepared to discuss what you found as well as your opinion on if it is possible**
-
-<br/>
-
-* **Submit an article/finding on Brightspace for participation**
 
