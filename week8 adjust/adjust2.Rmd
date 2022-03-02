@@ -34,18 +34,37 @@ output:
 
 <IMG STYLE="position:absolute; TOP:200px; LEFT:620px; WIDTH:400px; HEIGHT:400px" SRC="images/puzzle.jpg">
 
-## How does phenotypic plasticity happen?
+## Different types of genetic changes
 <hr>
-<br/>
 
-* **Instantaneous / instinctual responses**
+<IMG STYLE="position:absolute; TOP:160px; LEFT:100px; WIDTH:900px; HEIGHT:500px" SRC="images/dna.png">
 
-<IMG STYLE="position:absolute; TOP:240px; LEFT:200px; WIDTH:700px; HEIGHT:400px" SRC="images/birdinstant.png">
+## Changes to DNA sequence underlie adaptation
+<hr>
+
+<IMG STYLE="position:absolute; TOP:160px; LEFT:100px; WIDTH:900px; HEIGHT:500px" SRC="images/dna2.png">
+
+## Changes to gene expression underlie plasticity
+<hr>
+
+<IMG STYLE="position:absolute; TOP:160px; LEFT:100px; WIDTH:900px; HEIGHT:500px" SRC="images/dna3.png">
+
+## Changes to gene expression underlie plasticity
+<hr>
+
+<IMG STYLE="position:absolute; TOP:160px; LEFT:100px; WIDTH:900px; HEIGHT:500px" SRC="images/dna4.png">
 
 ## Phenotypic plasticity: Instantaneous / instinctual response
 <hr>
+<br/>
 
 <IMG STYLE="position:absolute; TOP:200px; LEFT:50px; WIDTH:1000px; HEIGHT:450px" SRC="images/frequency.jpg">
+
+##
+
+<IMG STYLE="position:absolute; TOP:50px; LEFT:50px; WIDTH:400px; HEIGHT:600px" SRC="images/frog.jpg">
+
+<IMG STYLE="position:absolute; TOP:50px; LEFT:600px; WIDTH:400px; HEIGHT:600px" SRC="images/birdinstant3.png">
 
 ## Phenotypic plasticity: Instantaneous / instinctual response
 <hr>
@@ -87,26 +106,6 @@ output:
 </div>
 
 <IMG STYLE="position:absolute; TOP:220px; LEFT:580px; WIDTH:500px; HEIGHT:400px" SRC="images/mice.jpeg">
-
-## Different types of genetic changes
-<hr>
-
-<IMG STYLE="position:absolute; TOP:160px; LEFT:100px; WIDTH:900px; HEIGHT:500px" SRC="images/dna.png">
-
-## Changes to DNA sequence underlie adaptation
-<hr>
-
-<IMG STYLE="position:absolute; TOP:160px; LEFT:100px; WIDTH:900px; HEIGHT:500px" SRC="images/dna2.png">
-
-## Changes to gene expression underlie plasticity
-<hr>
-
-<IMG STYLE="position:absolute; TOP:160px; LEFT:100px; WIDTH:900px; HEIGHT:500px" SRC="images/dna3.png">
-
-## Changes to gene expression underlie plasticity
-<hr>
-
-<IMG STYLE="position:absolute; TOP:160px; LEFT:100px; WIDTH:900px; HEIGHT:500px" SRC="images/dna4.png">
 
 ## Changes to gene expression underlie plasticity
 <hr>
