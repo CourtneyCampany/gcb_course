@@ -1,5 +1,5 @@
 ---
-title: "Organismal Responses to Change: Adjust"
+title: "Organismal Responses to Change: Adapt"
 output: 
   ioslides_presentation:
     css: custom2.css
@@ -7,281 +7,308 @@ output:
     smaller: true
 ---
 
-## How does phenotypic plasticity happen?
+## Other approaches to study natural selection
+<hr>
+<br/>
+<br/>
+<br/>
+
+<div style="float: left; width: 60%;">
+
+**Museum specimens provide resource for comparisons over time, but many traits cannot be measured from specimens**
+
+<br/>
+
+**What if researchers could have access live animals from a historical time point that had frozen in time?**
+
+<br/>
+
+**For some species, seeds, eggs, cysts, spores can be preserved in soil or ice and revived years or even centuries later**
+
+</div>
+
+<IMG STYLE="position:absolute; TOP:160px; LEFT:650px; WIDTH:400px; HEIGHT:500px" SRC="images/museum.png">
+
+## Case study: *Daphnia*
+<hr>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+
+**Question: Can *Daphnia* evolve to cope with global warming?**
+
+<br/>
+
+**Approach 1: <span style="color:blue">Experimental evolution</span>**
+ 
+ <br/>
+
+**Approach 2: <span style="color:blue">Resurrection ecology</span>**
+
+
+
+<IMG STYLE="position:absolute; TOP:160px; LEFT:20px; WIDTH:700px; HEIGHT:250px" SRC="images/daphnia2.png">
+
+<IMG STYLE="position:absolute; TOP:160px; LEFT:800px; WIDTH:200px; HEIGHT:500px" SRC="images/daphnia.png">
+
+## Case study: *Daphnia*
 <hr>
 <br/>
 
-<div style="float: left; width: 50%;">
+**Approach 1: <span style="color:blue">Experimental evolution</span> - Evolved *Daphnia* under control and warmed conditions for 2 years**
 
-* **Instantaneous / instinctual responses**
-    + behavior or physiology
+<IMG STYLE="position:absolute; TOP:225px; LEFT:200px; WIDTH:600px; HEIGHT:400px" SRC="images/daphniabar.png">
+
+## Case study: *Daphnia*
+<hr>
+<br/>
+
+**Approach 2: <span style="color:blue">Resurrection ecology</span> - Hatched *Daphnia* from historic and contemporary sediment layers**
+
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+
+
+**Conclusion: Thermal tolerance in *Daphnia* can evolve over short time scales in response to global warming**
+
+<IMG STYLE="position:absolute; TOP:225px; LEFT:200px; WIDTH:600px; HEIGHT:400px" SRC="images/daphniabar2.png">
+
+## Case study: *Daphnia* can evolve....so what?
+<hr>
+<br/>
+
+**Daphnia not only interact strongly with its phytoplankton food resource, but also with other components of the pelagic ecosystem**
+
+<IMG STYLE="position:absolute; TOP:260px; LEFT:250px; WIDTH:600px; HEIGHT:400px" SRC="images/daphnia3.png">
+
+## Current climate change threaten 16% of species with extinction
+<hr>
+
+<IMG STYLE="position:absolute; TOP:160px; LEFT:100px; WIDTH:900px; HEIGHT:500px" SRC="images/risk.png">
+
+## Can adaptation prevent extinction?
+<hr>
+<br/>
+
+<div style="float: right; width: 62%;">
+
+* **Evolutionary rescue? = process by which a population—that would have gone extinct in the absence of evolution—persists due to natural selection**
+
+<br/>
+
+* **So far, not been shown to be common in nature**
+    + cricket versus fly parasitoid
     
 <br/>
 
-* **Gene expression responses**
-    + DNA -> RNA
-    + increased or decreased production of RNA/proteins
+* **Experimentally - more common**
+    + yeast evolving to tolerate previously lethal salt concentrations**
 
 <br/>
 
-* **Epigenetic responses**
-    + mechanisms where DNA is not accessible for transcription
-    + DNA nucleotide sequence does not change
-    + possibly inherited
+* **Can strong selection have risks?**
+    + can species adapt to multiple global change stressors?
+ </div>   
+ 
+<IMG STYLE="position:absolute; TOP:250px; LEFT:10px; WIDTH:400px; HEIGHT:300px" SRC="images/rescue2.jpeg">
 
+## Are there limits to adaptation?
+<hr>
+<br/>
+<br/>
+<br/>
+<br/>
+
+<div style="float: left; width: 51%;">
+
+**Some organisms can adapt rapidly, but not always rapidly enough**
+
+<br/>
+
+**What happens when the rate of environmental change exceeds the ability of populations to adapt?**
 
 </div>
 
-<IMG STYLE="position:absolute; TOP:200px; LEFT:620px; WIDTH:400px; HEIGHT:400px" SRC="images/puzzle.jpg">
+<IMG STYLE="position:absolute; TOP:160px; LEFT:575px; WIDTH:500px; HEIGHT:500px" SRC="images/lizards3.png">
 
-## Different types of genetic changes
-<hr>
-
-<IMG STYLE="position:absolute; TOP:160px; LEFT:100px; WIDTH:900px; HEIGHT:500px" SRC="images/dna.png">
-
-## Changes to DNA sequence underlie adaptation
-<hr>
-
-<IMG STYLE="position:absolute; TOP:160px; LEFT:100px; WIDTH:900px; HEIGHT:500px" SRC="images/dna2.png">
-
-## Changes to gene expression underlie plasticity
-<hr>
-
-<IMG STYLE="position:absolute; TOP:160px; LEFT:100px; WIDTH:900px; HEIGHT:500px" SRC="images/dna3.png">
-
-## Changes to gene expression underlie plasticity
-<hr>
-
-<IMG STYLE="position:absolute; TOP:160px; LEFT:100px; WIDTH:900px; HEIGHT:500px" SRC="images/dna4.png">
-
-## Phenotypic plasticity: Instantaneous / instinctual response
+## Are there limits to adaptation?
 <hr>
 <br/>
 
-<IMG STYLE="position:absolute; TOP:200px; LEFT:75px; WIDTH:1000px; HEIGHT:450px" SRC="images/frequency.jpg">
+<div style="float: left; width: 65%;">
 
-##
-
-<IMG STYLE="position:absolute; TOP:50px; LEFT:50px; WIDTH:400px; HEIGHT:600px" SRC="images/frog.jpg">
-
-<IMG STYLE="position:absolute; TOP:50px; LEFT:600px; WIDTH:400px; HEIGHT:600px" SRC="images/birdinstant3.png">
-
-## Phenotypic plasticity: Instantaneous / instinctual response
-<hr>
-
-<IMG STYLE="position:absolute; TOP:200px; LEFT:50px; WIDTH:1000px; HEIGHT:450px" SRC="images/light3.png">
-
-## Phenotypic plasticity: Gene expression responses
-<hr>
-
-<IMG STYLE="position:absolute; TOP:220px; LEFT:50px; WIDTH:1000px; HEIGHT:400px" SRC="images/gene.png">
-
-## Phenotypic plasticity: Gene expression responses
-<hr>
-
-<IMG STYLE="position:absolute; TOP:220px; LEFT:100px; WIDTH:900px; HEIGHT:400px" SRC="images/stomata3.png">
-
-## Phenotypic plasticity: Epigenetic response
-<hr>
-<br/>
-
-<div style="float: left; width: 50%;">
-
-
-**Vinclozolin is a fungicide used by farmers to stop rot, mold and blight**
+**Some organisms can adapt rapidly, but not always rapidly enough**
 
 <br/>
 
-**Vinclozolin linked to great granddaughter's stress via DNA methylation**
-
-<br/>
-<br/>
-
-**DDT, the first modern pesticide, has been banned in USA since 1972**
+**<span style="color:blue">For example, some populations do not have enough genetic variation to track forecast changes in climate</span>**
 
 <br/>
 
-**Pregnant female mice fed DDT and their female offspring had a lower tolerance for cold temperature and were more obese**
+**A 2°C rise in the next 60 years (12 birch generations) is predicted to advance budburst by 40 days**
+
+<br/>
+
+**Billington & Pelham (1991) predicted how much change would need to occur per generation versus current population variation**
+
+<br/>
+
+**Predicted change would be impossible**
 
 </div>
 
-<IMG STYLE="position:absolute; TOP:220px; LEFT:580px; WIDTH:500px; HEIGHT:400px" SRC="images/mice.jpeg">
+<IMG STYLE="position:absolute; TOP:200px; LEFT:750px; WIDTH:300px; HEIGHT:400px" SRC="images/birch.png">
 
-## Changes to gene expression underlie plasticity
-<hr>
-
-**Traditionally, it was thought that changes to the sequence of DNA were heritable while changes to the expression patterns of DNA were not**
-
-<br/>
-
-**That made it easy to define adaptation as “heritable genetic change” and plasticity as “non-genetic”**
-<br/>
-
-**<span style="color:red">Epigenetics blurs those lines</span>**
-
-<IMG STYLE="position:absolute; TOP:360px; LEFT:200px; WIDTH:600px; HEIGHT:300px" SRC="images/epigenetics2.jpg">
-
-## The adjust response
-<hr>
-
-**<span style="color:blue">Adjust</span>: non-genetic shifts in organismal traits in different environments (phenotypic plasticity)**
-
-<br/>
-
-**The <span style="color:blue">adjust</span> response happens at the level of the individual and happens within a single generation (MOSTLY)**
-
-<br/>
-
-**The <span style="color:green">adapt</span> response (Chapter 7) happens at the level of the population and happens across generations**
-
-<br/>
-
-* **Can plasticity and adaption be connected?**
-    + can plasticity buy time: YES
-    + can plasticity promote adaptive genetic change:?
-        + phenotype produced with enhanced survival...
-        + loss of plasticity after environmental change...
-        + selection of more or less plasticity...
-
-<!-- ## Meet the Data: Shifts with global warming -->
-<!-- <hr> -->
-
-<!-- <IMG STYLE="position:absolute; TOP:220px; LEFT:50px; WIDTH:1000px; HEIGHT:350px" SRC="images/papers.png"> -->
-
-## Meet the Data: Shifts with global warming
+## Traits that facilitate adaptation
 <hr>
 <br/>
 
-**What shifts (in space and time) do we see most commonly for organisms with global warming?**
-
-<br/>
-<br/>
-
-* **Geographic shifts toward the poles**
+**Why can some species evolve quickly enough to cope with global warming while others can’t?**
 
 <br/>
 
-* **Geographic shifts up in elevation**
+**What traits make a species more likely to exhibit the adapt response**
 
 <br/>
 
-* **Geographic shifts deeper in oceans**
-
-<br/>
-
-* **<span style="color:blue">Seasonal shifts earlier in the year</span>**
+**All else being equal, we expect higher likelihood of adaptation in organisms with…**
 
 
-<IMG STYLE="position:absolute; TOP:260px; LEFT:500px; WIDTH:550px; HEIGHT:300px" SRC="images/season2.png">
-
-## Phenotypic plasticity in development: Examples from insects
-<hr>
-**<span style="color:darkred">As ecotherms, temperature matters a lot for insect survival, development, dispersal, etc.</span>**
-
-<br/>
-**Insect life histories are tied to environmental factors **
-
-
-<IMG STYLE="position:absolute; TOP:260px; LEFT:50px; WIDTH:1000px; HEIGHT:400px" SRC="images/locusts.png">
-
-## Phenotypic plasticity in development: Examples from insects
+## Traits that facilitate adaptation
 <hr>
 <br/>
-
-* **Major effect of global warming on insects is to speed up developmental rates**
-    + can lead to faster maturity
-
+<br/>
 <br/>
 <br/>
 
-<div style="float: left; width: 55%;">
-**In the UK >70% of butterfly species studies have earlier “first flight”**
+<div style="float: right; width: 51%;">
+
+**Higher trait heritability (for the relevant traits)**
 
 <br/>
 
-**First flight is predicted to occur 2-10 days earlier for every 1°C**
-</div>
-
-<IMG STYLE="position:absolute; TOP:220px; LEFT:650px; WIDTH:400px; HEIGHT:450px" SRC="images/butterfly.jpg">
-
-## Phenotypic plasticity in development: Examples from insects
-<hr>
-<br/>
-
-* **Major effect of global warming on insects is to speed up developmental rates**
-    + can lead to more generations per year
-
-<br/>
-<br/>
-
-<div style="float: left; width: 55%;">
-**Increase of temperatures by 2°C is predicted to allow some aphid species to produce an additional 4–5 generations per year.**
+**Adaptation cannot occur if a trait is not inherited**
 
 <br/>
 
-**Aphids are among the most destructive insect pests on cultivated plants**
+**Heritability varies by trait**
 
 </div>
 
-<IMG STYLE="position:absolute; TOP:280px; LEFT:630px; WIDTH:450px; HEIGHT:300px" SRC="images/aphid.jpg">
+<IMG STYLE="position:absolute; TOP:200px; LEFT:25px; WIDTH:450px; HEIGHT:450px" SRC="images/inherit.jpg">
 
-## Phenotypic plasticity in development
+## Traits that facilitate adaptation
 <hr>
 <br/>
 
-**Temperature-induced advancement in development is common and relates to a broader pattern…**
+**More existing genetic variation (in relevant traits)**
 
 <br/>
 
-**Phenological changes: changes in periodic biological phenomena (like flowering, breeding, migration)**
+**Adaptation from existing or “standing” genetic variation can be fast because the population does not have to “wait” for new mutations to occur.**
 
-<IMG STYLE="position:absolute; TOP:340px; LEFT:0px; WIDTH:1100px; HEIGHT:250px" SRC="images/phenology.png">
-
-## Phenotypic plasticity in development
+## Traits that facilitate adaptation
 <hr>
 <br/>
 
-**2003 meta-analyses found an advancement of an average of 2.3 days per decade**
-<br/>
+**More existing genetic variation (in relevant traits)**
 
-**Remarkably consistent across groups (and that was 20 years ago!!!)**
+<IMG STYLE="position:absolute; TOP:240px; LEFT:100px; WIDTH:900px; HEIGHT:400px" SRC="images/exist.png">
 
-<IMG STYLE="position:absolute; TOP:280px; LEFT:125px; WIDTH:850px; HEIGHT:375px" SRC="images/phenology2.png">
-
-## Phenotypic plasticity in development
+## Traits that facilitate adaptation
 <hr>
 <br/>
 
-<div style="float: left; width: 55%;">
+**<span style="color:red">Contrast that with waiting for a new mutation</span>**
 
-* **With global warming we expect many temperature dependent processes to occur earlier in the year**
-    + Even a few days matters
+<IMG STYLE="position:absolute; TOP:240px; LEFT:100px; WIDTH:900px; HEIGHT:400px" SRC="images/exist2.png">
+
+## Traits that facilitate adaptation
+<hr>
+<br/>
+
+**Higher mutation rates**
 
 <br/>
 
-<span style="color:darkgreen">**Phenological mismatch: When interacting species are no longer temporally or spatially aligned</span> (Chapter 9)**
+**Faster mutation rates generate more variation on which selection can act**
+
+
+<IMG STYLE="position:absolute; TOP:330px; LEFT:50px; WIDTH:1000px; HEIGHT:300px" SRC="images/rates.png">
+
+## Traits that facilitate adaptation
+<hr>
+<br/>
+
+**Faster generation times**
 
 <br/>
 
-* **Biodiversity loss is linked with Phenological mismatches**
-    + no organism is infinitely plastic
-    + mismatches impact many species in food webs
+**The *relative* velocity of environmental change is slower for organisms that can go through many generations each year**
 
-<IMG STYLE="position:absolute; TOP:170px; LEFT:620px; WIDTH:500px; HEIGHT:500px" SRC="images/mismatch.png">
+<IMG STYLE="position:absolute; TOP:320px; LEFT:250px; WIDTH:600px; HEIGHT:300px" SRC="images/generation.png">
+
+## Traits that facilitate adaptation
+<hr>
+<br/>
+
+**Larger population sizes**
+
+<br/>
+
+**Larger populations are more likely to have standing variation and are less likely to be decimated by chance events **
+
+
+<IMG STYLE="position:absolute; TOP:320px; LEFT:200px; WIDTH:700px; HEIGHT:370px" SRC="images/drift.jpg">
+
+## Traits that facilitate adaptation
+<hr>
+<br/>
+
+**Other factors like amount of gene flow and how traits are linked to each other in the genome also matter**
+
+<IMG STYLE="position:absolute; TOP:280px; LEFT:50px; WIDTH:1000px; HEIGHT:400px" SRC="images/flow.png">
+
+## Case Study: African elephants and poaching
+<hr>
+<br/>
+
+## Case Study: African elephants and poaching
+<hr>
+<br/>
 
 ## Friday Discussion: Can Humans *Adjust* to Global Change?
 <hr>
 <br/>
 
 * **Previous journal club message: Humans have high adaptive capacity..**
-    + what about short-term change?
 
 <br/>
 
 * **What evidence exists? Past, present and/or future**
-    + can we acclimate to .....
-    + what traits are plastic (or not)
-    + human behavioral shifts...
+    + Group 1 - What adaptations have already occurred?
+    + Group 2 - Do humans adapt easily?
+    + Group3 - Can/How/Will human adapt to3-4C warming?
 
 <br/>
 
@@ -289,83 +316,5 @@ output:
 
 <br/>
 
-* **Submit an article/finding on Brightspace for participation**
-    + Dr. C's example is on the next few slides
-
-## Case Study: Limpopo National Park
-<hr>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-
-<div style="float: left; width: 55%;">
-
-**Village communities used the region before the establishment of Limpopo National Park **
-
-<br/>
-
-**After the park’s establishment, village communities live within the park buffer zone**
-
-<br/>
-
-**The buffer zone is an important area for wildlife **
-</div>
-
-<IMG STYLE="position:absolute; TOP:160px; LEFT:200px; WIDTH:800px; HEIGHT:200px" SRC="images/park.png">
-
-<IMG STYLE="position:absolute; TOP:260px; LEFT:625px; WIDTH:350px; HEIGHT:400px" SRC="images/park2.png">
-
-## People, Parks, and Climate Change
-<hr>
-<br/>
-
-**Strategies Dealing with Drought before the National Park**
-
-<br/>
-<br/>
-
-* **Small plots in multiple areas**
-<br/>
-* **Sharing plots**
-<br/>
-* **Seeding at every rainfall**
-<br/>
-* **Temporary migration**
-<br/>
-* **Crop mixing**
-
-<IMG STYLE="position:absolute; TOP:250px; LEFT:550px; WIDTH:350px; HEIGHT:300px" SRC="images/drought.jpg">
-
-## People, Parks, and Climate Change
-<hr>
-<br/>
-
-**Strategies Dealing with Drought before the National Park**
-
-<br/>
-<br/>
-
-<div style="float: left; width: 55%;">
-
-**<span style="color:darkgreen">WILDLIFE</span>: As drought intensifies, elephants compensate by increasing usage of areas nearest the river, including crop fields**
-
-<br/>
-
-**<span style="color:darkgreen">HUMAN</span>: Village communities respond by using fencing and altering cropping practices **
-
-</div>
-
-<IMG STYLE="position:absolute; TOP:220px; LEFT:670px; WIDTH:300px; HEIGHT:400px" SRC="images/park3.png">
-
-## People, Parks, and Climate Change
-<hr>
-
-<IMG STYLE="position:absolute; TOP:160px; LEFT:100px; WIDTH:800px; HEIGHT:500px" SRC="images/park4.png">
-
-
+* **Submit an article/link on Brightspace for participation**
+    + Add a sentence or 2 about what you found
