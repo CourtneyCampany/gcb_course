@@ -1,0 +1,245 @@
+---
+title: "Organismal Responses: Adapt"
+output: 
+  ioslides_presentation:
+    css: custom.css
+    widescreen: true
+    smaller: true
+---
+
+## Evolution by natural selection
+<hr>
+<br/>
+<br/>
+<br/>
+
+<div style="float: right; width: 51%;">
+
+- **<span style="color:blue">Adapt</span>: organisms become better suited to environmental conditions via heritable (genetic) change over generations.**
+
+<br/>
+<br/>
+
+- **There is a *ying* and *yang* between the environment and evolution**
+    + complementary forces that interact to form a dynamic system  
+
+</div>
+
+<IMG STYLE="position:absolute; TOP:160px; LEFT:15px; WIDTH:500px; HEIGHT:500px" SRC="images/evolutionchange.jpg">
+
+## Evolution by natural selection
+<hr>
+
+**<span style="color:blue">Natural Selection</span>: Differences among individuals in a population in survival and reproduction**
+
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+
+**Organisms which are better suited to their environment survive and reproduce better, leading to a change in the average traits of a population over time**
+
+<IMG STYLE="position:absolute; TOP:180px; LEFT:150px; WIDTH:750px; HEIGHT:400px" SRC="images/bugs.jpg">
+
+## Evolution by natural selection
+<hr>
+
+**<span style="color:blue">Natural Selection</span>: Differences among individuals in a population in survival and reproduction**
+
+<br/>
+
+**<span style="color:blue">Fitness</span>: Measure of ability to survive and reproduce**
+
+<br/>
+
+**<span style="color:blue">Adaption</span>: A trait that confers an advantage in a particular environment that evolved via natural selection**
+
+<IMG STYLE="position:absolute; TOP:400px; LEFT:0px; WIDTH:1100px; HEIGHT:275px" SRC="images/adaption.png">
+
+## What did Darwin mean by *fitness*?
+<hr>
+<br/>
+
+<div style="float: left; width: 68%;">
+
+* **Best suited for the environment**
+    + biggest?  fastest?  strongest? smartest?
+
+<br/>
+
+* **He intended "fittest" to mean the members of the species best suited for the *immediate* environment**
+    + individual needs the most favorable traits to survive in the environment
+    + environments can change at any time
+    
+<br/>
+
+* **Those lacking the favorable traits—the "unfit"—most likely won't live long enough to pass down their unfavorable traits**
+    + those traits will be breed out of the population
+    + 'breeding out' traits can take a long time
+
+</div>
+
+<IMG STYLE="position:absolute; TOP:240px; LEFT:700px; WIDTH:350px; HEIGHT:300px" SRC="images/malaria.jpg">
+
+## Conditions necessary for natural selection
+<hr>
+<br/>
+
+* **<span style="color:darkred">Variation</span>: Individuals in a population vary **
+    + *mutation* as ultimate source of variation
+    + *migration* -> gene flow within species
+    + *hybridization* -> introgression across species
+
+<br/>
+<br/>
+<br/>
+
+* **<span style="color:darkred">Heredity</span>: Offspring resemble parents **
+    + DNA as primary mechanism of heredity
+
+<br/>
+
+* **<span style="color:darkred">Differential survival or reproduction</span>: Not all individuals survive, those with favorable traits survive and reproduce**
+
+
+<IMG STYLE="position:absolute; TOP:180px; LEFT:580px; WIDTH:500px; HEIGHT:300px" SRC="images/ladybug.png">
+
+## Ways of studying adaptation
+<hr>
+
+<IMG STYLE="position:absolute; TOP:180px; LEFT:50px; WIDTH:400px; HEIGHT:350px" SRC="images/lab2.png">
+
+<IMG STYLE="position:absolute; TOP:160px; LEFT:500px; WIDTH:600px; HEIGHT:500px" SRC="images/lab6.jpg">
+
+## Ways of studying adaptation
+<hr>
+
+<IMG STYLE="position:absolute; TOP:180px; LEFT:50px; WIDTH:400px; HEIGHT:350px" SRC="images/field.png">
+
+<IMG STYLE="position:absolute; TOP:160px; LEFT:600px; WIDTH:400px; HEIGHT:500px" SRC="images/climb.jpg">
+
+## Ways of studying adaptation
+<hr>
+
+<IMG STYLE="position:absolute; TOP:180px; LEFT:50px; WIDTH:400px; HEIGHT:350px" SRC="images/molecular.png">
+
+<IMG STYLE="position:absolute; TOP:180px; LEFT:550px; WIDTH:450px; HEIGHT:450px" SRC="images/genomics.jpg">
+
+## Advances in DNA sequencing
+<hr>
+
+<IMG STYLE="position:absolute; TOP:160px; LEFT:50px; WIDTH:950px; HEIGHT:500px" SRC="images/seq.png">
+
+## Advances in DNA sequencing
+<hr>
+
+<IMG STYLE="position:absolute; TOP:160px; LEFT:50px; WIDTH:950px; HEIGHT:500px" SRC="images/seq2.png">
+
+## Advances in DNA sequencing
+<hr>
+
+<IMG STYLE="position:absolute; TOP:160px; LEFT:50px; WIDTH:950px; HEIGHT:500px" SRC="images/seq3.png">
+
+## Advances in DNA sequencing
+<hr>
+
+<IMG STYLE="position:absolute; TOP:160px; LEFT:50px; WIDTH:950px; HEIGHT:500px" SRC="images/seq4.png">
+
+## Advances in DNA sequencing
+<hr>
+<br/>
+**We can also now do genetic studies without harming any animals**
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:150px; WIDTH:800px; HEIGHT:400px" SRC="images/harm.png">
+
+## Real world example: reivisting the white sands
+<hr>
+
+<IMG STYLE="position:absolute; TOP:160px; LEFT:100px; WIDTH:900px; HEIGHT:500px" SRC="images/whitesands.png">
+
+## Evolution by natural selection
+<hr>
+<br/>
+
+**The dunes are a dramatic selection environment**
+
+<IMG STYLE="position:absolute; TOP:240px; LEFT:150px; WIDTH:800px; HEIGHT:400px" SRC="images/dunes.jpg">
+
+## Evolution by natural selection
+<hr>
+<br/>
+
+**The dunes are a dramatic selection environment**
+
+<IMG STYLE="position:absolute; TOP:250px; LEFT:50px; WIDTH:1000px; HEIGHT:250px" SRC="images/dunes2.png">
+
+## Evolution by natural selection
+<hr>
+<br/>
+
+**Concealing coloration for predation avoidance**
+
+<IMG STYLE="position:absolute; TOP:250px; LEFT:20px; WIDTH:500px; HEIGHT:300px" SRC="images/lizards.jpg">
+
+<IMG STYLE="position:absolute; TOP:250px; LEFT:560px; WIDTH:500px; HEIGHT:300px" SRC="images/lizards2.png">
+
+## Color traits selected differently across variable landscapes
+<hr>
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:50px; WIDTH:1000px; HEIGHT:400px" SRC="images/lizardbird.png">
+
+##
+
+<IMG STYLE="position:absolute; TOP:50px; LEFT:50px; WIDTH:1000px; HEIGHT:600px" SRC="images/species.png">
+
+## Natural selection: ruling out plasticity (w/ common gardens)
+<hr>
+
+<IMG STYLE="position:absolute; TOP:180px; LEFT:125px; WIDTH:350px; HEIGHT:450px" SRC="images/plastic.png">
+
+<IMG STYLE="position:absolute; TOP:180px; LEFT:600px; WIDTH:350px; HEIGHT:450px" SRC="images/plastic2.png">
+
+## Natural selection: measuring selection in nature
+<hr>
+**Enclosure experiments**
+
+<IMG STYLE="position:absolute; TOP:180px; LEFT:50px; WIDTH:1000px; HEIGHT:500px" SRC="images/enclosure.png">
+
+## Natural selection: measuring selection in nature
+<hr>
+
+<IMG STYLE="position:absolute; TOP:180px; LEFT:150px; WIDTH:300px; HEIGHT:450px" SRC="images/clay.png">
+
+<IMG STYLE="position:absolute; TOP:180px; LEFT:550px; WIDTH:400px; HEIGHT:400px" SRC="images/mark.png">
+
+## Natural selection: measuring selection in genome
+<hr>
+
+<IMG STYLE="position:absolute; TOP:180px; LEFT:25px; WIDTH:1100px; HEIGHT:450px" SRC="images/mutate.png">
+
+## Natural selection: measuring selection in genome
+<hr>
+
+<IMG STYLE="position:absolute; TOP:180px; LEFT:75px; WIDTH:900px; HEIGHT:450px" SRC="images/mutate2.png">
+
+## Natural selection: measuring selection in genome
+<hr>
+
+<IMG STYLE="position:absolute; TOP:160px; LEFT:50px; WIDTH:900px; HEIGHT:500px" SRC="images/mutate3.png">
+
+## Natural selection: apply findings across species
+<hr>
+
+<IMG STYLE="position:absolute; TOP:160px; LEFT:100px; WIDTH:900px; HEIGHT:500px" SRC="images/species2.png">

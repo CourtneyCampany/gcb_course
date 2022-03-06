@@ -20,13 +20,13 @@ output:
 
 * **Gene expression responses**
     + DNA -> RNA
-    + increase or decrease production of RNA/proteins
+    + increased or decreased production of RNA/proteins
 
 <br/>
 
 * **Epigenetic responses**
     + mechanisms where DNA is not accessible for transcription
-    + DNA still does not change
+    + DNA nucleotide sequence does not change
     + possibly inherited
 
 
@@ -58,7 +58,7 @@ output:
 <hr>
 <br/>
 
-<IMG STYLE="position:absolute; TOP:200px; LEFT:50px; WIDTH:1000px; HEIGHT:450px" SRC="images/frequency.jpg">
+<IMG STYLE="position:absolute; TOP:200px; LEFT:75px; WIDTH:1000px; HEIGHT:450px" SRC="images/frequency.jpg">
 
 ##
 
@@ -101,7 +101,7 @@ output:
 
 <br/>
 
-**Pregnant female mice fed DDT and their female offspring had a lower tolerance for cold temperature and were more obsese**
+**Pregnant female mice fed DDT and their female offspring had a lower tolerance for cold temperature and were more obese**
 
 </div>
 
@@ -264,7 +264,7 @@ output:
 <br/>
 
 * **Biodiversity loss is linked with Phenological mismatches**
-    + no organisms is infinitely plastic
+    + no organism is infinitely plastic
     + mismatches impact many species in food webs
 
 <IMG STYLE="position:absolute; TOP:170px; LEFT:620px; WIDTH:500px; HEIGHT:500px" SRC="images/mismatch.png">
@@ -281,7 +281,7 @@ output:
 * **What evidence exists? Past, present and/or future**
     + can we acclimate to .....
     + what traits are plastic (or not)
-    + human behaviorial shifts...
+    + human behavioral shifts...
 
 <br/>
 
@@ -290,6 +290,7 @@ output:
 <br/>
 
 * **Submit an article/finding on Brightspace for participation**
+    + Dr. C's example is on the next few slides
 
 ## Case Study: Limpopo National Park
 <hr>
