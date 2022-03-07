@@ -51,8 +51,6 @@ output:
 
 **Approach 2: <span style="color:blue">Resurrection ecology</span>**
 
-
-
 <IMG STYLE="position:absolute; TOP:160px; LEFT:20px; WIDTH:700px; HEIGHT:250px" SRC="images/daphnia2.png">
 
 <IMG STYLE="position:absolute; TOP:160px; LEFT:800px; WIDTH:200px; HEIGHT:500px" SRC="images/daphnia.png">
@@ -289,13 +287,21 @@ output:
 
 <IMG STYLE="position:absolute; TOP:280px; LEFT:50px; WIDTH:1000px; HEIGHT:400px" SRC="images/flow.png">
 
-## Case Study: African elephants and poaching
+## Microevolution: Rapid selection of tuskless female elephants
 <hr>
-<br/>
+ **The survival of tuskless females across this 28-year period was estimated to five times that of tusked individuals in Gorongosa National Park (Campbell-Station et al. 2021)**
 
-## Case Study: African elephants and poaching
-<hr>
-<br/>
+<IMG STYLE="position:absolute; TOP:180px; LEFT:500px; WIDTH:450px; HEIGHT:4550px" SRC="images/elephants.png">
+
+<IMG STYLE="position:absolute; TOP:180px; LEFT:600px; WIDTH:450px; HEIGHT:450px" SRC="images/elephants2.png">
+
+<!-- ## Microevolution: Rapid plumage colouration change in tawny owls  -->
+<!-- <hr> -->
+<!--  **Strong selection against the brown morph occurs under snow-rich winters. As winter conditions became milder in the last decades, selection against the brown morph diminished (Karell et al. 2011).** -->
+
+<!-- <IMG STYLE="position:absolute; TOP:180px; LEFT:500px; WIDTH:450px; HEIGHT:4550px" SRC="images/elephants.png"> -->
+
+<!-- <IMG STYLE="position:absolute; TOP:180px; LEFT:600px; WIDTH:450px; HEIGHT:450px" SRC="images/elephants2.png"> -->
 
 ## Friday Discussion: Can Humans *Adjust* to Global Change?
 <hr>

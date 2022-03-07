@@ -100,7 +100,7 @@ output:
 * **<span style="color:darkred">Variation</span>: Individuals in a population vary **
     + *mutation* as ultimate source of variation
     + *migration* -> gene flow within species
-    + *hybridization* -> introgression across species
+    + *introgression* -> genetics crosses species boundaries
 
 <br/>
 <br/>
@@ -114,9 +114,9 @@ output:
 * **<span style="color:darkred">Differential survival or reproduction</span>: Not all individuals survive, those with favorable traits survive and reproduce**
 
 
-<IMG STYLE="position:absolute; TOP:180px; LEFT:580px; WIDTH:500px; HEIGHT:300px" SRC="images/ladybug.png">
+<IMG STYLE="position:absolute; TOP:200px; LEFT:6000px; WIDTH:400px; HEIGHT:250px" SRC="images/ladybug.png">
 
-## Ways of studying adaptation
+## Ways of studying adaptation (experimental evolution)
 <hr>
 
 <IMG STYLE="position:absolute; TOP:180px; LEFT:50px; WIDTH:400px; HEIGHT:350px" SRC="images/lab2.png">
@@ -234,10 +234,10 @@ output:
 
 <IMG STYLE="position:absolute; TOP:180px; LEFT:75px; WIDTH:900px; HEIGHT:450px" SRC="images/mutate2.png">
 
-## Natural selection: measuring selection in genome
-<hr>
+<!-- ## Natural selection: measuring selection in genome -->
+<!-- <hr> -->
 
-<IMG STYLE="position:absolute; TOP:160px; LEFT:50px; WIDTH:900px; HEIGHT:500px" SRC="images/mutate3.png">
+<!-- <IMG STYLE="position:absolute; TOP:160px; LEFT:50px; WIDTH:900px; HEIGHT:500px" SRC="images/mutate3.png"> -->
 
 ## Natural selection: apply findings across species
 <hr>
