@@ -120,7 +120,7 @@ output:
 <br/>
 
 * **Experimentally - more common**
-    + yeast evolving to tolerate previously lethal salt concentrations**
+    + yeast evolving to tolerate previously lethal salt concentrations
 
 <br/>
 
@@ -189,7 +189,7 @@ output:
 
 <br/>
 
-**All else being equal, we expect higher likelihood of adaptation in organisms with…**
+**BRAINSTORM: All else being equal, we expect higher likelihood of adaptation in organisms with…**
 
 
 ## Traits that facilitate adaptation
@@ -224,6 +224,8 @@ output:
 <br/>
 
 **Adaptation from existing or “standing” genetic variation can be fast because the population does not have to “wait” for new mutations to occur.**
+
+<IMG STYLE="position:absolute; TOP:400px; LEFT:200px; WIDTH:600px; HEIGHT:300px" SRC="images/trait.jpg">
 
 ## Traits that facilitate adaptation
 <hr>
@@ -291,9 +293,9 @@ output:
 <hr>
  **The survival of tuskless females across this 28-year period was estimated to five times that of tusked individuals in Gorongosa National Park (Campbell-Station et al. 2021)**
 
-<IMG STYLE="position:absolute; TOP:180px; LEFT:500px; WIDTH:450px; HEIGHT:4550px" SRC="images/elephants.png">
+<IMG STYLE="position:absolute; TOP:220px; LEFT:20px; WIDTH:500px; HEIGHT:450px" SRC="images/elephants.png">
 
-<IMG STYLE="position:absolute; TOP:180px; LEFT:600px; WIDTH:450px; HEIGHT:450px" SRC="images/elephants2.png">
+<IMG STYLE="position:absolute; TOP:220px; LEFT:600px; WIDTH:450px; HEIGHT:450px" SRC="images/elephants2.png">
 
 <!-- ## Microevolution: Rapid plumage colouration change in tawny owls  -->
 <!-- <hr> -->
@@ -303,7 +305,7 @@ output:
 
 <!-- <IMG STYLE="position:absolute; TOP:180px; LEFT:600px; WIDTH:450px; HEIGHT:450px" SRC="images/elephants2.png"> -->
 
-## Friday Discussion: Can Humans *Adjust* to Global Change?
+## Friday Discussion: Can Humans *Adaptt* to Global Change?
 <hr>
 <br/>
 
@@ -312,9 +314,9 @@ output:
 <br/>
 
 * **What evidence exists? Past, present and/or future**
-    + Group 1 - What adaptations have already occurred?
-    + Group 2 - Do humans adapt easily?
-    + Group3 - Can/How/Will human adapt to3-4C warming?
+    + What adaptations have already occurred?
+    + Do humans adapt easily?
+    + Can/How/Will human adapt to 3-4C warming?
 
 <br/>
 
