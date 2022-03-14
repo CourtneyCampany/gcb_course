@@ -1,0 +1,189 @@
+---
+title: "Organismal Responses Interact"
+output: 
+  ioslides_presentation:
+    css: custom.css
+    widescreen: true
+    smaller: true
+---
+
+## Course Roadmap
+<hr>
+
+<IMG STYLE="position:absolute; TOP:160px; LEFT:25px; WIDTH:400px; HEIGHT:500px" SRC="images/course.png">
+
+## Organismal response to global change
+<hr>
+<br/>
+<br/>
+<br/>
+
+- **Responses can occur at nested levels:**
+    + individuals
+
+<IMG STYLE="position:absolute; TOP:291px; LEFT:793px; WIDTH:180px; HEIGHT:180px" SRC="images/birds.png">
+
+## Organismal response to global change
+<hr>
+<br/>
+<br/>
+<br/>
+
+- **Responses can occur at nested levels:**
+    + individuals
+    + populations
+    + metapopulations
+    + species
+    + communities
+    + ecosystems
+    + biomes
+
+<IMG STYLE="position:absolute; TOP:160px; LEFT:550px; WIDTH:500px; HEIGHT:500px" SRC="images/birds2.png"> SRC="images/treelife2.png">
+
+## Unit Objective
+<hr>
+<br/>
+<br/>
+
+
+
+**Confronted with a changing world, organisms can <span style="color:red">move, adjust, adapt, or die</span>**
+
+<br/>
+
+**<span style="color:red">How do the core responses inter-relate?</span>**
+
+<IMG STYLE="position:absolute; TOP:160px; LEFT:150px; WIDTH:800px; HEIGHT:350px" SRC="images/paper.png">
+
+## How do the core responses inter-relate?
+<hr>
+<br/>
+<br/>
+
+<div style="float: left; width: 70%;">
+
+**“The core organismal responses are not mutually exclusive and may often be combined or inter-related**
+
+<br/>
+
+**Pick any two of the core responses (move, adjust, adapt, die) and think of a way in which they relate, overlap, affect, or inform each other**
+
+
+<IMG STYLE="position:absolute; TOP:350px; LEFT:700px; WIDTH:400px; HEIGHT:400px" SRC="images/overlap.png">
+
+## How do the core responses inter-relate?
+<hr>
+<br/>
+<br/>
+
+<div style="float: left; width: 70%;">
+
+**“The core organismal responses are not mutually exclusive and may often be combined or inter-related**
+
+<br/>
+
+**Pick any two of the core responses (move, adjust, adapt, die) and think of a way in which they relate, overlap, affect, or inform each other**
+
+
+<IMG STYLE="position:absolute; TOP:350px; LEFT:700px; WIDTH:400px; HEIGHT:400px" SRC="images/movedie.png">
+
+## Failure to move can lead to extinction
+<hr>
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:50px; WIDTH:400px; HEIGHT:400px" SRC="images/trees.png">
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:550px; WIDTH:400px; HEIGHT:400px" SRC="images/birdmove.png">
+
+## Or organisms can move but then not successfully establish.
+<hr>
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:50px; WIDTH:400px; HEIGHT:400px" SRC="images/koala.png">
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:550px; WIDTH:400px; HEIGHT:400px" SRC="images/polar.png">
+
+## When organisms move they may adapt or adjust to new conditions
+<hr>
+
+<IMG STYLE="position:absolute; TOP:470px; LEFT:0px; WIDTH:1100px; HEIGHT2" SRC="images/frogs.png">
+
+<IMG STYLE="position:absolute; TOP:350px; LEFT:700px; WIDTH:400px; HEIGHT:400px" SRC="images/moveadjust.png">
+
+## Imperiled amphibians
+<hr>
+
+**Strong natural selection can actually reduce genetic variation in a population, making it more vulnerable to future changes**
+
+
+<IMG STYLE="position:absolute; TOP:160px; LEFT:700px; WIDTH:400px; HEIGHT:400px" SRC="images/adaotdie.png">
+
+<IMG STYLE="position:absolute; TOP:350px; LEFT:50px; WIDTH:1000px; HEIGHT:300px" SRC="images/natsel.png">
+
+## Adaptation can also sometimes “save” a population from extirpation
+<hr>
+
+**Evolutionary Rescue: When genetic adaptation allows a population to recover from effects of environmental change that would otherwise cause extirpation**
+
+<IMG STYLE="position:absolute; TOP:160px; LEFT:700px; WIDTH:400px; HEIGHT:400px" SRC="images/adaptdie.png">
+
+<IMG STYLE="position:absolute; TOP:160px; LEFT:50px; WIDTH:400px; HEIGHT:400px" SRC="images/rabbit3.png">
+
+<IMG STYLE="position:absolute; TOP:350px; LEFT:50px; WIDTH:1000px; HEIGHT:300px" SRC="images/rabbits.png">
+
+## Adaptation can also sometimes “save” a population from extirpation
+<hr>
+
+**Evolutionary Rescue: When genetic adaptation allows a population to recover from effects of environmental change that would otherwise cause extirpation**
+
+<IMG STYLE="position:absolute; TOP:160px; LEFT:700px; WIDTH:400px; HEIGHT:400px" SRC="images/adaptdie.png">
+
+<IMG STYLE="position:absolute; TOP:350px; LEFT:50px; WIDTH:1000px; HEIGHT:300px" SRC="images/rabbits2.png">
+
+## A single response can be influenced by both plasticity and adaptation
+<hr>
+
+Breeding dates are changing for Arctic squirrels.  Most of this response (>60%) is explained by phenotypic plasticity but some of the response (~10%) appears to be caused by a genetic shift 
+
+<IMG STYLE="position:absolute; TOP:160px; LEFT:700px; WIDTH:400px; HEIGHT:400px" SRC="images/adaptadjust.png">
+
+<IMG STYLE="position:absolute; TOP:160px; LEFT:100px; WIDTH:900px; HEIGHT:500px" SRC="images/artic.png">
+
+<IMG STYLE="position:absolute; TOP:160px; LEFT:100px; WIDTH:900px; HEIGHT:500px" SRC="images/artic2.png">
+
+## Plasticity can serve as a “bridge to the future”
+<hr>
+
+<IMG STYLE="position:absolute; TOP:160px; LEFT:700px; WIDTH:400px; HEIGHT:400px" SRC="images/adaptadjust.png">
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:20px; WIDTH:700px; HEIGHT:450px" SRC="images/plasticity.jpg">
+
+## A dystopian game show
+<hr>
+<br/>
+<br/>
+
+**I have a species and I want you to predict for me whether it will move, adapt, have a plastic response, or die over the next hundred years. **
+
+<br/>
+
+**Work together to brainstorm the pieces of information you’ll need to predict how species may respond!**
+
+<br/>
+
+**Gain points by matching response traits on the game board!**
+
+<br/>
+
+**For each of the four core responses brainstorm what you think are the most important factors influencing the probability of that response**
+
+## 
+
+<IMG STYLE="position:absolute; TOP:0px; LEFT:50px; WIDTH:1000px; HEIGHT:600px" SRC="images/board.png">
+
+## 
+
+<IMG STYLE="position:absolute; TOP:0px; LEFT:50px; WIDTH:1000px; HEIGHT:600px" SRC="images/board2.png">
+
+## Individual species intercations ripple through biological communities
+<hr>
+
+<IMG STYLE="position:absolute; TOP:0px; LEFT:50px; WIDTH:800px; HEIGHT:500px" SRC="images/interaction.jpg">
