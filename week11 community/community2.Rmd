@@ -1,5 +1,5 @@
 ---
-title: "Organismal Responses to Change: Adapt"
+title: "Community-Level Responses"
 output: 
   ioslides_presentation:
     css: custom2.css
@@ -7,61 +7,24 @@ output:
     smaller: true
 ---
 
-## Other approaches to study natural selection
+## Today: Moving from the individual to the collective
 <hr>
-<br/>
-<br/>
-<br/>
 
-<div style="float: left; width: 60%;">
+<IMG STYLE="position:absolute; TOP:240px; LEFT:20px; WIDTH:450px; HEIGHT:300px" SRC="images/collective.png">
 
-**Museum specimens provide resource for comparisons over time, but many traits cannot be measured from specimens**
+<IMG STYLE="position:absolute; TOP:160px; LEFT:500px; WIDTH:550px; HEIGHT:500px" SRC="images/collective2.jpg">
 
-<br/>
-
-**What if researchers could have access live animals from a historical time point that had frozen in time?**
-
-<br/>
-
-**For some species, seeds, eggs, cysts, spores can be preserved in soil or ice and revived years or even centuries later**
-
-</div>
-
-<IMG STYLE="position:absolute; TOP:160px; LEFT:650px; WIDTH:400px; HEIGHT:500px" SRC="images/museum.png">
-
-## Case study: *Daphnia*
+## Evolution of communities
 <hr>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
 
-**Question: Can *Daphnia* evolve to cope with global warming?**
+<IMG STYLE="position:absolute; TOP:160px; LEFT:800px; WIDTH:200px; HEIGHT:500px" SRC="images/interactions.png">
 
-<br/>
-
-**Approach 1: <span style="color:blue">Experimental evolution</span>**
- 
- <br/>
-
-**Approach 2: <span style="color:blue">Resurrection ecology</span>**
-
-<IMG STYLE="position:absolute; TOP:160px; LEFT:20px; WIDTH:700px; HEIGHT:250px" SRC="images/daphnia2.png">
-
-<IMG STYLE="position:absolute; TOP:160px; LEFT:800px; WIDTH:200px; HEIGHT:500px" SRC="images/daphnia.png">
-
-## Case study: *Daphnia*
+## Evolution of communities: Nothing exists in isolation
 <hr>
-<br/>
 
-**Approach 1: <span style="color:blue">Experimental evolution</span> - Evolved *Daphnia* under control and warmed conditions for 2 years**
+**Show my one single, isolated tree in a Appalachian forest...***
 
-<IMG STYLE="position:absolute; TOP:225px; LEFT:200px; WIDTH:600px; HEIGHT:400px" SRC="images/daphniabar.png">
+<IMG STYLE="position:absolute; TOP:225px; LEFT:200px; WIDTH:600px; HEIGHT:400px" SRC="images/forest.jpeg">
 
 ## Case study: *Daphnia*
 <hr>
