@@ -10,7 +10,7 @@ output:
 ## Course Roadmap
 <hr>
 
-<IMG STYLE="position:absolute; TOP:160px; LEFT:25px; WIDTH:400px; HEIGHT:500px" SRC="images/course.png">
+<IMG STYLE="position:absolute; TOP:160px; LEFT:100px; WIDTH:900px; HEIGHT:500px" SRC="images/course.png">
 
 ## Organismal response to global change
 <hr>
@@ -38,123 +38,134 @@ output:
     + ecosystems
     + biomes
 
-<IMG STYLE="position:absolute; TOP:160px; LEFT:550px; WIDTH:500px; HEIGHT:500px" SRC="images/birds2.png"> SRC="images/treelife2.png">
+<IMG STYLE="position:absolute; TOP:160px; LEFT:550px; WIDTH:500px; HEIGHT:500px" SRC="images/birds2.png"> 
 
 ## Unit Objective
 <hr>
 <br/>
-<br/>
-
-
 
 **Confronted with a changing world, organisms can <span style="color:red">move, adjust, adapt, or die</span>**
 
 <br/>
 
-**<span style="color:red">How do the core responses inter-relate?</span>**
+**<span style="color:blue">How do the core responses inter-relate?</span>**
 
-<IMG STYLE="position:absolute; TOP:160px; LEFT:150px; WIDTH:800px; HEIGHT:350px" SRC="images/paper.png">
+<IMG STYLE="position:absolute; TOP:325px; LEFT:150px; WIDTH:800px; HEIGHT:390px" SRC="images/usgs.png">
 
 ## How do the core responses inter-relate?
 <hr>
 <br/>
-<br/>
 
-<div style="float: left; width: 70%;">
-
-**“The core organismal responses are not mutually exclusive and may often be combined or inter-related**
+**The core organismal responses are not mutually exclusive and may often be combined or inter-related**
 
 <br/>
 
 **Pick any two of the core responses (move, adjust, adapt, die) and think of a way in which they relate, overlap, affect, or inform each other**
 
 
-<IMG STYLE="position:absolute; TOP:350px; LEFT:700px; WIDTH:400px; HEIGHT:400px" SRC="images/overlap.png">
+<IMG STYLE="position:absolute; TOP:350px; LEFT:275px; WIDTH:500px; HEIGHT:350px" SRC="images/overlap.png">
 
 ## How do the core responses inter-relate?
 <hr>
 <br/>
-<br/>
 
-<div style="float: left; width: 70%;">
-
-**“The core organismal responses are not mutually exclusive and may often be combined or inter-related**
+**The core organismal responses are not mutually exclusive and may often be combined or inter-related**
 
 <br/>
 
 **Pick any two of the core responses (move, adjust, adapt, die) and think of a way in which they relate, overlap, affect, or inform each other**
 
-
-<IMG STYLE="position:absolute; TOP:350px; LEFT:700px; WIDTH:400px; HEIGHT:400px" SRC="images/movedie.png">
+<IMG STYLE="position:absolute; TOP:350px; LEFT:275px; WIDTH:500px; HEIGHT:350px" SRC="images/movedie.png">
 
 ## Failure to move can lead to extinction
 <hr>
 
-<IMG STYLE="position:absolute; TOP:200px; LEFT:50px; WIDTH:400px; HEIGHT:400px" SRC="images/trees.png">
+<IMG STYLE="position:absolute; TOP:160px; LEFT:100px; WIDTH:900px; HEIGHT:500px" SRC="images/trees.jpg">
 
-<IMG STYLE="position:absolute; TOP:200px; LEFT:550px; WIDTH:400px; HEIGHT:400px" SRC="images/birdmove.png">
+## Failure to move can lead to extinction
+<hr>
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:150px; WIDTH:800px; HEIGHT:450px" SRC="images/birdmove.png">
 
 ## Or organisms can move but then not successfully establish.
 <hr>
 
-<IMG STYLE="position:absolute; TOP:200px; LEFT:50px; WIDTH:400px; HEIGHT:400px" SRC="images/koala.png">
+<IMG STYLE="position:absolute; TOP:220px; LEFT:25px; WIDTH:500px; HEIGHT:350px" SRC="images/koala.jpg">
 
-<IMG STYLE="position:absolute; TOP:200px; LEFT:550px; WIDTH:400px; HEIGHT:400px" SRC="images/polar.png">
+<IMG STYLE="position:absolute; TOP:180px; LEFT:550px; WIDTH:500px; HEIGHT:450px" SRC="images/polar.jpg">
 
-## When organisms move they may adapt or adjust to new conditions
+## Moving organisms may adapt or adjust to new conditions
+<hr>
+<br/>
+
+<IMG STYLE="position:absolute; TOP:240px; LEFT:10px; WIDTH:350px; HEIGHT:300px" SRC="images/pika.jpg">
+
+<div style="float: right; width: 65%;">
+
+**With warming, pikas living at low elevations can avoid extinction by migrating to cooler, higher parts of the mountain. **
+
+<br/>
+
+**Low-altitude pikas must adjust/adpat to cope with low oxygen of higher altitudes**
+
+<br/>
+
+**Scientists found 3 genes in the mitochondria that code for proteins that help use oxygen to generate chemical energy for the body**
+
+<br/>
+
+**The proteins from high-altitude pikas appear to be very efficient at this conversion, which helps explain how they thrive high up where the air is thin**
+
+</div>
+
+<!-- <IMG STYLE="position:absolute; TOP:350px; LEFT:700px; WIDTH:400px; HEIGHT:400px" SRC="images/moveadapt.png"> -->
+
+## Natural selection is a always a moving target...
+<hr>
+<br/>
+
+**<span style="color:blue">Strong natural selection can actually reduce genetic variation in a population, making it more vulnerable to future changes</span>**
+
+<!-- <IMG STYLE="position:absolute; TOP:160px; LEFT:700px; WIDTH:400px; HEIGHT:400px" SRC="images/adaptdie.png"> -->
+
+<IMG STYLE="position:absolute; TOP:275px; LEFT:100px; WIDTH:900px; HEIGHT:350px" SRC="images/natsel.png">
+
+## Adaptation can “save” a population from extirpation
 <hr>
 
-<IMG STYLE="position:absolute; TOP:470px; LEFT:0px; WIDTH:1100px; HEIGHT2" SRC="images/frogs.png">
+**<span style="color:blue">Evolutionary Rescue</span>: When genetic adaptation allows a population to recover from effects of environmental change that would otherwise cause extirpation**
 
-<IMG STYLE="position:absolute; TOP:350px; LEFT:700px; WIDTH:400px; HEIGHT:400px" SRC="images/moveadjust.png">
+<!-- <IMG STYLE="position:absolute; TOP:160px; LEFT:700px; WIDTH:400px; HEIGHT:400px" SRC="images/adaptdie.png"> -->
 
-## Imperiled amphibians
+<IMG STYLE="position:absolute; TOP:220px; LEFT:25px; WIDTH:400px; HEIGHT:400px" SRC="images/rabbit3.png">
+
+<IMG STYLE="position:absolute; TOP:220px; LEFT:480px; WIDTH:600px; HEIGHT:400px" SRC="images/rabbits.jpg">
+
+## Adaptation can “save” a population from extirpation
 <hr>
 
-**Strong natural selection can actually reduce genetic variation in a population, making it more vulnerable to future changes**
+**<span style="color:blue">Evolutionary Rescue</span>: When genetic adaptation allows a population to recover from effects of environmental change that would otherwise cause extirpation**
 
 
-<IMG STYLE="position:absolute; TOP:160px; LEFT:700px; WIDTH:400px; HEIGHT:400px" SRC="images/adaotdie.png">
+<IMG STYLE="position:absolute; TOP:250px; LEFT:50px; WIDTH:1000px; HEIGHT:400px" SRC="images/rabbits2.jpeg">
 
-<IMG STYLE="position:absolute; TOP:350px; LEFT:50px; WIDTH:1000px; HEIGHT:300px" SRC="images/natsel.png">
-
-## Adaptation can also sometimes “save” a population from extirpation
+## A single response can be influenced by plasticity & adaptation
 <hr>
 
-**Evolutionary Rescue: When genetic adaptation allows a population to recover from effects of environmental change that would otherwise cause extirpation**
+Breeding dates are changing for Arctic squirrels. Most of this response (>60%) is explained by phenotypic plasticity but some of the response (~10%) appears to be caused by a genetic shift 
 
-<IMG STYLE="position:absolute; TOP:160px; LEFT:700px; WIDTH:400px; HEIGHT:400px" SRC="images/adaptdie.png">
+<!-- <IMG STYLE="position:absolute; TOP:160px; LEFT:700px; WIDTH:400px; HEIGHT:400px" SRC="images/adaptadjust.png"> -->
 
-<IMG STYLE="position:absolute; TOP:160px; LEFT:50px; WIDTH:400px; HEIGHT:400px" SRC="images/rabbit3.png">
+<IMG STYLE="position:absolute; TOP:260px; LEFT:30px; WIDTH:300px; HEIGHT:300px" SRC="images/artic.jpg">
 
-<IMG STYLE="position:absolute; TOP:350px; LEFT:50px; WIDTH:1000px; HEIGHT:300px" SRC="images/rabbits.png">
-
-## Adaptation can also sometimes “save” a population from extirpation
-<hr>
-
-**Evolutionary Rescue: When genetic adaptation allows a population to recover from effects of environmental change that would otherwise cause extirpation**
-
-<IMG STYLE="position:absolute; TOP:160px; LEFT:700px; WIDTH:400px; HEIGHT:400px" SRC="images/adaptdie.png">
-
-<IMG STYLE="position:absolute; TOP:350px; LEFT:50px; WIDTH:1000px; HEIGHT:300px" SRC="images/rabbits2.png">
-
-## A single response can be influenced by both plasticity and adaptation
-<hr>
-
-Breeding dates are changing for Arctic squirrels.  Most of this response (>60%) is explained by phenotypic plasticity but some of the response (~10%) appears to be caused by a genetic shift 
-
-<IMG STYLE="position:absolute; TOP:160px; LEFT:700px; WIDTH:400px; HEIGHT:400px" SRC="images/adaptadjust.png">
-
-<IMG STYLE="position:absolute; TOP:160px; LEFT:100px; WIDTH:900px; HEIGHT:500px" SRC="images/artic.png">
-
-<IMG STYLE="position:absolute; TOP:160px; LEFT:100px; WIDTH:900px; HEIGHT:500px" SRC="images/artic2.png">
+<IMG STYLE="position:absolute; TOP:250px; LEFT:350px; WIDTH:640px; HEIGHT:420px" SRC="images/artic2.png">
 
 ## Plasticity can serve as a “bridge to the future”
 <hr>
 
-<IMG STYLE="position:absolute; TOP:160px; LEFT:700px; WIDTH:400px; HEIGHT:400px" SRC="images/adaptadjust.png">
+<!-- <IMG STYLE="position:absolute; TOP:160px; LEFT:700px; WIDTH:400px; HEIGHT:400px" SRC="images/adaptadjust.png"> -->
 
-<IMG STYLE="position:absolute; TOP:200px; LEFT:20px; WIDTH:700px; HEIGHT:450px" SRC="images/plasticity.jpg">
+<IMG STYLE="position:absolute; TOP:160px; LEFT:100px; WIDTH:900px; HEIGHT:500px" SRC="images/plasticity.png">
 
 ## A dystopian game show
 <hr>
@@ -177,13 +188,13 @@ Breeding dates are changing for Arctic squirrels.  Most of this response (>60%) 
 
 ## 
 
-<IMG STYLE="position:absolute; TOP:0px; LEFT:50px; WIDTH:1000px; HEIGHT:600px" SRC="images/board.png">
+<IMG STYLE="position:absolute; TOP:50px; LEFT:50px; WIDTH:1000px; HEIGHT:600px" SRC="images/board.png">
 
 ## 
 
-<IMG STYLE="position:absolute; TOP:0px; LEFT:50px; WIDTH:1000px; HEIGHT:600px" SRC="images/board2.png">
+<IMG STYLE="position:absolute; TOP:50px; LEFT:50px; WIDTH:1000px; HEIGHT:600px" SRC="images/board2.png">
 
-## Individual species intercations ripple through biological communities
+## Species interactions ripple through biological communities
 <hr>
 
-<IMG STYLE="position:absolute; TOP:0px; LEFT:50px; WIDTH:800px; HEIGHT:500px" SRC="images/interaction.jpg">
+<IMG STYLE="position:absolute; TOP:160px; LEFT:175px; WIDTH:750px; HEIGHT:500px" SRC="images/interaction2.jpg">
