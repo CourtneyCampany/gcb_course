@@ -1,5 +1,5 @@
 ---
-title: "Community-Level Responses"
+title: "Community-Level Responses to Global Change"
 output: 
   ioslides_presentation:
     css: custom2.css
@@ -10,282 +10,292 @@ output:
 ## Today: Moving from the individual to the collective
 <hr>
 
-<IMG STYLE="position:absolute; TOP:240px; LEFT:20px; WIDTH:450px; HEIGHT:300px" SRC="images/collective.png">
+<IMG STYLE="position:absolute; TOP:350px; LEFT:700px; WIDTH:350px; HEIGHT:100px" SRC="images/collective.png">
 
-<IMG STYLE="position:absolute; TOP:160px; LEFT:500px; WIDTH:550px; HEIGHT:500px" SRC="images/collective2.jpg">
+<IMG STYLE="position:absolute; TOP:200px; LEFT:0px; WIDTH:700px; HEIGHT:400px" SRC="images/collective2.jpg">
 
 ## Evolution of communities
 <hr>
 
-<IMG STYLE="position:absolute; TOP:160px; LEFT:800px; WIDTH:200px; HEIGHT:500px" SRC="images/interactions.png">
+<IMG STYLE="position:absolute; TOP:160px; LEFT:100px; WIDTH:900px; HEIGHT:500px" SRC="images/interactions.png">
 
 ## Evolution of communities: Nothing exists in isolation
 <hr>
-
-**Show my one single, isolated tree in a Appalachian forest...***
-
-<IMG STYLE="position:absolute; TOP:225px; LEFT:200px; WIDTH:600px; HEIGHT:400px" SRC="images/forest.jpeg">
-
-## Case study: *Daphnia*
-<hr>
 <br/>
 
-**Approach 2: <span style="color:blue">Resurrection ecology</span> - Hatched *Daphnia* from historic and contemporary sediment layers**
+**Show me one single, isolated tree in a Appalachian forest...**
 
 <br/>
 <br/>
 <br/>
 <br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
 
+<IMG STYLE="position:absolute; TOP:225px; LEFT:45px; WIDTH:600px; HEIGHT:400px" SRC="images/forests.jpeg">
 
-**Conclusion: Thermal tolerance in *Daphnia* can evolve over short time scales in response to global warming**
+<div style="float: right; width: 35%;">
 
-<IMG STYLE="position:absolute; TOP:225px; LEFT:200px; WIDTH:600px; HEIGHT:400px" SRC="images/daphniabar2.png">
-
-## Case study: *Daphnia* can evolve....so what?
-<hr>
-<br/>
-
-**Daphnia not only interact strongly with its phytoplankton food resource, but also with other components of the pelagic ecosystem**
-
-<IMG STYLE="position:absolute; TOP:260px; LEFT:250px; WIDTH:600px; HEIGHT:400px" SRC="images/daphnia3.png">
-
-## Current climate change threaten 16% of species with extinction
-<hr>
-
-<IMG STYLE="position:absolute; TOP:160px; LEFT:100px; WIDTH:900px; HEIGHT:500px" SRC="images/risk.png">
-
-## Can adaptation prevent extinction?
-<hr>
-<br/>
-
-<div style="float: right; width: 62%;">
-
-* **Evolutionary rescue? = process by which a population—that would have gone extinct in the absence of evolution—persists due to natural selection**
+**<span style="color:blue">Biological implications</span>**
 
 <br/>
 
-* **So far, not been shown to be common in nature**
-    + cricket versus fly parasitoid
-    
-<br/>
-
-* **Experimentally - more common**
-    + yeast evolving to tolerate previously lethal salt concentrations
-
-<br/>
-
-* **Can strong selection have risks?**
-    + can species adapt to multiple global change stressors?
- </div>   
- 
-<IMG STYLE="position:absolute; TOP:250px; LEFT:10px; WIDTH:400px; HEIGHT:300px" SRC="images/rescue2.jpeg">
-
-## Are there limits to adaptation?
-<hr>
-<br/>
-<br/>
-<br/>
-<br/>
-
-<div style="float: left; width: 51%;">
-
-**Some organisms can adapt rapidly, but not always rapidly enough**
-
-<br/>
-
-**What happens when the rate of environmental change exceeds the ability of populations to adapt?**
+**Philosophical implications**
 
 </div>
 
-<IMG STYLE="position:absolute; TOP:160px; LEFT:575px; WIDTH:500px; HEIGHT:500px" SRC="images/lizards3.png">
-
-## Are there limits to adaptation?
+## Global change pressures affect biological interactions
 <hr>
+
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:10px; WIDTH:700px; HEIGHT:400px" SRC="images/frogtadpole.png">
+
+
+<IMG STYLE="position:absolute; TOP:160px; LEFT:760px; WIDTH:300px; HEIGHT:200px" SRC="images/crayfish.jpg">
+
+<IMG STYLE="position:absolute; TOP:400px; LEFT:760px; WIDTH:300px; HEIGHT:275px" SRC="images/frog.jpg">
+
+## Cascading effects
+<hr>
+<br/>
 <br/>
 
 <div style="float: left; width: 65%;">
-
-**Some organisms can adapt rapidly, but not always rapidly enough**
-
-<br/>
-
-**<span style="color:blue">For example, some populations do not have enough genetic variation to track forecast changes in climate</span>**
+**Every time community composition changes (by species gains, losses, or altered timing, strength, or type of interactions), shit happens**
 
 <br/>
 
-**A 2°C rise in the next 60 years (12 birch generations) is predicted to advance budburst by 40 days**
+**<span style="color:red">This</span> is what we are doing on (and to) the planet**
 
 <br/>
 
-**Billington & Pelham (1991) predicted how much change would need to occur per generation versus current population variation**
+**Individual species move, adjust, adapt, die and we care about that, but it’s the <span style="color:red">cascading effects</span> that can unravel the biosphere as we know it**
+</div>
 
+<IMG STYLE="position:absolute; TOP:160px; LEFT:700px; WIDTH:350px; HEIGHT:450px" SRC="images/domino.jpg">
+
+##
+
+<IMG STYLE="position:absolute; TOP:50px; LEFT:50px; WIDTH:1000px; HEIGHT:600px" SRC="images/cascade.jpg">
+
+## Cascading effects: co-extinction
+<hr>
 <br/>
 
-**Predicted change would be impossible**
+**Obvious examples like <span style="color:red">co-extinction</span> where *direct* interaction partners influence each other**
+
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+
+**e.g., most vulnerable are <span style="color:blue">obligate</span> interaction partners (can be hosts/mutualists, predators/prey, plants/herbivores prey, hosts/parasites, etc.) **
+
+<IMG STYLE="position:absolute; TOP:240px; LEFT:200px; WIDTH:700px; HEIGHT:300px" SRC="images/flyflower.jpg">
+
+## Cascading effects: keystone predator
+<hr>
+<br/>
+
+<div style="float: left; width: 55%;">
+
+* **But species impact each other even if they don’t interact directly through <span style="color:red">biotic interaction chains</span>**
+</div>   
+ 
+<IMG STYLE="position:absolute; TOP:280px; LEFT:50px; WIDTH:500px; HEIGHT:350px" SRC="images/otter.png">
+
+<IMG STYLE="position:absolute; TOP:160px; LEFT:630px; WIDTH:450px; HEIGHT:500px" SRC="images/ottergraph.jpg">
+
+## Cascading effects: introduced species
+<hr>
+<br/>
+
+<div style="float: left; width: 50%;">
+
+**And this doesn’t need to be a <span style="color:red">top-down</span> keystone predator; it can be a <span style="color:red">bottom-up effect</span>**
 
 </div>
 
-<IMG STYLE="position:absolute; TOP:200px; LEFT:750px; WIDTH:300px; HEIGHT:400px" SRC="images/birch.png">
+<IMG STYLE="position:absolute; TOP:300px; LEFT:10px; WIDTH:750px; HEIGHT:400px" SRC="images/wormimpact.png">
 
-## Traits that facilitate adaptation
+<IMG STYLE="position:absolute; TOP:160px; LEFT:770px; WIDTH:300px; HEIGHT:200px" SRC="images/crazyworm.jpg">
+
+## Global worming
+<hr>
+
+* **The last ice sheet killed off earthworms in the northern 1/3 of North American**
+  + worms—with their limited powers of dispersal—weren’t able to recolonize on their own
+
+<br/>
+
+**Humans  move worms,  via dirty ship ballast, horticultural plants, mulch and fishing bait. European earthworms live on every continent except Antarctica.**
+
+<br/>
+
+* **North American hardwood forests develop a thick blanket of slowly decomposing leaves deposited over the course of years that create homes for insects, amphibians, birds, and native flowers**
+    + worms breakdown this layer to quickly for plants to capture nutrients and insects lost their homes   
+
+<IMG STYLE="position:absolute; TOP:480px; LEFT:250px; WIDTH:600px; HEIGHT:200px" SRC="images/crazyworm2.jpg">
+
+## Cascading effects: complex chains
 <hr>
 <br/>
 
-**Why can some species evolve quickly enough to cope with global warming while others can’t?**
+<div style="float: left; width: 50%;">
 
-<br/>
+- **Changes can have impacts many <span style="color:red">trophic levels</span> away**
+    + trophic levels = feeding relationships
+</div>
 
-**What traits make a species more likely to exhibit the adapt response**
-
-<br/>
-
-**BRAINSTORM: All else being equal, we expect higher likelihood of adaptation in organisms with…**
+<IMG STYLE="position:absolute; TOP:20px; LEFT:675px; WIDTH:375px; HEIGHT:350px" SRC="images/trophic.png">
 
 
-## Traits that facilitate adaptation
+<IMG STYLE="position:absolute; TOP:375px; LEFT:50px; WIDTH:1000px; HEIGHT:300px" SRC="images/dung.png">
+
+## Cascading effects: complex webs
 <hr>
+**And these biotic interaction chains are actually embedded in complex <span style="color:red">biotic interaction webs</span>**
+
+<IMG STYLE="position:absolute; TOP:220px; LEFT:200px; WIDTH:700px; HEIGHT:430px" SRC="images/seaweb.jpg">
+
+## Cascading effects: the big picture
+<hr>
+
+**And these biotic interaction chains are actually embedded in <span style="color:red">biotic interaction webs</span> plus complex <span style="color:red">abiotic interactions</span> (Chap 10)**
+
+
+<IMG STYLE="position:absolute; TOP:250px; LEFT:100px; WIDTH:900px; HEIGHT:450px" SRC="images/abiotic.jpg">
+
+## Evolution of communities
+<hr>
+
+**So we come back to… Nothing exists in isolation**
+
 <br/>
 <br/>
 <br/>
 <br/>
 
-<div style="float: right; width: 51%;">
+<IMG STYLE="position:absolute; TOP:225px; LEFT:45px; WIDTH:600px; HEIGHT:400px" SRC="images/forests.jpeg">
 
-**Higher trait heritability (for the relevant traits)**
+<div style="float: right; width: 35%;">
 
-<br/>
-
-**Adaptation cannot occur if a trait is not inherited**
+**Biological implications**
 
 <br/>
 
-**Heritability varies by trait**
+**<span style="color:blue">Philosophical implications</span>**
 
 </div>
 
-<IMG STYLE="position:absolute; TOP:200px; LEFT:25px; WIDTH:450px; HEIGHT:450px" SRC="images/inherit.jpg">
-
-## Traits that facilitate adaptation
+## True interconnectedness
 <hr>
 <br/>
 
-**More existing genetic variation (in relevant traits)**
+**Web of life is not some cheesy new-age idea**
 
 <br/>
 
-**Adaptation from existing or “standing” genetic variation can be fast because the population does not have to “wait” for new mutations to occur.**
+<div style="float: left; width: 35%;">
 
-<IMG STYLE="position:absolute; TOP:400px; LEFT:200px; WIDTH:600px; HEIGHT:300px" SRC="images/trait.jpg">
+**It’s also not just a scientific concept**
 
-## Traits that facilitate adaptation
+<br/>
+
+**It’s represented in cultures around the world**
+
+<br/>
+
+**And it is quite simply: <span style="color:darkorange">TRUTH</span>**
+
+<br/>
+
+**The implications are staggering**
+
+</div>
+
+<IMG STYLE="position:absolute; TOP:240px; LEFT:425px; WIDTH:600px; HEIGHT:400px" SRC="images/web.jpg">
+
+## True interconnectedness: Nothing exists in isolation
+<hr>
+
+**Even in modern selfie culture, can you separate YOU from everything else?**
+
+<IMG STYLE="position:absolute; TOP:220px; LEFT:100px; WIDTH:900px; HEIGHT:450px" SRC="images/human.jpg">
+
+## True interconnectedness
 <hr>
 <br/>
 
-**More existing genetic variation (in relevant traits)**
+**The problem is that we <span style="color:red">feel</span> isolated**
 
-<IMG STYLE="position:absolute; TOP:240px; LEFT:100px; WIDTH:900px; HEIGHT:400px" SRC="images/exist.png">
+<IMG STYLE="position:absolute; TOP:300px; LEFT:50px; WIDTH:300px; HEIGHT:300px" SRC="images/alone.jpg">
 
-## Traits that facilitate adaptation
+<IMG STYLE="position:absolute; TOP:240px; LEFT:400px; WIDTH:700px; HEIGHT:400px" SRC="images/song.png">
+
+## True interconnectedness: This is about YOU
 <hr>
 <br/>
 
-**<span style="color:red">Contrast that with waiting for a new mutation</span>**
+<div style="float: left; width: 60%;">
 
-<IMG STYLE="position:absolute; TOP:240px; LEFT:100px; WIDTH:900px; HEIGHT:400px" SRC="images/exist2.png">
+**It is not only about the physical planet Earth, it is about OUR bodies, minds, spirits, and relationships that are being trashed and polluted**
 
-## Traits that facilitate adaptation
+<br/>
+
+**We are being told that we are isolated, not good enough, not important to the big picture**
+
+<br/>
+
+**<span style="color:darkorange">But it’s not true</span>**
+
+<br/>
+
+**We have to start telling – and believing - a different story**
+
+<br/>
+
+**Do something small this week to begin busting down some of the walls of separation!**
+
+</div>
+
+<IMG STYLE="position:absolute; TOP:250px; LEFT:700px; WIDTH:350px; HEIGHT:350px" SRC="images/together.jpg">
+
+
+## True interconnectedness: Friday open discussion
 <hr>
-<br/>
-
-**Higher mutation rates**
+**<span style="color:blue">What are the impediments to feeling connected?</span>**
 
 <br/>
 
-**Faster mutation rates generate more variation on which selection can act**
+<IMG STYLE="position:absolute; TOP:220px; LEFT:550px; WIDTH:300px; HEIGHT:300px" SRC="images/alone.jpg">
 
-
-<IMG STYLE="position:absolute; TOP:330px; LEFT:50px; WIDTH:1000px; HEIGHT:300px" SRC="images/rates.png">
-
-## Traits that facilitate adaptation
-<hr>
-<br/>
-
-**Faster generation times**
+**In our societies?**
 
 <br/>
 
-**The *relative* velocity of environmental change is slower for organisms that can go through many generations each year**
-
-<IMG STYLE="position:absolute; TOP:320px; LEFT:250px; WIDTH:600px; HEIGHT:300px" SRC="images/generation.png">
-
-## Traits that facilitate adaptation
-<hr>
-<br/>
-
-**Larger population sizes**
+**In our classrooms?**
 
 <br/>
 
-**Larger populations are more likely to have standing variation and are less likely to be decimated by chance events **
-
-
-<IMG STYLE="position:absolute; TOP:320px; LEFT:200px; WIDTH:700px; HEIGHT:370px" SRC="images/drift.jpg">
-
-## Traits that facilitate adaptation
-<hr>
-<br/>
-
-**Other factors like amount of gene flow and how traits are linked to each other in the genome also matter**
-
-<IMG STYLE="position:absolute; TOP:280px; LEFT:50px; WIDTH:1000px; HEIGHT:400px" SRC="images/flow.png">
-
-## Microevolution: Rapid selection of tuskless female elephants
-<hr>
- **The survival of tuskless females across this 28-year period was estimated to five times that of tusked individuals in Gorongosa National Park (Campbell-Station et al. 2021)**
-
-<IMG STYLE="position:absolute; TOP:220px; LEFT:20px; WIDTH:500px; HEIGHT:450px" SRC="images/elephants.png">
-
-<IMG STYLE="position:absolute; TOP:220px; LEFT:600px; WIDTH:450px; HEIGHT:450px" SRC="images/elephants2.png">
-
-<!-- ## Microevolution: Rapid plumage colouration change in tawny owls  -->
-<!-- <hr> -->
-<!--  **Strong selection against the brown morph occurs under snow-rich winters. As winter conditions became milder in the last decades, selection against the brown morph diminished (Karell et al. 2011).** -->
-
-<!-- <IMG STYLE="position:absolute; TOP:180px; LEFT:500px; WIDTH:450px; HEIGHT:4550px" SRC="images/elephants.png"> -->
-
-<!-- <IMG STYLE="position:absolute; TOP:180px; LEFT:600px; WIDTH:450px; HEIGHT:450px" SRC="images/elephants2.png"> -->
-
-## Friday Discussion: Can Humans *Adaptt* to Global Change?
-<hr>
-<br/>
-
-* **Previous journal club message: Humans have high adaptive capacity..**
+**In our psyches?**
 
 <br/>
 
-* **What evidence exists? Past, present and/or future**
-    + What adaptations have already occurred?
-    + Do humans adapt easily?
-    + Can/How/Will human adapt to 3-4C warming?
+**Others?**
 
 <br/>
 
-* **Be prepared to discuss what you found as well as your opinion on if it is possible**
+**Choose a subject to write about or find an article to discuss**
 
 <br/>
 
-* **Submit an article/link on Brightspace for participation**
-    + Add a sentence or 2 about what you found
+**<span style="color:blue">Submit an short paragraph of your conclusions to Brightspace for participation</span>**
+
