@@ -217,12 +217,13 @@ output:
 ## Frog Apocalypse via *Batrachochytrium dendrobatidis*
 <hr>
 
-<IMG STYLE="position:absolute; TOP:160px; LEFT:0px; WIDTH:1100px; HEIGHT:500px" SRC="images/frogdecline.jpg">
+<IMG STYLE="position:absolute; TOP:160px; LEFT:100px; WIDTH:900px; HEIGHT:500px" SRC="images/bd.png">
 
 ## Frog Apocalypse via *Batrachochytrium dendrobatidis*
 <hr>
 
-<IMG STYLE="position:absolute; TOP:160px; LEFT:100px; WIDTH:900px; HEIGHT:500px" SRC="images/bd.png">
+<IMG STYLE="position:absolute; TOP:160px; LEFT:0px; WIDTH:1100px; HEIGHT:500px" SRC="images/frogdecline.jpg">
+
 
 ## Imperiled amphibians
 <hr>
@@ -264,10 +265,46 @@ output:
 
 <IMG STYLE="position:absolute; TOP:200px; LEFT:20px; WIDTH:400px; HEIGHT:450px" SRC="images/frogs2.jpg">
 
+
 ## Ways of studying population declines
 <hr>
+<br/>
 
-<IMG STYLE="position:absolute; TOP:160px; LEFT:50px; WIDTH:450px; HEIGHT:450px" SRC="images/study.png">
+<div style="float: right; width: 58%;">
+
+**<span style="color:darkorange">Emerging infectious disease</span>**
+
+<br/>
+
+**Where did the chytrid fungus come from?**
+
+<br/>
+
+**How has it spread?**
+
+<br/>
+
+**How does it kill frogs?**
+
+<br/>
+
+**Are all chytrid strains equally deadly?**
+
+<br/>
+
+**Why are some frog species more susceptible than others?**
+
+<br/>
+
+**What can we do to protect amphibian biodiversity?**
+
+<br/>
+
+**And on…**
+
+</div>
+
+<IMG STYLE="position:absolute; TOP:240px; LEFT:25px; WIDTH:400px; HEIGHT:350px" SRC="images/study.png">
 
 ## Chytrid story
 <hr>
