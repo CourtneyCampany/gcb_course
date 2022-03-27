@@ -14,7 +14,7 @@ output:
 
 <div style="float: right; width: 60%;">
 
-**<span style="color:blue">Die</span>: loss of individuals, populations (extirpation), or species (extinction)**
+**<span style="color:blue">Die</span>: loss of individuals, populations (*extirpation*), or species (*extinction*)**
 
 <br/>
 
@@ -224,7 +224,6 @@ output:
 
 <IMG STYLE="position:absolute; TOP:160px; LEFT:0px; WIDTH:1100px; HEIGHT:500px" SRC="images/frogdecline.jpg">
 
-
 ## Imperiled amphibians
 <hr>
 <br/>
@@ -423,11 +422,11 @@ output:
 <br/>
 <br/>
 
-**Resistant frogs mount a more robust immune response**
+**Resistant frogs mount a more robust immune response (via <span style="color:blue">plasticity</span>)**
 
 <IMG STYLE="position:absolute; TOP:210px; LEFT:250px; WIDTH:650px; HEIGHT:400px" SRC="images/resistant.png">
 
-## What are the heartbreaks?
+## Field studies reveal the heartbreaks?
 <hr>
 
 **500 species of amphibians have declined significantly because of the outbreak — including at least 90 species presumed to have gone extinct (2019)**

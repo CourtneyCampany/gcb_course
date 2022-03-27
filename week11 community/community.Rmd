@@ -50,13 +50,13 @@ output:
 
 **<span style="color:blue">How do the core responses inter-relate?</span>**
 
-<IMG STYLE="position:absolute; TOP:325px; LEFT:150px; WIDTH:800px; HEIGHT:390px" SRC="images/usgs.png">
+<IMG STYLE="position:absolute; TOP:315px; LEFT:150px; WIDTH:800px; HEIGHT:400px" SRC="images/usgs.png">
 
 ## How do the core responses inter-relate?
 <hr>
 <br/>
 
-**The core organismal responses are not mutually exclusive and may often be combined or inter-related**
+**Core organismal responses are not mutually exclusive and may often be combined or inter-related**
 
 <br/>
 
@@ -69,7 +69,7 @@ output:
 <hr>
 <br/>
 
-**The core organismal responses are not mutually exclusive and may often be combined or inter-related**
+**Core organismal responses are not mutually exclusive and may often be combined or inter-related**
 
 <br/>
 
@@ -120,7 +120,7 @@ output:
 
 <!-- <IMG STYLE="position:absolute; TOP:350px; LEFT:700px; WIDTH:400px; HEIGHT:400px" SRC="images/moveadapt.png"> -->
 
-## Natural selection is a always a moving target...
+## Natural selection is always a moving target...
 <hr>
 <br/>
 
@@ -189,6 +189,35 @@ Breeding dates are changing for Arctic squirrels. Most of this response (>60%) i
 ## 
 
 <IMG STYLE="position:absolute; TOP:50px; LEFT:50px; WIDTH:1000px; HEIGHT:600px" SRC="images/board.png">
+
+##
+
+<IMG STYLE="position:absolute; TOP:25px; LEFT:0px; WIDTH:500px; HEIGHT:300px" SRC="images/monarch2.jpg">
+
+<IMG STYLE="position:absolute; TOP:380px; LEFT:0px; WIDTH:500px; HEIGHT:300px" SRC="images/monarch.jpg">
+
+<div style="float: right; width: 50%;">
+
+**Loss of breeding habitat in N. America via land conversion to croplands**
+
+<br/>
+
+**Loss of overwintering habitat in Mexico (<5 acres)**
+
+<br/>
+
+**Climate change threatens to disrupt the monarch butterfly’s annual migration patterns via colder, wetter winters and hotter, drier summers**
+
+<br/>
+
+**Beneficial insects like monarchs and other pollinators are negatively affected by the use of pesticides to control unwanted insect and plant species**
+
+<br/>
+
+**Despite the fact that toxins from milkweed may in some ways protect them, monarchs of all life stages are vulnerable to predation and disease.**
+
+</div>
+
 
 ## 
 
