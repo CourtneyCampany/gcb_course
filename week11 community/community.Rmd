@@ -7,10 +7,10 @@ output:
     smaller: true
 ---
 
-## Course Roadmap
-<hr>
+<!-- ## Course Roadmap -->
+<!-- <hr> -->
 
-<IMG STYLE="position:absolute; TOP:160px; LEFT:100px; WIDTH:900px; HEIGHT:500px" SRC="images/course.png">
+<!-- <IMG STYLE="position:absolute; TOP:160px; LEFT:100px; WIDTH:900px; HEIGHT:500px" SRC="images/course.png"> -->
 
 ## Organismal response to global change
 <hr>
@@ -40,7 +40,7 @@ output:
 
 <IMG STYLE="position:absolute; TOP:160px; LEFT:550px; WIDTH:500px; HEIGHT:500px" SRC="images/birds2.png"> 
 
-## Unit Objective
+## Finishing Unit II
 <hr>
 <br/>
 
@@ -137,7 +137,7 @@ output:
 
 <!-- <IMG STYLE="position:absolute; TOP:160px; LEFT:700px; WIDTH:400px; HEIGHT:400px" SRC="images/adaptdie.png"> -->
 
-<IMG STYLE="position:absolute; TOP:220px; LEFT:25px; WIDTH:400px; HEIGHT:400px" SRC="images/rabbit3.png">
+<IMG STYLE="position:absolute; TOP:220px; LEFT:25px; WIDTH:420px; HEIGHT:400px" SRC="images/rabbit3.png">
 
 <IMG STYLE="position:absolute; TOP:220px; LEFT:480px; WIDTH:600px; HEIGHT:400px" SRC="images/rabbits.jpg">
 

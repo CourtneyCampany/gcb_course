@@ -1,11 +1,18 @@
 ---
-title: "Biome-Level Responses"
+title: "Ecosystem and Biome-Level Responses I"
 output: 
   ioslides_presentation:
-    css: custom2.css
+    css: custom.css
     widescreen: true
     smaller: true
 ---
+
+## Session Objective
+<hr>
+
+**Continue with understanding complex systemic responses to global change pressures**
+
+<IMG STYLE="position:absolute; TOP:220px; LEFT:125px; WIDTH:850px; HEIGHT:450px" SRC="images/model3.png">
 
 ## Global change impacts Earth's systems
 <hr>
@@ -61,7 +68,7 @@ output:
 
 <IMG STYLE="position:absolute; TOP:200px; LEFT:25px; WIDTH:600px; HEIGHT:450px" SRC="images/foodweb.png">
 
-<IMG STYLE="position:absolute; TOP:190px; LEFT:675px; WIDTH:350px; HEIGHT:450px" SRC="images/energyfood.png">
+<IMG STYLE="position:absolute; TOP:240px; LEFT:620px; WIDTH:500px; HEIGHT:350px" SRC="images/cow.jpeg">
 
 ## Global change can impact any level of energy flow
 <hr>
@@ -89,7 +96,9 @@ output:
 <hr>
 <span style="color:green">**NITROGEN**</span>
 
-<IMG STYLE="position:absolute; TOP:180px; LEFT:100px; WIDTH:900px; HEIGHT:500px" SRC="images/nitrogencycle.png">
+<IMG STYLE="position:absolute; TOP:180px; LEFT:20px; WIDTH:500px; HEIGHT:500px" SRC="images/nitro2.jpg">
+
+<IMG STYLE="position:absolute; TOP:260px; LEFT:550px; WIDTH:550px; HEIGHT:250px" SRC="images/fixation.jpeg">
 
 ## Why care about Nitrogen?
 <hr>
@@ -123,7 +132,7 @@ output:
 
 ## Got Nitrate?
 <hr>
-
+**https://earthobservatory.nasa.gov/images/44677/aquatic-dead-zones**
 <IMG STYLE="position:absolute; TOP:220px; LEFT:10px; WIDTH:550px; HEIGHT:350px" SRC="images/gulf2.jpg">
 
 <IMG STYLE="position:absolute; TOP:200px; LEFT:580px; WIDTH:550px; HEIGHT:400px" SRC="images/deadzone.jpg">
@@ -170,19 +179,19 @@ output:
 
 <IMG STYLE="position:absolute; TOP:160px; LEFT:200px; WIDTH:700px; HEIGHT:500px" SRC="images/presentcarbon.jpg">
 
-## Energy and matter movement are goverened by global cycles
-<hr>
+<!-- ## Energy and matter movement are goverened by global cycles -->
+<!-- <hr> -->
 
-<IMG STYLE="position:absolute; TOP:180px; LEFT:20px; WIDTH:450px; HEIGHT:450px" SRC="images/sulfur2.jpg">
+<!-- <IMG STYLE="position:absolute; TOP:180px; LEFT:20px; WIDTH:450px; HEIGHT:450px" SRC="images/sulfur2.jpg"> -->
 
-<IMG STYLE="position:absolute; TOP:180px; LEFT:530px; WIDTH:600px; HEIGHT:400px" SRC="images/phosnatural.jpg">
+<!-- <IMG STYLE="position:absolute; TOP:180px; LEFT:530px; WIDTH:600px; HEIGHT:400px" SRC="images/phosnatural.jpg"> -->
 
-## Global change alters these cycles too
-<hr>
+<!-- ## Global change alters these cycles too -->
+<!-- <hr> -->
 
-<IMG STYLE="position:absolute; TOP:180px; LEFT:50px; WIDTH:450px; HEIGHT:450px" SRC="images/sulfur.jpg">
+<!-- <IMG STYLE="position:absolute; TOP:180px; LEFT:50px; WIDTH:450px; HEIGHT:450px" SRC="images/sulfur.jpg"> -->
 
-<IMG STYLE="position:absolute; TOP:180px; LEFT:550px; WIDTH:450px; HEIGHT:450px" SRC="images/phoshuman.png">
+<!-- <IMG STYLE="position:absolute; TOP:180px; LEFT:550px; WIDTH:450px; HEIGHT:450px" SRC="images/phoshuman.png"> -->
 
 ## Why does global biogeochemistry matter?
 <hr>

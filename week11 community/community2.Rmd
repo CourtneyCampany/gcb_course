@@ -299,3 +299,6 @@ output:
 
 **<span style="color:blue">Submit an short paragraph of your conclusions to Brightspace for participation</span>**
 
+##
+
+<IMG STYLE="position:absolute; TOP:50px; LEFT:250px; WIDTH:450px; HEIGHT:600px" SRC="images/WinningPicture.jpg">

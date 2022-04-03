@@ -1,18 +1,11 @@
 ---
-title: "Ecosystem-Level Responses to Global Change"
+title: "Ecosystem and Biome-Level Responses II"
 output: 
   ioslides_presentation:
-    css: custom.css
+    css: custom2.css
     widescreen: true
     smaller: true
 ---
-
-## Session Objective
-<hr>
-
-**Continue with understanding complex systemic responses to global change pressures**
-
-<IMG STYLE="position:absolute; TOP:220px; LEFT:125px; WIDTH:850px; HEIGHT:450px" SRC="images/model3.png">
 
 ## Large-scale earth system impacts
 <hr>
