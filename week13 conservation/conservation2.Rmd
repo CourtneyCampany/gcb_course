@@ -7,152 +7,146 @@ output:
     smaller: true
 ---
 
-## Session Objective
+## Today's goal
 <hr>
+<br/>
 
-**Continue with understanding complex systemic responses to global change pressures**
+**<div align="center">
+<span style="color:red">Explore one small slice of Conservation Ethics</span>**
 
-<IMG STYLE="position:absolute; TOP:220px; LEFT:125px; WIDTH:850px; HEIGHT:450px" SRC="images/model3.png">
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
 
-## Large-scale earth system impacts
-<hr>
-**<span style="color:red">Changes across levels are all happening at the same time</span>**
+**Explore the spectrum of possible actions for restoration focusing on examples of wildlife reintroductions**
 
 <br/>
 
-**<span style="color:blue">Ecosystem structure</span>: abundance & distribution of species & resources**
-
-<IMG STYLE="position:absolute; TOP:260px; LEFT:100px; WIDTH:900px; HEIGHT:400px" SRC="images/structure.jpeg">
-
-## Large-scale earth system impacts
-<hr>
-
-**<span style="color:red">Changes across levels are all happening at the same time</span>**
-
-<br/>
-
-**<span style="color:blue">Ecosystem structure</span>: abundance & distribution of species & resources**
-
-<div style="float: left; width: 52%;">
-
-<br/>
-
-**<span style="color:blue">Ecosystem function</span>: physical, chemical, & biological processes**
-
-<br/>
-
-**<span style="color:blue">Ecosystem services</span>: processes & products that benefit humans**
-
+**(being with uncomfortable choices)**
 </div>
 
-<IMG STYLE="position:absolute; TOP:300px; LEFT:560px; WIDTH:550px; HEIGHT:300px" SRC="images/functions.png">
+<IMG STYLE="position:absolute; TOP:220px; LEFT:350px; WIDTH:350px; HEIGHT:200px" SRC="images/ethics.png">
 
-## Feedbacks: when a process/system is modified by its own effects
+## Chat
 <hr>
 <br/>
 <br/>
+
+**Do we have an ecological and/or ethical obligation to restore (at least some) ecological communities that we directly disturbed?**
+
+<br/>
+<br/>
+<br/>
+<br/>
+
+**yes**
+<br/>
+**no**
+<br/>
+**I'm not sure how I feel about this**
+
+<IMG STYLE="position:absolute; TOP:260px; LEFT:200px; WIDTH:500px; HEIGHT:400px" SRC="images/mouse.jpg">
+
+## Thought experiment
+<hr>
 <br/>
 <br/>
 
 <div style="float: left; width: 49%;">
 
-**<span style="color:red">Positive feedback loops</span>= where response increases  stimulus** 
-
-<br/>
-<br/>
-
-**Common and lead to amplification of climate change and biodiversity loss**
+**<span style="color:blue">Imagine that an ecologically important species (e.g., a key predator or an ecosystem engineer) has very recently been lost from a local community. The loss is clearly caused by humans (e.g., over-hunting or over-harvest)</span>**
 
 </div>
 
-<IMG STYLE="position:absolute; TOP:160px; LEFT:550px; WIDTH:500px; HEIGHT:500px" SRC="images/feedback.png"> 
+<IMG STYLE="position:absolute; TOP:250px; LEFT:550px; WIDTH:500px; HEIGHT:400px" SRC="images/mouse2.jpg">
 
-## Feedbacks: when a process/system is modified by its own effects
+## Chat
 <hr>
-<br/>
-<br/>
 <br/>
 <br/>
 
 <div style="float: left; width: 49%;">
 
-**<span style="color:red">Positive feedback loops</span>= where response increases  stimulus** 
+**All else being equal, should we reintroduce the ecologically important endemic species that was recently extirpated if it is still found nearby? ** 
 
 <br/>
 <br/>
+<br/>
+<br/>
 
-**Common and lead to amplification of climate change and biodiversity loss**
+**yes**
+<br/>
+**no**
+<br/>
+**I'm not sure how I feel about this**
 
-</div>
+<IMG STYLE="position:absolute; TOP:260px; LEFT:200px; WIDTH:500px; HEIGHT:400px" SRC="images/mouse.jpg">
 
-<IMG STYLE="position:absolute; TOP:160px; LEFT:550px; WIDTH:500px; HEIGHT:500px" SRC="images/artic.png"> 
-
-## Feedbacks: when a process/system is modified by its own effects
+## Translocations
 <hr>
 <br/>
-<br/>
-<br/>
-<br/>
 
-<div style="float: left; width: 49%;">
+**This is a basic translocation and it is a commonly used approach in biodiversity management.**
 
-**<span style="color:red">Positive feedback loops</span>= where response increases  stimulus** 
+<IMG STYLE="position:absolute; TOP:220px; LEFT:250px; WIDTH:550px; HEIGHT:400px" SRC="images/translocation.jpg"> 
 
-<br/>
-<br/>
-
-**Common and lead to amplification of climate change and biodiversity loss**
-
-</div>
-
-<IMG STYLE="position:absolute; TOP:160px; LEFT:550px; WIDTH:500px; HEIGHT:500px" SRC="images/bog.png"> 
-
-## Feedbacks: when a process/system is modified by its own effects
+## Translocations
 <hr>
 <br/>
-**<span style="color:red">Positive feedback loops</span>: <span style="color:darkorange">Abiotic</span> and biotic feedbacks from deforestation** 
 
-<div style="float: right; width: 45%;">
+**Translocations can be data-driven to ensure a match between donor and recipient populations**
 
-<br/>
-<br/>
-<br/>
-<br/>
+<IMG STYLE="position:absolute; TOP:200px; LEFT:50px; WIDTH:1000px; HEIGHT:400px" SRC="images/paper.png"> 
+
+## Translocations
+<hr>
 <br/>
 
-**Deforestation releases carbon sequestered in trees contributing to global warming. In turn…**
-
-</div>
+**Even within-species translocations or reintroductions can be highly controversial**
 
 <IMG STYLE="position:absolute; TOP:240px; LEFT:50px; WIDTH:500px; HEIGHT:350px" SRC="images/forestfire.png"> 
 
+## Translocations
+<hr>
+
+<IMG STYLE="position:absolute; TOP:300px; LEFT:100px; WIDTH:900px; HEIGHT:500px" SRC="images/frogcoyotes.png"> 
+
 ## Feedbacks: when a process/system is modified by its own effects
 <hr>
 <br/>
 
-**<span style="color:red">Positive feedback loops</span>: <span style="color:darkorange">Abiotic</span> and biotic feedbacks from deforestation**
+<div style="float: right; width: 49%;">
 
-<IMG STYLE="position:absolute; TOP:300px; LEFT:0px; WIDTH:1100px; HEIGHT:200px" SRC="images/fireeffect.png"> 
+* **Wolves hunted to near extinction**
 
-## Feedbacks: when a process/system is modified by its own effects
-<hr>
 <br/>
 
-**<span style="color:red">Positive feedback loops</span>: Abiotic and <span style="color:darkorange">biotic</span> feedbacks from deforestation** 
+* **Decreased predation had catastrophic cascading effects**
+
+<br/>
+
+* **Last known wild gray wolves captured in 1980**
+
+<br/>
+
+* **Intensive captive breeding brought back from brink of extinction **
+
+<br/>
+
+* **Now hundreds of individuals throughout the western US**
 
 
-<IMG STYLE="position:absolute; TOP:250px; LEFT:50px; WIDTH:500px; HEIGHT:350px" SRC="images/logging.jpg"> 
 
 <div style="float: right; width: 45%;">
 
 <br/>
 <br/>
 
-**Habitat loss has direct *negative* effects like removing organisms but also has *cascading* effects by facilitating invasions, allowing increased access to hunters, changing fire regimes, etc...**
-
-<br/>
-
-**…particularly true when habitat loss and fragmentation are combined**
+**But also tons of controversy with concerns about the impacts of wolf populations on livestock, and deer/elk hunting**
 
 </div>
 

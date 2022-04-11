@@ -37,7 +37,7 @@ output:
 
 ## What is the grand conservation challenge?
 <hr>
-<br/>
+**https://conservationxlabs.com/grand-challenges**
 <br/>
 
 - **<span style="color:blue">Preserve biological diversity</span>**
@@ -50,7 +50,7 @@ output:
 
 ## What is the grand conservation challenge?
 <hr>
-<br/>
+**https://conservationxlabs.com/grand-challenges**
 <br/>
 
 - **<span style="color:blue">Preserve biological diversity</span>**
@@ -68,7 +68,7 @@ output:
 
 ## What is the grand conservation challenge?
 <hr>
-<br/>
+**https://conservationxlabs.com/grand-challenges**
 <br/>
 
 - **<span style="color:blue">Preserve biological diversity</span>**
@@ -138,7 +138,7 @@ output:
 
 <IMG STYLE="position:absolute; TOP:300px; LEFT:650px; WIDTH:250px; HEIGHT:200px" SRC="images/oprah.jpg">
 
-## Say we decide to prioritize my favorite species
+## Say we decide to prioritize a favorite species
 <hr>
 
 **Of the ~6,500 known amphibians more than 1/3 are threatened with extinction (IUCN Red List)**
@@ -147,15 +147,15 @@ output:
 <br/>
 <br/>
 
-<span style="color:darkred">**Which should we prioritize?**</span>
+<span style="color:darkblue">**Which should we prioritize?**</span>
 
 <IMG STYLE="position:absolute; TOP:180px; LEFT:500px; WIDTH:450px; HEIGHT:300px" SRC="images/frogendanger.png">
 
 <IMG STYLE="position:absolute; TOP:500px; LEFT:50px; WIDTH:1000px; HEIGHT:150px" SRC="images/frog2.png">
 
-## Say we decide to prioritize my favorite species
+## Say we decide to prioritize a favorite species
 <hr>
-<span style="color:red">**Several tracktable interventions but each is costly...**</span>
+<span style="color:red">**Yellow-legged mountain frog: Several tracktable interventions but each is costly...**</span>
 
 <IMG STYLE="position:absolute; TOP:200px; LEFT:225px; WIDTH:650px; HEIGHT:450px" SRC="images/savefrog.png">
 
@@ -181,13 +181,13 @@ output:
 <br/>
 * **Probiotic treatments**
 <br/>
-* **Addressing other threats**
+* **Addressing the threat**
 <br/>
 * **Legislation**
 
 <IMG STYLE="position:absolute; TOP:160px; LEFT:800px; WIDTH:250px; HEIGHT:500px" SRC="images/treatments.png">
 
-<IMG STYLE="position:absolute; TOP:300px; LEFT:300px; WIDTH:300px; HEIGHT:175px" SRC="images/savefrog2.jpg">
+<IMG STYLE="position:absolute; TOP:300px; LEFT:360px; WIDTH:300px; HEIGHT:175px" SRC="images/savefrog2.jpg">
 
 ## Defining priorities for conservation
 <hr>
@@ -201,7 +201,7 @@ output:
 
 ## Defining priorities for conservation
 <hr>
-**<span style="color:darkred">Example</span>: reserve selection algorithms: computer algorithms that apply biodiversity optimization rules**
+**<span style="color:darkred">Example</span>:   selection algorithms: computer algorithms that apply biodiversity optimization rules**
 
 <div style="float: right; width: 60%;">
 <br/>
@@ -231,12 +231,12 @@ output:
 
 <br/>
 
-**Then adds a weight to this score based on IUCN red list risk of extinction.****
+**Then adds a weight to this score based on IUCN red list risk of extinction.**
 </div>
 
 <IMG STYLE="position:absolute; TOP:450px; LEFT:50px; WIDTH:350px; HEIGHT:200px" SRC="images/edge.png">
 
-<IMG STYLE="position:absolute; TOP:200px; LEFT:525px; WIDTH:525px; HEIGHT:450px" SRC="images/lemur.png">
+<IMG STYLE="position:absolute; TOP:200px; LEFT:545px; WIDTH:525px; HEIGHT:450px" SRC="images/lemur.png">
 
 ## Defining priorities for conservation
 <hr>
@@ -273,7 +273,12 @@ output:
 <div style="float: right; width: 52%;">
 
 **For example, like closing dive tourism in coral reefs during heavy storm seasons**
+<br/>
 
+**vs**
+<br/>
+
+**Building wildlife corridors to cross highways**
 </div>
 
 <IMG STYLE="position:absolute; TOP:280px; LEFT:20px; WIDTH:450px; HEIGHT:300px" SRC="images/scuba.jpg">

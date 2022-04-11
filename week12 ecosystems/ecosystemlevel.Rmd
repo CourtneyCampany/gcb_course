@@ -44,8 +44,6 @@ output:
 <hr>
 <br/>
 <br/>
-<br/>
-<br/>
 
 <div style="float: left; width: 49%;">
 
@@ -55,6 +53,16 @@ output:
 <br/>
 
 **Common and lead to amplification of climate change and biodiversity loss**
+
+<br/>
+<br/>
+
+**Effects can be on structure and/or function**
+
+<br/>
+<br/>
+
+**Despite the name, this is NOT a good thing**
 
 </div>
 
@@ -199,12 +207,12 @@ output:
 
 <IMG STYLE="position:absolute; TOP:240px; LEFT:150px; WIDTH:800px; HEIGHT:400px" SRC="images/resilence.jpg">
 
-## Resilience and restoration
-<hr>
+<!-- ## Resilience and restoration -->
+<!-- <hr> -->
 
-**<span style="color:blue">Many factors contribute to resilience and potential for restoration </span>(use Taking a Closer Look & Chap 4 “Vulnerability” section as a study guide)**
+<!-- **<span style="color:blue">Many factors contribute to resilience and potential for restoration </span>(use Taking a Closer Look & Chap 4 “Vulnerability” section as a study guide)** -->
 
-<IMG STYLE="position:absolute; TOP:240px; LEFT:250px; WIDTH:600px; HEIGHT:400px" SRC="images/vulnerable.png">
+<!-- <IMG STYLE="position:absolute; TOP:240px; LEFT:250px; WIDTH:600px; HEIGHT:400px" SRC="images/vulnerable.png"> -->
 
 ## Resilience and restoration
 <hr>
@@ -286,23 +294,28 @@ output:
 
 ## Earth's systems are nested...and vulnerable 
 <hr>
+
 <span style="color:darkred">**Ecological and evolutionary interconnectedness across all nested levels from cellular to planetary**</span>
 
 <br/>
+<br/>
+<br/>
+
+<div style="float: left; width: 50%;">
 
 **Coordinated networked interdependent systems**
 
 <br/>
 
 **Resulting from deep  symbiosis + co-evolution**
+</div>
 
+<IMG STYLE="position:absolute; TOP:200px; LEFT:625px; WIDTH:400px; HEIGHT:450px" SRC="images/lungs.jpg">
 
-<IMG STYLE="position:absolute; TOP:240px; LEFT:525px; WIDTH:500px; HEIGHT:450px" SRC="images/lungs.png">
+<!-- ## Nested ecosystems -->
+<!-- <hr> -->
 
-## Nested ecosystems
-<hr>
-
-<IMG STYLE="position:absolute; TOP:160px; LEFT:100px; WIDTH:900px; HEIGHT:500px" SRC="images/interactions.png">
+<!-- <IMG STYLE="position:absolute; TOP:160px; LEFT:200px; WIDTH:700px; HEIGHT:500px" SRC="images/nest2.jpg"> -->
 
 ## Open disccussion: Is there a solution for our disconnectedness?
 <hr>

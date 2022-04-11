@@ -7,12 +7,12 @@ output:
     smaller: true
 ---
 
-## Session Objective
-<hr>
+<!-- ## Session Objective -->
+<!-- <hr> -->
 
-**Continue with understanding complex systemic responses to global change pressures**
+<!-- **Continue with understanding complex systemic responses to global change pressures** -->
 
-<IMG STYLE="position:absolute; TOP:220px; LEFT:125px; WIDTH:850px; HEIGHT:450px" SRC="images/model3.png">
+<!-- <IMG STYLE="position:absolute; TOP:220px; LEFT:125px; WIDTH:850px; HEIGHT:450px" SRC="images/model3.png"> -->
 
 ## Global change impacts Earth's systems
 <hr>
