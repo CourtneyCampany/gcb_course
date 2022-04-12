@@ -1,8 +1,8 @@
 ---
-title: "Ecosystem-Level Responses to Global Change"
+title: "Thinking deeper about conservation"
 output: 
   ioslides_presentation:
-    css: custom.css
+    css: custom2.css
     widescreen: true
     smaller: true
 ---
@@ -11,9 +11,11 @@ output:
 <hr>
 <br/>
 
-**<div align="center">
-<span style="color:red">Explore one small slice of Conservation Ethics</span>**
+<div align="center">
+**<span style="color:red">Explore one small slice of Conservation Ethics</span>**
 
+<br/>
+<br/>
 <br/>
 <br/>
 <br/>
@@ -29,14 +31,14 @@ output:
 **(being with uncomfortable choices)**
 </div>
 
-<IMG STYLE="position:absolute; TOP:220px; LEFT:350px; WIDTH:350px; HEIGHT:200px" SRC="images/ethics.png">
+<IMG STYLE="position:absolute; TOP:225px; LEFT:350px; WIDTH:350px; HEIGHT:200px" SRC="images/ethics.jpg">
 
 ## Chat
 <hr>
 <br/>
 <br/>
 
-**Do we have an ecological and/or ethical obligation to restore (at least some) ecological communities that we directly disturbed?**
+**<span style="color:blue">Do we have an ecological and/or ethical obligation to restore (at least some) ecological communities that we directly disturbed?</span>**
 
 <br/>
 <br/>
@@ -49,20 +51,24 @@ output:
 <br/>
 **I'm not sure how I feel about this**
 
-<IMG STYLE="position:absolute; TOP:260px; LEFT:200px; WIDTH:500px; HEIGHT:400px" SRC="images/mouse.jpg">
+<IMG STYLE="position:absolute; TOP:260px; LEFT:550px; WIDTH:500px; HEIGHT:400px" SRC="images/mouse.jpg">
 
 ## Thought experiment
 <hr>
 <br/>
 <br/>
+<br/>
+<br/>
+<br/>
+<br/>
 
 <div style="float: left; width: 49%;">
 
-**<span style="color:blue">Imagine that an ecologically important species (e.g., a key predator or an ecosystem engineer) has very recently been lost from a local community. The loss is clearly caused by humans (e.g., over-hunting or over-harvest)</span>**
+**Imagine that an ecologically important species (e.g., a key predator or an ecosystem engineer) has very recently been lost from a local community. The loss is clearly caused by humans (e.g., over-hunting or over-harvest)**
 
 </div>
 
-<IMG STYLE="position:absolute; TOP:250px; LEFT:550px; WIDTH:500px; HEIGHT:400px" SRC="images/mouse2.jpg">
+<IMG STYLE="position:absolute; TOP:240px; LEFT:550px; WIDTH:500px; HEIGHT:400px" SRC="images/mouse2.jpg">
 
 ## Chat
 <hr>
@@ -71,7 +77,7 @@ output:
 
 <div style="float: left; width: 49%;">
 
-**All else being equal, should we reintroduce the ecologically important endemic species that was recently extirpated if it is still found nearby? ** 
+**<span style="color:blue">All else being equal, should we reintroduce the ecologically important endemic species that was recently extirpated if it is still found nearby?</span>** 
 
 <br/>
 <br/>
@@ -84,7 +90,7 @@ output:
 <br/>
 **I'm not sure how I feel about this**
 
-<IMG STYLE="position:absolute; TOP:260px; LEFT:200px; WIDTH:500px; HEIGHT:400px" SRC="images/mouse.jpg">
+<IMG STYLE="position:absolute; TOP:230px; LEFT:550px; WIDTH:500px; HEIGHT:400px" SRC="images/mouse.jpg">
 
 ## Translocations
 <hr>
@@ -92,7 +98,7 @@ output:
 
 **This is a basic translocation and it is a commonly used approach in biodiversity management.**
 
-<IMG STYLE="position:absolute; TOP:220px; LEFT:250px; WIDTH:550px; HEIGHT:400px" SRC="images/translocation.jpg"> 
+<IMG STYLE="position:absolute; TOP:240px; LEFT:250px; WIDTH:550px; HEIGHT:400px" SRC="images/translocation.jpg"> 
 
 ## Translocations
 <hr>
@@ -100,26 +106,21 @@ output:
 
 **Translocations can be data-driven to ensure a match between donor and recipient populations**
 
-<IMG STYLE="position:absolute; TOP:200px; LEFT:50px; WIDTH:1000px; HEIGHT:400px" SRC="images/paper.png"> 
+<IMG STYLE="position:absolute; TOP:230px; LEFT:50px; WIDTH:1000px; HEIGHT:430px" SRC="images/paper.png"> 
 
 ## Translocations
 <hr>
 <br/>
 
-**Even within-species translocations or reintroductions can be highly controversial**
+**Even within-species translocations or re-introductions can be highly controversial**
 
-<IMG STYLE="position:absolute; TOP:240px; LEFT:50px; WIDTH:500px; HEIGHT:350px" SRC="images/forestfire.png"> 
+<IMG STYLE="position:absolute; TOP:225 px; LEFT:150px; WIDTH:800px; HEIGHT:450px" SRC="images/frogcoyote.png"> 
 
 ## Translocations
 <hr>
-
-<IMG STYLE="position:absolute; TOP:300px; LEFT:100px; WIDTH:900px; HEIGHT:500px" SRC="images/frogcoyotes.png"> 
-
-## Feedbacks: when a process/system is modified by its own effects
-<hr>
 <br/>
 
-<div style="float: right; width: 49%;">
+<div style="float: left; width: 49%;">
 
 * **Wolves hunted to near extinction**
 
@@ -139,191 +140,287 @@ output:
 
 * **Now hundreds of individuals throughout the western US**
 
-
+</div>
 
 <div style="float: right; width: 45%;">
 
 <br/>
 <br/>
 
-**But also tons of controversy with concerns about the impacts of wolf populations on livestock, and deer/elk hunting**
+<span style="color:blue">**But also tons of controversy with concerns about the impacts of wolf populations on livestock, and deer/elk hunting**</span>
 
 </div>
 
-## 
+<IMG STYLE="position:absolute; TOP:350px; LEFT:600px; WIDTH:350px; HEIGHT:200px" SRC="images/coyoteonly.png">
 
-<IMG STYLE="position:absolute; TOP:50px; LEFT:50px; WIDTH:1000px; HEIGHT:600px" SRC="images/logging2.png">
+##
 
-## Feedbacks: when a process/system is modified by its own effects
+<IMG STYLE="position:absolute; TOP:50px; LEFT:50px; WIDTH:1000px; HEIGHT:600px" SRC="images/wolves3.png">
+
+## Translocations
 <hr>
-
-**<span style="color:red">Positive feedback loops</span>: Abiotic and <span style="color:darkorange">biotic</span> feedbacks from deforestation** 
-
-<IMG STYLE="position:absolute; TOP:240px; LEFT:50px; WIDTH:1000px; HEIGHT:400px" SRC="images/habitatfrag.png">
-
-## Feedbacks: when a process/system is modified by its own effects
-<hr>
-
-**<span style="color:red">Negative feedback loops</span>: why we don’t talk about them much from a GCB perspective**
-
-<IMG STYLE="position:absolute; TOP:240px; LEFT:40px; WIDTH:1000px; HEIGHT:400px" SRC="images/Picture1.png">
-
-## Threshold effects
-<hr>
-
-**<span style="color:red">Positive feedbacks and cascading effects can lead to tipping points and ecosystem collapse</span>**
-
 <br/>
-**Which can be reversible, partially reversible, or irreversible**
-
-<IMG STYLE="position:absolute; TOP:260px; LEFT:250px; WIDTH:600px; HEIGHT:440px" SRC="images/tipping.png">
-
-## Threshold effects
-<hr>
-
-**<span style="color:red">Threshold effects can occur at many levels from…</span>**
-
-<IMG STYLE="position:absolute; TOP:240px; LEFT:100px; WIDTH:900px; HEIGHT:400px" SRC="images/threshold.png">
-
-## Threshold effects
-<hr>
-
-**<span style="color:red">Restoration always involves addressing the prior threats </span>**
-
-<IMG STYLE="position:absolute; TOP:240px; LEFT:200px; WIDTH:700px; HEIGHT:400px" SRC="images/cod.png">
-
-## Resilience and restoration
-<hr>
-
-**<span style="color:blue">Many factors contribute to resilience and potential for restoration </span>(use Taking a Closer Look as a study guide)**
-
-
-<IMG STYLE="position:absolute; TOP:240px; LEFT:150px; WIDTH:800px; HEIGHT:400px" SRC="images/resilence.jpg">
-
-## Resilience and restoration
-<hr>
-
-**<span style="color:blue">Many factors contribute to resilience and potential for restoration </span>(use Taking a Closer Look & Chap 4 “Vulnerability” section as a study guide)**
-
-<IMG STYLE="position:absolute; TOP:240px; LEFT:250px; WIDTH:600px; HEIGHT:400px" SRC="images/vulnerable.png">
-
-## Resilience and restoration
-<hr>
-
-**<span style="color:blue">Different elements of vulnerability</span>: The degree to which a species or system is susceptible to adverse effects of global change is a function of:**
-
 <br/>
-<div style="float: left; width: 75%;">
+<br/>
 
-* **<span style="color:darkred">Exposure</span>: Likelihood system will experience a given stressor**
-    + How big & quickly is the change occurring?
-    + Are there lag effects? 
-    + Is the system exposed or buffered?
+<div style="float: left; width: 50%;">
+
+**Controversy can be even greater when the predator has been gone from the ecosystem for longer, when there is less open space, and when the predator inspires more fear in humans** 
 
 <br/>
 
-* **<span style="color:darkred">Sensitivity</span>: Degree the system will be impacted by a given stressor**
-    + Is the system fragile or robust?
-    + Are there highly specialized species or obligate interactions?
-
-<br/>
-
-* **<span style="color:darkred">Response</span>: Ability of a system to respond to a given stressor**
-    + Which core responses do species exhibit?
-    + Can communities reorganize into a new stable state?
+<span style="color:blue">**For example, possibility of reintroducing cougars to East Coast**</span>
 
 </div>
 
-<IMG STYLE="position:absolute; TOP:480px; LEFT:870px; WIDTH:200px; HEIGHT:200px" SRC="images/hammer.png">
+<IMG STYLE="position:absolute; TOP:200px; LEFT:590px; WIDTH:500px; HEIGHT:400px" SRC="images/cougar.png">
 
-## Connecting the dots: true interconnectedness
+## Thought experiment
+<hr>
+<br/>
+
+**But what if there aren’t any other extant populations of the species we want to restore?** 
+
+
+<IMG STYLE="position:absolute; TOP:240px; LEFT:100px; WIDTH:900px; HEIGHT:450px" SRC="images/extinct.png">
+
+## Translocations
+<hr>
+<br/>
+
+**<span style="color:red">Can we justify translocating close relatives</span>**
+
+<IMG STYLE="position:absolute; TOP:240px; LEFT:50px; WIDTH:1000px; HEIGHT:450px" SRC="images/mouse3.png">
+
+## Thought experiment
 <hr>
 <br/>
 <br/>
 
-- **<span style="color:darkred">Our</span> <span style="color:darkorange">systems</span> are out of balance**
-    + Earth systems
-    + Our own body systems
-    + Many of our socio-political-cultural systems
-
-<br/>
-<br/>
-<br/>
-<br/>
-
-**Premise that all systems are out of balance in shared ways**
+**<span style="color:red">But what if a close relative isn’t an option?</span>**
 
 <br/>
 
-**We extract and deplete without giving time and energy to the process of recharge and restoration**
+**All else being equal, should we introduce an ecological analog of that species that isn’t endemic to the community but is surviving in a similar ecosystem elsewhere in the world? **
 
-<IMG STYLE="position:absolute; TOP:180px; LEFT:700px; WIDTH:250px; HEIGHT:350px" SRC="images/balance.jpg">
+<br/>
+<br/>
 
-## Connecting the dots: college classrooms
+**yes**
+<br/>
+**no**
+<br/>
+**I'm not sure how I feel about this**
+
+## Taxon substitution
 <hr>
 <br/>
 
-<div style="float: left; width: 70%;">
-
-* **<span style="color:darkred">Higher education has long prioritized:</span>**
-    + Content over context
-    + Facts over wisdom
-    + Competition over cooperation
-    + Grades over reflection
- 
-<br/>
-
-**The consequence is that the system runs on fear, lack, and depletion and can suck you dry**
+**<span style="color:blue">Taxon substitutions:</span> Reintroducing an ecological analog to restore ecosystems, reduce secondary extinctions, and avoid other cascading effects.**
 
 <br/>
+<br/>
 
-* **This class design fights this style, but it is not enough...**
-    + you are still pressured, stressed and running on empty
+<div style="float: left; width: 45%;">
+
+**Example, in the Galapagos, following extinction of Pinta Tortoises, Saddleback and Domed tortoises were released to fill the “empty niche” and help with seed dispersal.**
+
 </div>
 
-<IMG STYLE="position:absolute; TOP:320px; LEFT:820px; WIDTH:250px; HEIGHT:350px" SRC="images/proverb.jpg">
+<IMG STYLE="position:absolute; TOP:240px; LEFT:550px; WIDTH:450px; HEIGHT:400px" SRC="images/turtles.png">
 
-<IMG STYLE="position:absolute; TOP:170px; LEFT:500px; WIDTH:300px; HEIGHT:200px" SRC="images/student.jpg">
-
-## Earth's systems are nested...and vulnerable 
-<hr>
-<span style="color:darkred">**Ecological and evolutionary interconnectedness across all nested levels from cellular to planetary**</span>
-
-<br/>
-
-**Coordinated networked interdependent systems**
-
-<br/>
-
-**Resulting from deep  symbiosis + co-evolution**
-
-
-<IMG STYLE="position:absolute; TOP:240px; LEFT:525px; WIDTH:500px; HEIGHT:450px" SRC="images/lungs.png">
-
-## Nested ecosystems
-<hr>
-
-<IMG STYLE="position:absolute; TOP:160px; LEFT:100px; WIDTH:900px; HEIGHT:500px" SRC="images/interactions.png">
-
-## Open disccussion: Is there a solution for our disconnectedness?
+## Taxon substitution
 <hr>
 <br/>
 
-<div style="float: left; width: 60%;">
-
-**What would an alternate model be for <span style="color:darkred">resilience</span> and <span style="color:darkred">restoration</span>?**
+**But even seemingly similar species are not interchangeable as ecological replacements…**
 
 <br/>
-
-**How could we create a new system (on both visionary and practical levels) that prioritizes the values and approaches that we will need to create a more life-sustaining society?**
-
 <br/>
 
-**How could models like these inform our work in other contexts?**
+<div style="float: left; width: 45%;">
 
-<br/>
+**<span style="color:blue">Niche differentiation</span> between saddleback (in gray) and domed (in black) tortoises introduced to Pinta **
 
-**Find an article or come up with a solution, post to Brightspace**
 </div>
 
-<IMG STYLE="position:absolute; TOP:220px; LEFT:650px; WIDTH:350px; HEIGHT:350px" SRC="images/world.jpg">
+<IMG STYLE="position:absolute; TOP:220px; LEFT:550px; WIDTH:500px; HEIGHT:450px" SRC="images/turtle2.png">
+
+## Taxon substitution
+<hr>
+<br/>
+
+<div style="float: left; width: 45%;">
+
+**And how far away (in terms of geography or relatedness) is too far?**
+
+<br/>
+<br/>
+
+
+**For example, should we introduce ecological analogs from Africa to the US?**
+
+</div>
+
+<IMG STYLE="position:absolute; TOP:150px; LEFT:600px; WIDTH:400px; HEIGHT:300px" SRC="images/gazelle.png">
+
+## Taxon substitution
+<hr>
+<br/>
+
+<div style="float: left; width: 45%;">
+
+**And how far away (in terms of geography or relatedness) is too far?**
+
+<br/>
+<br/>
+
+
+**For example, should we introduce ecological analogs from Africa to the US?**
+
+<br/>
+
+**How about their predators?**
+
+</div>
+
+<IMG STYLE="position:absolute; TOP:150px; LEFT:600px; WIDTH:400px; HEIGHT:600px" SRC="images/gazellelion.png">
+
+<IMG STYLE="position:absolute; TOP:420px; LEFT:50px; WIDTH:450px; HEIGHT:200px" SRC="images/papertitle.png">
+
+## Taxon substitution
+<hr>
+<br/>
+<br/>
+
+
+<span style="color:blue">**In the extreme, we could be bringing back mammoths or dinosaurs?</span>**
+
+<br/>
+<br/>
+
+<div style="float: left; width: 45%;">
+
+**IF we can resurrect species, why don’t we just bring back the species that went extinct and not fuss about taxon substitutions**
+
+</div>
+
+<IMG STYLE="position:absolute; TOP:260px; LEFT:550px; WIDTH:450px; HEIGHT:300px" SRC="images/jpark2.jpg">
+
+## Thought experiment
+<hr>
+<br/>
+<br/>
+
+<span style="color:blue">**All else being equal, should we bring back an extinct species that was *recently* lost and re-introduce it to its original community?**</span>
+
+<br/>
+<br/>
+
+**yes**
+<br/>
+**no**
+<br/>
+**I'm not sure how I feel about this**
+
+## De-extinction
+<hr>
+<br/>
+
+**Death of “Sudan” last male of his subspecies**
+
+<IMG STYLE="position:absolute; TOP:225px; LEFT:50px; WIDTH:1000px; HEIGHT:450px" SRC="images/rhino2.png">
+
+## De-extinction
+<hr>
+<br/>
+
+**Two remaining females (his daughter & granddaughter)**
+
+<IMG STYLE="position:absolute; TOP:225px; LEFT:50px; WIDTH:1000px; HEIGHT:450px" SRC="images/rhino3.png">
+
+## De-extinction
+<hr>
+<br/>
+
+**“There still might be hope, however, for the northern white rhino. Scientists have saved some of Sudan’s genetic material, and they hope to use in-vitro fertilization to bring the subspecies back. They’ll have to use a southern white rhino as a surrogate, Vitale said, but they like their chances.”**
+
+<IMG STYLE="position:absolute; TOP:280px; LEFT:300px; WIDTH:550px; HEIGHT:350px" SRC="images/dna.png">
+
+## De-extinction
+<hr>
+<br/>
+
+**<span style="color:blue">De-extinction</span>: Process of resurrecting a species (or a functional proxy of that species) that has died out. Typically proposed to be accomplished by:**
+
+<br/>
+<br/>
+
+* **<span style="color:blue">In-vitro Fertilization</span> : produce embryos in the lab and use a surrogate for gestation**
+
+<br/>
+
+* **<span style="color:blue">Selective Breeding</span> : artificial selection on living relative to produce desired traits**
+
+<br/>
+
+* **<span style="color:blue">Cloning</span> : grow new individual from genetic material of a single parent (transferred to modified egg cell)**
+
+<br/>
+
+* **<span style="color:blue">Genome editing</span> : making targeted changes to the genome of a close relative**
+
+## From Dolly to De-extinction
+<hr>
+**“The researchers who brought back the bucardo stated that only two things stand between them and a whole herd of healthy de-extinct bucardo: time and money”**
+
+<IMG STYLE="position:absolute; TOP:220px; LEFT:0px; WIDTH:1100px; HEIGHT:450px" SRC="images/dolly.png">
+
+## From Dolly to De-extinction
+<hr>
+
+<IMG STYLE="position:absolute; TOP:160px; LEFT:50px; WIDTH:1000px; HEIGHT:500px" SRC="images/mammoth.png">
+
+## From Dolly to De-extinction
+<hr>
+<br/>
+
+**<span style="color:blue">BBC Helen Pilcher: “For the last few years, Church and his team have been carefully placing mammoth genes into the cells of Asian elephants, woolly mammoths' closest living relatives… Church's team have made 45 changes to the elephant genome. They are moving closer to their goal of "mammoth-ifying" an elephant cell…</span>**
+
+<br/>
+
+**But they may have a long way to go. A 2015 study compared the woolly mammoth genome with that of living Asian elephants, and identified changes in 1,642 genes**
+
+<br/>
+
+**Church's 45 changes amount to a small fraction of that total, but Church argues that he does not need to put every single tweak into his elephant cells to make something mammoth-like.”**
+
+<br/>
+
+**Will the result be a mammoth...**
+
+## Climate relavant gene editting....
+<hr>
+
+<IMG STYLE="position:absolute; TOP:160px; LEFT:150px; WIDTH:800px; HEIGHT:500px" SRC="images/mammoth2.png">
+
+## Open discussion: Biotechnology and conservation...
+<hr>
+<br/>
+
+**These efforts raise interesting and difficult questions about conservation priorities and whether funds are better spent on protecting species that are endangered but not yet extinct.**
+
+<br/>
+
+* **Pick one topic and write a reflection or report on an intersting article**
+    + Should we restore biodiversity through de-extinction?
+    + Should we use existing technology to engineer climate resilence in threatened species?
+    
+<br/>
+
+* **Make sure and reflect on scientific, social, ethical, economic, regulatory, and science communication questions/issues.**
+    + Submit your response on Brightspace
+    
+</div>
+
+
