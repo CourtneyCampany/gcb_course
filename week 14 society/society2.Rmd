@@ -1,0 +1,426 @@
+---
+title: "Thinking deeper about conservation"
+output: 
+  ioslides_presentation:
+    css: custom2.css
+    widescreen: true
+    smaller: true
+---
+
+## Today's goal
+<hr>
+<br/>
+
+<div align="center">
+**<span style="color:red">Explore one small slice of Conservation Ethics</span>**
+
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+
+**Explore the spectrum of possible actions for restoration focusing on examples of wildlife reintroductions**
+
+<br/>
+
+**(being with uncomfortable choices)**
+</div>
+
+<IMG STYLE="position:absolute; TOP:225px; LEFT:350px; WIDTH:350px; HEIGHT:200px" SRC="images/ethics.jpg">
+
+## Chat
+<hr>
+<br/>
+<br/>
+
+**<span style="color:blue">Do we have an ecological and/or ethical obligation to restore (at least some) ecological communities that we directly disturbed?</span>**
+
+<br/>
+<br/>
+<br/>
+<br/>
+
+**yes**
+<br/>
+**no**
+<br/>
+**I'm not sure how I feel about this**
+
+<IMG STYLE="position:absolute; TOP:260px; LEFT:550px; WIDTH:500px; HEIGHT:400px" SRC="images/mouse.jpg">
+
+## Thought experiment
+<hr>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+
+<div style="float: left; width: 49%;">
+
+**Imagine that an ecologically important species (e.g., a key predator or an ecosystem engineer) has very recently been lost from a local community. The loss is clearly caused by humans (e.g., over-hunting or over-harvest)**
+
+</div>
+
+<IMG STYLE="position:absolute; TOP:240px; LEFT:550px; WIDTH:500px; HEIGHT:400px" SRC="images/mouse2.jpg">
+
+## Chat
+<hr>
+<br/>
+<br/>
+
+<div style="float: left; width: 49%;">
+
+**<span style="color:blue">All else being equal, should we reintroduce the ecologically important endemic species that was recently extirpated if it is still found nearby?</span>** 
+
+<br/>
+<br/>
+<br/>
+<br/>
+
+**yes**
+<br/>
+**no**
+<br/>
+**I'm not sure how I feel about this**
+
+<IMG STYLE="position:absolute; TOP:230px; LEFT:550px; WIDTH:500px; HEIGHT:400px" SRC="images/mouse.jpg">
+
+## Translocations
+<hr>
+<br/>
+
+**This is a basic translocation and it is a commonly used approach in biodiversity management.**
+
+<IMG STYLE="position:absolute; TOP:240px; LEFT:250px; WIDTH:550px; HEIGHT:400px" SRC="images/translocation.jpg"> 
+
+## Translocations
+<hr>
+<br/>
+
+**Translocations can be data-driven to ensure a match between donor and recipient populations**
+
+<IMG STYLE="position:absolute; TOP:230px; LEFT:50px; WIDTH:1000px; HEIGHT:430px" SRC="images/paper.png"> 
+
+## Translocations
+<hr>
+<br/>
+
+**Even within-species translocations or re-introductions can be highly controversial**
+
+<IMG STYLE="position:absolute; TOP:225 px; LEFT:150px; WIDTH:800px; HEIGHT:450px" SRC="images/frogcoyote.png"> 
+
+## Translocations
+<hr>
+<br/>
+
+<div style="float: left; width: 49%;">
+
+* **Wolves hunted to near extinction**
+
+<br/>
+
+* **Decreased predation had catastrophic cascading effects**
+
+<br/>
+
+* **Last known wild gray wolves captured in 1980**
+
+<br/>
+
+* **Intensive captive breeding brought back from brink of extinction **
+
+<br/>
+
+* **Now individuals throughout the western US**
+
+</div>
+
+<div style="float: right; width: 45%;">
+
+<br/>
+<br/>
+
+<span style="color:blue">**But also tons of controversy with concerns about the impacts of wolf populations on livestock, and deer/elk hunting**</span>
+
+</div>
+
+<IMG STYLE="position:absolute; TOP:350px; LEFT:600px; WIDTH:350px; HEIGHT:200px" SRC="images/coyoteonly.png">
+
+##
+
+<IMG STYLE="position:absolute; TOP:50px; LEFT:50px; WIDTH:1000px; HEIGHT:600px" SRC="images/wolves3.png">
+
+## Translocations
+<hr>
+<br/>
+<br/>
+<br/>
+
+<div style="float: left; width: 50%;">
+
+**Controversy can be even greater when the predator has been gone from the ecosystem for longer, when there is less open space, and when the predator inspires more fear in humans** 
+
+<br/>
+
+<span style="color:blue">**For example, possibility of reintroducing cougars to East Coast**</span>
+
+</div>
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:590px; WIDTH:500px; HEIGHT:400px" SRC="images/cougar.png">
+
+## Thought experiment
+<hr>
+<br/>
+
+**But what if there aren’t any other extant populations of the species we want to restore?** 
+
+
+<IMG STYLE="position:absolute; TOP:240px; LEFT:100px; WIDTH:900px; HEIGHT:450px" SRC="images/extinct.png">
+
+## Translocations
+<hr>
+<br/>
+
+**<span style="color:red">Can we justify translocating close relatives</span>**
+
+<IMG STYLE="position:absolute; TOP:240px; LEFT:50px; WIDTH:1000px; HEIGHT:450px" SRC="images/mouse3.png">
+
+## Thought experiment
+<hr>
+<br/>
+<br/>
+
+**<span style="color:red">But what if a close relative isn’t an option?</span>**
+
+<br/>
+
+**All else being equal, should we introduce an ecological analog of that species that isn’t endemic to the community but is surviving in a similar ecosystem elsewhere in the world? **
+
+<br/>
+<br/>
+
+**yes**
+<br/>
+**no**
+<br/>
+**I'm not sure how I feel about this**
+
+## Taxon substitution
+<hr>
+<br/>
+
+**<span style="color:blue">Taxon substitutions:</span> Reintroducing an ecological analog to restore ecosystems, reduce secondary extinctions, and avoid other cascading effects.**
+
+<br/>
+<br/>
+
+<div style="float: left; width: 45%;">
+
+**Example, in the Galapagos, following extinction of Pinta Tortoises, Saddleback and Domed tortoises were released to fill the “empty niche” and help with seed dispersal.**
+
+</div>
+
+<IMG STYLE="position:absolute; TOP:240px; LEFT:550px; WIDTH:450px; HEIGHT:400px" SRC="images/turtles.png">
+
+## Taxon substitution
+<hr>
+<br/>
+
+**But even seemingly similar species are not interchangeable as ecological replacements…**
+
+<br/>
+<br/>
+
+<div style="float: left; width: 45%;">
+
+**<span style="color:blue">Niche differentiation</span> between saddleback (in gray) and domed (in black) tortoises introduced to Pinta **
+
+</div>
+
+<IMG STYLE="position:absolute; TOP:220px; LEFT:550px; WIDTH:500px; HEIGHT:450px" SRC="images/turtle2.png">
+
+## Taxon substitution
+<hr>
+<br/>
+
+<div style="float: left; width: 45%;">
+
+**And how far away (in terms of geography or relatedness) is too far?**
+
+<br/>
+<br/>
+
+
+**For example, should we introduce ecological analogs from Africa to the US?**
+
+</div>
+
+<IMG STYLE="position:absolute; TOP:150px; LEFT:600px; WIDTH:400px; HEIGHT:300px" SRC="images/gazelle.png">
+
+## Taxon substitution
+<hr>
+<br/>
+
+<div style="float: left; width: 45%;">
+
+**And how far away (in terms of geography or relatedness) is too far?**
+
+<br/>
+<br/>
+
+
+**For example, should we introduce ecological analogs from Africa to the US?**
+
+<br/>
+
+**How about their predators?**
+
+</div>
+
+<IMG STYLE="position:absolute; TOP:150px; LEFT:600px; WIDTH:400px; HEIGHT:600px" SRC="images/gazellelion.png">
+
+<IMG STYLE="position:absolute; TOP:420px; LEFT:50px; WIDTH:450px; HEIGHT:200px" SRC="images/papertitle.png">
+
+## Taxon substitution
+<hr>
+<br/>
+<br/>
+
+
+<span style="color:blue">**In the extreme, we could be bringing back mammoths or dinosaurs?</span>**
+
+<br/>
+<br/>
+
+<div style="float: left; width: 45%;">
+
+**IF we can resurrect species, why don’t we just bring back the species that went extinct and not fuss about taxon substitutions**
+
+</div>
+
+<IMG STYLE="position:absolute; TOP:260px; LEFT:550px; WIDTH:450px; HEIGHT:300px" SRC="images/jpark2.jpg">
+
+## Thought experiment
+<hr>
+<br/>
+<br/>
+
+<span style="color:blue">**All else being equal, should we bring back an extinct species that was *recently* lost and re-introduce it to its original community?**</span>
+
+<br/>
+<br/>
+
+**yes**
+<br/>
+**no**
+<br/>
+**I'm not sure how I feel about this**
+
+## De-extinction
+<hr>
+<br/>
+
+**Death of “Sudan” last male of his subspecies**
+
+<IMG STYLE="position:absolute; TOP:225px; LEFT:50px; WIDTH:1000px; HEIGHT:450px" SRC="images/rhino2.png">
+
+## De-extinction
+<hr>
+<br/>
+
+**Two remaining females (his daughter & granddaughter)**
+
+<IMG STYLE="position:absolute; TOP:225px; LEFT:50px; WIDTH:1000px; HEIGHT:450px" SRC="images/rhino3.png">
+
+## De-extinction
+<hr>
+<br/>
+
+**“There still might be hope, however, for the northern white rhino. Scientists have saved some of Sudan’s genetic material, and they hope to use in-vitro fertilization to bring the subspecies back. They’ll have to use a southern white rhino as a surrogate, Vitale said, but they like their chances.”**
+
+<IMG STYLE="position:absolute; TOP:280px; LEFT:300px; WIDTH:550px; HEIGHT:350px" SRC="images/dna.png">
+
+## De-extinction
+<hr>
+<br/>
+
+**<span style="color:blue">De-extinction</span>: Process of resurrecting a species (or a functional proxy of that species) that has died out. Typically proposed to be accomplished by:**
+
+<br/>
+<br/>
+
+* **<span style="color:blue">In-vitro Fertilization</span> : produce embryos in the lab and use a surrogate for gestation**
+
+<br/>
+
+* **<span style="color:blue">Selective Breeding</span> : artificial selection on living relative to produce desired traits**
+
+<br/>
+
+* **<span style="color:blue">Cloning</span> : grow new individual from genetic material of a single parent (transferred to modified egg cell)**
+
+<br/>
+
+* **<span style="color:blue">Genome editing</span> : making targeted changes to the genome of a close relative**
+
+## From Dolly to De-extinction
+<hr>
+**“The researchers who brought back the bucardo stated that only two things stand between them and a whole herd of healthy de-extinct bucardo: time and money”**
+
+<IMG STYLE="position:absolute; TOP:220px; LEFT:0px; WIDTH:1100px; HEIGHT:450px" SRC="images/dolly.png">
+
+## From Dolly to De-extinction
+<hr>
+
+<IMG STYLE="position:absolute; TOP:160px; LEFT:50px; WIDTH:1000px; HEIGHT:500px" SRC="images/mammoth.png">
+
+## From Dolly to De-extinction
+<hr>
+<br/>
+
+**<span style="color:blue">BBC Helen Pilcher: “For the last few years, Church and his team have been carefully placing mammoth genes into the cells of Asian elephants, woolly mammoths' closest living relatives… Church's team have made 45 changes to the elephant genome. They are moving closer to their goal of "mammoth-ifying" an elephant cell…</span>**
+
+<br/>
+
+**But they may have a long way to go. A 2015 study compared the woolly mammoth genome with that of living Asian elephants, and identified changes in 1,642 genes**
+
+<br/>
+
+**Church's 45 changes amount to a small fraction of that total, but Church argues that he does not need to put every single tweak into his elephant cells to make something mammoth-like.”**
+
+<br/>
+
+**Will the result be a mammoth...**
+
+## Climate relavant gene editting....
+<hr>
+
+<IMG STYLE="position:absolute; TOP:160px; LEFT:150px; WIDTH:800px; HEIGHT:500px" SRC="images/mammoth2.png">
+
+## Open discussion: Biotechnology and conservation...
+<hr>
+<br/>
+
+**These efforts raise interesting and difficult questions about conservation priorities and whether funds are better spent on protecting species that are endangered but not yet extinct.**
+
+<br/>
+
+* **Pick one topic and write a reflection or report on an intersting article**
+    + Should we restore biodiversity through de-extinction?
+    + Should we use existing technology to engineer climate resilence in threatened species?
+    
+<br/>
+
+* **Make sure and reflect on scientific, social, ethical, economic, regulatory, and science communication questions/issues.**
+    + Submit your response on Brightspace
+    
+</div>
+
+

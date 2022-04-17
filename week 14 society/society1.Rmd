@@ -1,0 +1,468 @@
+---
+title: "Aligning Humans and Nature"
+output: 
+  ioslides_presentation:
+    css: custom.css
+    widescreen: true
+    smaller: true
+---
+
+## Coupled human-natural systems
+<hr>
+<br/>
+<br/>
+
+<div style="float: left; width: 48%;">
+
+**Ecological and social domains are truly one integrated system with complex interactions and feedbacks**
+
+</div>
+
+<IMG STYLE="position:absolute; TOP:160px; LEFT:550px; WIDTH:450px; HEIGHT:500px" SRC="images/interact.png">
+
+## Coupled human-natural systems
+<hr>
+<br/>
+<br/>
+
+<div style="float: left; width: 48%;">
+
+**Ecological and social domains are truly one integrated system with complex interactions and feedbacks**
+
+<br/>
+
+**Successful biodiversity conservation will require addressing needs and inequities in human societies**
+
+</div>
+
+<IMG STYLE="position:absolute; TOP:160px; LEFT:550px; WIDTH:450px; HEIGHT:500px" SRC="images/interact.png">
+
+## Coupled human-natural systems
+<hr>
+<br/>
+<br/>
+
+<div style="float: left; width: 48%;">
+
+**Ecological and social domains are truly one integrated system with complex interactions and feedbacks**
+
+<br/>
+
+**Successful biodiversity conservation will require addressing needs and inequities in human societies**
+
+<br/>
+
+**And successful social reform and sustainable futures for humans will require biodiversity conservation**
+
+</div>
+
+<IMG STYLE="position:absolute; TOP:160px; LEFT:550px; WIDTH:450px; HEIGHT:500px" SRC="images/interact.png">
+
+## Coupled human-natural systems
+<hr>
+**<span style="color:blue">So many creative solutions are possible</span>**
+<br/>
+
+<IMG STYLE="position:absolute; TOP:220px; LEFT:100px; WIDTH:900px; HEIGHT:450px" SRC="images/treecity.png">
+
+## Coupled human-natural systems
+<hr>
+**<span style="color:blue">So many creative solutions are possible</span> but they require commitment from, interaction between, and honoring of...**
+
+<IMG STYLE="position:absolute; TOP:220px; LEFT:300px; WIDTH:450px; HEIGHT:450px" SRC="images/diagram.png">
+
+## How can people support biodiversity conservation?**
+<hr>
+<br/>
+
+<div style="float: left; width: 48%;">
+
+* **Individuals, as:**
+    + consumers
+    + funders
+    + practitioners
+    + activists
+    + <span style="color:purple">frequency holders</span>
+
+<br/>
+
+* **Policy actors, through:**
+    + fisheries governance
+    + endangered species legislation
+    + international climate treaties
+    + international debt-for-nature swaps
+
+</div>
+
+<div style="float: right; width: 48%;">
+
+* **Collectives, through:**
+    + ecotourism
+    + sustainable food production
+    + cradle-to-cradle manufacturing
+
+</div>
+
+<IMG STYLE="position:absolute; TOP:330px; LEFT:550px; WIDTH:375px; HEIGHT:375px" SRC="images/biod.jpg">
+
+##
+
+<IMG STYLE="position:absolute; TOP:100px; LEFT:50px; WIDTH:950px; HEIGHT:500px" SRC="images/tolle.jpg">
+
+## How can people support biodiversity conservation?
+<hr>
+<br/>
+
+<span style="color:blue">**Through …**</span>
+<br/>
+
+<span style="color:blue">**the things we do**</span>
+<br/>
+
+<span style="color:blue">**and**</span>
+<br/>
+
+<span style="color:blue">**the ways we be**</span>
+
+<IMG STYLE="position:absolute; TOP:380px; LEFT:40px; WIDTH:1000px; HEIGHT:300px" SRC="images/garfield.gif">
+
+## Flash-back to extinction class sessions
+<hr>
+<div style="float: left; width: 50%;">
+<br/>
+
+* **<span style="color:darkred">What are some of the root causes of extinction?</span>**
+    + Exploitation
+    + Capitalism
+    + Economic inequality
+
+</div>
+
+<br/>
+
+<div style="float: right; width: 48%;">
+ 
+* **<span style="color:darkred">What are the root causes of these behaviors and social structures?</span>**
+    + Keep going until can’t go any further…
+
+</div>
+
+<IMG STYLE="position:absolute; TOP:400px; LEFT:0px; WIDTH:700px; HEIGHT:300px" SRC="images/tree.png">
+
+## Extinction class sessions
+<hr>
+<div style="float: left; width: 50%;">
+<br/>
+
+* **<span style="color:darkred">What are some of the root causes of extinction?</span>**
+    + Exploitation
+    + Capitalism
+    + Economic inequality
+
+</div>
+
+<br/>
+
+<div style="float: right; width: 48%;">
+ 
+* **<span style="color:darkred">What are the root causes of these behaviors and social structures?</span>**
+    + Greed
+    + Fear
+    + Feeling of lack
+    + Feeling of separation
+
+</div>
+
+<IMG STYLE="position:absolute; TOP:400px; LEFT:0px; WIDTH:700px; HEIGHT:300px" SRC="images/tree.png">
+
+## Extinction class sessions
+<hr>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+
+<div style="float: right; width: 48%;">
+
+<span style="color:darkred">**What other effects do these root causes have?**</span>
+
+</div>
+
+<IMG STYLE="position:absolute; TOP:160px; LEFT:25px; WIDTH:525px; HEIGHT:500px" SRC="images/tree2.png">
+
+## Root causes affect everything
+<hr>
+<br/>
+
+**The same extract and deplete mentality is impacting our planet, biosphere, social, emotional, and educational systems…**
+
+
+<IMG STYLE="position:absolute; TOP:300px; LEFT:50px; WIDTH:1000px; HEIGHT:250px" SRC="images/people.png">
+
+
+## Root causes affect everything
+<hr>
+<br/>
+
+**The same extract and deplete mentality is impacting our planet, biosphere, social, emotional, and educational systems…**
+
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+
+**This is painful....every one of us has a <span style="color:red">direct personal</span> relationship to at least one of these issues**
+
+<IMG STYLE="position:absolute; TOP:300px; LEFT:50px; WIDTH:1000px; HEIGHT:250px" SRC="images/people.png">
+
+## The world feels like it’s ablaze
+<hr>
+<br/>
+
+**Like it’s been in the oven too long and the edges are all burnt and taste like charcoal**
+
+<br/>
+<br/>
+<br/>
+
+**How do we manage our mental fire?**
+<br/>
+
+**How do manage aspects of our society that are to hot to touch?**
+<br/>
+
+**How do prevent nature from turning into ash?**
+
+<br/>
+<br/>
+<br/>
+<br/>
+
+**We don’t have 10,000 problems, we have a foundational problem with 10,000 faces**
+
+<IMG STYLE="position:absolute; TOP:240px; LEFT:700px; WIDTH:300px; HEIGHT:300px" SRC="images/worldfire.jpg">
+
+## Root causes affect everything
+<hr>
+<br/>
+<br/>
+<br/>
+
+**So what is the medicine?**
+
+<br/>
+<br/>
+
+**THOUGHTS?**
+
+<IMG STYLE="position:absolute; TOP:160px; LEFT:500px; WIDTH:300px; HEIGHT:500px" SRC="images/bottle.png">
+
+## Connect to the pain
+<hr>
+<br/>
+<br/>
+<br/>
+
+<div style="float: left; width: 45%;">
+
+**Don’t bypass pain**
+
+<br/>
+
+**It doesn’t need to be avoided or indulged but it needs to be felt and acknowledged**
+
+<br/>
+
+**Even in college classes**
+
+</div>
+
+<IMG STYLE="position:absolute; TOP:160px; LEFT:525px; WIDTH:500px; HEIGHT:500px" SRC="images/quote.jpg">
+
+## The underlying deep caring
+<hr>
+<br/>
+<br/>
+<br/>
+
+<div style="float: right; width: 45%;">
+
+**Reinforce the truth: that things wouldn’t be depressing if we didn’t care deeply**
+
+<br/>
+<br/>
+
+**Connecting to deep caring is totally different than a false “finding the silver lining”**
+
+</div>
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:15px; WIDTH:500px; HEIGHT:400px" SRC="images/carryearth.jpg">
+
+## The action that wants to emerge from the caring
+<hr>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+
+<div style="float: left; width: 48%;">
+
+**Support actions that come organically from caring rather than guilt**
+
+<br/>
+
+**We are desperate for solutions but we keep being fed the same external ideas**
+</div>
+
+<IMG STYLE="position:absolute; TOP:240px; LEFT:550px; WIDTH:550px; HEIGHT:300px" SRC="images/external.png">
+
+## Root causes affect everything
+<hr>
+<br/>
+<br/>
+
+**But now constantly have real-time opportunities to practice this paradigm**
+
+<br/>
+
+**Pain &#8594; Caring &#8594; Action**
+
+<IMG STYLE="position:absolute; TOP:400px; LEFT:0px; WIDTH:1100px; HEIGHT:200px" SRC="images/action.png">
+
+## But can be addressed anywhere
+<hr>
+<br/>
+<br/>
+<br/>
+
+<div style="float: right; width: 48%;">
+
+<span style="color:darkred">**We can explore personal or collective action anywhere   **</span>
+
+<br/>
+
+**And this action doesn’t have to be a fight against something**
+
+</div>
+
+<IMG STYLE="position:absolute; TOP:160px; LEFT:25px; WIDTH:525px; HEIGHT:500px" SRC="images/tree3.png">
+
+## Linking internal and external solutions
+<hr>
+<br/>
+
+**<span style="color:darkred">And we can address root causes in small daily ways:</span>**
+
+<br/>
+
+**Let's list some....**
+
+<IMG STYLE="position:absolute; TOP:400px; LEFT:650px; WIDTH:350px; HEIGHT:250px" SRC="images/solutions.png">
+
+##
+
+<IMG STYLE="position:absolute; TOP:50px; LEFT:0px; WIDTH:1100px; HEIGHT:600px" SRC="images/steps.jpg">
+
+## Linking internal and external solutions
+<hr>
+<br/>
+
+**<span style="color:darkred">And we can address root causes in small daily ways:</span>**
+
+<br/>
+
+**What could we ask Shepherd to do better everyday?**
+
+<IMG STYLE="position:absolute; TOP:400px; LEFT:650px; WIDTH:350px; HEIGHT:250px" SRC="images/solutions.png">
+
+## Linking internal and external solutions
+<hr>
+<br/>
+
+**<span style="color:darkred">And we can address root causes in small daily ways:</span>**
+
+<br/>
+
+**We can take problems that seem huge, complex, and “out there” and makes them something we can work with together, through connection, “in here”.**
+
+<br/>
+
+**An empowering way of taking responsibility**
+
+<IMG STYLE="position:absolute; TOP:400px; LEFT:650px; WIDTH:350px; HEIGHT:250px" SRC="images/solutions.png">
+
+## But can be addressed anywhere
+<hr>
+<br/>
+
+<div style="float: right; width: 40%;">
+
+<span style="color:darkred">**On a particular branch?**</span>
+
+<br/>
+
+<span style="color:darkred">**On a particular level?**</span>
+<br/>
+**individual**
+<br/>
+**collective**
+<br/>
+**policy actor**
+
+<br/>
+
+**<span style="color:darkred">In a particular way?</span>**
+<br/>
+**internal**
+<br/>
+**external**
+
+<br/>
+
+**<span style="color:darkred">On a particular root?</span>**
+
+</div>
+
+<IMG STYLE="position:absolute; TOP:160px; LEFT:25px; WIDTH:525px; HEIGHT:500px" SRC="images/tree4.png">
+
+## Where do you feel drawn to contribute?
+<hr>
+<br/>
+
+**Is individual action pointless in the face of climate change? Let's not beat around the bush...**
+
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+
+**"I think this is one of the great moral challenges of the 21st Century, perhaps the greatest moral challenge", he says. "If we are not acting, we are endangering everyone who is alive now and also future generations." Peter Singer of Princeton University**
+
+</div>
+
+<IMG STYLE="position:absolute; TOP:220px; LEFT:250px; WIDTH:550px; HEIGHT:350px" SRC="images/greata.jpg">
+
