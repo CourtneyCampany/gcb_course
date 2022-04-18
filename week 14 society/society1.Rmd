@@ -16,6 +16,9 @@ output:
 
 **Ecological and social domains are truly one integrated system with complex interactions and feedbacks**
 
+<br/>
+
+**Human survival depends on thriving ecosysytems and ecosystem health now depends on the choice humans make**
 </div>
 
 <IMG STYLE="position:absolute; TOP:160px; LEFT:550px; WIDTH:450px; HEIGHT:500px" SRC="images/interact.png">

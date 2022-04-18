@@ -1,5 +1,5 @@
 ---
-title: "Thinking deeper about conservation"
+title: "Aligning Biodiversity and Human Needs Perverse Incentives"
 output: 
   ioslides_presentation:
     css: custom2.css
@@ -7,12 +7,11 @@ output:
     smaller: true
 ---
 
-## Today's goal
+## What is policy?
 <hr>
 <br/>
 
-<div align="center">
-**<span style="color:red">Explore one small slice of Conservation Ethics</span>**
+**<span style="color:blue">“A course or method of action selected among alternatives that guides present and future decisions”</span>**
 
 <br/>
 <br/>
@@ -23,404 +22,406 @@ output:
 <br/>
 <br/>
 <br/>
-
-**Explore the spectrum of possible actions for restoration focusing on examples of wildlife reintroductions**
-
+<br/>
+<br/>
 <br/>
 
-**(being with uncomfortable choices)**
+**“A decision coupled with the authority to act on it”**
+
+<IMG STYLE="position:absolute; TOP:240px; LEFT:150px; WIDTH:800px; HEIGHT:300px" SRC="images/policy.png">
+
+## What is policy?
+<hr>
+<br/>
+
+<div style="float: left; width: 48%;">
+
+**Policy actions can include: legislation, regulation, coordination, motivation.**
+
+<br/>
+<br/>
+
+**Ultimately, policies can provide incentives to align the interests of biodiversity and human societies**
+
 </div>
 
-<IMG STYLE="position:absolute; TOP:225px; LEFT:350px; WIDTH:350px; HEIGHT:200px" SRC="images/ethics.jpg">
+<IMG STYLE="position:absolute; TOP:240px; LEFT:525px; WIDTH:500px; HEIGHT:400px" SRC="images/policy2.jpg">
 
-## Chat
+## What is policy?
 <hr>
-<br/>
-<br/>
-
-**<span style="color:blue">Do we have an ecological and/or ethical obligation to restore (at least some) ecological communities that we directly disturbed?</span>**
-
-<br/>
-<br/>
-<br/>
-<br/>
-
-**yes**
-<br/>
-**no**
-<br/>
-**I'm not sure how I feel about this**
-
-<IMG STYLE="position:absolute; TOP:260px; LEFT:550px; WIDTH:500px; HEIGHT:400px" SRC="images/mouse.jpg">
-
-## Thought experiment
-<hr>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
 <br/>
 
 <div style="float: left; width: 49%;">
 
-**Imagine that an ecologically important species (e.g., a key predator or an ecosystem engineer) has very recently been lost from a local community. The loss is clearly caused by humans (e.g., over-hunting or over-harvest)**
+**<span style="color:darkred">Incentive: something that motivates or encourages particular behavior</span>**
+
+<br/>
+<br/>
+
+**<span style="color:darkred">Perverse incentive: unintended or undesirable results contrary to initial motivation</span>**
+
 
 </div>
 
-<IMG STYLE="position:absolute; TOP:240px; LEFT:550px; WIDTH:500px; HEIGHT:400px" SRC="images/mouse2.jpg">
+<IMG STYLE="position:absolute; TOP:240px; LEFT:550px; WIDTH:500px; HEIGHT:400px" SRC="images/perverse.jpg">
 
-## Chat
-<hr>
-<br/>
-<br/>
-
-<div style="float: left; width: 49%;">
-
-**<span style="color:blue">All else being equal, should we reintroduce the ecologically important endemic species that was recently extirpated if it is still found nearby?</span>** 
-
-<br/>
-<br/>
-<br/>
-<br/>
-
-**yes**
-<br/>
-**no**
-<br/>
-**I'm not sure how I feel about this**
-
-<IMG STYLE="position:absolute; TOP:230px; LEFT:550px; WIDTH:500px; HEIGHT:400px" SRC="images/mouse.jpg">
-
-## Translocations
+## What is policy?
 <hr>
 <br/>
 
-**This is a basic translocation and it is a commonly used approach in biodiversity management.**
+**<span style="color:darkred">Classic examples of perverse incentives:</span> **
+
+<br/>
+
+**French colonial government in Honoi paying locals to exterminate rats (led to the farming of rats and increased rat problem)**
+
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+
+**19th century paleontologists paying locals per piece of dinosaur fossils (led to smashing fossils into multiple pieces to increase payment so decreased scientific value)**
+
+<IMG STYLE="position:absolute; TOP:280px; LEFT:250px; WIDTH:500px; HEIGHT:200px" SRC="images/mouse2.png>
+
+## What is policy?
+<hr>
+<br/>
+
+**Let’s look at a couple of examples of policy to protect biodiversity and their incentive structures**
 
 <IMG STYLE="position:absolute; TOP:240px; LEFT:250px; WIDTH:550px; HEIGHT:400px" SRC="images/translocation.jpg"> 
 
-## Translocations
+## Endangered Species Act
 <hr>
 <br/>
 
-**Translocations can be data-driven to ensure a match between donor and recipient populations**
+**One of the most important pieces of legislation on biodiversity in the US**
 
-<IMG STYLE="position:absolute; TOP:230px; LEFT:50px; WIDTH:1000px; HEIGHT:430px" SRC="images/paper.png"> 
+<br/>
 
-## Translocations
+**<span style="color:darkred">The Endangered Species Act (1973)</span>: “The purpose of the ESA is to protect and recover imperiled species and the ecosystems upon which they depend”**
+
+<IMG STYLE="position:absolute; TOP:450px; LEFT:125px; WIDTH:950px; HEIGHT:100px" SRC="images/epa.png"> 
+
+## Endangered Species Act
 <hr>
 <br/>
 
-**Even within-species translocations or re-introductions can be highly controversial**
+**One of the most important pieces of legislation on biodiversity in the US**
 
-<IMG STYLE="position:absolute; TOP:225 px; LEFT:150px; WIDTH:800px; HEIGHT:450px" SRC="images/frogcoyote.png"> 
+<br/>
 
-## Translocations
+**There are > 2,200 species listed as endangered or threatened in the US **
+
+<br/>
+
+**In total there have been 94 species de-listed**
+<br/>
+**<span style="color:blue">62 due to recovery</span>**
+<br/>
+**<span style="color:blue">11 due to extinction</span>**
+<br/>
+**<span style="color:blue">21 due to “original data in error”</span>**
+
+<IMG STYLE="position:absolute; TOP:450px; LEFT:125px; WIDTH:950px; HEIGHT:100px" SRC="images/epa.png"> 
+
+## Endangered Species Act
 <hr>
 <br/>
 
-<div style="float: left; width: 49%;">
-
-* **Wolves hunted to near extinction**
+**One of the most important pieces of legislation on biodiversity in the US**
 
 <br/>
 
-* **Decreased predation had catastrophic cascading effects**
+**The ESA also interfaces with the 175-nation agreement to prevent species extinctions due to international trade **
 
 <br/>
 
-* **Last known wild gray wolves captured in 1980**
+<span style="color:darkred">CITES:</span>
+<br/>
+**C.onvention on **
+**I.nternational T.rade **
+<br/>
+**in E.ndangered S.pecies**
+<br/>
+**of Wild Fauna and Flora**
+
+<IMG STYLE="position:absolute; TOP:350px; LEFT:600px; WIDTH:350px; HEIGHT:200px" SRC="images/tusks.png">
+
+## Endangered Species Act is powerful but complicated
+<hr>
+<br/>
+
+<span style="color:blue">What incentive structure does the ESA establish?</span>
+<br/>
+<span style="color:darkred">What are some perverse incentives that the ESA might unintentionally establish?</span>
+
+## Endangered Species Act is powerful but complicated
+<hr>
+<br/>
+
+**<span style="color:blue">What incentive structure does the ESA establish?</span>**
+<br/>
+**<span style="color:darkred">What are some perverse incentives that the ESA might unintentionally establish?</span>**
+
+* **Pre-emptive habitat destruction (to prevent endangered species from establishing, e.g., harvesting trees early so they don’t become old enough to become suitable habitat)**
 
 <br/>
 
-* **Intensive captive breeding brought back from brink of extinction **
+* **Direct removal of endangered species (to prevent government from imposing restrictions on the land, e.g., “shoot, shovel and shut up”)**
 
 <br/>
 
-* **Now individuals throughout the western US**
+* **Increased harvest of endangered species to make money off their rarity**
+
+<br/>
+
+* **Focus on individual species instead of ecosystem**
+
+## Beyond the ESA
+<hr>
+<br/>
+
+**There are perverse incentives structure implicit in much of our economic system**
+
+<br/>
+
+**<span style="color:darkred">In the extreme… perverse business ideas like:</span>**
+
+<IMG STYLE="position:absolute; TOP:400px; LEFT:250px; WIDTH:700px; HEIGHT:200px" SRC="images/lastcatch.png">
+
+## Beyond the ESA
+<hr>
+<br/>
+
+**There are perverse incentives structure implicit in much of our economic system**
+
+<br/>
+
+**<span style="color:darkred">Even in less extreme examples, there is a perverse incentive simply because we do not pay for the actual value of the ecosystem services we use.</span>**
+
+## Motivation
+<hr>
+<br/>
+<br/>
+
+**<span style="color:darkred">Externality:</span> A consequence (positive or negative) of an industrial or commercial activity that affects other parties without this being reflected in the cost of the goods or services involved.**
+
+<br/>
+
+<div style="float: left; width: 50%;"
+**Often discussed in financial terms, but also deep humanitarian and environmental justice concerns **
 
 </div>
 
-<div style="float: right; width: 45%;">
+<IMG STYLE="position:absolute; TOP:340px; LEFT:550px; WIDTH:350px; HEIGHT:300px" SRC="images/vaccine.jpg">
 
+
+## Motivation
+<hr>
 <br/>
 <br/>
 
-<span style="color:blue">**But also tons of controversy with concerns about the impacts of wolf populations on livestock, and deer/elk hunting**</span>
+**<span style="color:darkred">Externality:</span> A consequence (positive or negative) of an industrial or commercial activity that affects other parties without this being reflected in the cost of the goods or services involved.**
+
+<br/>
+<br/>
+<br/>
+<br/>
+
+<div style="float: left; width: 50%;"
+**Examples: Fossil fuel production, mining, water use, chemical contamination, etc.**
 
 </div>
 
-<IMG STYLE="position:absolute; TOP:350px; LEFT:600px; WIDTH:350px; HEIGHT:200px" SRC="images/coyoteonly.png">
+<IMG STYLE="position:absolute; TOP:340px; LEFT:550px; WIDTH:350px; HEIGHT:300px" SRC="images/smoke.png">
 
-##
-
-<IMG STYLE="position:absolute; TOP:50px; LEFT:50px; WIDTH:1000px; HEIGHT:600px" SRC="images/wolves3.png">
-
-## Translocations
-<hr>
-<br/>
-<br/>
-<br/>
-
-<div style="float: left; width: 50%;">
-
-**Controversy can be even greater when the predator has been gone from the ecosystem for longer, when there is less open space, and when the predator inspires more fear in humans** 
-
-<br/>
-
-<span style="color:blue">**For example, possibility of reintroducing cougars to East Coast**</span>
-
-</div>
-
-<IMG STYLE="position:absolute; TOP:200px; LEFT:590px; WIDTH:500px; HEIGHT:400px" SRC="images/cougar.png">
-
-## Thought experiment
-<hr>
-<br/>
-
-**But what if there aren’t any other extant populations of the species we want to restore?** 
-
-
-<IMG STYLE="position:absolute; TOP:240px; LEFT:100px; WIDTH:900px; HEIGHT:450px" SRC="images/extinct.png">
-
-## Translocations
-<hr>
-<br/>
-
-**<span style="color:red">Can we justify translocating close relatives</span>**
-
-<IMG STYLE="position:absolute; TOP:240px; LEFT:50px; WIDTH:1000px; HEIGHT:450px" SRC="images/mouse3.png">
-
-## Thought experiment
+## Motivation
 <hr>
 <br/>
 <br/>
 
-**<span style="color:red">But what if a close relative isn’t an option?</span>**
-
-<br/>
-
-**All else being equal, should we introduce an ecological analog of that species that isn’t endemic to the community but is surviving in a similar ecosystem elsewhere in the world? **
-
-<br/>
-<br/>
-
-**yes**
-<br/>
-**no**
-<br/>
-**I'm not sure how I feel about this**
-
-## Taxon substitution
-<hr>
-<br/>
-
-**<span style="color:blue">Taxon substitutions:</span> Reintroducing an ecological analog to restore ecosystems, reduce secondary extinctions, and avoid other cascading effects.**
-
-<br/>
-<br/>
-
-<div style="float: left; width: 45%;">
-
-**Example, in the Galapagos, following extinction of Pinta Tortoises, Saddleback and Domed tortoises were released to fill the “empty niche” and help with seed dispersal.**
-
-</div>
-
-<IMG STYLE="position:absolute; TOP:240px; LEFT:550px; WIDTH:450px; HEIGHT:400px" SRC="images/turtles.png">
-
-## Taxon substitution
-<hr>
-<br/>
-
-**But even seemingly similar species are not interchangeable as ecological replacements…**
-
-<br/>
-<br/>
-
-<div style="float: left; width: 45%;">
-
-**<span style="color:blue">Niche differentiation</span> between saddleback (in gray) and domed (in black) tortoises introduced to Pinta **
-
-</div>
-
-<IMG STYLE="position:absolute; TOP:220px; LEFT:550px; WIDTH:500px; HEIGHT:450px" SRC="images/turtle2.png">
-
-## Taxon substitution
-<hr>
-<br/>
-
-<div style="float: left; width: 45%;">
-
-**And how far away (in terms of geography or relatedness) is too far?**
-
-<br/>
-<br/>
+**<span style="color:darkred">Externality:</span> A consequence (positive or negative) of an industrial or commercial activity that affects other parties without this being reflected in the cost of the goods or services involved.**
 
 
-**For example, should we introduce ecological analogs from Africa to the US?**
+<IMG STYLE="position:absolute; TOP:340px; LEFT:350px; WIDTH:550px; HEIGHT:350px" SRC="images/externals.jpg">
 
-</div>
-
-<IMG STYLE="position:absolute; TOP:150px; LEFT:600px; WIDTH:400px; HEIGHT:300px" SRC="images/gazelle.png">
-
-## Taxon substitution
-<hr>
-<br/>
-
-<div style="float: left; width: 45%;">
-
-**And how far away (in terms of geography or relatedness) is too far?**
-
-<br/>
-<br/>
-
-
-**For example, should we introduce ecological analogs from Africa to the US?**
-
-<br/>
-
-**How about their predators?**
-
-</div>
-
-<IMG STYLE="position:absolute; TOP:150px; LEFT:600px; WIDTH:400px; HEIGHT:600px" SRC="images/gazellelion.png">
-
-<IMG STYLE="position:absolute; TOP:420px; LEFT:50px; WIDTH:450px; HEIGHT:200px" SRC="images/papertitle.png">
-
-## Taxon substitution
+## Motivation
 <hr>
 <br/>
 <br/>
 
+**<span style="color:darkred">So, how can we motivate individuals, collectives, and policy makers to make more sustainable choices?</span> **
 
-<span style="color:blue">**In the extreme, we could be bringing back mammoths or dinosaurs?</span>**
+<IMG STYLE="position:absolute; TOP:240px; LEFT:200px; WIDTH:600px; HEIGHT:400px" SRC="images/social.png">
 
-<br/>
-<br/>
-
-<div style="float: left; width: 45%;">
-
-**IF we can resurrect species, why don’t we just bring back the species that went extinct and not fuss about taxon substitutions**
-
-</div>
-
-<IMG STYLE="position:absolute; TOP:260px; LEFT:550px; WIDTH:450px; HEIGHT:300px" SRC="images/jpark2.jpg">
-
-## Thought experiment
-<hr>
-<br/>
-<br/>
-
-<span style="color:blue">**All else being equal, should we bring back an extinct species that was *recently* lost and re-introduce it to its original community?**</span>
-
-<br/>
-<br/>
-
-**yes**
-<br/>
-**no**
-<br/>
-**I'm not sure how I feel about this**
-
-## De-extinction
+## Motivation
 <hr>
 <br/>
 
-**Death of “Sudan” last male of his subspecies**
+**Example, Wyoming ranchers get a monetary incentive for planning adjacent conservation easements**
 
-<IMG STYLE="position:absolute; TOP:225px; LEFT:50px; WIDTH:1000px; HEIGHT:450px" SRC="images/rhino2.png">
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
 
-## De-extinction
+<IMG STYLE="position:absolute; TOP:200px; LEFT:300px; WIDTH:400px; HEIGHT:375px" SRC="images/easement.png">
+
 <hr>
 <br/>
 
-**Two remaining females (his daughter & granddaughter)**
+**Example, Wyoming ranchers get a monetary incentive for planning adjacent conservation easements**
 
-<IMG STYLE="position:absolute; TOP:225px; LEFT:50px; WIDTH:1000px; HEIGHT:450px" SRC="images/rhino3.png">
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
 
-## De-extinction
+<IMG STYLE="position:absolute; TOP:200px; LEFT:300px; WIDTH:400px; HEIGHT:375px" SRC="images/easement2.png">
+
+## Motivation
 <hr>
 <br/>
 
-**“There still might be hope, however, for the northern white rhino. Scientists have saved some of Sudan’s genetic material, and they hope to use in-vitro fertilization to bring the subspecies back. They’ll have to use a southern white rhino as a surrogate, Vitale said, but they like their chances.”**
+**Another example: conservationists, scientists, rice farmers, and the public joining together to protect migratory shorebirds**
 
-<IMG STYLE="position:absolute; TOP:280px; LEFT:300px; WIDTH:550px; HEIGHT:350px" SRC="images/dna.png">
+<IMG STYLE="position:absolute; TOP:300px; LEFT:50px; WIDTH:1000px; HEIGHT:250px" SRC="images/bird.png">
 
-## De-extinction
+## Bigger picture change
 <hr>
 <br/>
 
-**<span style="color:blue">De-extinction</span>: Process of resurrecting a species (or a functional proxy of that species) that has died out. Typically proposed to be accomplished by:**
-
-<br/>
-<br/>
-
-* **<span style="color:blue">In-vitro Fertilization</span> : produce embryos in the lab and use a surrogate for gestation**
+**Many of the examples we have discussed so far assume a political-social-economic system that is similar to what we have today.**
 
 <br/>
 
-* **<span style="color:blue">Selective Breeding</span> : artificial selection on living relative to produce desired traits**
+**But what if we (as individuals and societies) shifted some of the underlying assumptions?**
 
 <br/>
 
-* **<span style="color:blue">Cloning</span> : grow new individual from genetic material of a single parent (transferred to modified egg cell)**
+<span style="color:darkred">**What might be possible then?**</span>
 
-<br/>
 
-* **<span style="color:blue">Genome editing</span> : making targeted changes to the genome of a close relative**
-
-## From Dolly to De-extinction
-<hr>
-**“The researchers who brought back the bucardo stated that only two things stand between them and a whole herd of healthy de-extinct bucardo: time and money”**
-
-<IMG STYLE="position:absolute; TOP:220px; LEFT:0px; WIDTH:1100px; HEIGHT:450px" SRC="images/dolly.png">
-
-## From Dolly to De-extinction
+## Bigger picture change: **Financial wealth**
 <hr>
 
-<IMG STYLE="position:absolute; TOP:160px; LEFT:50px; WIDTH:1000px; HEIGHT:500px" SRC="images/mammoth.png">
+<IMG STYLE="position:absolute; TOP:225px; LEFT:50px; WIDTH:800px; HEIGHT:450px" SRC="images/wealth.png">
 
-## From Dolly to De-extinction
+## Bigger picture change: **Financial wealth, wealth inequity**
+<hr>
+
+<IMG STYLE="position:absolute; TOP:225px; LEFT:50px; WIDTH:800px; HEIGHT:450px" SRC="images/wealth2.png">
+
+## Financial wealth, wealth inequity, and impacts
+<hr>
+
+<IMG STYLE="position:absolute; TOP:225px; LEFT:50px; WIDTH:800px; HEIGHT:450px" SRC="images/wealth3.png">
+
+## Bigger picture change
+<hr>
+**Systemic commitment to ecological health…carbon neutrality**
+
+<IMG STYLE="position:absolute; TOP:225px; LEFT:50px; WIDTH:800px; HEIGHT:450px" SRC="images/costarica.png">
+
+## Bigger picture change
+<hr>
+**Systemic commitment to ecological health… reconciliation ecology**
+
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+
+**Designing new habitats for other species in the midst of where people live and work in the age of the Anthropocene**
+
+<IMG STYLE="position:absolute; TOP:225px; LEFT:50px; WIDTH:800px; HEIGHT:450px" SRC="images/reconcile.png">
+
+## Bigger picture change
+<hr>
+**Systemic commitment to ecological health… alternate measures of prosperity**
+
+<br/>
+
+**1972 king of Bhutan: “Gross National Happiness is more important than Gross National Product”**
+
+<br/>
+
+**GNP instituted as the goal in the Constitution of Bhutan in 2008**
+
+<IMG STYLE="position:absolute; TOP:400px; LEFT:150px; WIDTH:800px; HEIGHT:200px" SRC="images/reconcile.png">
+
+## Closing: Environmental worldviews
 <hr>
 <br/>
 
-**<span style="color:blue">BBC Helen Pilcher: “For the last few years, Church and his team have been carefully placing mammoth genes into the cells of Asian elephants, woolly mammoths' closest living relatives… Church's team have made 45 changes to the elephant genome. They are moving closer to their goal of "mammoth-ifying" an elephant cell…</span>**
-
+**What if it’s not your job to save the world?**
+ 
 <br/>
-
-**But they may have a long way to go. A 2015 study compared the woolly mammoth genome with that of living Asian elephants, and identified changes in 1,642 genes**
-
 <br/>
-
-**Church's 45 changes amount to a small fraction of that total, but Church argues that he does not need to put every single tweak into his elephant cells to make something mammoth-like.”**
-
 <br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+ 
+**We live inside of – and become - the stories we tell ourselves**
 
-**Will the result be a mammoth...**
+<IMG STYLE="position:absolute; TOP:220px; LEFT:250px; WIDTH:700px; HEIGHT:300px" SRC="images/cartoon.png">
 
-## Climate relavant gene editting....
+## Lets' avoid tired stories
 <hr>
-
-<IMG STYLE="position:absolute; TOP:160px; LEFT:150px; WIDTH:800px; HEIGHT:500px" SRC="images/mammoth2.png">
-
-## Open discussion: Biotechnology and conservation...
-<hr>
 <br/>
 
-**These efforts raise interesting and difficult questions about conservation priorities and whether funds are better spent on protecting species that are endangered but not yet extinct.**
+**The environment is there to use for human gain; Growth is good; We can fix problems primarily with technology**
 
 <br/>
-
-* **Pick one topic and write a reflection or report on an intersting article**
-    + Should we restore biodiversity through de-extinction?
-    + Should we use existing technology to engineer climate resilence in threatened species?
-    
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
 <br/>
 
-* **Make sure and reflect on scientific, social, ethical, economic, regulatory, and science communication questions/issues.**
-    + Submit your response on Brightspace
-    
-</div>
+**New and creative responses are needed to promote a Life-Sustaining Society; action must come from a deeper cultural shift; we are not separate or separable from each other, other life forms, and the Earth**
 
-
+<IMG STYLE="position:absolute; TOP:220px; LEFT:450px; WIDTH:400px; HEIGHT:300px" SRC="images/world.jpg">
