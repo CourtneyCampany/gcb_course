@@ -120,28 +120,6 @@ output:
 
 <br/>
 
-**There are > 2,200 species listed as endangered or threatened in the US **
-
-<br/>
-
-**In total there have been 94 species de-listed**
-<br/>
-**<span style="color:blue">62 due to recovery</span>**
-<br/>
-**<span style="color:blue">11 due to extinction</span>**
-<br/>
-**<span style="color:blue">21 due to “original data in error”</span>**
-
-<IMG STYLE="position:absolute; TOP:490px; LEFT:75px; WIDTH:950px; HEIGHT:100px" SRC="images/epa.png"> 
-
-## Endangered Species Act
-<hr>
-<br/>
-
-**One of the most important pieces of legislation on biodiversity in the US**
-
-<br/>
-
 **The ESA also interfaces with the 175-nation agreement to prevent species extinctions due to international trade **
 
 <br/>
@@ -156,6 +134,28 @@ output:
 **of Wild Fauna and Flora**
 
 <IMG STYLE="position:absolute; TOP:350px; LEFT:600px; WIDTH:350px; HEIGHT:200px" SRC="images/tusks.png">
+
+## Endangered Species Act
+<hr>
+<br/>
+
+**One of the most important pieces of legislation on biodiversity in the US**
+
+<br/>
+
+**There are > 2,200 species listed as endangered or threatened in the US **
+
+<br/>
+
+**In total there have been 94 species de-listed**
+<br/>
+**<span style="color:blue">62 due to recovery</span>**
+<br/>
+**<span style="color:blue">11 due to extinction</span>**
+<br/>
+**<span style="color:blue">21 due to “original data in error”</span>**
+
+<IMG STYLE="position:absolute; TOP:490px; LEFT:75px; WIDTH:950px; HEIGHT:100px" SRC="images/epa.png"> 
 
 ## Endangered Species Act is powerful but complicated
 <hr>
@@ -220,6 +220,15 @@ output:
 <hr>
 <br/>
 
+**<span style="color:darkred">How can we motivate individuals, collectives, and policy makers to make more sustainable choices?</span> **
+
+<IMG STYLE="position:absolute; TOP:240px; LEFT:200px; WIDTH:600px; HEIGHT:400px" SRC="images/social.png">
+
+
+## Motivation - Policies are more than $$$
+<hr>
+<br/>
+
 **<span style="color:darkred">Externality:</span> A consequence (positive or negative) of an industrial or commercial activity that affects other parties without this being reflected in the cost of the goods or services involved.**
 
 <br/>
@@ -231,9 +240,9 @@ output:
 
 </div>
 
-<IMG STYLE="position:absolute; TOP:340px; LEFT:500px; WIDTH:550px; HEIGHT:350px" SRC="images/externals.jpg">
+<IMG STYLE="position:absolute; TOP:300px; LEFT:525px; WIDTH:550px; HEIGHT:350px" SRC="images/externals.jpg">
 
-## Motivation
+## Motivation - Policies are more than $$$
 <hr>
 <br/>
 
@@ -251,56 +260,21 @@ output:
 
 <IMG STYLE="position:absolute; TOP:340px; LEFT:550px; WIDTH:350px; HEIGHT:300px" SRC="images/smoke.jpg">
 
-## Motivation
+## Motivation - Increase community buy-in
 <hr>
 <br/>
 
-**<span style="color:darkred">So, how can we motivate individuals, collectives, and policy makers to make more sustainable choices?</span> **
+**<span style="color:darkred">Example, large West Virginia landowners get a monetary incentive for planning adjacent conservation easements</span>**
 
-<IMG STYLE="position:absolute; TOP:240px; LEFT:200px; WIDTH:600px; HEIGHT:400px" SRC="images/social.png">
+<IMG STYLE="position:absolute; TOP:250px; LEFT:100px WIDTH:400px; HEIGHT:375px" SRC="images/easement.png">
 
-## Motivation
+<IMG STYLE="position:absolute; TOP:250px; LEFT:600px; WIDTH:400px; HEIGHT:375px" SRC="images/easement2.png">
+
+## Motivation - Increase community buy-in
 <hr>
 <br/>
 
-**Example, Wyoming ranchers get a monetary incentive for planning adjacent conservation easements**
-
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-
-<IMG STYLE="position:absolute; TOP:200px; LEFT:300px; WIDTH:400px; HEIGHT:375px" SRC="images/easement.png">
-
-<hr>
-<br/>
-
-**Example, Wyoming ranchers get a monetary incentive for planning adjacent conservation easements**
-
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-
-<IMG STYLE="position:absolute; TOP:200px; LEFT:300px; WIDTH:400px; HEIGHT:375px" SRC="images/easement2.png">
-
-## Motivation
-<hr>
-<br/>
-
-**Another example: conservationists, scientists, rice farmers, and the public joining together to protect migratory shorebirds**
+<span style="color:darkred">**Another example: conservationists, scientists, rice farmers, and the public joining together to protect migratory shorebirds**</span>
 
 <IMG STYLE="position:absolute; TOP:300px; LEFT:50px; WIDTH:1000px; HEIGHT:250px" SRC="images/bird.png">
 
@@ -322,49 +296,59 @@ output:
 ## Bigger picture change: **Financial wealth**
 <hr>
 
-<IMG STYLE="position:absolute; TOP:225px; LEFT:50px; WIDTH:800px; HEIGHT:450px" SRC="images/wealth.png">
+<IMG STYLE="position:absolute; TOP:160px; LEFT:100px; WIDTH:900px; HEIGHT:500px" SRC="images/wealth.png">
 
 ## Bigger picture change: **Financial wealth, wealth inequity**
 <hr>
 
-<IMG STYLE="position:absolute; TOP:225px; LEFT:50px; WIDTH:800px; HEIGHT:450px" SRC="images/wealth2.png">
+<IMG STYLE="position:absolute; TOP:160px; LEFT:100px; WIDTH:900px; HEIGHT:500px" SRC="images/wealth2.png">
 
 ## Financial wealth, wealth inequity, and impacts
 <hr>
 
-<IMG STYLE="position:absolute; TOP:225px; LEFT:50px; WIDTH:800px; HEIGHT:450px" SRC="images/wealth3.png">
+<IMG STYLE="position:absolute; TOP:160px; LEFT:100px; WIDTH:900px; HEIGHT:500px" SRC="images/wealth3.png">
 
 ## Bigger picture change
 <hr>
-**Systemic commitment to ecological health…carbon neutrality**
+<span style="color:darkred">**Systemic commitment to ecological health…carbon neutrality**</span>
 
-<IMG STYLE="position:absolute; TOP:225px; LEFT:50px; WIDTH:800px; HEIGHT:450px" SRC="images/costarica.png">
+<IMG STYLE="position:absolute; TOP:220px; LEFT:20px; WIDTH:500px; HEIGHT:400px" SRC="images/costarica.png">
 
-## Bigger picture change
-<hr>
-**Systemic commitment to ecological health… reconciliation ecology**
-
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-
-**Designing new habitats for other species in the midst of where people live and work in the age of the Anthropocene**
-
-<IMG STYLE="position:absolute; TOP:225px; LEFT:50px; WIDTH:800px; HEIGHT:450px" SRC="images/reconcile.png">
+<IMG STYLE="position:absolute; TOP:220px; LEFT:550px; WIDTH:500px; HEIGHT:350px" SRC="images/costarica2.png">
 
 ## Bigger picture change
 <hr>
-**Systemic commitment to ecological health… alternate measures of prosperity**
+<span style="color:darkred">**Systemic commitment to ecological health… reconciliation ecology**</span>
+
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+
+**Designing new habitats for other species in the midst of where people live and work...
+<br/>
+in the age of the Anthropocene**
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:25px; WIDTH:500px; HEIGHT:400px" SRC="images/urbanforests.jpg">
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:550px; WIDTH:500px; HEIGHT:400px" SRC="images/urbanforests2.jpg">
+
+## Bigger picture change
+<hr>
+<span style="color:darkred">**Systemic commitment to ecological health… alternate measures of prosperity**</span>
 
 <br/>
 
@@ -372,16 +356,27 @@ output:
 
 <br/>
 
-**GNP instituted as the goal in the Constitution of Bhutan in 2008**
+**GNH instituted as the goal in the Constitution of Bhutan in 2008**
 
-<IMG STYLE="position:absolute; TOP:400px; LEFT:150px; WIDTH:800px; HEIGHT:200px" SRC="images/reconcile.png">
+<br/>
+<br/>
+
+<div style="float: left; width: 55%;">
+
+<span style="color:blue">**The concept implies that sustainable development should take a holistic approach towards notions of progress and give equal importance to non-economic aspects of wellbeing**</span>
+
+</div>
+
+<IMG STYLE="position:absolute; TOP:320px; LEFT:680px; WIDTH:375px; HEIGHT:375px" SRC="images/gnh.png">
 
 ## Closing: Environmental worldviews
 <hr>
 <br/>
 
-**What if it’s not your job to save the world?**
+<span style="color:blue">**What if it’s not your job to save the world?**</span>
  
+<br/>
+<br/>
 <br/>
 <br/>
 <br/>
@@ -398,13 +393,25 @@ output:
  
 **We live inside of – and become - the stories we tell ourselves**
 
-<IMG STYLE="position:absolute; TOP:220px; LEFT:250px; WIDTH:700px; HEIGHT:300px" SRC="images/cartoon.png">
+<IMG STYLE="position:absolute; TOP:220px; LEFT:100px; WIDTH:800px; HEIGHT:350px" SRC="images/cartoon.png">
 
-## Lets' avoid tired stories
+## Closing: Let's avoid tired stories
 <hr>
 <br/>
 
-**The environment is there to use for human gain; Growth is good; We can fix problems primarily with technology**
+<div style="float: left; width: 55%;">
+
+**The environment is there to use for human gain...(sigh)**
+
+<br/>
+
+**Growth is good...(sigh)**
+
+<br/>
+
+**We can fix problems primarily with technology...(sigh)**
+
+</div>
 
 <br/>
 <br/>
@@ -419,7 +426,12 @@ output:
 <br/>
 <br/>
 <br/>
+<br/>
 
-**New and creative responses are needed to promote a Life-Sustaining Society; action must come from a deeper cultural shift; we are not separate or separable from each other, other life forms, and the Earth**
+<span style="color:blue">**New and creative responses are needed to promote a Life-Sustaining Society &#8594; action must come from a deeper cultural shift**</span>
 
-<IMG STYLE="position:absolute; TOP:220px; LEFT:450px; WIDTH:400px; HEIGHT:300px" SRC="images/world.jpg">
+<br/>
+
+<span style="color:blue">**We are not separate or separable from each other, other life forms, and the Earth**</span>
+
+<IMG STYLE="position:absolute; TOP:180px; LEFT:620px; WIDTH:350px; HEIGHT:350px" SRC="images/world.jpg">
