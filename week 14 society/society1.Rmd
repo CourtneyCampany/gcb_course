@@ -74,7 +74,7 @@ output:
 
 <IMG STYLE="position:absolute; TOP:220px; LEFT:300px; WIDTH:450px; HEIGHT:450px" SRC="images/diagram.png">
 
-## How can people support biodiversity conservation?**
+## How can people support biodiversity conservation?
 <hr>
 <br/>
 
@@ -129,28 +129,28 @@ output:
 
 <IMG STYLE="position:absolute; TOP:380px; LEFT:40px; WIDTH:1000px; HEIGHT:300px" SRC="images/garfield.gif">
 
-## Flash-back to extinction class sessions
-<hr>
-<div style="float: left; width: 50%;">
-<br/>
+<!-- ## Flash-back to extinction class sessions -->
+<!-- <hr> -->
+<!-- <div style="float: left; width: 50%;"> -->
+<!-- <br/> -->
 
-* **<span style="color:darkred">What are some of the root causes of extinction?</span>**
-    + Exploitation
-    + Capitalism
-    + Economic inequality
+<!-- * **<span style="color:darkred">What are some of the root causes of extinction?</span>** -->
+<!--     + Exploitation -->
+<!--     + Capitalism -->
+<!--     + Economic inequality -->
 
-</div>
+<!-- </div> -->
 
-<br/>
+<!-- <br/> -->
 
-<div style="float: right; width: 48%;">
- 
-* **<span style="color:darkred">What are the root causes of these behaviors and social structures?</span>**
-    + Keep going until can’t go any further…
+<!-- <div style="float: right; width: 48%;"> -->
 
-</div>
+<!-- * **<span style="color:darkred">What are the root causes of these behaviors and social structures?</span>** -->
+<!--     + Keep going until can’t go any further… -->
 
-<IMG STYLE="position:absolute; TOP:400px; LEFT:0px; WIDTH:700px; HEIGHT:300px" SRC="images/tree.png">
+<!-- </div> -->
+
+<!-- <IMG STYLE="position:absolute; TOP:400px; LEFT:0px; WIDTH:700px; HEIGHT:300px" SRC="images/tree.png"> -->
 
 ## Extinction class sessions
 <hr>
@@ -285,7 +285,7 @@ output:
 
 <br/>
 
-**It doesn’t need to be avoided or indulged but it needs to be felt and acknowledged**
+**It doesn’t need to be avoided or indulged but it needs to be acknowledged**
 
 <br/>
 
@@ -319,8 +319,6 @@ output:
 <br/>
 <br/>
 <br/>
-<br/>
-<br/>
 
 <div style="float: left; width: 48%;">
 
@@ -329,24 +327,29 @@ output:
 <br/>
 
 **We are desperate for solutions but we keep being fed the same external ideas**
+
+<br/>
+
+**Root causes affect everything....But now we constantly have real-time opportunities to practice this paradigm**
+
 </div>
 
 <IMG STYLE="position:absolute; TOP:240px; LEFT:550px; WIDTH:550px; HEIGHT:300px" SRC="images/external.png">
 
-## Root causes affect everything
-<hr>
-<br/>
-<br/>
+<!-- ## Root causes affect everything -->
+<!-- <hr> -->
+<!-- <br/> -->
+<!-- <br/> -->
 
-**But now constantly have real-time opportunities to practice this paradigm**
+<!-- **But now we constantly have real-time opportunities to practice this paradigm** -->
 
-<br/>
+<!-- <br/> -->
 
-**Pain &#8594; Caring &#8594; Action**
+<!-- **Pain &#8594; Caring &#8594; Action** -->
 
-<IMG STYLE="position:absolute; TOP:400px; LEFT:0px; WIDTH:1100px; HEIGHT:200px" SRC="images/action.png">
+<!-- <IMG STYLE="position:absolute; TOP:400px; LEFT:0px; WIDTH:1100px; HEIGHT:200px" SRC="images/action.png"> -->
 
-## But can be addressed anywhere
+## Root causes affect everything but can be addressed anywhere
 <hr>
 <br/>
 <br/>
@@ -366,19 +369,17 @@ output:
 
 ## Linking internal and external solutions
 <hr>
-<br/>
-
 **<span style="color:darkred">And we can address root causes in small daily ways:</span>**
 
-<br/>
+<!-- <br/> -->
 
-**Let's list some....**
+<!-- **Let's list some....** -->
 
-<IMG STYLE="position:absolute; TOP:400px; LEFT:650px; WIDTH:350px; HEIGHT:250px" SRC="images/solutions.png">
+<!-- <IMG STYLE="position:absolute; TOP:400px; LEFT:650px; WIDTH:350px; HEIGHT:250px" SRC="images/solutions.png"> -->
 
-##
+<!-- ## -->
 
-<IMG STYLE="position:absolute; TOP:50px; LEFT:0px; WIDTH:1100px; HEIGHT:600px" SRC="images/steps.jpg">
+<IMG STYLE="position:absolute; TOP:190px; LEFT:100px; WIDTH:900px; HEIGHT:450px" SRC="images/steps.jpg">
 
 ## Linking internal and external solutions
 <hr>
@@ -392,23 +393,23 @@ output:
 
 <IMG STYLE="position:absolute; TOP:400px; LEFT:650px; WIDTH:350px; HEIGHT:250px" SRC="images/solutions.png">
 
-## Linking internal and external solutions
-<hr>
-<br/>
+<!-- ## Linking internal and external solutions -->
+<!-- <hr> -->
+<!-- <br/> -->
 
-**<span style="color:darkred">And we can address root causes in small daily ways:</span>**
+<!-- **<span style="color:darkred">And we can address root causes in small daily ways:</span>** -->
 
-<br/>
+<!-- <br/> -->
 
-**We can take problems that seem huge, complex, and “out there” and makes them something we can work with together, through connection, “in here”.**
+<!-- **We can take problems that seem huge, complex, and “out there” and makes them something we can work with together, through connection, “in here”.** -->
 
-<br/>
+<!-- <br/> -->
 
-**An empowering way of taking responsibility**
+<!-- **An empowering way of taking responsibility** -->
 
-<IMG STYLE="position:absolute; TOP:400px; LEFT:650px; WIDTH:350px; HEIGHT:250px" SRC="images/solutions.png">
+<!-- <IMG STYLE="position:absolute; TOP:400px; LEFT:650px; WIDTH:350px; HEIGHT:250px" SRC="images/solutions.png"> -->
 
-## But can be addressed anywhere
+## Root causes affect everything but can be addressed anywhere
 <hr>
 <br/>
 

@@ -1,5 +1,5 @@
 ---
-title: "Aligning Biodiversity and Human Needs Perverse Incentives"
+title: "Aligning Biodiversity and Human Needs: Perverse Incentives"
 output: 
   ioslides_presentation:
     css: custom2.css
@@ -25,6 +25,7 @@ output:
 <br/>
 <br/>
 <br/>
+<br/>
 
 **“A decision coupled with the authority to act on it”**
 
@@ -32,6 +33,9 @@ output:
 
 ## What is policy?
 <hr>
+<br/>
+<br/>
+<br/>
 <br/>
 
 <div style="float: left; width: 48%;">
@@ -45,10 +49,13 @@ output:
 
 </div>
 
-<IMG STYLE="position:absolute; TOP:240px; LEFT:525px; WIDTH:500px; HEIGHT:400px" SRC="images/policy2.jpg">
+<IMG STYLE="position:absolute; TOP:200px; LEFT:525px; WIDTH:500px; HEIGHT:400px" SRC="images/policy2.jpg">
 
 ## What is policy?
 <hr>
+<br/>
+<br/>
+<br/>
 <br/>
 
 <div style="float: left; width: 49%;">
@@ -63,39 +70,35 @@ output:
 
 </div>
 
-<IMG STYLE="position:absolute; TOP:240px; LEFT:550px; WIDTH:500px; HEIGHT:400px" SRC="images/perverse.jpg">
+<IMG STYLE="position:absolute; TOP:200px; LEFT:550px; WIDTH:500px; HEIGHT:400px" SRC="images/perverse.jpg">
+
+## Classic examples of perverse incentives:
+<hr>
+<br/>
+
+**French colonial government in Honoi paying locals to exterminate rats &#8594;<span style="color:darkred">led to the farming of rats and increased rat problem</span>**
+
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+
+**Carbon credits grant nations the right to emit gases that contribute to global warming. Developed nations are able to earn carbon credits by investing in emissions-reduction projects &#8594;<span style="color:darkred"> For greenhouse gases trifluoromethane and sulfur hexafluoride, the value of the credits obtained can exceed the cost of destroying these gases in the production process, creating a 'perverse' incentive to increase production so that credits can be claimed.</span>**
+
+
+<IMG STYLE="position:absolute; TOP:235px; LEFT:275px; WIDTH:500px; HEIGHT:200px" SRC="images/mouse2.png">
 
 ## What is policy?
 <hr>
 <br/>
 
-**<span style="color:darkred">Classic examples of perverse incentives:</span> **
+**<span style="color:darkred">Let’s examine a couple of examples of policy to protect biodiversity and their incentive structures</span>**
 
-<br/>
-
-**French colonial government in Honoi paying locals to exterminate rats (led to the farming of rats and increased rat problem)**
-
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-
-**19th century paleontologists paying locals per piece of dinosaur fossils (led to smashing fossils into multiple pieces to increase payment so decreased scientific value)**
-
-<IMG STYLE="position:absolute; TOP:280px; LEFT:250px; WIDTH:500px; HEIGHT:200px" SRC="images/mouse2.png>
-
-## What is policy?
-<hr>
-<br/>
-
-**Let’s look at a couple of examples of policy to protect biodiversity and their incentive structures**
-
-<IMG STYLE="position:absolute; TOP:240px; LEFT:250px; WIDTH:550px; HEIGHT:400px" SRC="images/translocation.jpg"> 
+<IMG STYLE="position:absolute; TOP:240px; LEFT:175px; WIDTH:700px; HEIGHT:400px" SRC="images/policy3.png"> 
 
 ## Endangered Species Act
 <hr>
@@ -107,7 +110,7 @@ output:
 
 **<span style="color:darkred">The Endangered Species Act (1973)</span>: “The purpose of the ESA is to protect and recover imperiled species and the ecosystems upon which they depend”**
 
-<IMG STYLE="position:absolute; TOP:450px; LEFT:125px; WIDTH:950px; HEIGHT:100px" SRC="images/epa.png"> 
+<IMG STYLE="position:absolute; TOP:490px; LEFT:75px; WIDTH:950px; HEIGHT:100px" SRC="images/epa.png"> 
 
 ## Endangered Species Act
 <hr>
@@ -129,7 +132,7 @@ output:
 <br/>
 **<span style="color:blue">21 due to “original data in error”</span>**
 
-<IMG STYLE="position:absolute; TOP:450px; LEFT:125px; WIDTH:950px; HEIGHT:100px" SRC="images/epa.png"> 
+<IMG STYLE="position:absolute; TOP:490px; LEFT:75px; WIDTH:950px; HEIGHT:100px" SRC="images/epa.png"> 
 
 ## Endangered Species Act
 <hr>
@@ -143,7 +146,7 @@ output:
 
 <br/>
 
-<span style="color:darkred">CITES:</span>
+<span style="color:darkred">**CITES:**</span>
 <br/>
 **C.onvention on **
 **I.nternational T.rade **
@@ -158,9 +161,10 @@ output:
 <hr>
 <br/>
 
-<span style="color:blue">What incentive structure does the ESA establish?</span>
+**<span style="color:blue">What incentive structure does the ESA establish?</span>**
 <br/>
-<span style="color:darkred">What are some perverse incentives that the ESA might unintentionally establish?</span>
+
+**<span style="color:darkred">What are some perverse incentives that the ESA might unintentionally establish?</span>**
 
 ## Endangered Species Act is powerful but complicated
 <hr>
@@ -168,7 +172,9 @@ output:
 
 **<span style="color:blue">What incentive structure does the ESA establish?</span>**
 <br/>
+
 **<span style="color:darkred">What are some perverse incentives that the ESA might unintentionally establish?</span>**
+<br/>
 
 * **Pre-emptive habitat destruction (to prevent endangered species from establishing, e.g., harvesting trees early so they don’t become old enough to become suitable habitat)**
 
@@ -184,7 +190,7 @@ output:
 
 * **Focus on individual species instead of ecosystem**
 
-## Beyond the ESA
+## Beyond the Endangered Species Act
 <hr>
 <br/>
 
@@ -194,38 +200,41 @@ output:
 
 **<span style="color:darkred">In the extreme… perverse business ideas like:</span>**
 
-<IMG STYLE="position:absolute; TOP:400px; LEFT:250px; WIDTH:700px; HEIGHT:200px" SRC="images/lastcatch.png">
-
-## Beyond the ESA
-<hr>
 <br/>
-
-**There are perverse incentives structure implicit in much of our economic system**
-
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
 <br/>
 
 **<span style="color:darkred">Even in less extreme examples, there is a perverse incentive simply because we do not pay for the actual value of the ecosystem services we use.</span>**
 
+<IMG STYLE="position:absolute; TOP:360px; LEFT:200px; WIDTH:700px; HEIGHT:200px" SRC="images/lastcatch.png">
+
 ## Motivation
 <hr>
-<br/>
 <br/>
 
 **<span style="color:darkred">Externality:</span> A consequence (positive or negative) of an industrial or commercial activity that affects other parties without this being reflected in the cost of the goods or services involved.**
 
 <br/>
+<br/>
+<br/>
 
-<div style="float: left; width: 50%;"
+<div style="float: left; width: 45%;">
 **Often discussed in financial terms, but also deep humanitarian and environmental justice concerns **
 
 </div>
 
-<IMG STYLE="position:absolute; TOP:340px; LEFT:550px; WIDTH:350px; HEIGHT:300px" SRC="images/vaccine.jpg">
-
+<IMG STYLE="position:absolute; TOP:340px; LEFT:500px; WIDTH:550px; HEIGHT:350px" SRC="images/externals.jpg">
 
 ## Motivation
 <hr>
-<br/>
 <br/>
 
 **<span style="color:darkred">Externality:</span> A consequence (positive or negative) of an industrial or commercial activity that affects other parties without this being reflected in the cost of the goods or services involved.**
@@ -235,26 +244,15 @@ output:
 <br/>
 <br/>
 
-<div style="float: left; width: 50%;"
+<div style="float: left; width: 50%;">
 **Examples: Fossil fuel production, mining, water use, chemical contamination, etc.**
 
 </div>
 
-<IMG STYLE="position:absolute; TOP:340px; LEFT:550px; WIDTH:350px; HEIGHT:300px" SRC="images/smoke.png">
+<IMG STYLE="position:absolute; TOP:340px; LEFT:550px; WIDTH:350px; HEIGHT:300px" SRC="images/smoke.jpg">
 
 ## Motivation
 <hr>
-<br/>
-<br/>
-
-**<span style="color:darkred">Externality:</span> A consequence (positive or negative) of an industrial or commercial activity that affects other parties without this being reflected in the cost of the goods or services involved.**
-
-
-<IMG STYLE="position:absolute; TOP:340px; LEFT:350px; WIDTH:550px; HEIGHT:350px" SRC="images/externals.jpg">
-
-## Motivation
-<hr>
-<br/>
 <br/>
 
 **<span style="color:darkred">So, how can we motivate individuals, collectives, and policy makers to make more sustainable choices?</span> **
