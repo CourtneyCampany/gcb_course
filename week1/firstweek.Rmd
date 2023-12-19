@@ -15,15 +15,15 @@ output:
 
 <div style="float: left; width: 40%;">
 
-**BIOL 399A**
+**HNRS 389 and BIOL 399A**
 <br/>
 **Global Change Biology**
 
 <br/>
 
-**MWF, 1:10 - 2pm, In-person**
+**MWF, 12:10 - 1pm, In-person**
 <br/>
-**Byrd 108**
+**SN 332**
 
 <br/>
 
@@ -31,7 +31,7 @@ output:
 <br/>
 **Byrd 215**
 <br/>
-**Office Hours: W,F 2-5pm**
+**Office Hours: see syllabus*
 </div>
 
 <IMG STYLE="position:absolute; TOP:180px; LEFT:400px; WIDTH:600px; HEIGHT:450px" SRC="images/earth1.jpg">
@@ -64,7 +64,7 @@ output:
 
 <br/>
 
-* **Be a scientist science-ing.** 
+* **Be a scientist 'science-ing' or a informed citizen 'activist-ing'** 
     + Explore your interests, interpret other people’s studies, design your own studies, communicate your knowledge and wisdom
 
 <br/>
@@ -75,9 +75,9 @@ output:
 ## What is this course about?
 <hr>
 
-<IMG STYLE="position:absolute; TOP:200px; LEFT:10px; WIDTH:600px; HEIGHT:400px" SRC="images/course.png">
+<IMG STYLE="position:absolute; TOP:200px; LEFT:20px; WIDTH:600px; HEIGHT:400px" SRC="images/course.png">
 
-<IMG STYLE="position:absolute; TOP:200px; LEFT:700px; WIDTH:350px; HEIGHT:400px" SRC="images/bree.jpg">
+<IMG STYLE="position:absolute; TOP:220px; LEFT:700px; WIDTH:350px; HEIGHT:350px" SRC="images/cop28.png">
   
 ## What is this course about?
 <hr>
@@ -201,10 +201,6 @@ output:
 
 **Term Project:** with lots of intermediate benchmarks
 
-<br/>
-
-**Final Exam:** cumulative final
-
 ## Term project (Lots of details next week)
 <hr>
 <br/>
@@ -236,8 +232,7 @@ output:
 
 <div style="float: left; width: 55%;">
 
-* **Get the eBook through the library**
-    + much cheaper
+* **eBook should already be purchased through follet**
     + details on syllabus
 
 <br/>
@@ -342,18 +337,18 @@ output:
 <br/>
 
 * **For class on Wednesday: Write a few sentences about the concept "Why are we here"**
-    + think like a scientist, global studies major or just a human!
+    + think like a scientist, concerned citizen or just a human!
     + you may be asked to read it aloud!
-    + Hiaku will be greatly appreciated
+    + Haiku will be greatly appreciated
 
 <br/>
 
 * **Submit on Brightspace for participation**
 
-## BIOL 414: Seminar in Biology (GCB Journal Club)
-<hr>
-<br/>
+<!-- ## BIOL 414: Seminar in Biology (GCB Journal Club) -->
+<!-- <hr> -->
+<!-- <br/> -->
 
-**If you are in the seminar course there is a reading and participation assignment due before class**
+<!-- **If you are in the seminar course there is a reading and participation assignment due before class** -->
 
-<IMG STYLE="position:absolute; TOP:260px; LEFT:350px; WIDTH:350px; HEIGHT:400px" SRC="images/journal-club.png">
+<!-- <IMG STYLE="position:absolute; TOP:260px; LEFT:350px; WIDTH:350px; HEIGHT:400px" SRC="images/journal-club.png"> -->
