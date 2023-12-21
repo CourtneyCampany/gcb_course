@@ -68,16 +68,25 @@ output:
 ## Why are we here?
 <hr>
 <br/>
- <font size="5">*Because...we are at a threshold*</font>
+ <font size="5">*Because...we are approaching global thresholds*</font>
 
 <IMG STYLE="position:absolute; TOP:220px; LEFT:100px; WIDTH:900px; HEIGHT:400px" SRC="images/tip.jpg">
 
 ## Why are we here?
 <hr>
 <br/>
+ <font size="5">*Because...baselines for change have shifted*</font>
+
+<IMG STYLE="position:absolute; TOP:220px; LEFT:20px; WIDTH:500px; HEIGHT:400px" SRC="images/shiftingbaseline2.jpg">
+
+<IMG STYLE="position:absolute; TOP:160px; LEFT:550px; WIDTH:500px; HEIGHT:500px" SRC="images/shiftingbaseline4.jpg">
+
+## Why are we here?
+<hr>
+<br/>
  <font size="5">*Because...we are ready to tell a new story*</font>
 
-<IMG STYLE="position:absolute; TOP:220px; LEFT:100px; WIDTH:900px; HEIGHT:400px" SRC="images/book.jpg">
+<IMG STYLE="position:absolute; TOP:220px; LEFT:100px; WIDTH:900px; HEIGHT:450px" SRC="images/climatechangeyou.png">
 
 ## Why are we here?
 <hr>
@@ -154,7 +163,7 @@ output:
 
 <br/>
 
-**<span style="color:green">THREE: </span>What three things about global change (that you believe) are the most important for a non-scientist to know?**
+**<span style="color:green">THREE: </span>What three things about global change (that you believe so far) are the most important for a non-scientist to know?**
 
 <br/>
 
@@ -162,5 +171,5 @@ output:
 
 <br/>
 
-**<span style="color:green">ONE: </span>What inspired you to take this course?**
-<br/>*Please submit an answer that is not... #needelective*
+**<span style="color:green">ONE: </span>What controversy about global/climate change are you aware of?**
+
