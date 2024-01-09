@@ -31,7 +31,7 @@ output:
 <br/>
 **Byrd 215**
 <br/>
-**Office Hours: see syllabus*
+**Office Hours: see syllabus**
 </div>
 
 <IMG STYLE="position:absolute; TOP:180px; LEFT:400px; WIDTH:600px; HEIGHT:450px" SRC="images/earth1.jpg">
@@ -74,8 +74,28 @@ output:
 
 ## What is this course about?
 <hr>
+<br/>
 
-<IMG STYLE="position:absolute; TOP:200px; LEFT:20px; WIDTH:600px; HEIGHT:400px" SRC="images/course.png">
+<div style="float: left; width: 57%;">
+
+**The natural world around us is changing at unprecedented rates**
+
+<br/>
+
+**Humans have a major role in the past, present and future of this change**
+
+<br/>
+
+**Organisms must face consequences of this change**
+
+<br/>
+
+**Systems are also under pressure**
+
+<br/>
+
+**Divisiveness surrounds this topic**
+</div>
 
 <IMG STYLE="position:absolute; TOP:220px; LEFT:700px; WIDTH:350px; HEIGHT:350px" SRC="images/cop28.png">
   
@@ -166,7 +186,7 @@ output:
 <hr>
 <br/>
 
-* **This is a *synchronous* and participatory mostly *flipped* in-person class**
+* **This is a *synchronous* and participatory partially *flipped* in-person class**
 
 <br/>
 
@@ -186,8 +206,7 @@ output:
 <br/>
 <br/>
 
-**Participation:** in lecture and section
-    + snap assignments submitted for participation points
+**Participation:** in lecture + snap assignments submitted for participation points
 
 <br/>
 
@@ -201,7 +220,7 @@ output:
 
 **Term Project:** with lots of intermediate benchmarks
 
-## Term project (Lots of details next week)
+## Term project (Details next week)
 <hr>
 <br/>
 
@@ -210,10 +229,10 @@ output:
 <br/>
 
 * **Submission windows:**
-    + Project topic selection: week of February 15
-    + Term project rough drafts: week of March 15
-    + Term project peer reviews: week of April 5
-    + Final term project: week of April 26
+    + Project topic selection: week of February 2
+    + Term project first drafts: week of March 22
+    + Term project peer reviews: week of March 28
+    + Final term project: week of April 12
 
 <br/>
 
@@ -232,14 +251,14 @@ output:
 
 <div style="float: left; width: 55%;">
 
-* **eBook should already be purchased through follet**
-    + details on syllabus
+* **eBook should already be purchased through Follet**
+    + check email for Brytewave access codes
 
 <br/>
 
 * **One chapter per week for lecture**
     + starts week 3
-    + read and reflect (graded) before lecture
+    + read and reflect due before Monday's lecture
     
 <br/>
 
@@ -259,8 +278,9 @@ output:
 
 <br/>
 
-* **Beginning of chapter features - Pre-asses what you think you know**
-    + Blank Page & Learning Outcomes
+* **Beginning of chapter features - Pre-assess what you think you know**
+    + Learning Outcomes
+    + Core chapter content
 
 <br/>
 
@@ -271,6 +291,7 @@ output:
 
 * **End of chapter features - Organize your studying**
     + Key Concepts and Consolidate your Knowledge
+    + Test questions will be drawn from these, as well as lecture content
 
 ## 3-2-1 reading assignments
 <hr>
@@ -281,11 +302,11 @@ output:
 * **3-2-1 reading assignments submitted before class on Brightspace (essence of a flipped class)**
     + <span style="color:blue">**3**</span> take home messages from the chapter (in your own words)
     + <span style="color:blue">**2**</span> things you did not understand or would like more information on
-    + <span style="color:blue">**1**</span>way something in the chapter relates to your personal experience.
+    + <span style="color:blue">**1**</span> way something in the chapter relates to your personal experience.
 
 <br/>
 
-* **<span style="color:red">If you are not interesting in reading - quit now</span>**
+* **<span style="color:red">If you are not interesting in reading - QUIT NOW</span>**
 
 ## Brightspace will be your go to for all course info
 <hr>
@@ -308,20 +329,20 @@ output:
 
 <br/>
 
-* **Reminders = turn notification on**
+* **Reminders = turn notifications on**
     + due dates, content created, announcements, etc. 
     
-## Brightspace course page
-<hr>
-<br/>
-<br/>
+<!-- ## Brightspace course page -->
+<!-- <hr> -->
+<!-- <br/> -->
+<!-- <br/> -->
 
-**Lets take a look**
+<!-- **Lets take a look** -->
 
-<br/>
-<br/>
+<!-- <br/> -->
+<!-- <br/> -->
 
-**https://brightspace.shepherd.edu/d2l/home**
+<!-- **https://brightspace.shepherd.edu/d2l/home** -->
     
 ## Next up: Why are we here?
 <hr>

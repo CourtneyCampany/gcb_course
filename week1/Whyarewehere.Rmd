@@ -125,10 +125,10 @@ output:
 
 <IMG STYLE="position:absolute; TOP:200px; LEFT:600px; WIDTH:450px; HEIGHT:400px" SRC="images/trust.jpg">
 
-## Scientists are traditionally not the best communicators
+## Trust in science is eroding, largely on party lines
 <hr>
 
-<IMG STYLE="position:absolute; TOP:160px; LEFT:50px; WIDTH:520px; HEIGHT:500px" SRC="images/trust2.jpg">
+<IMG STYLE="position:absolute; TOP:160px; LEFT:50px; WIDTH:520px; HEIGHT:500px" SRC="images/trusterode.jpg">
 
 <IMG STYLE="position:absolute; TOP:160px; LEFT:650px; WIDTH:350px; HEIGHT:500px" SRC="images/politics.jpg">
 
