@@ -8,7 +8,7 @@ output:
 ---
 ##
 
-<IMG STYLE="position:absolute; TOP:75px; LEFT:0px; WIDTH:1100px; HEIGHT:550px" SRC="images/whyhere2.png">
+<IMG STYLE="position:absolute; TOP:75px; LEFT:0px; WIDTH:1100px; HEIGHT:550px" SRC="images/whyhere2024.jpg">
 
 ## Why are we here?
 <hr>
@@ -54,14 +54,16 @@ output:
 <br/>
 <font size="5">*Because...the very limiting stories we have told*</font>
 
-<IMG STYLE="position:absolute; TOP:250px; LEFT:200px; WIDTH:700px; HEIGHT:300px" SRC="images/screwedup.png">
+<IMG STYLE="position:absolute; TOP:250px; LEFT:20px; WIDTH:500px; HEIGHT:250px" SRC="images/screwedup.png">
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:550px; WIDTH:525px; HEIGHT:375px" SRC="images/drake.jpeg">
 
 ## Why are we here?
 <hr>
 <br/>
  <font size="5">*Because...we need to be*</font>
 
-<IMG STYLE="position:absolute; TOP:220px; LEFT:100px; WIDTH:400px; HEIGHT:400px" SRC="images/hero.png">
+<IMG STYLE="position:absolute; TOP:220px; LEFT:100px; WIDTH:400px; HEIGHT:400px" SRC="images/hero3.jpg">
 
 <IMG STYLE="position:absolute; TOP:220px; LEFT:650px; WIDTH:300px; HEIGHT:400px" SRC="images/hero2.jpg">
 
