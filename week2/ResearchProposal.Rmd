@@ -16,10 +16,10 @@ output:
 <br/>
 
 * **Submission windows:**
-    + Project topic selection: February 4^th^
-    + Term project rough drafts: March 25^th^
-    + Term project peer reviews: April 15^st^
-    + Final term project: April 15^th^
+    + Project topic selection: February 2^nd^
+    + Term project rough drafts: March 22^nd^
+    + Term project peer reviews: March 28^th^
+    + Final term project: April 12^th^
 
 <br/>
 
@@ -117,7 +117,7 @@ output:
 
 <br/>
 
-* **Approach #1: Find a study in a system you are interested in and propose a follow-up study**
+* **Approach #2: Find a study in a system you are interested in and propose a follow-up study**
     + design a study to answer a new question that was raised in the Discussion section of a primary research article
     + you **CANNOT** just copy someone else's study but you can be inspired by other researchers
     + ultimately your work needs to be creative and needs to be your own!
@@ -185,16 +185,22 @@ output:
 
 ## APA References examples
 <hr>
-<br/>
-<br/>
 
 * **Typical in-text APA citations (commonly at end of sentence):**
-    + (Campany 2012)
-    + (Campany & Skywalker 2022)
-    + (Campany et al., 2019) *3 or more authors*
+    + (Campany, 2012).
+    + (Campany & Skywalker, 2022).
+    + (Campany et al., 2019). *3 or more authors*
     + you can sparingly use: Campany et al. (2022) showed that ....
 
 <br/>
+
+* **EX. Plants are superior to bacteria, animals and fungi (Campany et al., 2023).**
+
+<br/>
+
+* **Multiple citations are allowed (alphabetical, separated by ;) and encouraged when citing:**
+    + Plants are superior to bacteria, animals and fungi (Campany et al., 2023; Fischer et al., 2020; Robbins, 2021;  Witmer & Robbins, 2019)
+    
 <br/>
 
 * **Typical citation for you bibliography**:
@@ -204,7 +210,6 @@ Broadcasting & Electronic Media, 55(2), 198-214.
 
 ## How to avoid plagrism like the plague...
 <hr>
-<br/>
 
 * **Always cite any information that is not common knowledge**
     + If you are unsures, just cite it!!!
@@ -223,7 +228,7 @@ Broadcasting & Electronic Media, 55(2), 198-214.
     + topic sentence
     + citations from several sources
     + closing and/or transition
-    + overuse of one citation is a form of plagiarism
+    + overuse of one citation is a form of plagiarism (no paragraphs built around 1 paper)
     
 <IMG STYLE="position:absolute; TOP:200px; LEFT:690px; WIDTH:300px; HEIGHT:170px" SRC="images/citation.jpg">
     
@@ -231,6 +236,18 @@ Broadcasting & Electronic Media, 55(2), 198-214.
 **We find that cumulative food system greenhouse gas emission emissions from 2020 to 2100 can be reduced by 14 to 48% through changes in dietary composition and healthier caloric consumption, through increased crop yields, through decreased food loss and waste, or through increased emissions efficiency of food production,provided that these strategies are adopted individually and gradually such that they are fully adopted by 2050 (Fig. 1). If all five strategies were to be partially implemented together (50% adoption of each), cumulative emissions through 2100 could be reduced by 63% relative to business-as-usual. Full adoption of all five strategies could result in a food system with marginally negative net cumulative emissions because of lowered emissions and net carbon sequestration on abandoned croplands.**
 
 <IMG STYLE="position:absolute; TOP:300px; LEFT:200px; WIDTH:650px; HEIGHT:400px" SRC="images/food.png">
+
+##
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+
+**Future greenhouse gas emissions from food production can be reduced from a multitude of strategies, including vegetation diets, consuming fewer calories, reducing food waste, more efficient food production, and increasing crop yields (Smith et al. 2021).**
 
 ## Term project on Brightspace
 <hr>
@@ -240,7 +257,7 @@ Broadcasting & Electronic Media, 55(2), 198-214.
 
 <br/>
 
-**Pay attention to grading rubric**
+**Pay attention to grading rubric before submission**
 
 <br/>
 
@@ -321,7 +338,7 @@ Broadcasting & Electronic Media, 55(2), 198-214.
 
 <IMG STYLE="position:absolute; TOP:200px; LEFT:650px; WIDTH:400px; HEIGHT:450px" SRC="images/keepcalm.jpg">
 
-## Topic Selection: due February 4^th^
+## Topic Selection: due February 2^nd^
 <hr>
 <br/>
 
@@ -344,7 +361,7 @@ Broadcasting & Electronic Media, 55(2), 198-214.
 * **Submit on Brightspace (about 1/2 page)**
     + high quality examples posted already
     
-## Friday: Evaluating examples as a NSF panel member
-<hr>
-<IMG STYLE="position:absolute; TOP:240px; LEFT:0px; WIDTH:1100px; HEIGHT:350px" SRC="images/panel.jpg">
+<!-- ## Friday: Evaluating examples as a NSF panel member -->
+<!-- <hr> -->
+<!-- <IMG STYLE="position:absolute; TOP:240px; LEFT:0px; WIDTH:1100px; HEIGHT:350px" SRC="images/panel.jpg"> -->
 
