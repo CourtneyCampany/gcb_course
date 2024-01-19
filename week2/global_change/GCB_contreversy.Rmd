@@ -18,7 +18,7 @@ output:
 <hr>
 <br/>
 
-* <span style="color:red">**Myth 1:</span> 'The climate has always been changing, this is no different'**<
+* <span style="color:red">**Myth 1:</span> 'The climate has always been changing, this is no different'** 
 
 <br/>
 
@@ -26,7 +26,7 @@ output:
 
 <br/>
 
-* <span style="color:red">**Myth 3:</span> 'Carbon dioxide can’t be responsible for climate change – plants, crops and trees need CO2 to grow'**
+* <span style="color:red">**Myth 3:</span> 'Carbon dioxide can’t be responsible for climate change – plants, crops and trees need CO~2~ to grow'**
 
 <br/>
 
@@ -34,7 +34,7 @@ output:
 
 <br/>
 
-* <span style="color:red">**Myth 5:</span> 'It’s solar changes that are causing the earth to warm, not us'**>
+* <span style="color:red">**Myth 5:</span> 'It’s solar changes that are causing the earth to warm, not us'**
 
 <br/>
 
@@ -53,23 +53,21 @@ output:
 
 <br/>
 
-* **Rising ocean levels**
-    + Rising temperatures are causing glaciers and ice sheets to melt, adding more water to the oceans and causing the sea level to rise. Oceans absorb 90% of the extra heat from global warming; warmer water expands and so our oceans are taking up more space.
-
+* **Warming oceans**
+    + Rising temperatures are causing glaciers and ice sheets to melt, adding more water to the oceans and causing the sea level to rise. Oceans absorb 90% of the extra heat from global warming with the top 100 meters of ocean showing warming of more than 0.33°C (0.6°F) since 1969. A buoy of the coast of Key West hit 100°F last summer. 
+  
 <br/>
 
-* **Warming ocean**
-    + The ocean has absorbed much of this increased heat, with the top 100 meters (about 328 feet) of ocean showing warming of more than 0.33°C (0.6°F) since 1969.
+* **Sea level rise**
+    + Warmer water expands and so our oceans are taking up more space. Global sea levels rose about 8 inches (20 centimetres) in the last century. The rate in the last two decades, however, is nearly double that of the last century and accelerating slightly every year.
+
     
-<br/>
-
-* **Shrinking ice sheets**
-    + Greenland lost an average of 279 billion tons of ice per year between 1993 and 2019, while Antarctica lost about 148 billion tons of ice per year.
-
 ## Evidence for rapid change (https://climate.nasa.gov/evidence/)
 <hr>
-* **Glacial retreat**
-    + Glaciers are retreating almost everywhere around the world, including in the Alps, Himalayas, Andes, Rockies, Alaska and Africa.
+
+* **Shrinking ice sheets and glaciers**
+    + Greenland lost an average of 279 billion tons of ice per year between 1993 and 2019, while Antarctica lost about 148 billion tons of ice per year.
+    + Glaciers are retreating almost everywhere around the world, including in the Alps, Himalayas, Andes, Rockies, Alaska and Africa
 
 <br/>
 
@@ -78,13 +76,9 @@ output:
 
 <br/>
 
-* **Sea level rise**
-    + Global sea levels rose about 8 inches (20 centimetres) in the last century. The rate in the last two decades, however, is nearly double that of the last century and accelerating slightly every year.
-
-<br/>
-
 * **Extreme weather events**
-    + Since 1950, the number of record high temperature events worldwide has been increasing, while the number of record low temperature events has been decreasing. Many extreme weather events are more intense and frequent, such as heatwaves, droughts, forest fires and floods.
+    + Since 1950, the number of record high temperature events worldwide has been increasing, while the number of record low temperature events has been decreasing. 
+    + Many extreme weather events are more intense and frequent, such as heatwaves, droughts, forest fires and floods.
 
 ## Unprecedented warming and the 'Hockey Stick' controversy
 <hr>
@@ -134,7 +128,7 @@ https://ed-hawkins.github.io/climate-visuals/SPIRALS/global_temperature_spiral_2
 
 <div style="float: left; width: 60%;">
 
-* **Plants do need carbon dioxide (CO~2~), that’s true. But there’s a limit to the amount they can absorb and, with deforestation increasing, this limit is getting lower.** 
+* **Plants do need carbon dioxide (CO~2~), that’s true. But there’s a limit to the amount they can absorb and   with deforestation increasing, this limit is getting lower.** 
 
 <br/>
 
@@ -192,7 +186,7 @@ https://ed-hawkins.github.io/climate-visuals/SPIRALS/global_temperature_spiral_2
 
 <br/>
 
-* **Various phenomena associated with this new epoch****
+* **Various phenomena associated with this new epoch** 
     + an increase in erosion and the movement of sediments associated with urbanization and agriculture
     + unprecedented new materials, such as concrete, fly ash (a coal combustion product) and plastics, are now part of the sedimentary record
     + impact extends to ecosystem changes such as rampant deforestation and the biodiversity losses
@@ -218,8 +212,9 @@ https://ed-hawkins.github.io/climate-visuals/SPIRALS/global_temperature_spiral_2
 
 * **NASA’s concludes that since 1750, the warming driven by greenhouse gases from our burning of fossil fuels is over 50 times greater than the slight extra warming coming from the sun itself**
 
-## Myth 5 = NO: IT IS NOT TOO LATE!
+## Myth 6 = NO: IT IS NOT TOO LATE!
 <hr>
+<br/>
 <br/>
 
 * **The Intergovernmental Panel on Climate Change (IPCC) have made it clear that we’re running out of time, but there is still a window of opportunity to implement policies and take action**
@@ -237,7 +232,7 @@ https://ed-hawkins.github.io/climate-visuals/SPIRALS/global_temperature_spiral_2
 <hr>
 <br/>
 
-<div style="float: right; width: 60%;">
+<div style="float: right; width: 64%;">
 * **We know that there are still important choices to make, and we don't have to wait for  politicians to act.**
 
 <br/>
@@ -251,8 +246,8 @@ https://ed-hawkins.github.io/climate-visuals/SPIRALS/global_temperature_spiral_2
 
 <br/>
 
-* **We know that a lot of people are overwhelmed by doom and gloom.**
+* **We know that people are overwhelmed by doom and gloom.**
     + at the same time, we are not here to avoid the worst news.
 </div>
 
-<IMG STYLE="position:absolute; TOP:205px; LEFT:10px; WIDTH:450px; HEIGHT:400px" SRC="images/doom.jpg">
+<IMG STYLE="position:absolute; TOP:225px; LEFT:10px; WIDTH:400px; HEIGHT:350px" SRC="images/doom.jpg">
