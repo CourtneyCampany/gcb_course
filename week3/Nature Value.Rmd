@@ -7,7 +7,7 @@ output:
     smaller: true
 ---
 
-## Why should we vaule biodiversity
+## Why should we value nature
 <hr>
 <br/>
 <br/>
@@ -144,11 +144,12 @@ output:
 <div style="float: left; width: 55%;">
 
 - **Environmental sentinels **
-
+    + skin used to drink and breath makes then susceptible to chemicals
+    
 <br/>
 
 - **Amphibians are indicators of environmental contaminants that can harm humans and other animals**
-    - skin used to drink and breath makes then susceptible to chemicals
+
     
 <br/>
 
@@ -177,10 +178,7 @@ output:
 <br/>
 
 - **In other cultures frogs and toads have been despised and regarded as evils**
-
-<br/>
-
-- **http://www.native-languages.org/legends-frog.htm**
+    + https://museumsvictoria.com.au/childrens-week/look-and-listen/tiddalik-the-frog/
 
 </div>
 
@@ -197,10 +195,6 @@ output:
 <br/>
 <br/>
 
-**<span style="color:purple">What’s your best guess as to the annual value in US dollars per year of global ecosystem services?</span>**
-
-<br/>
-
 - *Ecosystem services* = varied benefits to humans provided by the natural environment from healthy ecosystems
 
 <br/>
@@ -208,7 +202,11 @@ output:
 - Healthy ecosystems provide benefits for all life on earth, but valuing them for what the provide humans is a key management and policy tool (*especially for global change*)
     + which ones are the most vulnerable?
     + which ones are the most essential to humans?
-    + globally? regionally? locally?
+    + globally? regionally? locally? culturally?
+    
+<br/>
+
+**<span style="color:purple">What’s your best guess as to the annual value in US dollars per year of global ecosystem services?</span>**
 
 ## The value of biological diversity
 <hr>
@@ -292,7 +290,7 @@ output:
 
 <br/>
 
-**Without the environment there would be no economy.**
+- **Without the environment there would be no economy.**
 
 <br/>
 
@@ -300,7 +298,7 @@ output:
 
 <br/>
 
->- **Commodification and privatization of natural resources**
+- **Commodification and privatization of natural resources**
 
 ## Valuing nature: Lots of complex & conflicting benefits
 <hr>
@@ -328,7 +326,23 @@ output:
 
 <IMG STYLE="position:absolute; TOP:160px; LEFT:625px; WIDTH:400px; HEIGHT:500px" SRC="images/conflict.png">
 
+## Ecosystem services now have the white house's attention...
+<hr>
 
+**https://www.whitehouse.gov/omb/briefing-room/2023/08/01/accounting-for-ecosystem-services-in-benefit-cost-analysis/**
+
+<br/>
+
+* **America the beautiful initiative**
+    - locally led and voluntary nationwide effort to conserve 30% of US lands and waters by 2023
+    
+ <br/>
+ 
+* **USDA expand and renews Conservation Reserve Program**
+    - goal is to enroll up to 4 million new acres to preserving topsoil, sequestering carbon, and reducing nitrogen runoff, as well providing healthy habitat for wildlife
+    
+<IMG STYLE="position:absolute; TOP:480px; LEFT:200px; WIDTH:700px; HEIGHT:200px" SRC="images/pressrelease.png">
+    
 ## Next up: Friday open-discussion on the 'value of nature'
 <hr>
 <br/>
@@ -352,4 +366,4 @@ output:
 
 <br/>
 
-- **Your group will need to come to a decision based on everyone's briefs**
+- **Your small group will need to come to a decision based on everyone's briefs**

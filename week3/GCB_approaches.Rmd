@@ -38,7 +38,8 @@ output:
 <br/>
 
 * **Focused on understanding environmental change and its effects on (and interactions with) life on Earth**
-
+    + see handout for the history of terms
+    
 <br/>
 
 * **Represents a pressing need from early career young biologists and recent graduates of any field**
@@ -47,7 +48,8 @@ output:
 
 * **Communicated many times a day in the news**
     + science and non-science communication
-    + '*code-switching*' will be key
+    + socioeconomics is now an integral component
+
 </div>
 
 <IMG STYLE="position:absolute; TOP:160px; LEFT:660px; WIDTH:400px; HEIGHT:500px" SRC="images/seafood.png">
@@ -55,12 +57,12 @@ output:
 ## Humans are an unprecendented force on natural systems
 <hr>
 
-<IMG STYLE="position:absolute; TOP:200px; LEFT:1px; WIDTH:500px; HEIGHT:350px" SRC="images/lungs.jpg">
+<IMG STYLE="position:absolute; TOP:240px; LEFT:10px; WIDTH:400px; HEIGHT:300px" SRC="images/lungs.jpg">
 
-<div style="float: right; width: 55%;">
+<div style="float: right; width: 64%;">
 
 * **This is largely a numbers and size game**
-    + 7.9 billion individuals and growing
+    + 8.1 billion individuals and growing
     + we are not small organisms
 
 <br/>
@@ -75,10 +77,9 @@ output:
     + understand past environmental change (for context)
     + evaluate current pressures from humans (for degree)
     + predict trends into the future (for decision making)
-    
 <br/>
 
-* **Today: How does GCB biology work?**
+* **Today: How does the field of GCB work?**
 
 </div>
 
@@ -119,22 +120,26 @@ output:
 * **GCB studies are a key component of the permanent wall of science**
     + Now dedicated journals to the field 
     + Several high impact journals (Global Change Biology, Nature Climate Change)
-    + dedicated books and textbooks
+    + dedicated books and a few textbooks
 
 <br/>
 
 * **<span style="color:darkorange">Note: communicating science outside of formal publishing is essential</span>**
-    + indigenous ecological knowledge
+    + indigenous ecological knowledge is centuries old
 
 </div>
 
 <IMG STYLE="position:absolute; TOP:160px; LEFT:700px; WIDTH:375px; HEIGHT:500px" SRC="images/gcbphoto.jpg">
 
-##
+## 
+<br/>
 
-<IMG STYLE="position:absolute; TOP:150px; LEFT:50px; WIDTH:500px; HEIGHT:500px" SRC="images/calendar.gif">
+<div style="float: right; width: 45%;">
+* **Indigenous seasonal calendars are particularly sensitive to climate change both in their biophysical expressions (e.g., earlier flowering phenology of plants or arrival time of migratory birds) and their cultural expressions (e.g., the loss of synchrony between fishing or agricultural practices with life cycles of fishes or plants).**</div>
+    
+<IMG STYLE="position:absolute; TOP:100px; LEFT:10px; WIDTH:575px; HEIGHT:600px" SRC="images/calendar4.png">
 
-<IMG STYLE="position:absolute; TOP:50px; LEFT:600px; WIDTH:450px; HEIGHT:600px" SRC="images/calendar2.png">
+<IMG STYLE="position:absolute; TOP:400px; LEFT:600px; WIDTH:470px; HEIGHT:200px" SRC="images/calendar_key.png">
 
 
 ## 
@@ -171,6 +176,11 @@ output:
 <IMG STYLE="position:absolute; TOP:25px; LEFT:10px; WIDTH:600px; HEIGHT:600px" SRC="images/diverseperspectives.jpg">
 
 <IMG STYLE="position:absolute; TOP:220px; LEFT:620px; WIDTH:450px; HEIGHT:350px" SRC="images/circle.jpg">
+
+## Racist housing policies left neighborhoods sweltering
+<hr>
+
+<IMG STYLE="position:absolute; TOP:160px; LEFT:100px; WIDTH:900px; HEIGHT:500px" SRC="images/redlining.jpg">
 
 
 ## Scientific bias an have vast socio-economic consequences
@@ -300,23 +310,24 @@ output:
 
  <br/>
  
-## How is GCB data often visualized? Let's practice
-<hr>
-<br/>
+<!-- ## How is GCB data often visualized? Let's practice -->
+<!-- <hr> -->
+<!-- <br/> -->
 
-* **How could we show a *significant* relationship between 2 key variables?**
+<!-- * **How could we show a *significant* relationship between 2 key variables?** -->
 
-<br/>
+<!-- <br/> -->
 
-* **What is the difference between a linear and exponential function (relationship)?**
-    + draw weak exponential relationships for atmospheric CO~2~ and ocean pH through time
-    
-<br/>
+<!-- * **What is the difference between a linear and exponential function (relationship)?** -->
+<!--     + draw weak exponential relationships for atmospheric CO~2~ and ocean pH through time -->
 
-* **How could you show the results of an experiment with treatments?**
+<!-- <br/> -->
 
-<br/>
+<!-- * **How could you show the results of an experiment with treatments?** -->
+<!--     + draw a comparison of control and warming treatments that are likely biologically different -->
 
-* **Why does both the center and the spread of data matter**?
-    + draw a comparison of control and warming treatments that are likely biologically different
+<!-- <br/> -->
+
+<!-- * **Why does both the center and the spread of data matter**? -->
+
 
