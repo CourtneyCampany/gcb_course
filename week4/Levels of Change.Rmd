@@ -18,9 +18,9 @@ output:
 <IMG STYLE="position:absolute; TOP:220px; LEFT:550px; WIDTH:550px; HEIGHT:400px" SRC="images/phylo.png">
 
 
-- **Depicts evolutionary relationships amongst a selected taxa**
+- **Depicts evolutionary relationships amongst selected taxa**
     - hypothetical
-    - taxon (singular) can be species or groups
+    - taxon (singular) can be species or group
 
 <br/>
 
@@ -63,11 +63,11 @@ output:
 <br/>
 <br/>
 
-**Unique history (divergence or speciation) based represents key molecular change**
+**Unique history (divergence or speciation) represents key molecular change**
 
 <br/>
 
-**Often represented as morphological trait in a fossil-based phylogeny**
+**Often represented as morphological (structural) trait in a fossil-based phylogeny**
 
 <IMG STYLE="position:absolute; TOP:200px; LEFT:100px; WIDTH:900px; HEIGHT:350px" SRC="images/cladogram.jpeg">
 
@@ -87,19 +87,19 @@ output:
 
 <IMG STYLE="position:absolute; TOP:150px; LEFT:75px; WIDTH:375px; HEIGHT:500px" SRC="images/scala.jpg">
 
-<IMG STYLE="position:absolute; TOP:180px; LEFT:500px; WIDTH:600px; HEIGHT:450px" SRC="images/ladder.jpg">
+<IMG STYLE="position:absolute; TOP:180px; LEFT:500px; WIDTH:550px; HEIGHT:450px" SRC="images/ladder.jpg">
 
 ## Evolution keep rolling, so species are not fixed in a hierarchy
 <hr>
 
 <IMG STYLE="position:absolute; TOP:180px; LEFT:25px; WIDTH:500px; HEIGHT:400px" SRC="images/bird.png">
 
-<IMG STYLE="position:absolute; TOP:160px; LEFT:550px; WIDTH:600px; HEIGHT:500px" SRC="images/treeoflife2.jpg">
+<IMG STYLE="position:absolute; TOP:180px; LEFT:550px; WIDTH:550px; HEIGHT:450px" SRC="images/treeoflife2.jpg">
 
 ## Change occurs across biological scales
 <hr>
 
-- **Genes - Organisms - Species - Populations - Communities - Ecosystem - Biosphere**
+- **Genes - Organisms - Populations - Species - Communities - Ecosystem - Biosphere**
 
 <br/>
 
@@ -146,7 +146,7 @@ output:
 
 **A very dramatic selection environment leading to concealing coloration for predation avoidance**
 
-<IMG STYLE="position:absolute; TOP:240px; LEFT:100px; WIDTH:1100px; HEIGHT:500px" SRC="images/dune3.png">
+<IMG STYLE="position:absolute; TOP:220px; LEFT:100px; WIDTH:1100px; HEIGHT:500px" SRC="images/dune3.png">
 
 ## Multiple colonizing lineages
 <hr>
@@ -155,7 +155,7 @@ output:
 
 ## Genetic drift (non-adaptive evolution)
 <hr>
-**More gametes are produced than seed the next generation**
+**More gametes (sperm and egg) are produced than seed the next generation**
 
 <IMG STYLE="position:absolute; TOP:240px; LEFT:50px; WIDTH:1000px; HEIGHT:400px" SRC="images/gametes.png">
 
@@ -231,4 +231,4 @@ output:
 
 <br/>
 
-**Use your peers wonderful advice to clean up your submission (due at end of day)**
+**Use your peers wonderful advice to clean up your submission (due Sunday)**
