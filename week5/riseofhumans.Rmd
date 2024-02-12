@@ -7,24 +7,27 @@ output:
     smaller: true
 ---
 
-## Chapter 3: What is important?
+## Chapter 3: What does it mean to be human?
 <hr>
 <br/>
 
-- **What are the key chapter elements (take home messages) that I should test you on?**
-
-<br/>
-<br/>
-
-- **What new things are you curious about and/or did not fully understand**
-
-<br/>
-
-- **This week, let's focus on what it means to be human**
-
-<br/>
-
 **The meaning of the term "humanism" has changed according to the successive intellectual movements that have identified with it. Generally, the term refers to a focus on human well-being and advocates for human freedom, autonomy, and progress. It views humanity as responsible for the promotion and development of individuals, espouses the equal and inherent dignity of all human beings, and <span style="color:blue">emphasizes a concern for humans in relation to the world.</span>**
+
+<br/>
+
+**We were not alone - 'Humans" have a rich and interesting evolutionary history**
+
+<br/>
+
+**'Humans' have interacted with the biosphere from our origins till today**
+
+<br/>
+
+**What does it mean, in your opinion, to be 'Human'**
+
+<br/>
+
+**Does your perspective on the Anthropocene change after reading this chapter?**
 
 ##
 
@@ -44,7 +47,7 @@ output:
 
 <br/>
 
-**Multiple species of ancient humans walked the earth, often at the same time**
+**Multiple species of ancient humans walked the earth at the same time**
 
 <br/>
 
@@ -82,26 +85,27 @@ output:
 
 ## Human evolution fact and fallacies
 <hr>
-<br/>
 
 - **Humans are a part of the tree of life, not above it**
     + Aristotle and Scala Natura
+    
+  <br/>
+ 
+- **Humans are the only species capable of free thinking...**
+    + dolphins and bonobos have sex for fun
     
 <br/>
 
 - **Are humans the most complex organism on Earth?**
     + octopus eye vs human eye
- 
  <br/>
  
 - **Nothing that exists on Earth is actually 'primitive'**
     + consider the basics of evolution and selection!
 
  <br/>
- <br/>
 
 - **Why does this matter now?**
-    + stewardship not extraction
     + societies/cultures create false hierarchies based on ladder approach
     
 <IMG STYLE="position:absolute; TOP:160px; LEFT:770px; WIDTH:250px; HEIGHT:500px" SRC="images/eye.jpg">
@@ -135,17 +139,19 @@ output:
 <hr>
 <br/>
 
-**Aristole (Scala Natura & Great Chain of Being) was wrong**
+* **Aristole (Scala Natura & Great Chain of Being) was wrong**
 
 <br/>
 
-**Phylogenies do not imply that organisms are more advanced**
-
-<IMG STYLE="position:absolute; TOP:320px; LEFT:50px; WIDTH:600px; HEIGHT:250px" SRC="images/ladders.png">
+* **Phylogenies do not imply that organisms are more advanced**
+    + pathways of evolutionary novelties that makes each taxa unique
+    + unique does not have to mean more complex
+    
+<IMG STYLE="position:absolute; TOP:380px; LEFT:50px; WIDTH:600px; HEIGHT:250px" SRC="images/ladders.png">
 
 <IMG STYLE="position:absolute; TOP:220px; LEFT:750px; WIDTH:200px; HEIGHT:400px" SRC="images/aristotle.png">
 
-## Humans are the new kids on the block
+## Humans ARE the new kids on the block
 <hr>
 <br/>
 <br/>
@@ -161,6 +167,7 @@ output:
 
 - **Our genus (*Homo*) shares a common ancestor with chimps (*Pan*)**
     + early 'humans' and *Pan* diverged 6-8mya
+    + the split did not create our species
 
 <br/>
 
@@ -177,13 +184,13 @@ output:
 <hr>
 <br/>
 <br/>
-<br/>
 
 - **Ancestral 'humans' can be split into ~4 groups (genera)**
 
 <br/>
 
 - **Groupings relate to timing and evolutionary milestones**
+    + gets messy the farther you go back (lack of fossils)
 
 <br/>
 
@@ -208,11 +215,11 @@ output:
 ## The *Homo* genus is all that is left
 <hr>
 
-- **H.habilis was probably first (most primitive) &#8594; 2.3-1.4mya**
+- **Homo habilis was probably first (most primitive) &#8594; 2.3 - 1.4 mya**
 
 <br/>
 
-- **H.sapiens evolved approx. 300,00 - 200,00 years ago**
+- **Homo sapiens evolved approx. 300,00 - 200,00 years ago**
 
 <br/>
 
@@ -230,7 +237,6 @@ output:
 
 ## Out of Africa and beyond
 <hr>
-<br/>
 
 <div style="float: left; width: 45%;">
 
@@ -266,7 +272,7 @@ output:
 
 - **Humans from outside Africa have traces of Neanderthal DNA**
     + about 1–2% of their genomes
-    + fossils suggest met in Middle East (~50,000 ya)
+    + fossils suggest we met in Middle East (~50,000 ya)
 
 <br/>
 
@@ -286,8 +292,11 @@ output:
 
 ## Is human evolution, dispersal, and climate related?
 <hr>
+<div style="float: left; width: 52%;">
+**H. Sapien Traits: longer legs, strong knee joints, enlarged femur, broad pelvis, barrel-shaped rib cage, long-flexible waist, long thumb, low shoulders, chin, twisted humerus, large brain**
+</div>
 
-<IMG STYLE="position:absolute; TOP:220px; LEFT:50px; WIDTH:550px; HEIGHT:400px" SRC="images/climate.jpg">
+<IMG STYLE="position:absolute; TOP:280px; LEFT:45px; WIDTH:550px; HEIGHT:425px" SRC="images/climate.jpg">
 
 <IMG STYLE="position:absolute; TOP:160px; LEFT:700px; WIDTH:300px; HEIGHT:500px" SRC="images/traits.png">
 

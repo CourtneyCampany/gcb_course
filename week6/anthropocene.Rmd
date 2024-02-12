@@ -21,7 +21,7 @@ output:
 
 </div>
 
-<IMG STYLE="position:absolute; TOP:370px; LEFT:50px; WIDTH:1000px; HEIGHT:300px" SRC="images/old.jpg">
+<IMG STYLE="position:absolute; TOP:375px; LEFT:50px; WIDTH:1000px; HEIGHT:300px" SRC="images/old.jpg">
 
 ##
 
@@ -84,13 +84,15 @@ output:
 ## Holocene (12,000 -)
 <hr>
 <br/>
-<br/>
-<br/>
 
 <div style="float: left; width: 50%;">
+- **H. sapien the only member of our genus to enter this period**
+
+<br/>
 
 - **Begins after last glacial period, including glacial retreat**
     + Earth experienced a warming trend
+    + Perhaps why biodiversity is comparably high
     
 <br/>
 

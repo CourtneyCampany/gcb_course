@@ -14,8 +14,6 @@ output:
 
 ## Why does this matter for global change?
 <hr>
- <br/>
-  <br/>
    
 <IMG STYLE="position:absolute; TOP:250px; LEFT:600px; WIDTH:500px; HEIGHT:300px" SRC="images/now.png">
 
@@ -23,9 +21,13 @@ output:
 
 - **Over human history...**
     + **Biomass of terrestrial vegetation has halved**
+        + <span style="color:red">443 trees per human</span>
     + **More than 20% reduction in biodiversity**
+        + <span style="color:red">terrestrial and aquatic</span>
     + **At least one million species threatened with extinction**
+        + <span style="color:red">new discussions of an emerging mass extinction event</span>
     + **More than 70% of the Earths land surface has been altered by humans**
+        + <span style="color:red">only 5% is left as 'pristine'</span>
     + **Total global biomass of wild animals today is < 25% of what it was during the Late Pleistocene**
     + **Terrestrial vertebrates biomass today is represented by livestock (59%) and living human beings (36%)**.
 </div>
@@ -36,7 +38,7 @@ output:
 
 **In addition to other harmful fallacies this cartoon propagates, it makes “being human” seem very simple, very separate, and very independent**
 
-<IMG STYLE="position:absolute; TOP:240px; LEFT:150px; WIDTH:800px; HEIGHT:400px" SRC="images/humanevolv2.png">
+<IMG STYLE="position:absolute; TOP:250px; LEFT:150px; WIDTH:800px; HEIGHT:400px" SRC="images/humanevolv2.png">
 
 ## The complexity of being human
 <hr>
@@ -44,13 +46,13 @@ output:
 
 **In addition to other harmful fallacies this cartoon propagates, it makes “being human” seem very simple, very separate, and very independent**
 
-<IMG STYLE="position:absolute; TOP:240px; LEFT:150px; WIDTH:800px; HEIGHT:400px" SRC="images/humanevolv3.png">
+<IMG STYLE="position:absolute; TOP:250px; LEFT:150px; WIDTH:800px; HEIGHT:420px" SRC="images/humanevolv3.png">
 
 ## The complexity of being human
 <hr>
 <br/>
 
-**In reality, *Homo sapiens* wouldn’t exist without our complex evolutionary and ecological associations**
+***Homo sapiens* wouldn’t exist without our complex evolutionary, ecological, and societal associations**
 
 <IMG STYLE="position:absolute; TOP:240px; LEFT:150px; WIDTH:800px; HEIGHT:400px" SRC="images/associate.png">
 
@@ -83,7 +85,7 @@ output:
 <br/>
 
 - **Human microbiome has 500x more genes than human**
-
+    
 </div>
 
 <IMG STYLE="position:absolute; TOP:200px; LEFT:500px; WIDTH:600px; HEIGHT:400px" SRC="images/microbiome.png">
@@ -135,16 +137,18 @@ output:
 <br/>
 
 - **Most humans have 2% Neanderthal DNA**
-    + remember - both species co-existed and mated
+    + remember - both species co-existed and sometimes mated 
 
 <br/>
 
 - **Neanderthal allele variants range in diverse expression of skin and hair color to immune function and neuropsychiatric disease**
     + may have left us prone to allergies!
+    + may have caused some to have higher risks from Covid!
+    + possible genetic links to depression and addiction
 
 </div>
 
-## Review: Lots of overlap in hominins is space and time
+## Review: We are not 'independent' because we persisted
 <hr>
 
 <IMG STYLE="position:absolute; TOP:160px; LEFT:150px; WIDTH:800px; HEIGHT:500px" SRC="images/overlap2.png">
@@ -215,12 +219,12 @@ output:
 
 - **Data: genomes of 51 modern humans over a time series of Europe migration**
     + 45,000 - 7,000 years ago
-    + taken from archaeological cites
+    + taken from archaeological sites
 
 <br/>
 
-- **Compared SNP's (single nucleutodie polymorphisms) to find variations across the genomes**
-    + about 1 or out 1000 letters of code is a SNP
+- **Compared SNP's = sites in genome with known variation among individuals**
+    + up to 1000 nucleotides of DNA is a SNP
 
 <IMG STYLE="position:absolute; TOP:700px; LEFT:250px; WIDTH:450px; HEIGHT:450px" SRC="images/snp.jpg">
 
@@ -273,10 +277,10 @@ output:
 <div style="float: right; width: 45%;">
  
 - **Was it luck?**
-    
+    + were we 'independent' enough?
  </div>   
  
-<IMG STYLE="position:absolute; TOP:260px; LEFT:600px; WIDTH:500px; HEIGHT:375px" SRC="images/brainsize.jpg">
+<IMG STYLE="position:absolute; TOP:270px; LEFT:600px; WIDTH:500px; HEIGHT:375px" SRC="images/brainsize.jpg">
 
 
 ## Next up: Friday open-discussion of human impacts
@@ -286,7 +290,7 @@ output:
 
 <br/>
 
-- **For how long and in how many ways have *H.sapiens* altered Earth's systems and landscapes**
+- **For how long and in how many ways have *H.sapiens* altered Earth's systems and landscapes?**
 
 <br/>
 
