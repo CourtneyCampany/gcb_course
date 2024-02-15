@@ -42,12 +42,12 @@ output:
 <IMG STYLE="position:absolute; TOP:260px; LEFT:100px; WIDTH:900px; HEIGHT:400px" SRC="images/landuse.png">
 
 
-## How have humans modfied 75% of the land surface?
-<hr>
+<!-- ## How have humans modfied 75% of the land surface? -->
+<!-- <hr> -->
 
-<IMG STYLE="position:absolute; TOP:160px; LEFT:50px; WIDTH:650px; HEIGHT:500px" SRC="images/land.jpg">
+<!-- <IMG STYLE="position:absolute; TOP:160px; LEFT:50px; WIDTH:650px; HEIGHT:500px" SRC="images/land.jpg"> -->
 
-<IMG STYLE="position:absolute; TOP:260px; LEFT:750px; WIDTH:250px; HEIGHT:300px" SRC="images/think.png">
+<!-- <IMG STYLE="position:absolute; TOP:260px; LEFT:750px; WIDTH:250px; HEIGHT:300px" SRC="images/think.png"> -->
 
 ## How have humans modfied 75% of the land surface?
 <hr>
@@ -70,8 +70,8 @@ output:
 
 <br/>
 
-- **Natural ecosystems provide materials**
-    + and get it the way
+- **Natural ecosystems provide raw materials**
+    + and get it the way of urbanization
     
 </div>
 
@@ -119,7 +119,7 @@ output:
 
 - **Humans move species around - for better or worse**
     + necessary for food systems
-    + unintentional has part of trade (invasive species)
+    + unintentional as part of trade (invasive species)
     + intentional with unknown consequences
  
  <br/>
@@ -152,7 +152,7 @@ output:
 ## Big picture: These stresses have altered Earth's climate systems
 <hr>
 
-<IMG STYLE="position:absolute; TOP:160px; LEFT:10px; WIDTH:500px; HEIGHT:500px" SRC="images/drivers.jpg">
+<IMG STYLE="position:absolute; TOP:160px; LEFT:10px; WIDTH:500px; HEIGHT:500px" SRC="images/earthhuman.png">
 
 <IMG STYLE="position:absolute; TOP:220px; LEFT:550px; WIDTH:550px; HEIGHT:350px" SRC="images/tempwarm.png">
 
@@ -270,7 +270,7 @@ output:
 
 <IMG STYLE="position:absolute; TOP:200px; LEFT:580px; WIDTH:500px; HEIGHT:400px" SRC="images/weather.jpg">
 
-## Next up: Friday Exam
+## Next up: Exam Time
 <hr>
 <br/>
 
