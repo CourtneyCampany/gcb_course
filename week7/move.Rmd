@@ -30,7 +30,7 @@ output:
 <br/>
 <br/>
 
-**What are the problems with this analogy? (brainstorm with a partner)**
+**What are the problems with this analogy?**
 
 </div>
 
@@ -39,17 +39,19 @@ output:
 ## The effect of global change on organisms
 <hr>
 <br/>
-<br/>
 
 <div style="float: left; width: 60%;">
 
 - **Hammer strikes have different characteristics**
-    + Global change stressors can vary in magnitude, velocity, etc.
+    + Global change stressors can vary in magnitude, velocity
+    + Stressors vary from local - regional - global
+    + How many hammers are occurring
 
 <br/>
 
 - **Nails have different characteristics**
     + Organisms vary in their vulnerability to global change stressors
+    + Adaptation is not the only response
 
 <br/>
 
@@ -95,7 +97,7 @@ output:
 
 ## The effect of global change on organisms
 <hr>
-**So organismal responses are critically important–**
+**So....organismal responses are critically important**
 <br/>
 **Organisms affect their own fate and also the dynamics of biotic systems as a whole **
 
@@ -109,7 +111,8 @@ output:
 <div style="float: left; width: 55%;">
 
 - **As human populations continue to rise, so do the pressures placed in natural systems**
-
+    + no stop in sight
+    
 <br/>
 
 - **How do biological systems respond to human impacts on planet Earth?** 
@@ -134,11 +137,13 @@ output:
 
 - **Theory proposes that biological systems are able to morph into more complex systems by making incremental, relatively less energy consuming changes in their make up**
     + <span style="color:blue">small steps rather than extreme jumps or more distant possibilities</span>
+    + concept of 'lowest hanging fruit'
 
 <br/>
 
 - **Kauffman was particularly interested in the origins of order and the mechanisms that drive self-organization, via evolution**
     + how the *actual* expands into the *adjacent possible*
+    + <span style="color:blue">what possible responses are the most 'nearby' (most conceivable)</span>
 
 </div>
 
@@ -159,7 +164,12 @@ output:
 
 <br/>
 
-- **The *adjacent possible* contains the set of possibilities available to individuals, communities, institutions, organisms, productive processes, etc., at a given point in time during their evolutions**
+- **The *adjacent possible* contains the set of possibilities available to individuals, communities, institutions, organisms, productive processes, etc., at a given point in time during their evolution**
+
+<br/>
+
+- **For example, if a butterfly species is a generalist or a specialist feeder its 'adjacent possibles' will be more or less tied to its community**
+
 
 </div>
 
@@ -222,6 +232,84 @@ output:
 
 <IMG STYLE="position:absolute; TOP:160px; LEFT:600px; WIDTH:400px; HEIGHT:500px" SRC="images/traits.png">
 
+## The adjacent possible for other species
+<hr>
+<br/>
+<br/>
+
+<div style="float: left; width: 60%;">
+
+**If environmental conditions are changing…**
+<br/>
+**<span style="color:darkred">what are the adjacent possible options for survival?</span>**
+
+<br/>
+<br/>
+<br/>
+
+- **<span style="color:darkorange">What determines the adjacent possible?</span>**
+    + Organisms traits
+        + developmental, physical, behavioral
+    + Environmental features
+    + Dynamics of change
+
+
+</div>
+
+<IMG STYLE="position:absolute; TOP:160px; LEFT:600px; WIDTH:400px; HEIGHT:500px" SRC="images/stomata.png">
+
+## The adjacent possible for other species
+<hr>
+<br/>
+<br/>
+
+<div style="float: left; width: 60%;">
+
+**If environmental conditions are changing…**
+<br/>
+**<span style="color:darkred">what are the adjacent possible options for survival?</span>**
+
+<br/>
+<br/>
+<br/>
+
+- **<span style="color:darkorange">What determines the adjacent possible?</span>**
+    + Organisms traits
+        + developmental, physical, behavioral
+    + Environmental features
+    + Dynamics of change
+
+
+</div>
+
+<IMG STYLE="position:absolute; TOP:160px; LEFT:600px; WIDTH:450px; HEIGHT:500px" SRC="images/roots.png">
+
+## The adjacent possible for other species
+<hr>
+<br/>
+<br/>
+
+<div style="float: left; width: 60%;">
+
+**If environmental conditions are changing…**
+<br/>
+**<span style="color:darkred">what are the adjacent possible options for survival?</span>**
+
+<br/>
+<br/>
+<br/>
+
+- **<span style="color:darkorange">What determines the adjacent possible?</span>**
+    + Organisms traits
+        + developmental, physical, behavioral
+    + Environmental features
+    + Dynamics of change
+
+
+</div>
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:580px; WIDTH:500px; HEIGHT:400px" SRC="images/ocean.jpeg">
+
 ## Organismal response to global change
 <hr>
 <br/>
@@ -253,7 +341,7 @@ output:
 ## Core Response: Move (Chapter 5)
 <hr>
 
-**Move: movement of *individuals* (dispersal, migration), *populations* or *species* (range changes)**
+**Move: movement of *individuals*, *populations* or *species* (range changes)**
 <br/>
 <span style="color:darkorange">**QUESTION</span>: How would you categorize different types of movement?**
 <IMG STYLE="position:absolute; TOP:210px; LEFT:150px; WIDTH:800px; HEIGHT:475px" SRC="images/moving.png">
