@@ -42,7 +42,7 @@ output:
 <hr>
 <br/>
 
-<span style="color:blue">**Move**</span>= 
+**<span style="color:blue">Move</span>: movement of individuals (dispersal, migration), populations or species (range changes).**
 
 <br/>
 
@@ -80,6 +80,24 @@ output:
 
 <IMG STYLE="position:absolute; TOP:25px; LEFT:0px; WIDTH:1100px; HEIGHT:650px" SRC="images/upslope.jpg">
 
+## 
+
+<IMG STYLE="position:absolute; TOP:25px; LEFT:25px; WIDTH:500px; HEIGHT:300px" SRC="images/migrate2.jpeg">
+
+<IMG STYLE="position:absolute; TOP:25px; LEFT:600px; WIDTH:500px; HEIGHT:300px" SRC="images/boreal.png">
+
+<IMG STYLE="position:absolute; TOP:355px; LEFT:250px; WIDTH:650px; HEIGHT:325px" SRC="images/flee2.jpg">
+
+## Natural movement can be disrupted: Monarch
+<hr>
+<IMG STYLE="position:absolute; TOP:180px; LEFT:15px; WIDTH:550px; HEIGHT:450px" SRC="images/monarch.jpg">
+
+<IMG STYLE="position:absolute; TOP:280px; LEFT:600px; WIDTH:470px; HEIGHT:350px" SRC="images/monarch2.jpg">
+
+## Natural movement can be disrupted: Monarch
+<hr>
+<IMG STYLE="position:absolute; TOP:180px; LEFT:100px; WIDTH:900px; HEIGHT:500px" SRC="images/monarch3.png">
+
 ## Broadly, where are species marching?
 <hr>
 
@@ -88,14 +106,6 @@ output:
 ##
 
 <IMG STYLE="position:absolute; TOP:25px; LEFT:0px; WIDTH:1100px; HEIGHT:650px" SRC="images/elevation.jpg">
-
-## 
-
-<IMG STYLE="position:absolute; TOP:25px; LEFT:25px; WIDTH:500px; HEIGHT:300px" SRC="images/migrate2.jpeg">
-
-<IMG STYLE="position:absolute; TOP:25px; LEFT:600px; WIDTH:500px; HEIGHT:300px" SRC="images/boreal.png">
-
-<IMG STYLE="position:absolute; TOP:355px; LEFT:250px; WIDTH:650px; HEIGHT:325px" SRC="images/flee2.jpg">
 
 ## In order to persist, species range changes are predictable
 <hr>
@@ -125,11 +135,11 @@ output:
 ## Range changes are usually slow
 <hr>
 
-**Many species are limited by gamete dispersal**
+**Many species are limited in a move response by gamete dispersal**
 
 <br/>
 
-**Plants are excellent disperses across generations, however..**
+**Plants are excellent disperses across many generations, however..**
 
 
 <IMG STYLE="position:absolute; TOP:300px; LEFT:200px; WIDTH:650px; HEIGHT:350px" SRC="images/tree.jpg">
@@ -230,7 +240,7 @@ output:
 <br/>
 
 * **Submit an article on Brightspace**
-    + as proof of your work**
+    + as proof of your work 
 
 <br/>
 
