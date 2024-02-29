@@ -139,8 +139,11 @@ output:
 
 ## Density-induced grasshopper plasticity
 <hr>
+**Plasticity can occur as a specturm of changes in a trait (not just off or on)**
+<br/>
 
-<IMG STYLE="position:absolute; TOP:250px; LEFT:0px; WIDTH:1100px; HEIGHT:300px" SRC="images/grasshopper3.png">
+**Grasshopper camoflauge and behavior is influenced by 'crowdedness'**
+<IMG STYLE="position:absolute; TOP:270px; LEFT:0px; WIDTH:1100px; HEIGHT:300px" SRC="images/grasshopper3.png">
 
 ## Some shore crabs shift colors diurnally!
 <hr>
@@ -159,7 +162,7 @@ output:
 
 <br/>
 
-**Signaling**
+**Signaling for mating/competition**
 
 <br/>
 
@@ -187,7 +190,7 @@ output:
 
 * **Behavior has long been considered the 'most plastic' phenotypic trait** 
     + quickest response to temporal changes 
-
+    + e.g., bird song frequency in urban environments
 </div>
 
 <IMG STYLE="position:absolute; TOP:210px; LEFT:625px; WIDTH:400px; HEIGHT:450px" SRC="images/behavior.png">
@@ -211,14 +214,14 @@ output:
 <br/>
 
 * **However, exposure to environmental variation is a characteristic feature of normal development**
-
+    + do certain genotypes have the ability to produce different development outcomes?
+    
 ##
 
 <IMG STYLE="position:absolute; TOP:50px; LEFT:125px; WIDTH:850px; HEIGHT:600px" SRC="images/insectsthermal.jpg">
 
 ## Are all traits plastic? 
 <hr>
-<br/>
 <br/>
 
 * **Optimal responses to environmental challenges would include perfect plasticity**
@@ -228,7 +231,8 @@ output:
 <br/>
 
 * **Instead, traits exist on a spectrum that are determined exclusively by genetics and those influenced mostly by the environment**
-    + no organisms is entirely or infinitely plastic
+    + no organism is entirely or infinitely plastic
+    + what is the cost to evolving plasticity?
     
 <br/>
 

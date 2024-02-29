@@ -9,7 +9,6 @@ output:
 
 ## How does phenotypic plasticity happen?
 <hr>
-<br/>
 
 <div style="float: left; width: 50%;">
 
@@ -19,12 +18,13 @@ output:
 <br/>
 
 * **Gene expression responses**
-    + DNA -> RNA
+    + *process by which the information encoded in a gene is turned into a function*
     + increased or decreased production of RNA/proteins
 
 <br/>
 
 * **Epigenetic responses**
+    + *structural changes to DNA that change how your body reads a DNA sequence*
     + mechanisms where DNA is not accessible for transcription
     + DNA nucleotide sequence does not change
     + possibly inherited
@@ -49,37 +49,41 @@ output:
 
 <IMG STYLE="position:absolute; TOP:160px; LEFT:100px; WIDTH:900px; HEIGHT:500px" SRC="images/dna3.png">
 
-## Changes to gene expression underlie plasticity
+## Changes to gene expression underlie plasticity (epigenetic)
 <hr>
 
 <IMG STYLE="position:absolute; TOP:160px; LEFT:100px; WIDTH:900px; HEIGHT:500px" SRC="images/dna4.png">
 
 ## Phenotypic plasticity: Instantaneous / instinctual response
 <hr>
-<br/>
+**Noise pollution impacts communication, mating, predator-prey, etc.**
 
 <IMG STYLE="position:absolute; TOP:200px; LEFT:75px; WIDTH:1000px; HEIGHT:450px" SRC="images/frequency.jpg">
 
-##
+## Noise pollution is prevalent in marine systems too
+<hr>
+<IMG STYLE="position:absolute; TOP:180px; LEFT:100px; WIDTH:900px; HEIGHT:500px" SRC="images/noiseaqua.jpg">
 
-<IMG STYLE="position:absolute; TOP:50px; LEFT:50px; WIDTH:400px; HEIGHT:600px" SRC="images/frog.jpg">
+<!-- <IMG STYLE="position:absolute; TOP:50px; LEFT:50px; WIDTH:400px; HEIGHT:600px" SRC="images/frog.jpg"> -->
 
-<IMG STYLE="position:absolute; TOP:50px; LEFT:600px; WIDTH:400px; HEIGHT:600px" SRC="images/birdinstant3.png">
+<!-- <IMG STYLE="position:absolute; TOP:50px; LEFT:600px; WIDTH:400px; HEIGHT:600px" SRC="images/birdinstant3.png"> -->
 
 ## Phenotypic plasticity: Instantaneous / instinctual response
 <hr>
-
+**Natural light cycles are drive function for many organisms**
 <IMG STYLE="position:absolute; TOP:200px; LEFT:50px; WIDTH:1000px; HEIGHT:450px" SRC="images/light3.png">
 
 ## Phenotypic plasticity: Gene expression responses
 <hr>
+**Larval bees have identical DNA sequences. Changes in gene expression, likely from an enzyme in royal jelly, alter the development of the larva.**
 
 <IMG STYLE="position:absolute; TOP:220px; LEFT:50px; WIDTH:1000px; HEIGHT:400px" SRC="images/gene.png">
 
 ## Phenotypic plasticity: Gene expression responses
 <hr>
+**Changes in gene expression from drought exposure can alter the # of stomata produced, where the are located and how fast the open/close**
 
-<IMG STYLE="position:absolute; TOP:220px; LEFT:100px; WIDTH:900px; HEIGHT:400px" SRC="images/stomata3.png">
+<IMG STYLE="position:absolute; TOP:240px; LEFT:100px; WIDTH:900px; HEIGHT:400px" SRC="images/stomata3.png">
 
 ## Phenotypic plasticity: Epigenetic response
 <hr>
@@ -92,7 +96,7 @@ output:
 
 <br/>
 
-**Vinclozolin linked to great granddaughter's stress via DNA methylation**
+**Vinclozolin linked to great granddaughter's stress via DNA methylation (inherited)**
 
 <br/>
 <br/>
@@ -141,7 +145,7 @@ output:
     + can plasticity promote adaptive genetic change:?
         + phenotype produced with enhanced survival...
         + loss of plasticity after environmental change...
-        + selection of more or less plasticity...
+        + **<span style="color:red">selection of more or less plasticity would be adaptation**</span>
 
 <!-- ## Meet the Data: Shifts with global warming -->
 <!-- <hr> -->
@@ -170,6 +174,7 @@ output:
 <br/>
 
 * **<span style="color:blue">Seasonal shifts earlier in the year</span>**
+    + earlier springs AND longer falls
 
 
 <IMG STYLE="position:absolute; TOP:260px; LEFT:500px; WIDTH:550px; HEIGHT:300px" SRC="images/season2.png">
@@ -233,7 +238,7 @@ output:
 
 <br/>
 
-**Phenological changes: changes in periodic biological phenomena (like flowering, breeding, migration)**
+**<span style="color:blue">Phenological changes: changes in periodic biological phenomena (like flowering, breeding, migration)</span>**
 
 <IMG STYLE="position:absolute; TOP:340px; LEFT:0px; WIDTH:1100px; HEIGHT:250px" SRC="images/phenology.png">
 
@@ -273,15 +278,16 @@ output:
 <hr>
 <br/>
 
-* **Previous journal club message: Humans have high adaptive capacity..**
-    + what about short-term change?
+* **How do humans adjust (short-term changes) to environmental change**
 
 <br/>
 
 * **What evidence exists? Past, present and/or future**
     + can we acclimate to .....
-    + what traits are plastic (or not)
+    + what traits are plastic (or not)?
     + human behavioral shifts...
+    + are specific genes involved (for bio people)?
+    + do any phenological mismatches exists with other species?
 
 <br/>
 
@@ -290,82 +296,81 @@ output:
 <br/>
 
 * **Submit an article/finding on Brightspace for participation**
-    + Dr. C's example is on the next few slides
 
-## Case Study: Limpopo National Park
-<hr>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
+<!-- ## Case Study: Limpopo National Park -->
+<!-- <hr> -->
+<!-- <br/> -->
+<!-- <br/> -->
+<!-- <br/> -->
+<!-- <br/> -->
+<!-- <br/> -->
+<!-- <br/> -->
+<!-- <br/> -->
+<!-- <br/> -->
+<!-- <br/> -->
 
-<div style="float: left; width: 55%;">
+<!-- <div style="float: left; width: 55%;"> -->
 
-**Village communities used the region before the establishment of Limpopo National Park **
+<!-- **Village communities used the region before the establishment of Limpopo National Park ** -->
 
-<br/>
+<!-- <br/> -->
 
-**After the park’s establishment, village communities live within the park buffer zone**
+<!-- **After the park’s establishment, village communities live within the park buffer zone** -->
 
-<br/>
+<!-- <br/> -->
 
-**The buffer zone is an important area for wildlife **
-</div>
+<!-- **The buffer zone is an important area for wildlife ** -->
+<!-- </div> -->
 
-<IMG STYLE="position:absolute; TOP:160px; LEFT:200px; WIDTH:800px; HEIGHT:200px" SRC="images/park.png">
+<!-- <IMG STYLE="position:absolute; TOP:160px; LEFT:200px; WIDTH:800px; HEIGHT:200px" SRC="images/park.png"> -->
 
-<IMG STYLE="position:absolute; TOP:260px; LEFT:625px; WIDTH:350px; HEIGHT:400px" SRC="images/park2.png">
+<!-- <IMG STYLE="position:absolute; TOP:260px; LEFT:625px; WIDTH:350px; HEIGHT:400px" SRC="images/park2.png"> -->
 
-## People, Parks, and Climate Change
-<hr>
-<br/>
+<!-- ## People, Parks, and Climate Change -->
+<!-- <hr> -->
+<!-- <br/> -->
 
-**Strategies Dealing with Drought before the National Park**
+<!-- **Strategies Dealing with Drought before the National Park** -->
 
-<br/>
-<br/>
+<!-- <br/> -->
+<!-- <br/> -->
 
-* **Small plots in multiple areas**
-<br/>
-* **Sharing plots**
-<br/>
-* **Seeding at every rainfall**
-<br/>
-* **Temporary migration**
-<br/>
-* **Crop mixing**
+<!-- * **Small plots in multiple areas** -->
+<!-- <br/> -->
+<!-- * **Sharing plots** -->
+<!-- <br/> -->
+<!-- * **Seeding at every rainfall** -->
+<!-- <br/> -->
+<!-- * **Temporary migration** -->
+<!-- <br/> -->
+<!-- * **Crop mixing** -->
 
-<IMG STYLE="position:absolute; TOP:250px; LEFT:550px; WIDTH:350px; HEIGHT:300px" SRC="images/drought.jpg">
+<!-- <IMG STYLE="position:absolute; TOP:250px; LEFT:550px; WIDTH:350px; HEIGHT:300px" SRC="images/drought.jpg"> -->
 
-## People, Parks, and Climate Change
-<hr>
-<br/>
+<!-- ## People, Parks, and Climate Change -->
+<!-- <hr> -->
+<!-- <br/> -->
 
-**Strategies Dealing with Drought before the National Park**
+<!-- **Strategies Dealing with Drought before the National Park** -->
 
-<br/>
-<br/>
+<!-- <br/> -->
+<!-- <br/> -->
 
-<div style="float: left; width: 55%;">
+<!-- <div style="float: left; width: 55%;"> -->
 
-**<span style="color:darkgreen">WILDLIFE</span>: As drought intensifies, elephants compensate by increasing usage of areas nearest the river, including crop fields**
+<!-- **<span style="color:darkgreen">WILDLIFE</span>: As drought intensifies, elephants compensate by increasing usage of areas nearest the river, including crop fields** -->
 
-<br/>
+<!-- <br/> -->
 
-**<span style="color:darkgreen">HUMAN</span>: Village communities respond by using fencing and altering cropping practices **
+<!-- **<span style="color:darkgreen">HUMAN</span>: Village communities respond by using fencing and altering cropping practices ** -->
 
-</div>
+<!-- </div> -->
 
-<IMG STYLE="position:absolute; TOP:220px; LEFT:670px; WIDTH:300px; HEIGHT:400px" SRC="images/park3.png">
+<!-- <IMG STYLE="position:absolute; TOP:220px; LEFT:670px; WIDTH:300px; HEIGHT:400px" SRC="images/park3.png"> -->
 
-## People, Parks, and Climate Change
-<hr>
+<!-- ## People, Parks, and Climate Change -->
+<!-- <hr> -->
 
-<IMG STYLE="position:absolute; TOP:160px; LEFT:100px; WIDTH:800px; HEIGHT:500px" SRC="images/park4.png">
+<!-- <IMG STYLE="position:absolute; TOP:160px; LEFT:100px; WIDTH:800px; HEIGHT:500px" SRC="images/park4.png"> -->
 
 
