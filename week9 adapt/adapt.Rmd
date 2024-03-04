@@ -91,7 +91,7 @@ output:
 
 </div>
 
-<IMG STYLE="position:absolute; TOP:240px; LEFT:700px; WIDTH:350px; HEIGHT:300px" SRC="images/malaria.jpg">
+<IMG STYLE="position:absolute; TOP:240px; LEFT:705px; WIDTH:350px; HEIGHT:300px" SRC="images/malaria.jpg">
 
 ## Conditions necessary for natural selection
 <hr>
@@ -99,15 +99,15 @@ output:
 
 * **<span style="color:darkred">Variation</span>: Individuals in a population vary **
     + *mutation* as ultimate source of variation
-    + *migration* -> gene flow within species
+    + *migration* -> gene flow within species 
     + *introgression* -> genetics crosses species boundaries
 
-<br/>
 <br/>
 <br/>
 
 * **<span style="color:darkred">Heredity</span>: Offspring resemble parents **
     + DNA as primary mechanism of heredity
+    + If a trait is only environmentally determined, it cannot be adaptive
 
 <br/>
 
@@ -206,10 +206,10 @@ output:
 
 ## Natural selection: ruling out plasticity (w/ common gardens)
 <hr>
+**Do organisms from reciprocal transplants switch colors or change behaviors within a lifetime?**
+<IMG STYLE="position:absolute; TOP:190px; LEFT:125px; WIDTH:350px; HEIGHT:450px" SRC="images/plastic.png">
 
-<IMG STYLE="position:absolute; TOP:180px; LEFT:125px; WIDTH:350px; HEIGHT:450px" SRC="images/plastic.png">
-
-<IMG STYLE="position:absolute; TOP:180px; LEFT:600px; WIDTH:350px; HEIGHT:450px" SRC="images/plastic2.png">
+<IMG STYLE="position:absolute; TOP:190px; LEFT:600px; WIDTH:350px; HEIGHT:450px" SRC="images/plastic2.png">
 
 ## Natural selection: measuring selection in nature
 <hr>
@@ -239,7 +239,7 @@ output:
 
 <!-- <IMG STYLE="position:absolute; TOP:160px; LEFT:50px; WIDTH:900px; HEIGHT:500px" SRC="images/mutate3.png"> -->
 
-## Natural selection: apply findings across species
+## Natural selection: apply new findings across species
 <hr>
 
 <IMG STYLE="position:absolute; TOP:160px; LEFT:100px; WIDTH:900px; HEIGHT:500px" SRC="images/species2.png">
