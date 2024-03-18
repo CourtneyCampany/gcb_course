@@ -87,7 +87,7 @@ output:
 
 <br/>
 
-**<span style="color:red">Never before has an extinction spasm been caused by a single species at such high velocity</span>**
+**<span style="color:red">Never before has a large extinction event been caused by a single species at such high velocity</span>**
 
 <IMG STYLE="position:absolute; TOP:160px; LEFT:150px; WIDTH:800px; HEIGHT:350px" SRC="images/paper.png">
 
@@ -327,10 +327,10 @@ output:
 **Amphibians are infected with Bd by contact with other animals or by spores floating in the water** 
 <br/>
 
-**Eats away at their skin and triggering fatal heart attacks**
+**Eats away at their skin and triggers fatal heart attacks**
 <br/>
 
-**Before it dies, a frog may manage to hop its way to a new stream or pond, spreading the fungus further.**
+**Before it dies, a frog may manage to move to a new stream or pond, spreading the fungus further.**
 
 <IMG STYLE="position:absolute; TOP:240px; LEFT:100px; WIDTH:900px; HEIGHT:220px" SRC="images/bdbad.png">
 
@@ -431,7 +431,7 @@ output:
 
 **500 species of amphibians have declined significantly because of the outbreak — including at least 90 species presumed to have gone extinct (2019)**
 
-<IMG STYLE="position:absolute; TOP:220px; LEFT:0px; WIDTH:1100px; HEIGHT:400px" SRC="images/everywehre.jpeg">
+<IMG STYLE="position:absolute; TOP:220px; LEFT:20px; WIDTH:1050px; HEIGHT:400px" SRC="images/everywehre.jpeg">
 
 
 
@@ -486,9 +486,9 @@ output:
 
 <IMG STYLE="position:absolute; TOP:200px; LEFT:10px; WIDTH:550px; HEIGHT:450px" SRC="images/military.png">
 
-<div style="float: right; width: 45%;">
+<div style="float: right; width: 47%;">
 
-**British biotech firm this week got the green light from U.S. regulators to release over 2 million genetically modified mosquitoes in Florida and California**
+**British biotech firm has the  green light from U.S. regulators to release over 2 million genetically modified mosquitoes in Florida and California**
 
 <br/>
 
@@ -498,4 +498,29 @@ output:
 
 **Genetically modified male (non-biting) mosquitoes mate with invasive female Aedes aegypti mosquitoes, mediating a reduction of the target population as the female offspring of these encounters cannot survive**
 
+<br/>
+
+<span style="color:red">**Effects on humans may be clear but what about the broader community?**</span>
+
 </div>
+
+## Next Time: Sixth Mass Extinction Open Discussion
+<hr>
+<br/>
+
+* **FACT, FICTION or SPECULATION?**
+
+<br/>
+
+* **Do some digging and pick a side**
+    + provide evidence of your choice
+    + be ready to argue your point/s
+
+<br/>   
+
+* **Create a list of the complexities that make any of the choices not straightforward**
+
+<br/>
+
+* **Submit you findings on Brightspace**
+    

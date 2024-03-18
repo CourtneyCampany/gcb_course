@@ -51,9 +51,13 @@ output:
 
 **Approach 2: <span style="color:blue">Resurrection ecology</span>**
 
+ <br/>
+ 
+**CTmax - upper threshold of temperature that an organism can function normally**
+
 <IMG STYLE="position:absolute; TOP:160px; LEFT:20px; WIDTH:700px; HEIGHT:250px" SRC="images/daphnia2.png">
 
-<IMG STYLE="position:absolute; TOP:160px; LEFT:800px; WIDTH:200px; HEIGHT:500px" SRC="images/daphnia.png">
+<IMG STYLE="position:absolute; TOP:150px; LEFT:800px; WIDTH:200px; HEIGHT:500px" SRC="images/daphnia.png">
 
 ## Case study: *Daphnia*
 <hr>
@@ -95,7 +99,7 @@ output:
 <hr>
 <br/>
 
-**Daphnia not only interact strongly with its phytoplankton food resource, but also with other components of the pelagic ecosystem**
+**Daphnia not only interact strongly with its phytoplankton food resource, but also with other components of marine food webs**
 
 <IMG STYLE="position:absolute; TOP:260px; LEFT:250px; WIDTH:600px; HEIGHT:400px" SRC="images/daphnia3.png">
 
@@ -185,7 +189,7 @@ output:
 
 <br/>
 
-**What traits make a species more likely to exhibit the adapt response**
+**What traits make a species more likely to exhibit the adapt response?**
 
 <br/>
 
@@ -309,7 +313,7 @@ output:
 <hr>
 <br/>
 
-* **Previous journal club message: Humans have high adaptive capacity..**
+* **Do Humans have high adaptive capacity..**
 
 <br/>
 
