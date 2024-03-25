@@ -7,10 +7,10 @@ output:
     smaller: true
 ---
 
-<!-- ## Course Roadmap -->
-<!-- <hr> -->
+## Course Roadmap
+<hr>
 
-<!-- <IMG STYLE="position:absolute; TOP:160px; LEFT:100px; WIDTH:900px; HEIGHT:500px" SRC="images/course.png"> -->
+<IMG STYLE="position:absolute; TOP:160px; LEFT:100px; WIDTH:900px; HEIGHT:500px" SRC="images/course.png">
 
 ## Organismal response to global change
 <hr>
@@ -79,13 +79,13 @@ output:
 
 ## Failure to move can lead to extinction
 <hr>
-
-<IMG STYLE="position:absolute; TOP:160px; LEFT:100px; WIDTH:900px; HEIGHT:500px" SRC="images/trees.jpg">
+**What are the dilemmas to the move response?**
+<IMG STYLE="position:absolute; TOP:180px; LEFT:100px; WIDTH:900px; HEIGHT:500px" SRC="images/trees.jpg">
 
 ## Failure to move can lead to extinction
 <hr>
-
-<IMG STYLE="position:absolute; TOP:200px; LEFT:150px; WIDTH:800px; HEIGHT:450px" SRC="images/birdmove.png">
+**Is the 'higher elevation" move response just an escalator to hell?**
+<IMG STYLE="position:absolute; TOP:220px; LEFT:150px; WIDTH:800px; HEIGHT:450px" SRC="images/birdmove.png">
 
 ## Or organisms can move but then not successfully establish.
 <hr>
@@ -106,7 +106,7 @@ output:
 
 <br/>
 
-**Low-altitude pikas must adjust/adpat to cope with low oxygen of higher altitudes**
+**Low-altitude pikas must adjust/adapt to cope with low oxygen of higher altitudes**
 
 <br/>
 
@@ -124,7 +124,7 @@ output:
 <hr>
 <br/>
 
-**<span style="color:blue">Strong natural selection can actually reduce genetic variation in a population, making it more vulnerable to future changes</span>**
+**<span style="color:blue">Strong natural selection can actually reduce genetic variation in a population, making it more vulnerable to future changes (if the environment shifts in another direction - or has multiple stressors).</span>**
 
 <!-- <IMG STYLE="position:absolute; TOP:160px; LEFT:700px; WIDTH:400px; HEIGHT:400px" SRC="images/adaptdie.png"> -->
 
