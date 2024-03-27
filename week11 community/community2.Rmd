@@ -30,15 +30,15 @@ output:
 <br/>
 <br/>
 
-<IMG STYLE="position:absolute; TOP:225px; LEFT:45px; WIDTH:600px; HEIGHT:400px" SRC="images/forests.jpeg">
+<IMG STYLE="position:absolute; TOP:225px; LEFT:25px; WIDTH:600px; HEIGHT:400px" SRC="images/forests.jpeg">
 
-<div style="float: right; width: 35%;">
+<div style="float: right; width: 40%;">
 
-**<span style="color:blue">Biological implications</span>**
+**<span style="color:blue">Biological implications of change</span>**
 
 <br/>
 
-**Philosophical implications**
+**Philosophical implications of change**
 
 </div>
 
@@ -53,7 +53,7 @@ output:
 
 <IMG STYLE="position:absolute; TOP:400px; LEFT:760px; WIDTH:300px; HEIGHT:275px" SRC="images/frog.jpg">
 
-## Cascading effects
+## Cascading effects across many species
 <hr>
 <br/>
 <br/>
@@ -148,7 +148,7 @@ output:
 <hr>
 <br/>
 
-<div style="float: left; width: 50%;">
+<div style="float: left; width: 55%;">
 
 - **Changes can have impacts many <span style="color:red">trophic levels</span> away**
     + trophic levels = feeding relationships
@@ -183,15 +183,15 @@ output:
 <br/>
 <br/>
 
-<IMG STYLE="position:absolute; TOP:225px; LEFT:45px; WIDTH:600px; HEIGHT:400px" SRC="images/forests.jpeg">
+<IMG STYLE="position:absolute; TOP:225px; LEFT:25px; WIDTH:600px; HEIGHT:400px" SRC="images/forests.jpeg">
 
-<div style="float: right; width: 35%;">
+<div style="float: right; width: 40%;">
 
-**Biological implications**
+**Biological implications of change**
 
 <br/>
 
-**<span style="color:blue">Philosophical implications</span>**
+**<span style="color:blue">Philosophical implications of change</span>**
 
 </div>
 
@@ -226,7 +226,7 @@ output:
 ## True interconnectedness: Nothing exists in isolation
 <hr>
 
-**Even in modern selfie culture, can you separate YOU from everything else?**
+**Even in modern social media  culture, can you separate YOU from everything else?**
 
 <IMG STYLE="position:absolute; TOP:220px; LEFT:100px; WIDTH:900px; HEIGHT:450px" SRC="images/human.jpg">
 
@@ -262,7 +262,7 @@ output:
 
 <br/>
 
-**Do something small this week to begin busting down some of the walls of separation!**
+**To make progress we must bustdown some of the walls of separation!**
 
 </div>
 
@@ -294,11 +294,6 @@ output:
 <br/>
 
 **Choose a subject to write about or find an article to discuss**
-
 <br/>
-
 **<span style="color:blue">Submit an short paragraph of your conclusions to Brightspace for participation</span>**
 
-##
-
-<IMG STYLE="position:absolute; TOP:50px; LEFT:250px; WIDTH:450px; HEIGHT:600px" SRC="images/WinningPicture.jpg">
