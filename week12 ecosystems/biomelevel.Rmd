@@ -96,9 +96,9 @@ output:
 <hr>
 <span style="color:green">**NITROGEN**</span>
 
-<IMG STYLE="position:absolute; TOP:180px; LEFT:20px; WIDTH:500px; HEIGHT:500px" SRC="images/nitro2.jpg">
+<IMG STYLE="position:absolute; TOP:180px; LEFT:150px; WIDTH:800px; HEIGHT:500px" SRC="images/nitrogenbiogeo.png">
 
-<IMG STYLE="position:absolute; TOP:260px; LEFT:550px; WIDTH:550px; HEIGHT:250px" SRC="images/fixation.jpeg">
+<!-- <IMG STYLE="position:absolute; TOP:260px; LEFT:550px; WIDTH:550px; HEIGHT:250px" SRC="images/fixation.jpeg"> -->
 
 ## Why care about Nitrogen?
 <hr>
@@ -112,7 +112,7 @@ output:
 <br/>
 
 - **Nitrogen is the limiting factor in how productive plant growth can be**
-    + via chlorophyll and Rubisco (15%)
+    + via chlorophyll and Rubisco enzyme (15%)
     + producers at bottom of food webs
     + human food security
 
@@ -141,20 +141,20 @@ output:
 <hr>
 <span style="color:purple">**CARBON**</span>
 
-<IMG STYLE="position:absolute; TOP:180px; LEFT:100px; WIDTH:900px; HEIGHT:500px" SRC="images/carbonland.png">
+<IMG STYLE="position:absolute; TOP:180px; LEFT:150px; WIDTH:800px; HEIGHT:500px" SRC="images/carbonbiogeo.png">
 
-## Energy and matter movement are goverened by global cycles
-<hr>
-<span style="color:purple">**CARBON**</span>
+<!-- ## Energy and matter movement are goverened by global cycles -->
+<!-- <hr> -->
+<!-- <span style="color:purple">**CARBON**</span> -->
 
-<IMG STYLE="position:absolute; TOP:180px; LEFT:100px; WIDTH:900px; HEIGHT:500px" SRC="images/carbonworld.png">
+<!-- <IMG STYLE="position:absolute; TOP:180px; LEFT:100px; WIDTH:900px; HEIGHT:500px" SRC="images/carbonworld.png"> -->
 
 ## Why care about carbon?
 <hr>
 
 <div style="float: left; width: 52%;">
 
-**Carbon is in carbon dioxide, which is a greenhouse gas that works to trap heat close to Earth**
+**Carbon is in carbon dioxide and methane, both greenhouse gases that trap heat close to Earth**
 
 <br/>
 
@@ -236,7 +236,7 @@ output:
 
 <IMG STYLE="position:absolute; TOP:210px; LEFT:150px; WIDTH:800px; HEIGHT:450px" SRC="images/oceanprovince.jpg">
 
-## Are foundationals of biomes changing?
+## Are foundations of biomes changing?
 <hr>
 
 <IMG STYLE="position:absolute; TOP:160px; LEFT:200px; WIDTH:700px; HEIGHT:500px" SRC="images/surface.jpg">

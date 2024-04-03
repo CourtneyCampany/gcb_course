@@ -36,6 +36,9 @@ output:
 
 **<span style="color:blue">Ecosystem services</span>: processes & products that benefit humans**
 
+<br/>
+
+**Ecosystem services are maximized by properly functioning ecosystems**
 </div>
 
 <IMG STYLE="position:absolute; TOP:300px; LEFT:560px; WIDTH:550px; HEIGHT:300px" SRC="images/functions.png">
@@ -133,7 +136,11 @@ output:
 
 **<span style="color:red">Positive feedback loops</span>: <span style="color:darkorange">Abiotic</span> and biotic feedbacks from deforestation**
 
-<IMG STYLE="position:absolute; TOP:300px; LEFT:0px; WIDTH:1100px; HEIGHT:200px" SRC="images/fireeffect.png"> 
+<br/>
+
+**Ecoystem functioning can then be hijacked by positive feedbacks from global change factors**
+
+<IMG STYLE="position:absolute; TOP:380px; LEFT:0px; WIDTH:1100px; HEIGHT:200px" SRC="images/fireeffect.png"> 
 
 ## Feedbacks: when a process/system is modified by its own effects
 <hr>
@@ -149,7 +156,7 @@ output:
 <br/>
 <br/>
 
-**Habitat loss has direct *negative* effects like removing organisms but also has *cascading* effects by facilitating invasions, allowing increased access to hunters, changing fire regimes, etc...**
+**Habitat loss has direct *negative* effects like removing organisms but also has *cascading* effects by facilitating invasions, allowing increased access to hunters (over-harvesting), changing fire regimes, etc...**
 
 <br/>
 
@@ -171,9 +178,12 @@ output:
 ## Feedbacks: when a process/system is modified by its own effects
 <hr>
 
-**<span style="color:red">Negative feedback loops</span>: why we don’t talk about them much from a GCB perspective**
+**<span style="color:red">Negative feedback loops</span>: works to reduce initial stimulus and return system to normal**
+<br/>
 
-<IMG STYLE="position:absolute; TOP:240px; LEFT:40px; WIDTH:1000px; HEIGHT:400px" SRC="images/Picture1.png">
+**Exist naturally in biological systems, but not a big component of global change**
+
+<IMG STYLE="position:absolute; TOP:280px; LEFT:00px; WIDTH:1100px; HEIGHT:375px" SRC="images/negativefeed.png">
 
 ## Threshold effects
 <hr>
@@ -192,7 +202,7 @@ output:
 
 <IMG STYLE="position:absolute; TOP:240px; LEFT:100px; WIDTH:900px; HEIGHT:400px" SRC="images/threshold.png">
 
-## Threshold effects
+## Tipping points are generally unknown, making restoration hard
 <hr>
 
 **<span style="color:red">Restoration always involves addressing the prior threats </span>**
@@ -202,7 +212,7 @@ output:
 ## Resilience and restoration
 <hr>
 
-**<span style="color:blue">Many factors contribute to resilience and potential for restoration </span>(use Taking a Closer Look as a study guide)**
+**<span style="color:blue">Many factors contribute to resilience and potential for restoration </span>(use Taking a Closer Look as a study guide and remember the hammer and nail analogy)**
 
 
 <IMG STYLE="position:absolute; TOP:240px; LEFT:150px; WIDTH:800px; HEIGHT:400px" SRC="images/resilence.jpg">
@@ -284,7 +294,7 @@ output:
 
 <br/>
 
-* **This class design fights this style, but it is not enough...**
+* **This class design trys to fight this style, but it is not enough...**
     + you are still pressured, stressed and running on empty
 </div>
 
