@@ -85,7 +85,7 @@ output:
 
 <IMG STYLE="position:absolute; TOP:380px; LEFT:850px; WIDTH:200px; HEIGHT:300px" SRC="images/funding.png">
 
-## Defining priorities for conservation
+## Defining priorities for conservation (hard choices ahead)
 <hr>
 <br/>
 <br/>
@@ -106,7 +106,7 @@ output:
 
 <IMG STYLE="position:absolute; TOP:250px; LEFT:550px; WIDTH:550px; HEIGHT:400px" SRC="images/treelife.png">
 
-## Defining priorities for conservation
+## Defining priorities for conservation (hard choices ahead)
 <hr>
 <span style="color:darkred">**What types of species or ecosystems should be highest priority?**</span>
 
@@ -117,6 +117,8 @@ output:
 * **Rare species?**	
 <br/>
 * **Strong ecological interactors?**	
+<br/>
+<span style="color:darkred">**Pros and Cons list might look like:**</span>
 <br/>
 * **Species under most stress?**
 <br/>
@@ -136,7 +138,7 @@ output:
 <br/>
 * **Young species?**
 
-<IMG STYLE="position:absolute; TOP:300px; LEFT:650px; WIDTH:250px; HEIGHT:200px" SRC="images/oprah.jpg">
+<IMG STYLE="position:absolute; TOP:300px; LEFT:600px; WIDTH:350px; HEIGHT:250px" SRC="images/oprah.jpg">
 
 ## Say we decide to prioritize a favorite species
 <hr>
@@ -162,7 +164,7 @@ output:
 ## Say we decide to prioritize a favorite species
 <hr>
 
-**Should we give more conservation attention to the more <span style="color:darkred">susceptible</span> (they need our help) or the more <span style="color:darkred">resistant</span> (they might actually survive) populations?**
+**Should we give more conservation attention to the more <span style="color:darkred">susceptible</span> (they need our help) or the more <span style="color:darkred">resistant</span> (they might actually survive) populations?** <span style="color:blue"> **What would you vote for?**</span>
 
 <IMG STYLE="position:absolute; TOP:250px; LEFT:100px; WIDTH:900px; HEIGHT:400px" SRC="images/frogcali.png">
 
@@ -173,7 +175,8 @@ output:
 <br/>
 <br/>
 <br/>
-<br/>
+
+<span style="color:blue">**Saving the Yellow-legged mountain frog**</span>
 
 * **Captive breeding**
 <br/>
@@ -185,9 +188,13 @@ output:
 <br/>
 * **Legislation**
 
+<br/>
+
+<span style="color:blue"> **What would you vote for?**</span>
+
 <IMG STYLE="position:absolute; TOP:160px; LEFT:800px; WIDTH:250px; HEIGHT:500px" SRC="images/treatments.png">
 
-<IMG STYLE="position:absolute; TOP:300px; LEFT:360px; WIDTH:300px; HEIGHT:175px" SRC="images/savefrog2.jpg">
+<IMG STYLE="position:absolute; TOP:350px; LEFT:360px; WIDTH:300px; HEIGHT:175px" SRC="images/savefrog2.jpg">
 
 ## Defining priorities for conservation
 <hr>
@@ -201,7 +208,7 @@ output:
 
 ## Defining priorities for conservation
 <hr>
-**<span style="color:darkred">Example</span>:   selection algorithms: computer algorithms that apply biodiversity optimization rules**
+**<span style="color:darkred">Example</span>:   selection algorithms are computer algorithms that apply biodiversity optimization rules**
 
 <div style="float: right; width: 60%;">
 <br/>
