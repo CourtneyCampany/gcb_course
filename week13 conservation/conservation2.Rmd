@@ -51,6 +51,11 @@ output:
 <br/>
 **I'm not sure how I feel about this**
 
+<br/>
+
+**Why?**
+
+
 <IMG STYLE="position:absolute; TOP:260px; LEFT:550px; WIDTH:500px; HEIGHT:400px" SRC="images/mouse.jpg">
 
 ## Thought experiment
@@ -108,7 +113,7 @@ output:
 
 <IMG STYLE="position:absolute; TOP:230px; LEFT:50px; WIDTH:1000px; HEIGHT:430px" SRC="images/paper.png"> 
 
-## Translocations
+## Translocations - Would you vote yes to every animal?
 <hr>
 <br/>
 
@@ -147,7 +152,7 @@ output:
 <br/>
 <br/>
 
-<span style="color:blue">**But also tons of controversy with concerns about the impacts of wolf populations on livestock, and deer/elk hunting**</span>
+<span style="color:blue">**But also tons of controversy with concerns about the impacts of wolf populations on livestock, humnas, and deer/elk hunting**</span>
 
 </div>
 
@@ -177,20 +182,18 @@ output:
 
 ## Thought experiment
 <hr>
-<br/>
 
-**But what if there aren’t any other extant populations of the species we want to restore?** 
+**But what if there aren’t any other living populations of the species we want to restore?** 
 
 
-<IMG STYLE="position:absolute; TOP:240px; LEFT:100px; WIDTH:900px; HEIGHT:450px" SRC="images/extinct.png">
+<IMG STYLE="position:absolute; TOP:220px; LEFT:100px; WIDTH:900px; HEIGHT:450px" SRC="images/extinct.png">
 
 ## Translocations
 <hr>
-<br/>
 
-**<span style="color:red">Can we justify translocating close relatives</span>**
+**<span style="color:red">Can we justify translocating close relatives, with similar ecological roles?</span>**
 
-<IMG STYLE="position:absolute; TOP:240px; LEFT:50px; WIDTH:1000px; HEIGHT:450px" SRC="images/mouse3.png">
+<IMG STYLE="position:absolute; TOP:220px; LEFT:50px; WIDTH:1000px; HEIGHT:450px" SRC="images/mouse3.png">
 
 ## Thought experiment
 <hr>
@@ -240,7 +243,7 @@ output:
 
 <div style="float: left; width: 45%;">
 
-**<span style="color:blue">Niche differentiation</span> between saddleback (in gray) and domed (in black) tortoises introduced to Pinta **
+**<span style="color:blue">Niche differences</span> between saddleback (in gray) and domed (in black) tortoises introduced to Pinta **
 
 </div>
 
@@ -255,8 +258,6 @@ output:
 **And how far away (in terms of geography or relatedness) is too far?**
 
 <br/>
-<br/>
-
 
 **For example, should we introduce ecological analogs from Africa to the US?**
 
@@ -273,8 +274,6 @@ output:
 **And how far away (in terms of geography or relatedness) is too far?**
 
 <br/>
-<br/>
-
 
 **For example, should we introduce ecological analogs from Africa to the US?**
 
@@ -286,7 +285,7 @@ output:
 
 <IMG STYLE="position:absolute; TOP:150px; LEFT:600px; WIDTH:400px; HEIGHT:600px" SRC="images/gazellelion.png">
 
-<IMG STYLE="position:absolute; TOP:420px; LEFT:50px; WIDTH:450px; HEIGHT:200px" SRC="images/papertitle.png">
+<IMG STYLE="position:absolute; TOP:450px; LEFT:50px; WIDTH:450px; HEIGHT:200px" SRC="images/papertitle.png">
 
 ## Taxon substitution
 <hr>
@@ -301,7 +300,7 @@ output:
 
 <div style="float: left; width: 45%;">
 
-**IF we can resurrect species, why don’t we just bring back the species that went extinct and not fuss about taxon substitutions**
+**If we can resurrect species, why don’t we just bring back the species that went extinct and not fuss about taxon substitutions**
 
 </div>
 
@@ -325,19 +324,16 @@ output:
 
 ## De-extinction
 <hr>
-<br/>
-
 **Death of “Sudan” last male of his subspecies**
 
-<IMG STYLE="position:absolute; TOP:225px; LEFT:50px; WIDTH:1000px; HEIGHT:450px" SRC="images/rhino2.png">
+<IMG STYLE="position:absolute; TOP:200px; LEFT:50px; WIDTH:1000px; HEIGHT:450px" SRC="images/rhino2.png">
 
 ## De-extinction
 <hr>
-<br/>
 
 **Two remaining females (his daughter & granddaughter)**
 
-<IMG STYLE="position:absolute; TOP:225px; LEFT:50px; WIDTH:1000px; HEIGHT:450px" SRC="images/rhino3.png">
+<IMG STYLE="position:absolute; TOP:200px; LEFT:50px; WIDTH:1000px; HEIGHT:450px" SRC="images/rhino3.png">
 
 ## De-extinction
 <hr>
@@ -412,9 +408,9 @@ output:
 
 <br/>
 
-* **Pick one topic and write a reflection or report on an intersting article**
+* **Pick one topic and write a reflection or report on an interesting article**
     + Should we restore biodiversity through de-extinction?
-    + Should we use existing technology to engineer climate resilence in threatened species?
+    + Should we use existing technology to engineer climate resilience in threatened species?
     
 <br/>
 
