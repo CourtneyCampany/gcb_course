@@ -18,7 +18,7 @@ output:
 
 <br/>
 
-**Human survival depends on thriving ecosysytems and ecosystem health now depends on the choice humans make**
+**Human survival depends on thriving ecosystems and ecosystem health now depends on the choice humans make**
 </div>
 
 <IMG STYLE="position:absolute; TOP:160px; LEFT:550px; WIDTH:450px; HEIGHT:500px" SRC="images/interact.png">
@@ -34,7 +34,7 @@ output:
 
 <br/>
 
-**Successful biodiversity conservation will require addressing needs and inequities in human societies**
+<span style="color:blue">**Successful biodiversity conservation will require addressing needs and inequities in human societies**</span>
 
 </div>
 
@@ -51,11 +51,11 @@ output:
 
 <br/>
 
-**Successful biodiversity conservation will require addressing needs and inequities in human societies**
+<span style="color:blue">**Successful biodiversity conservation will require addressing needs and inequities in human societies**</span>
 
 <br/>
 
-**And successful social reform and sustainable futures for humans will require biodiversity conservation**
+<span style="color:blue">**And successful social reform and sustainable futures for humans will require biodiversity conservation**</span>
 
 </div>
 
@@ -154,6 +154,7 @@ output:
 
 ## Extinction class sessions
 <hr>
+
 <div style="float: left; width: 50%;">
 <br/>
 
@@ -291,6 +292,9 @@ output:
 
 **Even in college classes**
 
+<br/>
+
+<span style="color:blue">**By acknowledging it we can learn how to deal with it and how to make appropriate actions in the future to alter the root cause**</span>
 </div>
 
 <IMG STYLE="position:absolute; TOP:160px; LEFT:525px; WIDTH:500px; HEIGHT:500px" SRC="images/quote.jpg">
@@ -303,13 +307,16 @@ output:
 
 <div style="float: right; width: 45%;">
 
-**Reinforce the truth: that things wouldn’t be depressing if we didn’t care deeply**
+<span style="color:blue">**Reinforce the truth:</span> that things wouldn’t be depressing if we didn’t care deeply**
 
 <br/>
 <br/>
 
 **Connecting to deep caring is totally different than a false “finding the silver lining”**
 
+<br/>
+
+**For example, this object in this picture could be reversed**
 </div>
 
 <IMG STYLE="position:absolute; TOP:200px; LEFT:15px; WIDTH:500px; HEIGHT:400px" SRC="images/carryearth.jpg">
