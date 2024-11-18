@@ -7,13 +7,6 @@ output:
     smaller: true
 ---
 
-## First Issue: Words matter - What's in a name...
-<hr>
-
-<IMG STYLE="position:absolute; TOP:200px; LEFT:25px; WIDTH:550px; HEIGHT:450px" SRC="images/climatesick.png">
-
-<IMG STYLE="position:absolute; TOP:200px; LEFT:595px; WIDTH:500px; HEIGHT:450px" SRC="images/words.jpg">
-
 ## Major arguments against climate/global change
 <hr>
 <br/>
@@ -45,8 +38,9 @@ output:
 
 <IMG STYLE="position:absolute; TOP:180px; LEFT:100px; WIDTH:900px; HEIGHT:450px" SRC="images/CO2_history.jpg">
 
-## Evidence for rapid change (https://climate.nasa.gov/evidence/)
+## Evidence for RAPID change (https://climate.nasa.gov/evidence/)
 <hr>
+<br/>
 
 * **Global temperature rise**
     + The planet's average surface temperature has risen about 1.1 degrees Celsius (°C) – since the late 19th century. Mostly in the past 40 years.
@@ -54,7 +48,7 @@ output:
 <br/>
 
 * **Warming oceans**
-    + Rising temperatures are causing glaciers and ice sheets to melt, adding more water to the oceans and causing the sea level to rise. Oceans absorb 90% of the extra heat from global warming with the top 100 meters of ocean showing warming of more than 0.33°C (0.6°F) since 1969. A buoy of the coast of Key West hit 100°F last summer. 
+    + Rising temperatures are causing glaciers and ice sheets to melt, adding more water to the oceans and causing the sea level to rise. Oceans absorb 90% of the extra heat from global warming with the top 100 meters of ocean showing warming of more than 0.33°C (0.6°F) since 1969. Buoys of the coast of Key West are now reaching 100°F in the summer. 
   
 <br/>
 
@@ -88,18 +82,10 @@ output:
 ## How warm has is gotten?
 <hr>
 
-https://ed-hawkins.github.io/climate-visuals/SPIRALS/global_temperature_spiral_2023_large.gif
+https://ed-hawkins.github.io/climate-visuals/SPIRALS/global_temperature_spiral_2024_large.gif
 
-<br/>
-<div style="float: left; width: 50%;">
 
-**This past July was the hottest month every recorded. July 2023 was 0.24 degrees Celsius (C) warmer than any other July in NASA’s record**
-
-</div>
-
-<IMG STYLE="position:absolute; TOP:200px; LEFT:550px; WIDTH:450px; HEIGHT:450px" SRC="images/florida100.png">
-
-<IMG STYLE="position:absolute; TOP:325px; LEFT:25px; WIDTH:500px; HEIGHT:300px" SRC="images/2023climate.png">
+<IMG STYLE="position:absolute; TOP:220px; LEFT:100px; WIDTH:900px; HEIGHT:450px" SRC="images/totalwarming.png">
 
 ## Myth 2 = NO: Climate and weather are not the same thing
 <hr>
@@ -122,6 +108,13 @@ https://ed-hawkins.github.io/climate-visuals/SPIRALS/global_temperature_spiral_2
 
 <IMG STYLE="position:absolute; TOP:240px; LEFT:25px; WIDTH:520px; HEIGHT:300px" SRC="images/tweets.png">
 
+## Issue: Words matter - What's in a name...
+<hr>
+
+<IMG STYLE="position:absolute; TOP:220px; LEFT:25px; WIDTH:550px; HEIGHT:400px" SRC="images/tweets.png">
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:595px; WIDTH:500px; HEIGHT:450px" SRC="images/words.jpg">
+
 ## Myth 3 = NO: CO~2~ emissions far outpace natural carbon sinks
 <hr>
 <br/>
@@ -142,7 +135,7 @@ https://ed-hawkins.github.io/climate-visuals/SPIRALS/global_temperature_spiral_2
 
 </div>
 
-<IMG STYLE="position:absolute; TOP:180px; LEFT:655px; WIDTH:350px; HEIGHT:450px" SRC="images/sink.jpg">
+<IMG STYLE="position:absolute; TOP:180px; LEFT:655px; WIDTH:390px; HEIGHT:450px" SRC="images/sink.jpg">
 
 ## 
 
@@ -160,10 +153,11 @@ https://ed-hawkins.github.io/climate-visuals/SPIRALS/global_temperature_spiral_2
 
 ## Lessons learned on the power of trees
 <hr>
+**Green points on graph are sweetgum forests fumigated with extra CO~2~**
 
-<IMG STYLE="position:absolute; TOP:180px; LEFT:25px; WIDTH:350px; HEIGHT:450px" SRC="images/treeproject.png">
+<IMG STYLE="position:absolute; TOP:200px; LEFT:25px; WIDTH:350px; HEIGHT:450px" SRC="images/treeproject.png">
 
-<IMG STYLE="position:absolute; TOP:180px; LEFT:430px; WIDTH:575px; HEIGHT:400px" SRC="images/treeNPP.jpeg">
+<IMG STYLE="position:absolute; TOP:200px; LEFT:430px; WIDTH:575px; HEIGHT:400px" SRC="images/treeNPP.jpeg">
 
 ## Myth 4 = NO: Natural factors cannot explain change alone
 <hr>
@@ -174,6 +168,10 @@ https://ed-hawkins.github.io/climate-visuals/SPIRALS/global_temperature_spiral_2
 <hr>
 
 <IMG STYLE="position:absolute; TOP:180px; LEFT:150px; WIDTH:800px; HEIGHT:500px" SRC="images/greataccel.jpg">
+
+## 
+
+<IMG STYLE="position:absolute; TOP:100px; LEFT:0px; WIDTH:1100px; HEIGHT:500px" SRC="images/co2emissions_now.png">
 
 ## Defining the Anthropocene...epoch or event?
 <hr>
@@ -228,6 +226,11 @@ https://ed-hawkins.github.io/climate-visuals/SPIRALS/global_temperature_spiral_2
 * **We already have the technology and systems to achieve net zero carbon emissions by 2050!**
     + progress will depend on behaviors and decisions of people
     
+## We need more frequency holders...
+<hr>  
+    
+<IMG STYLE="position:absolute; TOP:180px; LEFT:100px; WIDTH:900px; HEIGHT:500px" SRC="images/tolle.jpg">
+
 ## Climate doom and gloom should scare AND encourage people
 <hr>
 <br/>
