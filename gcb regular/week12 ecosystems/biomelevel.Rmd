@@ -1,0 +1,247 @@
+---
+title: "Ecosystem and Biome-Level Responses I"
+output: 
+  ioslides_presentation:
+    css: custom.css
+    widescreen: true
+    smaller: true
+---
+
+<!-- ## Session Objective -->
+<!-- <hr> -->
+
+<!-- **Continue with understanding complex systemic responses to global change pressures** -->
+
+<!-- <IMG STYLE="position:absolute; TOP:220px; LEFT:125px; WIDTH:850px; HEIGHT:450px" SRC="images/model3.png"> -->
+
+## Global change impacts Earth's systems
+<hr>
+<br/>
+<br/>
+<br/>
+
+<div style="float: left; width: 50%;">
+
+**Many of Earth's system's interact at the ecosystem level**
+
+<br/>
+
+**Ecosystem = **
+
+<br/>
+
+**A change in just one <span style="color:blue">*biotic*</span> or <span style="color:blue">*abiotic*</span> factor can alter complex relationships and have large scale consequences**
+
+</div>
+
+<IMG STYLE="position:absolute; TOP:220px; LEFT:575px; WIDTH:450px; HEIGHT:450px" SRC="images/earthsystems.png">
+
+## In ecosystems, abiotic and biotic processes interact
+<hr>
+<br/>
+
+<div style="float: left; width: 50%;">
+
+**Ecosystems (and higher levels) are regulated by the <span style="color:darkred">flow of energy</span> and the <span style="color:darkred">cycling of nutrients</span>**
+
+<br/>
+
+**Life is composed of <span style="color:blue">energy</span> and <span style="color:blue">matter</span>, which is always on the move**
+
+<br/>
+
+- **Energy from the sun powers communities, ecosystems, biomes, etc**
+    + Second Law of Thermodynamics
+    + energy goes on a one-way trip
+    
+<br/>
+
+- **Matter, including the chemical building blocks of life, cycles around the biosphere**
+    + Law of Conservation of Mass
+
+</div>
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:575px; WIDTH:500px; HEIGHT:450px" SRC="images/energymatter.jpg">
+
+## Energy from the sun flows through food webs
+<hr>
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:25px; WIDTH:600px; HEIGHT:450px" SRC="images/foodweb.png">
+
+<IMG STYLE="position:absolute; TOP:240px; LEFT:620px; WIDTH:500px; HEIGHT:350px" SRC="images/cow.jpeg">
+
+## Global change can impact any level of energy flow
+<hr>
+
+<IMG STYLE="position:absolute; TOP:160px; LEFT:150px; WIDTH:800px; HEIGHT:500px" SRC="images/articfood.jpg">
+
+## Energy flow and efficiency is partially temperature dependent!
+<hr>
+<span style="color:red">**Projected decrease in transfer efficiency is expected to lead to a 21.3% decrease in abundance of predators in marine ecosystems**</span>
+
+<IMG STYLE="position:absolute; TOP:220px; LEFT:150px; WIDTH:800px; HEIGHT:450px" SRC="images/tempflow.jpg">
+
+## Energy and matter movement are goverened by global cycles
+<hr>
+<span style="color:blue">**WATER**</span>
+
+<IMG STYLE="position:absolute; TOP:180px; LEFT:100px; WIDTH:900px; HEIGHT:500px" SRC="images/watercycle.png">
+
+## Global change will alter most parts of the water cycle
+<hr>
+
+<IMG STYLE="position:absolute; TOP:160px; LEFT:150px; WIDTH:800px; HEIGHT:500px" SRC="images/waterchange.png">
+
+## Energy and matter movement are goverened by global cycles
+<hr>
+<span style="color:green">**NITROGEN**</span>
+
+<IMG STYLE="position:absolute; TOP:180px; LEFT:150px; WIDTH:800px; HEIGHT:500px" SRC="images/nitrogenbiogeo.png">
+
+<!-- <IMG STYLE="position:absolute; TOP:260px; LEFT:550px; WIDTH:550px; HEIGHT:250px" SRC="images/fixation.jpeg"> -->
+
+## Why care about Nitrogen?
+<hr>
+<br/>
+<br/>
+
+<div style="float: left; width: 48%;">
+
+**Nitrogen is one of the fundamental building blocks for life on Earth, especially plants**
+
+<br/>
+
+- **Nitrogen is the limiting factor in how productive plant growth can be**
+    + via chlorophyll and Rubisco enzyme (15%)
+    + producers at bottom of food webs
+    + human food security
+
+<br/>
+
+- **Nitrogen is a primary ingredient in fertilizers**
+
+</div>
+
+<IMG STYLE="position:absolute; TOP:220px; LEFT:570px; WIDTH:500px; HEIGHT:375px" SRC="images/plantnitro.png">
+
+## Global change will alter most parts of the nitrogen cycle
+<hr>
+<span style="color:red">**Not all the nutrients in fertilizers get absorbed by plants and the excess moves its way into rivers, lakes, oceans and groundwater as agricultural runoff**</span>
+
+<IMG STYLE="position:absolute; TOP:215px; LEFT:125px; WIDTH:850px; HEIGHT:450px" SRC="images/reactivenitro.jpg">
+
+## Got Nitrate?
+<hr>
+**https://earthobservatory.nasa.gov/images/44677/aquatic-dead-zones**
+<IMG STYLE="position:absolute; TOP:220px; LEFT:10px; WIDTH:550px; HEIGHT:350px" SRC="images/gulf2.jpg">
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:580px; WIDTH:550px; HEIGHT:400px" SRC="images/deadzone.jpg">
+
+## Energy and matter movement are goverened by global cycles
+<hr>
+<span style="color:purple">**CARBON**</span>
+
+<IMG STYLE="position:absolute; TOP:180px; LEFT:150px; WIDTH:800px; HEIGHT:500px" SRC="images/carbonbiogeo.png">
+
+<!-- ## Energy and matter movement are goverened by global cycles -->
+<!-- <hr> -->
+<!-- <span style="color:purple">**CARBON**</span> -->
+
+<!-- <IMG STYLE="position:absolute; TOP:180px; LEFT:100px; WIDTH:900px; HEIGHT:500px" SRC="images/carbonworld.png"> -->
+
+## Why care about carbon?
+<hr>
+
+<div style="float: left; width: 52%;">
+
+**Carbon is in carbon dioxide and methane, both greenhouse gases that trap heat close to Earth**
+
+<br/>
+
+- **Carbon is stored deep earth, plants and oceans for potentially long time scales**
+    + keeps carbon out of atmosphere
+ 
+<br/>
+ 
+- **Humans are (1) removing carbon from storage pools and (2) preventing carbon from entering storage pools**
+    + adds carbon to atmophere
+
+<br/>
+
+**Carbon footprint is used as shorthand for the amount of carbon being emitted by an activity or organization**
+
+</div>
+
+<IMG STYLE="position:absolute; TOP:180px; LEFT:575px; WIDTH:525px; HEIGHT:450px" SRC="images/carbonfootprint.jpg">
+
+## Global change will alter most parts of the carbon cycle
+<hr>
+
+<IMG STYLE="position:absolute; TOP:160px; LEFT:200px; WIDTH:700px; HEIGHT:500px" SRC="images/presentcarbon.jpg">
+
+<!-- ## Energy and matter movement are goverened by global cycles -->
+<!-- <hr> -->
+
+<!-- <IMG STYLE="position:absolute; TOP:180px; LEFT:20px; WIDTH:450px; HEIGHT:450px" SRC="images/sulfur2.jpg"> -->
+
+<!-- <IMG STYLE="position:absolute; TOP:180px; LEFT:530px; WIDTH:600px; HEIGHT:400px" SRC="images/phosnatural.jpg"> -->
+
+<!-- ## Global change alters these cycles too -->
+<!-- <hr> -->
+
+<!-- <IMG STYLE="position:absolute; TOP:180px; LEFT:50px; WIDTH:450px; HEIGHT:450px" SRC="images/sulfur.jpg"> -->
+
+<!-- <IMG STYLE="position:absolute; TOP:180px; LEFT:550px; WIDTH:450px; HEIGHT:450px" SRC="images/phoshuman.png"> -->
+
+## Why does global biogeochemistry matter?
+<hr>
+<br/>
+<br/>
+<br/>
+
+<div style="float: left; width: 50%;">
+
+**Biochemical cycles interact to regulate the biosphere, including climate &#8594;**
+
+</div>
+
+<IMG STYLE="position:absolute; TOP:180px; LEFT:550px; WIDTH:500px; HEIGHT:450px" SRC="images/biogeo.jpg">
+
+## Why does global biogeochemistry matter?
+<hr>
+<br/>
+<br/>
+<br/>
+
+<div style="float: left; width: 50%;">
+
+**Biochemical cycles interact to regulate the biosphere, including climate &#8594;**
+
+<br/>
+
+**Biogeochemistry is a foundation of biomes: living things adapted to a specific regions  &#8594;**
+
+<br/>
+
+**Ecosystems are the interactions with the biotic and abiotic within those regions**
+
+</div>
+
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:550px; WIDTH:550px; HEIGHT:400px" SRC="images/biomes.png">
+
+## Biogeochemical provinces in oceans shift...
+<hr>
+<span style="color:red">**Biogeochemical provinces are dynamic entities that change their spatial extent and position with climate and are expected to be perturbated in the near future by global change**</span>
+
+<IMG STYLE="position:absolute; TOP:210px; LEFT:150px; WIDTH:800px; HEIGHT:450px" SRC="images/oceanprovince.jpg">
+
+## Are foundations of biomes changing?
+<hr>
+
+<IMG STYLE="position:absolute; TOP:160px; LEFT:200px; WIDTH:700px; HEIGHT:500px" SRC="images/surface.jpg">
+
+## Does shifts in large scale systems impact humans?
+<hr>
+
+<IMG STYLE="position:absolute; TOP:160px; LEFT:225px; WIDTH:650px; HEIGHT:500px" SRC="images/soils.jpg">

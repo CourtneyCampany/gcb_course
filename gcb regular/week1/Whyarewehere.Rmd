@@ -1,0 +1,177 @@
+---
+title: "Why are we here?"
+output: 
+  ioslides_presentation:
+    css: custom2.css
+    widescreen: true
+    smaller: true
+---
+##
+
+<IMG STYLE="position:absolute; TOP:75px; LEFT:0px; WIDTH:1100px; HEIGHT:550px" SRC="images/whyhere2024.jpg">
+
+## Why are we here?
+<hr>
+<br/>
+<font size="5">*Because...Big Bang?*</font>
+ 
+<IMG STYLE="position:absolute; TOP:220px; LEFT:0px; WIDTH:1100px; HEIGHT:400px" SRC="images/universe.png">
+
+## Why are we here?
+<hr>
+<br/>
+<font size="5">*Because...evolution*</font>
+
+<!-- <IMG STYLE="position:absolute; TOP:240px; LEFT:20px; WIDTH:600px; HEIGHT:300px" SRC="images/treeoflife.jpg"> -->
+
+<IMG STYLE="position:absolute; TOP:180px; LEFT:275px; WIDTH:600px; HEIGHT:450px" SRC="images/treeoflife2.jpg">
+
+## Why are we here?
+<hr>
+<br/>
+<font size="5">*Because...human adaptability*</font>
+
+<IMG STYLE="position:absolute; TOP:300px; LEFT:15px; WIDTH:500px; HEIGHT:200px" SRC="images/humanevol.png">
+
+<IMG STYLE="position:absolute; TOP:250px; LEFT:600px; WIDTH:450px; HEIGHT:300px" SRC="images/skulls.jpg">
+
+## Why are we here?
+<hr>
+<br/>
+<font size="5">*Because...choices of humans societies*</font>
+
+<IMG STYLE="position:absolute; TOP:220px; LEFT:150px; WIDTH:850px; HEIGHT:400px" SRC="images/landscape.png">
+
+## Why are we here? 
+<hr>
+<br/>
+<font size="5">*Because...those choices have changed the world*</font>
+ 
+<IMG STYLE="position:absolute; TOP:220px; LEFT:150px; WIDTH:800px; HEIGHT:450px" SRC="images/trade.jpg">
+
+## Why are we here?
+<hr>
+<br/>
+<font size="5">*Because...the very limiting stories we have told*</font>
+
+<IMG STYLE="position:absolute; TOP:250px; LEFT:20px; WIDTH:500px; HEIGHT:250px" SRC="images/screwedup.png">
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:550px; WIDTH:525px; HEIGHT:375px" SRC="images/drake.jpeg">
+
+## Why are we here?
+<hr>
+<br/>
+ <font size="5">*Because...we need to be*</font>
+
+<IMG STYLE="position:absolute; TOP:220px; LEFT:100px; WIDTH:400px; HEIGHT:400px" SRC="images/hero3.jpg">
+
+<IMG STYLE="position:absolute; TOP:220px; LEFT:650px; WIDTH:300px; HEIGHT:400px" SRC="images/hero2.jpg">
+
+## Why are we here?
+<hr>
+<br/>
+ <font size="5">*Because...we are approaching global thresholds*</font>
+
+<IMG STYLE="position:absolute; TOP:220px; LEFT:100px; WIDTH:900px; HEIGHT:400px" SRC="images/tip.jpg">
+
+## Why are we here?
+<hr>
+<br/>
+ <font size="5">*Because...baselines for change have shifted*</font>
+
+<IMG STYLE="position:absolute; TOP:220px; LEFT:20px; WIDTH:500px; HEIGHT:400px" SRC="images/shiftingbaseline2.jpg">
+
+<IMG STYLE="position:absolute; TOP:160px; LEFT:550px; WIDTH:500px; HEIGHT:500px" SRC="images/shiftingbaseline4.jpg">
+
+## Why are we here?
+<hr>
+<br/>
+ <font size="5">*Because...we are ready to tell a new story*</font>
+
+<IMG STYLE="position:absolute; TOP:220px; LEFT:100px; WIDTH:900px; HEIGHT:450px" SRC="images/climatechangeyou.png">
+
+## Why are we here?
+<hr>
+<br/>
+<font size="5">*Because...each one of you is part of the story*</font>
+
+<IMG STYLE="position:absolute; TOP:220px; LEFT:350px; WIDTH:450px; HEIGHT:400px" SRC="images/group.png">
+
+## Why are we here?
+<hr>
+<br/>
+<font size="5">*Because...each one of you must make a decision*</font>
+
+<IMG STYLE="position:absolute; TOP:220px; LEFT:150px; WIDTH:800px; HEIGHT:400px" SRC="images/ecoego.jpg">
+
+## 
+
+<IMG STYLE="position:absolute; TOP:50px; LEFT:150px; WIDTH:800px; HEIGHT:600px" SRC="images/problem.png">
+
+## 
+
+<IMG STYLE="position:absolute; TOP:50px; LEFT:200px; WIDTH:700px; HEIGHT:600px" SRC="images/pew.png">
+
+## 
+
+<IMG STYLE="position:absolute; TOP:50px; LEFT:200px; WIDTH:700px; HEIGHT:600px" SRC="images/trustscience.png">
+
+## 
+
+<IMG STYLE="position:absolute; TOP:50px; LEFT:200px; WIDTH:700px; HEIGHT:600px" SRC="images/doingenough.png">
+
+## Scientists are traditionally not the best communicators
+<hr>
+
+<IMG STYLE="position:absolute; TOP:160px; LEFT:50px; WIDTH:520px; HEIGHT:500px" SRC="images/trust2.jpg">
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:600px; WIDTH:450px; HEIGHT:400px" SRC="images/trust.jpg">
+
+## Trust in science is eroding, largely on party lines
+<hr>
+
+<IMG STYLE="position:absolute; TOP:160px; LEFT:50px; WIDTH:520px; HEIGHT:500px" SRC="images/trusterode.jpg">
+
+<IMG STYLE="position:absolute; TOP:160px; LEFT:650px; WIDTH:350px; HEIGHT:500px" SRC="images/politics.jpg">
+
+## We need each other, but is that even possible?
+<hr>
+
+<IMG STYLE="position:absolute; TOP:160px; LEFT:150px; WIDTH:800px; HEIGHT:500px" SRC="images/trust3.png">
+
+##  Why are we here?
+<hr>
+<br/>
+ <font size="5">*Because...why?*</font>
+
+<br/>
+<br/>
+<br/>
+<br/>
+
+**<span style="color:blue">Why did *you* sign up for this class?</span>**
+
+<br/>
+
+**<span style="color:blue">What are *you* hoping to get out if it?</span>**
+
+## Next up: Friday open-discussion based on student survey
+<hr>
+<br/>
+
+**Survey now available on Brightspace**
+<br/>
+**Due Thursday @ midnight**
+
+<br/>
+
+**<span style="color:green">THREE: </span>What three things about global change (that you believe so far) are the most important for a non-scientist to know?**
+
+<br/>
+
+**<span style="color:green">TWO: </span>What two things about global change would you like to learn more about in this class?**
+
+<br/>
+
+**<span style="color:green">ONE: </span>What controversy about global/climate change are you aware of?**
+

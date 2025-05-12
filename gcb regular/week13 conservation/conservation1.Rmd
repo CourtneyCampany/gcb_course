@@ -1,0 +1,381 @@
+---
+title: "Conservation Strategies"
+output: 
+  ioslides_presentation:
+    css: custom.css
+    widescreen: true
+    smaller: true
+---
+
+## Session objective
+<hr>
+<br/>
+<br/>
+
+<div style="float: left; width: 48%;">
+
+**Unit III: Last unit!**
+
+<br/>
+
+**Conservation in an era of global change**
+
+<br/>
+
+**How do we define conservation priorities (today)?**
+
+<br/>
+
+**What are the challenges to conservation in the era of global change (Wednesday)?**
+
+<br/>
+
+**To Start: <span style="color:blue">Conservation is a broad term</span>**
+
+
+<IMG STYLE="position:absolute; TOP:180px; LEFT:550px; WIDTH:500px; HEIGHT:450px" SRC="images/conservationscales.png">
+
+## What is the grand conservation challenge?
+<hr>
+**https://conservationxlabs.com/grand-challenges**
+<br/>
+
+- **<span style="color:blue">Preserve biological diversity</span>**
+<br/>
+    + from genetic diversity to species diversity to functional diversity to ecosystem diversity
+<br/>
+    + across spatial scales from local to global…
+<br/>
+    + across time scales from now to the imaginable future…
+
+## What is the grand conservation challenge?
+<hr>
+**https://conservationxlabs.com/grand-challenges**
+<br/>
+
+- **<span style="color:blue">Preserve biological diversity</span>**
+<br/>
+    + from genetic diversity to species diversity to functional diversity to ecosystem diversity
+<br/>
+    + across spatial scales from local to global…
+<br/>
+    + across time scales from now to the imaginable future…
+<br/>
+    + amidst uncertainty, in a world that will continue to change
+
+
+<IMG STYLE="position:absolute; TOP:340px; LEFT:790px; WIDTH:300px; HEIGHT:350px" SRC="images/bullseye.png">
+
+## What is the grand conservation challenge?
+<hr>
+**https://conservationxlabs.com/grand-challenges**
+<br/>
+
+- **<span style="color:blue">Preserve biological diversity</span>**
+<br/>
+    + from genetic diversity to species diversity to functional diversity to ecosystem diversity
+<br/>
+    + across spatial scales from local to global…
+<br/>
+    + across time scales from now to the imaginable future…
+<br/>
+    + amidst uncertainty, in a world that will continue to change
+<br/>
+    + with finite resources
+
+<IMG STYLE="position:absolute; TOP:380px; LEFT:850px; WIDTH:200px; HEIGHT:300px" SRC="images/funding.png">
+
+## Defining priorities for conservation (hard choices ahead)
+<hr>
+<br/>
+<br/>
+
+<span style="color:darkred">**What types of species or ecosystems should be highest priority?**</span>
+
+<br/>
+
+<div style="float: left; width: 48%;">
+
+**We have millions and millions of species on the planet interacting in complex ecological networks**
+
+<br/>
+
+**<span style="color:darkred">How should we decide where to put our conservation dollar?</span>**
+
+</div>
+
+<IMG STYLE="position:absolute; TOP:250px; LEFT:550px; WIDTH:550px; HEIGHT:400px" SRC="images/treelife.png">
+
+## Defining priorities for conservation (hard choices ahead)
+<hr>
+<span style="color:darkred">**What types of species or ecosystems should be highest priority?**</span>
+
+* **Keystone species?**
+<br/>
+* **Umbrella species?**	
+<br/>
+* **Rare species?**	
+<br/>
+* **Strong ecological interactors?**	
+<br/>
+<span style="color:darkred">**Pros and Cons list might look like:**</span>
+<br/>
+* **Species under most stress?**
+<br/>
+* **Species most likely to persist?**
+<br/>
+* **Species with economic value to humans?**
+<br/>
+* **Species with cultural significance?**
+<br/>
+* **Species with stakeholder interest?**
+<br/>
+* **Indicator species?**
+<br/>
+* **Charismatic species?**
+<br/>
+* **Old species?**
+<br/>
+* **Young species?**
+
+<IMG STYLE="position:absolute; TOP:300px; LEFT:600px; WIDTH:350px; HEIGHT:250px" SRC="images/oprah.jpg">
+
+## Say we decide to prioritize a favorite species
+<hr>
+
+**Of the ~6,500 known amphibians more than 1/3 are threatened with extinction (IUCN Red List)**
+
+<br/>
+<br/>
+<br/>
+
+<span style="color:darkblue">**Which should we prioritize?**</span>
+
+<IMG STYLE="position:absolute; TOP:180px; LEFT:500px; WIDTH:450px; HEIGHT:300px" SRC="images/frogendanger.png">
+
+<IMG STYLE="position:absolute; TOP:500px; LEFT:50px; WIDTH:1000px; HEIGHT:150px" SRC="images/frog2.png">
+
+## Say we decide to prioritize a favorite species
+<hr>
+<span style="color:red">**Yellow-legged mountain frog: Several tracktable interventions but each is costly...**</span>
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:225px; WIDTH:650px; HEIGHT:450px" SRC="images/savefrog.png">
+
+## Say we decide to prioritize a favorite species
+<hr>
+
+**Should we give more conservation attention to the more <span style="color:darkred">susceptible</span> (they need our help) or the more <span style="color:darkred">resistant</span> (they might actually survive) populations?** <span style="color:blue"> **What would you vote for?**</span>
+
+<IMG STYLE="position:absolute; TOP:250px; LEFT:100px; WIDTH:900px; HEIGHT:400px" SRC="images/frogcali.png">
+
+## Alternate strategies
+<hr>
+<span style="color:red">**Many tractable interventions, but most very costly**</span>
+
+<br/>
+<br/>
+<br/>
+
+<span style="color:blue">**Saving the Yellow-legged mountain frog**</span>
+
+* **Captive breeding**
+<br/>
+* **Antifungal treatments**
+<br/>
+* **Probiotic treatments**
+<br/>
+* **Addressing the threat**
+<br/>
+* **Legislation**
+
+<br/>
+
+<span style="color:blue"> **What would you vote for?**</span>
+
+<IMG STYLE="position:absolute; TOP:160px; LEFT:800px; WIDTH:250px; HEIGHT:500px" SRC="images/treatments.png">
+
+<IMG STYLE="position:absolute; TOP:350px; LEFT:360px; WIDTH:300px; HEIGHT:175px" SRC="images/savefrog2.jpg">
+
+## Defining priorities for conservation
+<hr>
+
+<span style="color:darkred">**So…first step in conservation planning is to explicitly define conservation priorities**</span>
+
+<br/>
+
+**There are some explicit and data-driven ways to do this, for example…**
+
+
+## Defining priorities for conservation
+<hr>
+**<span style="color:darkred">Example</span>:   selection algorithms are computer algorithms that apply biodiversity optimization rules**
+
+<div style="float: right; width: 60%;">
+<br/>
+<br/>
+
+**Example optimization rules:**
+<br/>
+
+* **<span style="color:blue">Complementarity</span>: add areas that contribute most new biodiversity**
+<br/>
+* **<span style="color:blue">Irreplaceability</span>: add areas with unique species or attributes**
+<br/>
+* **<span style="color:blue">Bang for buck</span>: add areas which maximize environmental benefit while minimizing economic costs**
+
+</div>
+
+<IMG STYLE="position:absolute; TOP:220px; LEFT:20px; WIDTH:400px; HEIGHT:400px" SRC="images/map.png">
+
+## Defining priorities for conservation
+<hr>
+**<span style="color:darkred">Example</span>: The <span style="color:blue">E</span>volutionarily <span style="color:blue">D</span>istinct and <span style="color:blue">G</span>lobally <span style="color:blue">E</span>ndangered Initiative Zoological Society of London**
+
+<br/>
+
+<div style="float: left; width: 50%;">
+**Uses data from phylogenetic trees to give species a “phylogenetic uniqueness” ranking**
+
+<br/>
+
+**Then adds a weight to this score based on IUCN red list risk of extinction.**
+</div>
+
+<IMG STYLE="position:absolute; TOP:450px; LEFT:50px; WIDTH:350px; HEIGHT:200px" SRC="images/edge.png">
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:545px; WIDTH:525px; HEIGHT:450px" SRC="images/lemur.png">
+
+## Defining priorities for conservation
+<hr>
+<br/>
+
+**Once conservation targets are selected, what are key management approaches?**
+
+<br/>
+
+* **<span style="color:blue">Fine filter</span>: focus on protecting populations or species**
+    + reducing overharvest
+    + captive breeding
+    + translocations
+
+<br/>
+
+- **<span style="color:blue">Coarse filter</span>: focus on protecting ecosystems or landscapes**
+    + creating reserves
+    + re-establishing corridors
+    + re-establishing natural disturbance regimes
+    + enhancing habitat in high modified settings
+
+
+## Flexibilities and complexities
+<hr>
+<br/>
+
+**<span style="color:blue">Flexible levels of access</span>: Corridors and reserves can be static or flexible (e.g., dynamic rules to reduce detrimental synergies).**
+
+<br/>
+<br/>
+<br/>
+
+<div style="float: right; width: 52%;">
+
+**For example, like closing dive tourism in coral reefs during heavy storm seasons**
+<br/>
+
+**vs**
+<br/>
+
+**Building wildlife corridors to cross highways**
+</div>
+
+<IMG STYLE="position:absolute; TOP:280px; LEFT:20px; WIDTH:450px; HEIGHT:300px" SRC="images/scuba.jpg">
+
+## Flexibilities and complexities
+<hr>
+<br/>
+**There have been some captive breeding “success stories”**
+
+<IMG STYLE="position:absolute; TOP:540px; LEFT:50px; WIDTH:1000px; HEIGHT:150px" SRC="images/breeding.png">
+
+<IMG STYLE="position:absolute; TOP:150px; LEFT:650px; WIDTH:380px; HEIGHT:400px" SRC="images/oynz.png">
+
+## Flexibilities and complexities
+<hr>
+<br/>
+**There have been some captive breeding “success stories” and other high profile attempts**
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:200px; WIDTH:700px; HEIGHT:450px" SRC="images/frogpods.png">
+
+## Flexibilities and complexities
+<hr>
+<br/>
+**There have been some captive breeding “success stories” and other high profile attempts**
+<br/>
+**You are less likely though to hear about captive breeding failures, even though they constitute the majority of them**
+
+<IMG STYLE="position:absolute; TOP:260px; LEFT:150px; WIDTH:800px; HEIGHT:400px" SRC="images/lions2.png">
+
+## Flexibilities and complexities
+<hr>
+<br/>
+**There have been some captive breeding “success stories” and other high profile attempts… but only effective when coupled with efforts to reduce threats**
+
+<IMG STYLE="position:absolute; TOP:240px; LEFT:200px; WIDTH:700px; HEIGHT:400px" SRC="images/quote.png">
+
+## Flexibilities and complexities
+<hr>
+<br/>
+
+**<span style="color:blue">Adaptive management</span>: Learning-by-doing**
+
+
+<IMG STYLE="position:absolute; TOP:230px; LEFT:20px; WIDTH:400px; HEIGHT:400px" SRC="images/adaptive.png">
+
+<IMG STYLE="position:absolute; TOP:180px; LEFT:500px; WIDTH:650px; HEIGHT:450px" SRC="images/caribou.png">
+
+## Flexibilities and complexities
+<hr>
+<br/>
+
+**<span style="color:blue">The law of unintended consequences (aka hubris)</span>: “intervention in a complex system tends to create unanticipated and often undesirable outcomes”**
+
+<br/>
+<br/>
+<br/>
+<br/>
+
+<div style="float: left; width: 45%;">
+
+**<span style="color:blue">And complex systems include humans!</span>**
+</div>
+
+<IMG STYLE="position:absolute; TOP:300px; LEFT:450px; WIDTH:550px; HEIGHT:350px" SRC="images/domino.jpg">
+
+## Should we micromanage nature?
+<hr>
+<span style="color:red">**Many projects kill plant/animal species based on the mistaken assumption that another plant or animal will benefit**</span>
+
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+
+**Nature Conservancy decimated the population of rare Arctic grayling fish in Montana by damming the streams to create ponds for the benefit of the equally rare trumpeter swan**
+<br/>
+
+**Grayling spawned in those streams and the population plummeted when the streams were dammed**
+<br/>
+
+**Scientists are trying to compensate for the damage to the grayling population by killing cutthroat trout that is considered a predator**
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:25px; WIDTH:500px; HEIGHT:300px" SRC="images/swan.jpg">
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:565px; WIDTH:520px; HEIGHT:300px" SRC="images/cuttthroat.jpg">

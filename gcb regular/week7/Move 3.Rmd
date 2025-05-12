@@ -1,0 +1,74 @@
+---
+title: "Responding to Change: Move-Humans?"
+output: 
+  ioslides_presentation:
+    css: custom3.css
+    widescreen: true
+    smaller: true
+---
+
+## Then: Was 'Out of Africa' climate related?
+<hr>
+
+<IMG STYLE="position:absolute; TOP:160px; LEFT:0px; WIDTH:900x; HEIGHT:500px" SRC="images/migration.png">
+
+## Then: Was hunter-gather movement climate related?
+<hr>
+
+<IMG STYLE="position:absolute; TOP:160px; LEFT:100px; WIDTH:900px; HEIGHT:500px" SRC="images/hunter.jpg">
+
+## What is the adjacent possible 'Move' response for humans?
+<hr>
+
+<IMG STYLE="position:absolute; TOP:160px; LEFT:25px; WIDTH:600x; HEIGHT:500px" SRC="images/howmany.jpeg">
+
+<IMG STYLE="position:absolute; TOP:160px; LEFT:550px; WIDTH:500x; HEIGHT:500px" SRC="images/displace.png">
+
+## Sea level rise may force a move response
+<hr>
+<br/>
+
+<div style="float: left; width: 55%;">
+
+**Pacific Islands threatened by sea level rise caused by climate change**
+
+<br/>
+
+**Water availability and overcrowding may become an issue in the next 50 years**
+
+<br/>
+
+**29% of US population lives on the coast**
+
+<br/>
+
+**40% of world populations live within 100km of coast**
+
+<br/>
+
+**1 in 10 people live in low-elevation coastal risk zone (<30 ft above sea level)**
+</div>
+
+<IMG STYLE="position:absolute; TOP:160px; LEFT:650px; WIDTH:350px; HEIGHT:500px" SRC="images/florida.png">
+
+## Where will Americans move with sea level rise?
+<hr>
+
+<IMG STYLE="position:absolute; TOP:160px; LEFT:100px; WIDTH:900x; HEIGHT:500px" SRC="images/usmove.png">
+
+## Are climate refugess in the near future?
+<hr>
+<br/>
+
+**New Zealand is one of the first countries to propose program for climate refugees**
+    
+<br/>
+
+**Pacific Islanders only want refugee visas as a last resort **
+
+<br/>
+
+**Instead, island communities advocate for climate adaptation, emission reduction, and pathways for legal migration beforehand**
+
+<IMG STYLE="position:absolute; TOP:460px; LEFT:20px; WIDTH:1000px; HEIGHT:70px" SRC="images/newzea.png">
+

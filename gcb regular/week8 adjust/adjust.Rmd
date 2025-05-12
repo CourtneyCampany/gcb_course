@@ -1,0 +1,273 @@
+---
+title: "Organismal Responses to Change: Adjust"
+output: 
+  ioslides_presentation:
+    css: custom.css
+    widescreen: true
+    smaller: true
+---
+
+## The Adjacent Possible
+<hr>
+
+**Confronted with a changing world, organisms can move, adjust, adapt, or die**
+
+<br/>
+
+<div style="float: left; width: 55%;">
+
+**In physical space -> <span style="color:blue">move</span>**
+
+<br/>
+
+**In physiological / behavioral space -> <span style="color:blue">adjust</span>**
+
+<br/>
+
+**In genetic / adaptive space -> <span style="color:blue">adapt</span>**
+
+<br/>
+
+**If no adjacent possible -> <span style="color:blue">die</span>**
+
+<br/>
+
+**<span style="color:darkred">Responses are not mutually exclusive</span>**
+</div>
+
+<IMG STYLE="position:absolute; TOP:180px; LEFT:600px; WIDTH:400px; HEIGHT:500px" SRC="images/possible.jpg">
+
+## The Adjacent Possible for other species
+<hr>
+
+<div align="center">**If environmental conditions are changing…**</div>
+<br/>
+
+<div style="float: right; width: 43%;">
+<br/>
+
+* **What are the adjacent possible options for survival?**
+
+<br/>
+
+* **What determines the adjacent possible?**
+    + Organismal traits
+    + Environmental features
+    + Dynamics of change
+
+<br/>
+
+* **Can a trait adjust?** 
+
+</div>
+
+<IMG STYLE="position:absolute; TOP:230px; LEFT:15px; WIDTH:600px; HEIGHT:400px" SRC="images/lizards.jpg">
+
+##
+
+<IMG STYLE="position:absolute; TOP:50px; LEFT:125px; WIDTH:825px; HEIGHT:600px" SRC="images/traitplastic.png">
+
+## Organismal responses to change: Adjust
+<hr>
+
+* **Adjust: non-genetic shifts in organismal traits in different environments**
+    + *phenotypic plasticity*, acclimation, acclimitization
+
+<br/>
+
+* **Adjust response happens at the *individual* level and within a *single* generation**
+    + What does this mean?
+
+<IMG STYLE="position:absolute; TOP:360px; LEFT:0px; WIDTH:1100px; HEIGHT:300px" SRC="images/wings.png">
+
+## Organismal responses to change: Adjust
+<hr>
+<br/>
+
+
+**Genotype: inherited genetic information **
+
+<br/>
+
+**Phenotype: observable traits or characteristics**
+
+<br/>
+<br/>
+
+**What is the connection between genotype & phenotype?**
+
+<br/>
+
+**Genotype x Environment = Phenotype variation?**
+
+<br/>
+
+**G x E interactions are the foundation of phenotypic plasticity**
+
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:650px; WIDTH:400px; HEIGHT:300px" SRC="images/genopheno.png">
+
+## 
+
+<IMG STYLE="position:absolute; TOP:50px; LEFT:50px; WIDTH:1000px; HEIGHT:600px" SRC="images/plastic2.jpg">
+
+## What is phenotypic plasticity?
+<hr>
+<br/>
+
+**When a single genotype can produce multiple phenotypes depending on environmental conditions**
+
+<br/>
+<br/>
+<br/>
+
+<div style="float: left; width: 50%;">
+
+* **Inducible defenses are classic example**
+    + animals and plants
+    + often fast
+    + stabilize population dynamics
+    + dedicated sensory systems to interpret the environment
+
+<br/>
+
+**Daphnia produce horns and neck teeth in presence of predators**
+</div>
+
+<IMG STYLE="position:absolute; TOP:250px; LEFT:600px; WIDTH:450px; HEIGHT:400px" SRC="images/daphnia2.png">
+
+
+## Density-induced grasshopper plasticity
+<hr>
+**Plasticity can occur as a specturm of changes in a trait (not just off or on)**
+<br/>
+
+**Grasshopper camoflauge and behavior is influenced by 'crowdedness'**
+<IMG STYLE="position:absolute; TOP:270px; LEFT:0px; WIDTH:1100px; HEIGHT:300px" SRC="images/grasshopper3.png">
+
+## Some shore crabs shift colors diurnally!
+<hr>
+<br/>
+<br/>
+<br/>
+<br/>
+
+<IMG STYLE="position:absolute; TOP:160px; LEFT:400px; WIDTH:600px; HEIGHT:500px" SRC="images/shorecrabs.jpg">
+
+**Camouflage**
+
+<br/>
+
+**Thermoregulation**
+
+<br/>
+
+**Signaling for mating/competition**
+
+<br/>
+
+**UV light protection**
+
+## What is phenotypic plasticity?
+<hr>
+<br/>
+**When a single genotype can produce multiple phenotypes depending on environmental conditions**
+
+<div style="float: left; width: 55%;">
+
+
+<br/>
+<br/>
+<br/>
+
+* **Plasticity doesn’t have to be for morphological traits.**
+
+<br/>
+
+* **Physiological, developmental and behavioral traits can also exhibit plasticity**
+
+<br/>
+
+* **Behavior has long been considered the 'most plastic' phenotypic trait** 
+    + quickest response to temporal changes 
+    + e.g., bird song frequency in urban environments
+</div>
+
+<IMG STYLE="position:absolute; TOP:210px; LEFT:625px; WIDTH:400px; HEIGHT:450px" SRC="images/behavior.png">
+
+## What is phenotypic plasticity?
+<hr>
+<br/>
+**When a single genotype can produce multiple phenotypes depending on environmental conditions**
+
+<br/>
+<br/>
+<br/>
+
+* **Developmental plasticity: the ability of an individual to modify its development in response to environmental conditions**
+    + might facilitate the evolution of novel traits
+
+<br/>
+
+* **How developmental flexibility promotes innovations that persist over evolutionary time is unclear**
+
+<br/>
+
+* **However, exposure to environmental variation is a characteristic feature of normal development**
+    + do certain genotypes have the ability to produce different development outcomes?
+    
+##
+
+<IMG STYLE="position:absolute; TOP:50px; LEFT:125px; WIDTH:850px; HEIGHT:600px" SRC="images/insectsthermal.jpg">
+
+## Are all traits plastic? 
+<hr>
+<br/>
+
+* **Optimal responses to environmental challenges would include perfect plasticity**
+    + organism possesses perfect information on its current environment
+    + mechanisms to produce an appropriate phenotypic response at all points in development
+
+<br/>
+
+* **Instead, traits exist on a spectrum that are determined exclusively by genetics and those influenced mostly by the environment**
+    + no organism is entirely or infinitely plastic
+    + what is the cost to evolving plasticity?
+    
+<br/>
+
+* **Interesting point: Organisms in heterogeneous (variable) environments are more likely to have selection of traits that can be plastic**
+    + low genetic diversity can limit selection of plastic traits
+    
+## How do you test for phenotypic plasticity?
+<hr>
+<br/>
+**How do you figure out if a trait is controlled by genes, the environment or both?**
+
+<IMG STYLE="position:absolute; TOP:250px; LEFT:100px; WIDTH:800px; HEIGHT:400px" SRC="images/commongarden.png">
+
+## How do you test for phenotypic plasticity?
+<hr>
+<br/>
+**Effect of genotype only (not phenotypically plastic under these conditions)**
+
+<IMG STYLE="position:absolute; TOP:250px; LEFT:100px; WIDTH:800px; HEIGHT:400px" SRC="images/commongarden2.png">
+
+## How do you test for phenotypic plasticity?
+<hr>
+<br/>
+**Effect of environment only (YES phenotypically plastic under these conditions)**
+
+<IMG STYLE="position:absolute; TOP:250px; LEFT:100px; WIDTH:800px; HEIGHT:400px" SRC="images/commongarden3.png">
+
+## How do you test for phenotypic plasticity?
+<hr>
+<br/>
+**Effect of both environment and genotype (genotype by environment interaction)**
+
+<IMG STYLE="position:absolute; TOP:250px; LEFT:100px; WIDTH:800px; HEIGHT:400px" SRC="images/commongarden4.png">
+
+## Are global change and the adjust response compatible?
+<hr>
+
+<IMG STYLE="position:absolute; TOP:160px; LEFT:300px; WIDTH:500px; HEIGHT:500px" SRC="images/nextup.png">

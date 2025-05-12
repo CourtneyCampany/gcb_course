@@ -1,0 +1,293 @@
+---
+title: "Responding to Change: Move"
+output: 
+  ioslides_presentation:
+    css: custom2.css
+    widescreen: true
+    smaller: true
+---
+
+## The really BIG question
+<hr>
+<br/>
+
+<div align="center">**How do biological systems respond to human impacts on planet Earth?**</div>
+
+<IMG STYLE="position:absolute; TOP:240px; LEFT:200px; WIDTH:700px; HEIGHT:400px" SRC="images/connect.jpg">
+
+## Range changes
+<hr>
+<br/>
+
+**<span style="color:green">Geographic range</span>= total spatial area in which a species is found**
+
+<br/>
+
+<div style="float: left; width: 50%;">
+
+**Range changes can be facilitated by individuals themselves moving**
+
+<br/>
+
+**For example: individuals following food resources, altering migratory pathways, etc.**
+
+<br/>
+
+**Can occur (1) naturally (competition) or (2) via move response or (3) changes in survival rate**
+</div>
+
+<IMG STYLE="position:absolute; TOP:240px; LEFT:575px; WIDTH:500px; HEIGHT:400px" SRC="images/birdsmigrate.jpg">
+
+## Confronted with a changing world: organisms can *move*
+<hr>
+<br/>
+
+**<span style="color:blue">Move</span>: movement of individuals (dispersal, migration), populations or species (range changes).**
+
+<br/>
+
+**What are the reasons for an organism to move?**
+
+<IMG STYLE="position:absolute; TOP:320px; LEFT:225px; WIDTH:6; HEIGHT:350px" SRC="images/arrow.jpg">
+
+## Why Move? Organisms are adapted to environments
+<hr>
+
+<IMG STYLE="position:absolute; TOP:160px; LEFT:125px; WIDTH:850px; HEIGHT:500px" SRC="images/birdsextinct.png">
+
+<!-- ## Adaptations are very complex -->
+<!-- <hr> -->
+
+<!-- <IMG STYLE="position:absolute; TOP:160px; LEFT:150px; WIDTH:750px; HEIGHT:500px" SRC="images/owl2.jpg"> -->
+
+<!-- ## Adaptations are complex and took a long time time to develop -->
+<!-- <hr> -->
+
+<!-- <IMG STYLE="position:absolute; TOP:25px; LEFT:0px; WIDTH:1100px; HEIGHT:650px" SRC="images/downslope.jpg"> -->
+
+##
+
+<IMG STYLE="position:absolute; TOP:50px; LEFT:25px; WIDTH:400px; HEIGHT:600px" SRC="images/owl.jpg">
+
+<IMG STYLE="position:absolute; TOP:100px; LEFT:430px; WIDTH:650px; HEIGHT:500px" SRC="images/owl2.png">
+
+## Koality not Quantity
+<hr>
+
+<IMG STYLE="position:absolute; TOP:160px; LEFT:200px; WIDTH:650px; HEIGHT:500px" SRC="images/koala.png">
+
+##
+
+<IMG STYLE="position:absolute; TOP:25px; LEFT:0px; WIDTH:1100px; HEIGHT:650px" SRC="images/upslope.jpg">
+
+## 
+
+<IMG STYLE="position:absolute; TOP:25px; LEFT:25px; WIDTH:500px; HEIGHT:300px" SRC="images/migrate2.jpeg">
+
+<IMG STYLE="position:absolute; TOP:25px; LEFT:600px; WIDTH:500px; HEIGHT:300px" SRC="images/boreal.png">
+
+<IMG STYLE="position:absolute; TOP:355px; LEFT:250px; WIDTH:650px; HEIGHT:325px" SRC="images/flee2.jpg">
+
+## Natural movement can be disrupted: Monarch
+<hr>
+<IMG STYLE="position:absolute; TOP:180px; LEFT:15px; WIDTH:550px; HEIGHT:450px" SRC="images/monarch.jpg">
+
+<IMG STYLE="position:absolute; TOP:280px; LEFT:600px; WIDTH:470px; HEIGHT:350px" SRC="images/monarch2.jpg">
+
+## Natural movement can be disrupted: Monarch
+<hr>
+<IMG STYLE="position:absolute; TOP:180px; LEFT:100px; WIDTH:900px; HEIGHT:500px" SRC="images/monarch3.png">
+
+## Broadly, where are species marching?
+<hr>
+
+<IMG STYLE="position:absolute; TOP:160px; LEFT:200px; WIDTH:750px; HEIGHT:500px" SRC="images/march.png">
+
+##
+
+<IMG STYLE="position:absolute; TOP:25px; LEFT:0px; WIDTH:1100px; HEIGHT:650px" SRC="images/elevation.jpg">
+
+## In order to persist, species range changes are predictable
+<hr>
+
+<IMG STYLE="position:absolute; TOP:160px; LEFT:125px; WIDTH:850px; HEIGHT:500px" SRC="images/movementrate.jpg">
+
+## The 'Move Response' is limited
+<hr>
+<br/>
+
+**<span style="color:blue">Move</span>: movement of individuals (dispersal, migration), populations or species (range changes).**
+
+<br/>
+
+**<span style="color:red">Move</span>: movement away from natal territory (typically before or during reproduction - can be gametes not individuals)**
+
+<br/>
+
+**Dispersal is a key trait that influences move response. Can be short or long distance -  All species (even sessile ones) can disperse, but species differ in their dispersal ability.**
+
+<br/>
+
+**Dispersal links/limits individual movement with range shifts**
+
+<IMG STYLE="position:absolute; TOP:420px; LEFT:800px; WIDTH:200px; HEIGHT:250px" SRC="images/dispersal.jpg">
+
+## Range changes are usually slow
+<hr>
+
+**Many species are limited in a move response by gamete dispersal**
+
+<br/>
+
+**Plants are excellent disperses across many generations, however..**
+
+
+<IMG STYLE="position:absolute; TOP:300px; LEFT:200px; WIDTH:650px; HEIGHT:350px" SRC="images/tree.jpg">
+
+<!-- ## In order to persist, species range changes are predictable -->
+<!-- <hr> -->
+
+<!-- <IMG STYLE="position:absolute; TOP:240px; LEFT:0px; WIDTH:1100px; HEIGHT:300px" SRC="images/rangechange.jpg"> -->
+
+## Factors that influence the move response
+<hr>
+
+**Whether or not species can “move” as a response to global change stressors depends on many things…**
+
+<br/>
+
+**<span style="color:green">Organismal traits</span>: Ability to move in response to changing conditions can be affected by many intrinsic traits like dispersal ability, generation time, etc.**
+
+<IMG STYLE="position:absolute; TOP:360px; LEFT:50px; WIDTH:1000px; HEIGHT:300px" SRC="images/animalmove.png">
+
+## Factors that influence the move response
+<hr>
+
+**Whether or not species can “move” as a response to global change stressors depends on many things…**
+
+<br/>
+
+**<span style="color:green">Landscape features</span>: Ability to move in response to changing conditions can be affected by many *characteristics of the environment* like habitat matrix (connectedness)**
+
+<IMG STYLE="position:absolute; TOP:360px; LEFT:50px; WIDTH:1000px; HEIGHT:300px" SRC="images/landscape.png">
+
+## Factors that influence the move response
+<hr>
+
+**Whether or not species can “move” as a response to global change stressors depends on many things…**
+
+<br/>
+
+**<span style="color:green">Dynamics of change</span>: Ability to move in response to changing conditions can be affected by many *global change stressors* like pace of change. Can they keep up?**
+
+<!-- <IMG STYLE="position:absolute; TOP:380px; LEFT:50px; WIDTH:1000px; HEIGHT:300px" SRC="images/landscape.png"> -->
+
+<IMG STYLE="position:absolute; TOP:360px; LEFT:100px; WIDTH:300px; HEIGHT:300px" SRC="images/vagile.png">
+
+<IMG STYLE="position:absolute; TOP:360px; LEFT:475px; WIDTH:500px; HEIGHT:300px" SRC="images/warming.jpg">
+
+
+## Factors that influence the move response
+<hr>
+
+**Whether or not species can “move” as a response to global change stressors depends on many things…**
+
+<br/>
+
+**<span style="color:green">Globalization</span>: Our transport systems change prior constraints on organismal movement for some species, which can lead to biotic homogenization**
+
+<IMG STYLE="position:absolute; TOP:335px; LEFT:50px; WIDTH:1000px; HEIGHT:325px" SRC="images/transport.jpg">
+
+## Factors that influence the move response: Invasion
+<hr>
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:0px; WIDTH:1100px; HEIGHT:400px" SRC="images/invasion.jpg">
+
+
+## Projecting the move response into the future...
+<hr>
+<br/>
+<br/>
+<br/>
+
+<div style="float: left; width: 55%;">
+
+**Ultimately ability to “move” will be determined by an interaction between the species and the environment**
+
+<br/>
+
+**100 years from now where could species survive and how could it get there?**
+
+<br/>
+
+**Can it disperse far enough fast enough over a fragmented landscape?**
+</div>
+
+<IMG STYLE="position:absolute; TOP:160px; LEFT:650px; WIDTH:350px; HEIGHT:500px" SRC="images/pending.png">
+
+## Friday: Open discussion - Humans and the 'move response'
+<hr>
+
+* **Investigate how/when/if humans may have to move due to global change factors**
+
+<div style="float: left; width: 45%;">
+
+<br/>
+
+* **Utilize any form of communication you want**
+    + Be creative! 
+    
+<br/>
+
+* **Submit an article on Brightspace**
+    + as proof of your work 
+
+<br/>
+
+* **Be prepared to discuss what you found as well as your opinion on if it is possible**
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:500px; WIDTH:600px; HEIGHT:400px" SRC="images/florida.png">
+
+<!-- ##  -->
+
+<!-- <div style="float: left; width: 55%;"> -->
+
+<!-- **Pacific Islands threatened by sea level rise caused by climate change** -->
+
+<!-- <br/> -->
+
+<!-- **Water availability and overcrowding may become an issue in the next 50 years** -->
+
+<!-- <br/> -->
+
+<!-- **29% of US population lives on the coast** -->
+
+<!-- <br/> -->
+
+<!-- **40% of world populations live within 100km of coast** -->
+
+<!-- <br/> -->
+
+<!-- **1 in 10 people live in low-elevation coastal risk zone (<30 ft above sea level)** -->
+<!-- </div> -->
+
+<!-- <IMG STYLE="position:absolute; TOP:160px; LEFT:650px; WIDTH:350px; HEIGHT:500px" SRC="images/florida.png"> -->
+
+<!-- ## Are climate reguess in the near future? -->
+<!-- <hr> -->
+
+<!-- **New Zealand is one of the first countries to propose program for climate refugees** -->
+
+<!-- <br/> -->
+
+<!-- **Pacific Islanders only want refugee visas as a last resort ** -->
+
+<!-- <br/> -->
+
+<!-- **Instead, island communities advocate for climate adaptation, emission reduction, and pathways for legal migration beforehand** -->
+
+<!-- <IMG STYLE="position:absolute; TOP:460px; LEFT:50px; WIDTH:100px; HEIGHT:100px" SRC="images/newzea.png"> -->
+
+<!-- ## Chapter reading -->
+
+<!-- **Information on Invasive species** -->

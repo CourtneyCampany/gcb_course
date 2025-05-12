@@ -1,0 +1,351 @@
+---
+title: "Ecosystem and Biome-Level Responses II"
+output: 
+  ioslides_presentation:
+    css: custom2.css
+    widescreen: true
+    smaller: true
+---
+
+## Large-scale earth system impacts
+<hr>
+**<span style="color:red">Changes across levels are all happening at the same time</span>**
+
+<br/>
+
+**<span style="color:blue">Ecosystem structure</span>: abundance & distribution of species & resources**
+
+<IMG STYLE="position:absolute; TOP:260px; LEFT:100px; WIDTH:900px; HEIGHT:400px" SRC="images/structure.jpeg">
+
+## Large-scale earth system impacts
+<hr>
+
+**<span style="color:red">Changes across levels are all happening at the same time</span>**
+
+<br/>
+
+**<span style="color:blue">Ecosystem structure</span>: abundance & distribution of species & resources**
+
+<div style="float: left; width: 52%;">
+
+<br/>
+
+**<span style="color:blue">Ecosystem function</span>: physical, chemical, & biological processes**
+
+<br/>
+
+**<span style="color:blue">Ecosystem services</span>: processes & products that benefit humans**
+
+<br/>
+
+**Ecosystem services are maximized by properly functioning ecosystems**
+</div>
+
+<IMG STYLE="position:absolute; TOP:300px; LEFT:560px; WIDTH:550px; HEIGHT:300px" SRC="images/functions.png">
+
+## Feedbacks: when a process/system is modified by its own effects
+<hr>
+<br/>
+<br/>
+
+<div style="float: left; width: 49%;">
+
+**<span style="color:red">Positive feedback loops</span>= where response increases  stimulus** 
+
+<br/>
+<br/>
+
+**Common and lead to amplification of climate change and biodiversity loss**
+
+<br/>
+<br/>
+
+**Effects can be on structure and/or function**
+
+<br/>
+<br/>
+
+**Despite the name, this is NOT a good thing**
+
+</div>
+
+<IMG STYLE="position:absolute; TOP:160px; LEFT:550px; WIDTH:500px; HEIGHT:500px" SRC="images/feedback.png"> 
+
+## Feedbacks: when a process/system is modified by its own effects
+<hr>
+<br/>
+<br/>
+<br/>
+<br/>
+
+<div style="float: left; width: 49%;">
+
+**<span style="color:red">Positive feedback loops</span>= where response increases  stimulus** 
+
+<br/>
+<br/>
+
+**Common and lead to amplification of climate change and biodiversity loss**
+
+</div>
+
+<IMG STYLE="position:absolute; TOP:160px; LEFT:550px; WIDTH:500px; HEIGHT:500px" SRC="images/artic.png"> 
+
+## Feedbacks: when a process/system is modified by its own effects
+<hr>
+<br/>
+<br/>
+<br/>
+<br/>
+
+<div style="float: left; width: 49%;">
+
+**<span style="color:red">Positive feedback loops</span>= where response increases  stimulus** 
+
+<br/>
+<br/>
+
+**Common and lead to amplification of climate change and biodiversity loss**
+
+</div>
+
+<IMG STYLE="position:absolute; TOP:160px; LEFT:550px; WIDTH:500px; HEIGHT:500px" SRC="images/bog.png"> 
+
+## Feedbacks: when a process/system is modified by its own effects
+<hr>
+<br/>
+**<span style="color:red">Positive feedback loops</span>: <span style="color:darkorange">Abiotic</span> and biotic feedbacks from deforestation** 
+
+<div style="float: right; width: 45%;">
+
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+
+**Deforestation releases carbon sequestered in trees contributing to global warming. In turn…**
+
+</div>
+
+<IMG STYLE="position:absolute; TOP:240px; LEFT:50px; WIDTH:500px; HEIGHT:350px" SRC="images/forestfire.png"> 
+
+## Feedbacks: when a process/system is modified by its own effects
+<hr>
+<br/>
+
+**<span style="color:red">Positive feedback loops</span>: <span style="color:darkorange">Abiotic</span> and biotic feedbacks from deforestation**
+
+<br/>
+
+**Ecoystem functioning can then be hijacked by positive feedbacks from global change factors**
+
+<IMG STYLE="position:absolute; TOP:380px; LEFT:0px; WIDTH:1100px; HEIGHT:200px" SRC="images/fireeffect.png"> 
+
+## Feedbacks: when a process/system is modified by its own effects
+<hr>
+<br/>
+
+**<span style="color:red">Positive feedback loops</span>: Abiotic and <span style="color:darkorange">biotic</span> feedbacks from deforestation** 
+
+
+<IMG STYLE="position:absolute; TOP:250px; LEFT:50px; WIDTH:500px; HEIGHT:350px" SRC="images/logging.jpg"> 
+
+<div style="float: right; width: 45%;">
+
+<br/>
+<br/>
+
+**Habitat loss has direct *negative* effects like removing organisms but also has *cascading* effects by facilitating invasions, allowing increased access to hunters (over-harvesting), changing fire regimes, etc...**
+
+<br/>
+
+**…particularly true when habitat loss and fragmentation are combined**
+
+</div>
+
+## 
+
+<IMG STYLE="position:absolute; TOP:50px; LEFT:50px; WIDTH:1000px; HEIGHT:600px" SRC="images/logging2.png">
+
+## Feedbacks: when a process/system is modified by its own effects
+<hr>
+
+**<span style="color:red">Positive feedback loops</span>: Abiotic and <span style="color:darkorange">biotic</span> feedbacks from deforestation** 
+
+<IMG STYLE="position:absolute; TOP:240px; LEFT:50px; WIDTH:1000px; HEIGHT:400px" SRC="images/habitatfrag.png">
+
+## Feedbacks: when a process/system is modified by its own effects
+<hr>
+
+**<span style="color:red">Negative feedback loops</span>: works to reduce initial stimulus and return system to normal**
+<br/>
+
+**Exist naturally in biological systems, but not a big component of global change**
+
+<IMG STYLE="position:absolute; TOP:280px; LEFT:00px; WIDTH:1100px; HEIGHT:375px" SRC="images/negativefeed.png">
+
+## Threshold effects
+<hr>
+
+**<span style="color:red">Positive feedbacks and cascading effects can lead to tipping points and ecosystem collapse</span>**
+
+<br/>
+**Which can be reversible, partially reversible, or irreversible**
+
+<IMG STYLE="position:absolute; TOP:260px; LEFT:250px; WIDTH:600px; HEIGHT:440px" SRC="images/tipping.png">
+
+## Threshold effects
+<hr>
+
+**<span style="color:red">Threshold effects can occur at many levels from…</span>**
+
+<IMG STYLE="position:absolute; TOP:240px; LEFT:100px; WIDTH:900px; HEIGHT:400px" SRC="images/threshold.png">
+
+## Tipping points are generally unknown, making restoration hard
+<hr>
+
+**<span style="color:red">Restoration always involves addressing the prior threats </span>**
+
+<IMG STYLE="position:absolute; TOP:240px; LEFT:200px; WIDTH:700px; HEIGHT:400px" SRC="images/cod.png">
+
+## Resilience and restoration
+<hr>
+
+**<span style="color:blue">Many factors contribute to resilience and potential for restoration </span>(use Taking a Closer Look as a study guide and remember the hammer and nail analogy)**
+
+
+<IMG STYLE="position:absolute; TOP:240px; LEFT:150px; WIDTH:800px; HEIGHT:400px" SRC="images/resilence.jpg">
+
+<!-- ## Resilience and restoration -->
+<!-- <hr> -->
+
+<!-- **<span style="color:blue">Many factors contribute to resilience and potential for restoration </span>(use Taking a Closer Look & Chap 4 “Vulnerability” section as a study guide)** -->
+
+<!-- <IMG STYLE="position:absolute; TOP:240px; LEFT:250px; WIDTH:600px; HEIGHT:400px" SRC="images/vulnerable.png"> -->
+
+## Resilience and restoration
+<hr>
+
+**<span style="color:blue">Different elements of vulnerability</span>: The degree to which a species or system is susceptible to adverse effects of global change is a function of:**
+
+<br/>
+<div style="float: left; width: 75%;">
+
+* **<span style="color:darkred">Exposure</span>: Likelihood system will experience a given stressor**
+    + How big & quickly is the change occurring?
+    + Are there lag effects? 
+    + Is the system exposed or buffered?
+
+<br/>
+
+* **<span style="color:darkred">Sensitivity</span>: Degree the system will be impacted by a given stressor**
+    + Is the system fragile or robust?
+    + Are there highly specialized species or obligate interactions?
+
+<br/>
+
+* **<span style="color:darkred">Response</span>: Ability of a system to respond to a given stressor**
+    + Which core responses do species exhibit?
+    + Can communities reorganize into a new stable state?
+
+</div>
+
+<IMG STYLE="position:absolute; TOP:480px; LEFT:870px; WIDTH:200px; HEIGHT:200px" SRC="images/hammer.png">
+
+## Connecting the dots: true interconnectedness
+<hr>
+<br/>
+<br/>
+
+- **<span style="color:darkred">Our</span> <span style="color:darkorange">systems</span> are out of balance**
+    + Earth systems
+    + Our own body systems
+    + Many of our socio-political-cultural systems
+
+<br/>
+<br/>
+<br/>
+<br/>
+
+**Premise that all systems are out of balance in shared ways**
+
+<br/>
+
+**We extract and deplete without giving time and energy to the process of recharge and restoration**
+
+<IMG STYLE="position:absolute; TOP:180px; LEFT:700px; WIDTH:250px; HEIGHT:350px" SRC="images/balance.jpg">
+
+## Connecting the dots: college classrooms
+<hr>
+<br/>
+
+<div style="float: left; width: 70%;">
+
+* **<span style="color:darkred">Higher education has long prioritized:</span>**
+    + Content over context
+    + Facts over wisdom
+    + Competition over cooperation
+    + Grades over reflection
+ 
+<br/>
+
+**The consequence is that the system runs on fear, lack, and depletion and can suck you dry**
+
+<br/>
+
+* **This class design trys to fight this style, but it is not enough...**
+    + you are still pressured, stressed and running on empty
+</div>
+
+<IMG STYLE="position:absolute; TOP:320px; LEFT:820px; WIDTH:250px; HEIGHT:350px" SRC="images/proverb.jpg">
+
+<IMG STYLE="position:absolute; TOP:170px; LEFT:500px; WIDTH:300px; HEIGHT:200px" SRC="images/student.jpg">
+
+## Earth's systems are nested...and vulnerable 
+<hr>
+
+<span style="color:darkred">**Ecological and evolutionary interconnectedness across all nested levels from cellular to planetary**</span>
+
+<br/>
+<br/>
+<br/>
+
+<div style="float: left; width: 50%;">
+
+**Coordinated networked interdependent systems**
+
+<br/>
+
+**Resulting from deep  symbiosis + co-evolution**
+</div>
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:625px; WIDTH:400px; HEIGHT:450px" SRC="images/lungs.jpg">
+
+<!-- ## Nested ecosystems -->
+<!-- <hr> -->
+
+<!-- <IMG STYLE="position:absolute; TOP:160px; LEFT:200px; WIDTH:700px; HEIGHT:500px" SRC="images/nest2.jpg"> -->
+
+## Open disccussion: Is there a solution for our disconnectedness?
+<hr>
+<br/>
+
+<div style="float: left; width: 60%;">
+
+**What would an alternate model be for <span style="color:darkred">resilience</span> and <span style="color:darkred">restoration</span>?**
+
+<br/>
+
+**How could we create a new system (on both visionary and practical levels) that prioritizes the values and approaches that we will need to create a more life-sustaining society?**
+
+<br/>
+
+**How could models like these inform our work in other contexts?**
+
+<br/>
+
+**Find an article or come up with a solution, post to Brightspace**
+</div>
+
+<IMG STYLE="position:absolute; TOP:220px; LEFT:650px; WIDTH:350px; HEIGHT:350px" SRC="images/world.jpg">
